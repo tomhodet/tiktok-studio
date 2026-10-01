@@ -1,0 +1,38 @@
+name: verif
+# Vérification finale : la voix montée (chiffrée) est déchiffrée, retranscrite phrase par phrase, comparée au script.
+on:
+  push:
+    branches: [main]
+    paths: ["tiktok/*/verif/voix_montee.flac.enc"]
+permissions:
+  contents: write
+concurrency: verif
+jobs:
+  verif:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Installation
+        run: pip install -q faster-whisper librosa soundfile num2words 2>&1 | tail -2
+      - name: Vérification
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          for f in tiktok/*/verif/voix_montee.flac.enc; do
+            ep=$(dirname $(dirname "$f"))
+            bash tiktok/outils/coffre.sh dechiffrer "$ep/verif"
+            python tiktok/outils/verif_voix.py "$ep" 2>&1 | tee "$ep/verif/journal.txt"
+          done
+      - name: Publier
+        if: always()
+        run: |
+          git config user.name "tiktok-studio"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A tiktok
+          git commit -q -m "Vérification finale des voix montées" || exit 0
+          for i in $(seq 1 12); do git pull -q --rebase && git push -q && exit 0; git rebase --abort 2>/dev/null; sleep $((RANDOM % 15 + 4)); done
+          exit 1

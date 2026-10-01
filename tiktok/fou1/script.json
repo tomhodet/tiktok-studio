@@ -1,0 +1,118 @@
+{
+ "serie": "",
+ "episode": 1,
+ "voix_role": "fou",
+ "plein": true,
+ "fin": "Envoie-la à quelqu’un qu’on a déjà traité de fou.",
+ "tempo_voix": 1.0,
+ "lueurs": [
+  1,
+  5,
+  10
+ ],
+ "graine_musique": 53,
+ "fond": {
+  "video": "tiktok/fonds/rendus/fond_fou.mp4",
+  "cadrage": 0.0
+ },
+ "phrases": [
+  {
+   "n": 1,
+   "affiche": "Tu veux savoir ce qui est vraiment *fou* ? Ce n'est pas moi.",
+   "voix": "Tu veux savoir ce qui est vraiment fou ? Ce n'est pas moi.",
+   "pause": 1.8,
+   "plan": "fond"
+  },
+  {
+   "n": 15,
+   "affiche": "Passer cinq jours sur sept à construire le rêve de quelqu'un d'autre.",
+   "voix": "Passer cinq jours sur sept à construire le rêve de quelqu'un d'autre.",
+   "pause": 1.4,
+   "plan": "fond"
+  },
+  {
+   "n": 16,
+   "affiche": "Attendre la retraite pour commencer à vivre.",
+   "voix": "Attendre la retraite pour commencer à vivre.",
+   "pause": 1.4,
+   "plan": "fond"
+  },
+  {
+   "n": 17,
+   "affiche": "Avoir peur d'échouer, mais pas de t'ennuyer toute ta vie.",
+   "voix": "Avoir peur d'échouer, mais pas de t'ennuyer toute ta vie.",
+   "pause": 1.7,
+   "plan": "fond"
+  },
+  {
+   "n": 5,
+   "affiche": "Et c'est moi qu'on appelle le *fou*.",
+   "voix": "Et c'est moi qu'on appelle le fou.",
+   "pause": 2.0,
+   "plan": "fond"
+  },
+  {
+   "n": 6,
+   "affiche": "Moi, j'ai essayé. J'ai échoué devant tout le monde. Ils ont ri.",
+   "voix": "Moi, j'ai essayé. J'ai échoué devant tout le monde. Ils ont ri.",
+   "pause": 1.4,
+   "plan": "fond"
+  },
+  {
+   "n": 7,
+   "affiche": "Aujourd'hui, ils me demandent comment j'ai fait.",
+   "voix": "Aujourd'hui, ils me demandent comment j'ai fait.",
+   "pause": 1.7,
+   "plan": "fond"
+  },
+  {
+   "n": 8,
+   "affiche": "Tu sais ce que j'ai compris ?",
+   "voix": "Tu sais ce que j'ai compris ?",
+   "pause": 1.5,
+   "plan": "fond"
+  },
+  {
+   "n": 9,
+   "affiche": "Ceux qui rient ne tentent *jamais rien*.",
+   "voix": "Ceux qui rient ne tentent jamais rien.",
+   "pause": 1.7,
+   "plan": "fond"
+  },
+  {
+   "n": 10,
+   "affiche": "Les gens raisonnables s'adaptent au monde. Les fous le *changent*.",
+   "voix": "Les gens raisonnables s'adaptent au monde. Les fous le changent.",
+   "pause": 1.8,
+   "plan": "fond"
+  },
+  {
+   "n": 11,
+   "affiche": "Alors arrête d'attendre d'être prêt. Personne ne l'est jamais.",
+   "voix": "Alors arrête d'attendre d'être prêt. Personne ne l'est jamais.",
+   "pause": 1.4,
+   "plan": "fond"
+  },
+  {
+   "n": 12,
+   "affiche": "Commence petit. Commence mal. Mais commence *aujourd'hui*.",
+   "voix": "Commence petit. Commence mal. Mais commence aujourd'hui.",
+   "pause": 1.7,
+   "plan": "fond"
+  },
+  {
+   "n": 13,
+   "affiche": "Et le jour où on te traitera de fou, souris.",
+   "voix": "Et le jour où on te traitera de fou, souris.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 14,
+   "affiche": "Ça voudra dire que tu as enfin *commencé*.",
+   "voix": "Ça voudra dire que tu as enfin commencé.",
+   "pause": 0.0,
+   "plan": "fond"
+  }
+ ]
+}

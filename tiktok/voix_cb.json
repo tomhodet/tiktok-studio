@@ -1,0 +1,506 @@
+{
+ "taches": [
+  {
+   "nom": "mere1_r1",
+   "episode": "tiktok/mere1",
+   "phrases": "toutes",
+   "refs": [
+    "mere_A",
+    "mere_B"
+   ],
+   "exag": [
+    0.5,
+    0.8
+   ],
+   "cfg": [
+    0.3,
+    0.5
+   ],
+   "graines": [
+    1
+   ],
+   "lots": 4,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere1_r1",
+   "episode": "tiktok/grandpere1",
+   "phrases": "toutes",
+   "refs": [
+    "grand_pere_A",
+    "grand_pere_B"
+   ],
+   "exag": [
+    0.5,
+    0.8
+   ],
+   "cfg": [
+    0.3,
+    0.5
+   ],
+   "graines": [
+    1
+   ],
+   "lots": 4,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "mere1_r2",
+   "episode": "tiktok/mere1",
+   "phrases": "toutes",
+   "refs": [
+    "mere_A"
+   ],
+   "exag": [
+    0.8
+   ],
+   "cfg": [
+    0.5
+   ],
+   "graines": [
+    2,
+    3,
+    4
+   ],
+   "lots": 3,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "mere1_r2b",
+   "episode": "tiktok/mere1",
+   "phrases": "toutes",
+   "refs": [
+    "mere_A"
+   ],
+   "exag": [
+    0.95
+   ],
+   "cfg": [
+    0.5
+   ],
+   "graines": [
+    1,
+    2
+   ],
+   "lots": 2,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere1_r2",
+   "episode": "tiktok/grandpere1",
+   "phrases": "toutes",
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45,
+    0.65
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2
+   ],
+   "lots": 4,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "mere1_r3",
+   "episode": "tiktok/mere1",
+   "phrases": [
+    12,
+    13
+   ],
+   "refs": [
+    "mere_A"
+   ],
+   "exag": [
+    0.8
+   ],
+   "cfg": [
+    0.5
+   ],
+   "graines": [
+    1
+   ],
+   "lots": 1,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "mere1_r4",
+   "episode": "tiktok/mere1",
+   "phrases": [
+    13,
+    3
+   ],
+   "refs": [
+    "mere_A"
+   ],
+   "exag": [
+    0.8
+   ],
+   "cfg": [
+    0.5
+   ],
+   "graines": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lots": 1,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere1_r3",
+   "episode": "tiktok/grandpere1",
+   "phrases": [
+    1,
+    3,
+    4,
+    5,
+    7,
+    9
+   ],
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "lots": 3,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "mere1_r5",
+   "episode": "tiktok/mere1",
+   "phrases": [
+    14
+   ],
+   "refs": [
+    "mere_A"
+   ],
+   "exag": [
+    0.8
+   ],
+   "cfg": [
+    0.5
+   ],
+   "graines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "lots": 2,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere2_r1",
+   "episode": "tiktok/grandpere2",
+   "phrases": "toutes",
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lots": 5,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere2_r2",
+   "episode": "tiktok/grandpere2",
+   "phrases": [
+    14
+   ],
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "lots": 2,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere2_r2",
+   "episode": "tiktok/grandpere2",
+   "phrases": [
+    14
+   ],
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "lots": 2,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere2_r3",
+   "episode": "tiktok/grandpere2",
+   "phrases": [
+    8,
+    7,
+    13,
+    6
+   ],
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "lots": 2,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandpere2_r4",
+   "episode": "tiktok/grandpere2",
+   "phrases": [
+    15
+   ],
+   "refs": [
+    "grand_pere_C"
+   ],
+   "exag": [
+    0.45
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "lots": 2,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandmere1_r1",
+   "episode": "tiktok/grandmere1",
+   "phrases": "toutes",
+   "refs": [
+    "grand_mere_A"
+   ],
+   "exag": [
+    0.45,
+    0.65
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3
+   ],
+   "lots": 6,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "grandmere1_r2",
+   "episode": "tiktok/grandmere1",
+   "phrases": [
+    1,
+    13,
+    6
+   ],
+   "refs": [
+    "grand_mere_A",
+    "grand_mere_B"
+   ],
+   "exag": [
+    0.65
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "lots": 4,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "fou1_r1",
+   "episode": "tiktok/fou1",
+   "phrases": "toutes",
+   "refs": [
+    "fou_A",
+    "fou_B"
+   ],
+   "exag": [
+    0.6
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3
+   ],
+   "lots": 5,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "pere1_r1",
+   "episode": "tiktok/pere1",
+   "phrases": "toutes",
+   "refs": [
+    "pere_A",
+    "pere_B"
+   ],
+   "exag": [
+    0.5
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3
+   ],
+   "lots": 5,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "fou1_r2",
+   "episode": "tiktok/fou1",
+   "phrases": [
+    15,
+    16,
+    17,
+    6,
+    7,
+    8,
+    13
+   ],
+   "refs": [
+    "fou_A"
+   ],
+   "exag": [
+    0.6
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "lots": 6,
+   "whisper": "medium",
+   "actif": false
+  },
+  {
+   "nom": "pere1_r2",
+   "episode": "tiktok/pere1",
+   "phrases": "toutes",
+   "refs": [
+    "pere_C"
+   ],
+   "exag": [
+    0.5
+   ],
+   "cfg": [
+    0.4
+   ],
+   "graines": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "lots": 5,
+   "whisper": "medium",
+   "actif": false
+  }
+ ]
+}

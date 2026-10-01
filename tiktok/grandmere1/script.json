@@ -1,0 +1,110 @@
+{
+ "serie": "Ce que ta grand-mère ne te dira jamais",
+ "episode": 1,
+ "voix_role": "grand_mere",
+ "fin": "Envoie-la à quelqu’un qui a peur de ce qu’on va dire.",
+ "tempo_voix": 1.0,
+ "lueurs": [
+  1,
+  7,
+  13
+ ],
+ "graine_musique": 47,
+ "fond": {
+  "video": "tiktok/fonds/rendus/fond_vieille_femme_nb.mp4",
+  "cadrage": 0.3
+ },
+ "phrases": [
+  {
+   "n": 1,
+   "affiche": "J'ai passé toute ma vie à avoir peur du regard des autres. Et personne ne me *regardait*.",
+   "voix": "J'ai passé toute ma vie à avoir peur du regard des autres. Et personne ne me regardait.",
+   "pause": 1.4,
+   "plan": "fond"
+  },
+  {
+   "n": 2,
+   "affiche": "Je n'ai jamais mis cette robe rouge, parce que ça ne se faisait pas.",
+   "voix": "Je n'ai jamais mis cette robe rouge, parce que ça ne se faisait pas.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 3,
+   "affiche": "Je n'ai pas chanté au mariage de ma sœur, parce qu'on aurait ri.",
+   "voix": "Je n'ai pas chanté au mariage de ma sœur, parce qu'on aurait ri.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 4,
+   "affiche": "J'ai dit non à Paris, parce que ma mère trouvait ça trop loin.",
+   "voix": "J'ai dit non à Paris, parce que ma mère trouvait ça trop loin.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 5,
+   "affiche": "J'ai passé ma vie à demander la permission. À des gens qui ne pensaient même pas à moi.",
+   "voix": "J'ai passé ma vie à demander la permission. À des gens qui ne pensaient même pas à moi.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 6,
+   "affiche": "Aujourd'hui, la moitié d'entre eux ne sont plus là.",
+   "voix": "Aujourd'hui, la moitié d'entre eux ne sont plus là.",
+   "pause": 1.2,
+   "plan": "fond"
+  },
+  {
+   "n": 7,
+   "affiche": "Et la robe rouge est toujours dans l'armoire. Avec l'*étiquette*.",
+   "voix": "Et la robe rouge est toujours dans l'armoire. Avec l'étiquette.",
+   "pause": 1.5,
+   "plan": "fond"
+  },
+  {
+   "n": 8,
+   "affiche": "Alors écoute ta grand-mère. Les gens parleront, de toute façon.",
+   "voix": "Alors écoute ta grand-mère. Les gens parleront, de toute façon.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 9,
+   "affiche": "Si tu échoues, ils parleront. Si tu réussis, ils parleront aussi.",
+   "voix": "Si tu échoues, ils parleront. Si tu réussis, ils parleront aussi.",
+   "pause": 1.1,
+   "plan": "fond"
+  },
+  {
+   "n": 10,
+   "affiche": "Alors autant qu'ils parlent de quelqu'un qui a *vécu*.",
+   "voix": "Alors autant qu'ils parlent de quelqu'un qui a vécu.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 11,
+   "affiche": "Mets la robe. Chante trop fort. Prends le train.",
+   "voix": "Mets la robe. Chante trop fort. Prends le train.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 12,
+   "affiche": "À mon âge, on ne regrette pas d'avoir été ridicule.",
+   "voix": "À mon âge, on ne regrette pas d'avoir été ridicule.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 13,
+   "affiche": "On regrette de ne pas avoir *osé*.",
+   "voix": "On regrette de ne pas avoir osé.",
+   "pause": 0.0,
+   "plan": "fond"
+  }
+ ]
+}

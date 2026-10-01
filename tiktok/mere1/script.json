@@ -1,0 +1,234 @@
+{
+ "serie": "Ce que ta mère ne te dira jamais",
+ "episode": 1,
+ "voix_role": "mere",
+ "fin": "Envoie-lui cette vidéo.",
+ "tempo_voix": 1.0,
+ "lueurs": [
+  3,
+  9,
+  13
+ ],
+ "graine_musique": 11,
+ "phrases": [
+  {
+   "n": 1,
+   "affiche": "La première nuit, je ne t'ai pas quitté des yeux.",
+   "voix": "La première nuit, je ne t'ai pas quitté des yeux.",
+   "pause": 0.45,
+   "plan": "p01"
+  },
+  {
+   "n": 2,
+   "affiche": "J'avais peur que tu arrêtes de *respirer*.",
+   "voix": "J'avais peur que tu arrêtes de respirer.",
+   "pause": 1.0,
+   "plan": "p02"
+  },
+  {
+   "n": 3,
+   "affiche": "Quand je disais « je n'ai pas faim », il n'y en avait simplement pas assez pour deux.",
+   "voix": "Quand je disais, je n'ai pas faim, il n'y en avait simplement pas assez pour deux.",
+   "pause": 1.0,
+   "plan": "p03"
+  },
+  {
+   "n": 14,
+   "affiche": "J'avais des *rêves*, moi aussi. Je les ai rangés dans un tiroir, pour que les tiens puissent grandir.",
+   "voix": "J'avais des rêves, moi aussi. Je les ai rangés dans un tiroir, pour que les tiens puissent grandir.",
+   "pause": 1.0,
+   "plan": "p12"
+  },
+  {
+   "n": 4,
+   "affiche": "Certains soirs, je riais avec toi. Puis j'allais pleurer dans la voiture.",
+   "voix": "Certains soirs, je riais avec toi. Puis j'allais pleurer dans la voiture.",
+   "pause": 1.1,
+   "plan": [
+    "p04a",
+    "p04b"
+   ],
+   "coupes": [
+    "puis"
+   ]
+  },
+  {
+   "n": 5,
+   "affiche": "Personne ne m'a appris à être mère. J'ai appris *sur toi*, en me trompant souvent.",
+   "voix": "Personne ne m'a appris à être mère. J'ai appris sur toi, en me trompant souvent.",
+   "pause": 1.0,
+   "plan": "p05"
+  },
+  {
+   "n": 6,
+   "affiche": "Le soir où tu as claqué la porte, je n'ai pas dormi. J'ai gardé ton assiette au chaud.",
+   "voix": "Le soir où tu as claqué la porte, je n'ai pas dormi. J'ai gardé ton assiette au chaud.",
+   "pause": 1.1,
+   "plan": "p06"
+  },
+  {
+   "n": 7,
+   "affiche": "Le jour où tu es parti vivre ta vie, je t'ai souri.",
+   "voix": "Le jour où tu es parti vivre ta vie, je t'ai souri.",
+   "pause": 0.5,
+   "plan": "p07"
+  },
+  {
+   "n": 8,
+   "affiche": "Puis j'ai fermé la porte de ta chambre, et je me suis assise sur ton lit.",
+   "voix": "Puis j'ai fermé la porte de ta chambre, et je me suis assise sur ton lit.",
+   "pause": 1.2,
+   "plan": "p08"
+  },
+  {
+   "n": 13,
+   "affiche": "Je ne te l'ai jamais dit, mais tu es ce que j'ai fait de plus *beau*.",
+   "voix": "Je ne te l'ai jamais dit, mais tu es ce que j'ai fait de plus beau.",
+   "pause": 0.9,
+   "plan": "p13"
+  },
+  {
+   "n": 9,
+   "affiche": "Je ne te demande pas de revenir. Je te demande juste de ne pas *m'oublier*.",
+   "voix": "Je ne te demande pas de revenir. Je te demande juste de ne pas m'oublier.",
+   "pause": 1.0,
+   "plan": "p09"
+  },
+  {
+   "n": 10,
+   "affiche": "Un jour, tu composeras mon numéro, et plus personne ne répondra.",
+   "voix": "Un jour, tu composeras mon numéro, et plus personne ne répondra.",
+   "pause": 1.4,
+   "plan": [
+    "p10a",
+    "p10b"
+   ],
+   "coupes": [
+    "et"
+   ]
+  },
+  {
+   "n": 11,
+   "affiche": "Alors aujourd'hui, pendant que je suis encore là, *appelle ta mère*.",
+   "voix": "Alors aujourd'hui, pendant que je suis encore là, appelle ta mère.",
+   "pause": 0.0,
+   "plan": "p11"
+  }
+ ],
+ "plans": {
+  "p01": {
+   "pexels": 8909651,
+   "auteur": "https://kaboompics.com/",
+   "url": "https://videos.pexels.com/video-files/8909651/8909651-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p02": {
+   "pexels": 8909724,
+   "auteur": "https://kaboompics.com/",
+   "url": "https://videos.pexels.com/video-files/8909724/8909724-hd_1080_2048_25fps.mp4",
+   "secours": []
+  },
+  "p03": {
+   "pexels": 3198244,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/3198244/3198244-hd_1080_1920_25fps.mp4",
+   "secours": []
+  },
+  "p04a": {
+   "pexels": 8035411,
+   "auteur": "Kampus Production",
+   "url": "https://videos.pexels.com/video-files/8035411/8035411-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p04b": {
+   "pexels": 6670488,
+   "auteur": "RDNE Stock project",
+   "url": "https://videos.pexels.com/video-files/6670488/6670488-hd_1080_1920_24fps.mp4",
+   "secours": []
+  },
+  "p05": {
+   "pexels": 6264268,
+   "auteur": "Jep Gambardella",
+   "url": "https://videos.pexels.com/video-files/6264268/6264268-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p06": {
+   "pexels": 7279743,
+   "auteur": "MART  PRODUCTION",
+   "url": "https://videos.pexels.com/video-files/7279743/7279743-hd_1080_1920_25fps.mp4",
+   "secours": []
+  },
+  "p07": {
+   "pexels": 9485519,
+   "auteur": "Ron Lach",
+   "url": "https://videos.pexels.com/video-files/9485519/9485519-hd_1080_2048_25fps.mp4",
+   "secours": []
+  },
+  "p08": {
+   "pexels": 8862325,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/8862325/8862325-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p09": {
+   "pexels": 6851676,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/6851676/6851676-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p10a": {
+   "pexels": 6183990,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/6183990/6183990-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p10b": {
+   "pexels": 7347890,
+   "auteur": "MART  PRODUCTION",
+   "url": "https://videos.pexels.com/video-files/7347890/7347890-hd_1080_1920_25fps.mp4",
+   "secours": []
+  },
+  "p11": {
+   "pexels": 9485527,
+   "auteur": "Ron Lach",
+   "url": "https://videos.pexels.com/video-files/9485527/9485527-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p12": {
+   "pexels": 10302167,
+   "auteur": "Ron Lach",
+   "url": "https://videos.pexels.com/video-files/10302167/10302167-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p13": {
+   "pexels": 6849024,
+   "auteur": "RDNE Stock project",
+   "url": "https://videos.pexels.com/video-files/6849024/6849024-hd_1920_1080_24fps.mp4",
+   "secours": []
+  }
+ },
+ "reglages": {
+  "p02": {
+   "cadrage": 0.75
+  },
+  "p03": {
+   "cadrage": 0.3
+  },
+  "p07": {
+   "cadrage": 0.25
+  },
+  "p08": {
+   "cadrage": 0.05
+  },
+  "p10a": {
+   "entree": 10.0
+  },
+  "p06": {
+   "cadrage": 0.45
+  },
+  "p13": {
+   "entree": 9.0,
+   "cadrage": 0.3
+  }
+ }
+}

@@ -1,0 +1,62 @@
+name: voix
+# Prises de voix (Chatterbox) : références déchiffrées le temps du calcul, prises chiffrées avant publication.
+on:
+  push:
+    branches: [main]
+    paths: ["tiktok/voix_cb.json"]
+permissions:
+  contents: write
+concurrency: voix
+jobs:
+  liste:
+    runs-on: ubuntu-latest
+    outputs:
+      lots: ${{ steps.l.outputs.lots }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: l
+        run: |
+          python3 -c "import json; s = json.load(open('tiktok/voix_cb.json')); print('lots=' + json.dumps([t['nom'] + ':' + str(k) for t in s['taches'] if t.get('actif', True) for k in range(t['lots'])]))" >> "$GITHUB_OUTPUT"
+  voix:
+    needs: liste
+    if: needs.liste.outputs.lots != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        lot: ${{ fromJSON(needs.liste.outputs.lots) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Installation
+        run: |
+          python -m venv /tmp/tts
+          /tmp/tts/bin/pip install -q --index-url https://download.pytorch.org/whl/cpu --extra-index-url https://pypi.org/simple chatterbox-tts 2>&1 | tail -3
+          /tmp/tts/bin/pip install -q faster-whisper soundfile 2>&1 | tail -3
+      - name: Références déchiffrées
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: bash tiktok/outils/coffre.sh dechiffrer tiktok/voix_ref
+      - name: Synthèse et contrôle
+        run: |
+          L="${{ matrix.lot }}"
+          /tmp/tts/bin/python tiktok/outils/voix_cb.py "${L%%:*}" "${L##*:}" 2>&1 | tee /tmp/journal.txt
+      - name: Prises chiffrées et publiées
+        if: always()
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          L="${{ matrix.lot }}"
+          for d in tiktok/*/voix_cb; do [ -d "$d" ] && bash tiktok/outils/coffre.sh chiffrer "$d"; done
+          mkdir -p tiktok/journaux && tail -60 /tmp/journal.txt > "tiktok/journaux/voix_${L%%:*}_${L##*:}.txt" || true
+          git config user.name "tiktok-studio"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A tiktok
+          git commit -q -m "Voix : prises ${L}" || exit 0
+          for i in $(seq 1 12); do git pull -q --rebase && git push -q && exit 0; git rebase --abort 2>/dev/null; sleep $((RANDOM % 15 + 4)); done
+          git push -q -f origin "HEAD:refs/heads/secours-${L%%:*}-${L##*:}" && exit 0
+          exit 1

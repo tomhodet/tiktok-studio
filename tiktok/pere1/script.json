@@ -1,0 +1,110 @@
+{
+ "serie": "Ce que ton père ne te dira jamais",
+ "episode": 1,
+ "voix_role": "pere",
+ "fin": "Envoie-la à ton père. Il comprendra.",
+ "tempo_voix": 1.0,
+ "lueurs": [
+  1,
+  7,
+  13
+ ],
+ "graine_musique": 61,
+ "phrases": [
+  {
+   "n": 1,
+   "affiche": "Je ne t'ai jamais dit que j'étais *fier* de toi. Ce n'est pas parce que je ne l'étais pas.",
+   "voix": "Je ne t'ai jamais dit que j'étais fier de toi. Ce n'est pas parce que je ne l'étais pas.",
+   "pause": 1.48,
+   "plan": "fond"
+  },
+  {
+   "n": 2,
+   "affiche": "Mon père ne me l'a jamais dit non plus. Personne ne m'avait appris.",
+   "voix": "Mon père ne me l'a jamais dit non plus. Personne ne m'avait appris.",
+   "pause": 1.28,
+   "plan": "fond"
+  },
+  {
+   "n": 3,
+   "affiche": "Alors j'ai été dur avec toi. Parce que le monde le serait encore plus.",
+   "voix": "Alors j'ai été dur avec toi. Parce que le monde le serait encore plus.",
+   "pause": 1.38,
+   "plan": "fond"
+  },
+  {
+   "n": 4,
+   "affiche": "Quand tu tombais de vélo, j'avais envie de courir vers toi.",
+   "voix": "Quand tu tombais de vélo, j'avais envie de courir vers toi.",
+   "pause": 0.78,
+   "plan": "fond"
+  },
+  {
+   "n": 5,
+   "affiche": "Je restais assis. Et je serrais les poings.",
+   "voix": "Je restais assis. Et je serrais les poings.",
+   "pause": 1.48,
+   "plan": "fond"
+  },
+  {
+   "n": 6,
+   "affiche": "Il fallait que tu apprennes à te relever seul. Je ne serais pas toujours là.",
+   "voix": "Il fallait que tu apprennes à te relever seul. Je ne serais pas toujours là.",
+   "pause": 1.48,
+   "plan": "fond"
+  },
+  {
+   "n": 7,
+   "affiche": "Je ne savais pas dire *je t'aime*.",
+   "voix": "Je ne savais pas dire je t'aime.",
+   "pause": 1.08,
+   "plan": "fond"
+  },
+  {
+   "n": 8,
+   "affiche": "Alors je vérifiais l'huile de ta voiture. Je réparais ton vélo.",
+   "voix": "Alors je vérifiais l'huile de ta voiture. Je réparais ton vélo.",
+   "pause": 1.08,
+   "plan": "fond"
+  },
+  {
+   "n": 9,
+   "affiche": "Je venais te chercher à trois heures du matin, sans poser de questions.",
+   "voix": "Je venais te chercher à trois heures du matin, sans poser de questions.",
+   "pause": 1.38,
+   "plan": "fond"
+  },
+  {
+   "n": 10,
+   "affiche": "C'était ma façon de le *dire*.",
+   "voix": "C'était ma façon de le dire.",
+   "pause": 1.58,
+   "plan": "fond"
+  },
+  {
+   "n": 11,
+   "affiche": "Aujourd'hui, je te regarde, et je vois tout ce que je n'ai pas réussi à être.",
+   "voix": "Aujourd'hui, je te regarde, et je vois tout ce que je n'ai pas réussi à être.",
+   "pause": 1.48,
+   "plan": "fond"
+  },
+  {
+   "n": 12,
+   "affiche": "Alors je vais le dire une fois. Maladroitement.",
+   "voix": "Alors je vais le dire une fois. Maladroitement.",
+   "pause": 1.18,
+   "plan": "fond"
+  },
+  {
+   "n": 13,
+   "affiche": "Je suis *fier de toi*. Je l'ai toujours été.",
+   "voix": "Je suis fier de toi. Je l'ai toujours été.",
+   "pause": 0.0,
+   "plan": "fond"
+  }
+ ],
+ "fond": {
+  "video": "tiktok/fonds/rendus/fond_pere_98.mp4",
+  "cadrage": 0.0
+ }
+}

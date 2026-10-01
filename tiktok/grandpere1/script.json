@@ -1,0 +1,206 @@
+{
+ "serie": "Ce que ton grand-père ne te dira jamais",
+ "episode": 1,
+ "voix_role": "grand_pere",
+ "fin": "Envoie cette vidéo à quelqu’un que tu aimes.",
+ "tempo_voix": 1.0,
+ "lueurs": [
+  3,
+  6,
+  11
+ ],
+ "graine_musique": 23,
+ "phrases": [
+  {
+   "n": 1,
+   "affiche": "J'ai quatre-vingts ans. Et j'ai passé ma vie à croire que j'avais le *temps*.",
+   "voix": "J'ai quatre-vingts ans. Et j'ai passé ma vie à croire que j'avais le temps.",
+   "pause": 1.13,
+   "plan": "p01"
+  },
+  {
+   "n": 2,
+   "affiche": "Je travaillais six jours sur sept. Je me disais : plus tard, je profiterai.",
+   "voix": "Je travaillais six jours sur sept. Je me disais, plus tard, je profiterai.",
+   "pause": 1.13,
+   "plan": "p02"
+  },
+  {
+   "n": 3,
+   "affiche": "Ton père avait ton âge quand j'ai compris que plus tard, c'était déjà *passé*.",
+   "voix": "Ton père avait ton âge quand j'ai compris que plus tard, c'était déjà passé.",
+   "pause": 1.33,
+   "plan": "p03"
+  },
+  {
+   "n": 4,
+   "affiche": "Je n'étais pas là pour ses matchs. J'envoyais de l'argent. Je croyais que ça suffisait.",
+   "voix": "Je n'étais pas là pour ses matchs. J'envoyais de l'argent. Je croyais que ça suffisait.",
+   "pause": 1.13,
+   "plan": "p04"
+  },
+  {
+   "n": 5,
+   "affiche": "On ne regrette jamais l'argent qu'on n'a pas gagné. On regrette les dîners où on n'était pas *assis*.",
+   "voix": "On ne regrette jamais l'argent qu'on n'a pas gagné. On regrette les dîners où on n'était pas assis.",
+   "pause": 1.33,
+   "plan": "p05"
+  },
+  {
+   "n": 6,
+   "affiche": "Ta grand-mère me l'a répété toute sa vie. Je l'ai compris le jour où elle est partie.",
+   "voix": "Ta grand-mère me l'a répété toute sa vie. Je l'ai compris le jour où elle est partie.",
+   "pause": 1.43,
+   "plan": "p06"
+  },
+  {
+   "n": 7,
+   "affiche": "Alors écoute un vieil homme. Juste une fois.",
+   "voix": "Alors écoute un vieil homme. Juste une fois.",
+   "pause": 0.93,
+   "plan": "p07"
+  },
+  {
+   "n": 8,
+   "affiche": "Travaille dur, oui. Mais ne rate jamais les gens que tu aimes.",
+   "voix": "Travaille dur, oui. Mais ne rate jamais les gens que tu aimes.",
+   "pause": 1.13,
+   "plan": "p08"
+  },
+  {
+   "n": 9,
+   "affiche": "Ta santé, ta parole, ta famille. Tout le reste se *rachète*.",
+   "voix": "Ta santé, ta parole, ta famille. Tout le reste se rachète.",
+   "pause": 1.33,
+   "plan": "p09"
+  },
+  {
+   "n": 10,
+   "affiche": "Moi, il me reste quelques hivers. Toi, tu as encore tous tes étés.",
+   "voix": "Moi, il me reste quelques hivers. Toi, tu as encore tous tes étés.",
+   "pause": 1.53,
+   "plan": [
+    "p10a",
+    "p10b"
+   ],
+   "coupes": [
+    "toi"
+   ]
+  },
+  {
+   "n": 11,
+   "affiche": "Alors ce soir, pose ton téléphone. Et va dire à quelqu'un que tu l'*aimes*.",
+   "voix": "Alors ce soir, pose ton téléphone. Et va dire à quelqu'un que tu l'aimes.",
+   "pause": 0.0,
+   "plan": [
+    "p11a",
+    "p11b"
+   ],
+   "coupes": [
+    "et"
+   ]
+  }
+ ],
+ "plans": {
+  "p01": {
+   "pexels": 8087805,
+   "auteur": "Yaroslav Shuraev",
+   "url": "https://videos.pexels.com/video-files/8087805/8087805-hd_2048_1080_24fps.mp4",
+   "secours": []
+  },
+  "p02": {
+   "pexels": 6944083,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/6944083/6944083-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p03": {
+   "pexels": 8057699,
+   "auteur": "Pavel Danilyuk",
+   "url": "https://videos.pexels.com/video-files/8057699/8057699-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p04": {
+   "pexels": 8938339,
+   "auteur": "Kampus Production",
+   "url": "https://videos.pexels.com/video-files/8938339/8938339-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p05": {
+   "pexels": 5814427,
+   "auteur": "Tima Miroshnichenko",
+   "url": "https://videos.pexels.com/video-files/5814427/5814427-hd_1080_1920_25fps.mp4",
+   "secours": []
+  },
+  "p06": {
+   "pexels": 10496256,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/10496256/10496256-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p07": {
+   "pexels": 8860239,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/8860239/8860239-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p08": {
+   "pexels": 7844320,
+   "auteur": "Kampus Production",
+   "url": "https://videos.pexels.com/video-files/7844320/7844320-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p09": {
+   "pexels": 8848806,
+   "auteur": "cottonbro studio",
+   "url": "https://videos.pexels.com/video-files/8848806/8848806-hd_2048_1080_25fps.mp4",
+   "secours": []
+  },
+  "p10a": {
+   "pexels": 31246051,
+   "auteur": "Efrem  Efre",
+   "url": "https://videos.pexels.com/video-files/31246051/13345319_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p10b": {
+   "pexels": 15989736,
+   "auteur": "Vadim Starling",
+   "url": "https://videos.pexels.com/video-files/15989736/15989736-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p11a": {
+   "pexels": 6611948,
+   "auteur": "Tima Miroshnichenko",
+   "url": "https://videos.pexels.com/video-files/6611948/6611948-hd_1920_1080_25fps.mp4",
+   "secours": []
+  },
+  "p11b": {
+   "pexels": 7251365,
+   "auteur": "Cedric Fauntleroy",
+   "url": "https://videos.pexels.com/video-files/7251365/7251365-hd_1080_1920_25fps.mp4",
+   "secours": []
+  }
+ },
+ "reglages": {
+  "p01": {
+   "cadrage": 0.35
+  },
+  "p03": {
+   "cadrage": 0.2,
+   "entree": 6.0
+  },
+  "p04": {
+   "entree": 4.0
+  },
+  "p05": {
+   "cadrage": 0.6
+  },
+  "p06": {
+   "cadrage": 0.45
+  },
+  "p11b": {
+   "entree": 4.0,
+   "cadrage": 0.6
+  }
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "serie": "Ce que ton grand-père ne te dira jamais",
+ "episode": 2,
+ "voix_role": "grand_pere",
+ "fin": "Envoie-la à quelqu’un qui remet tout à plus tard.",
+ "tempo_voix": 1.0,
+ "lueurs": [
+  1,
+  7,
+  12
+ ],
+ "graine_musique": 31,
+ "fond": {
+  "video": "tiktok/fonds/rendus/fond_vieil_homme_nb.mp4",
+  "cadrage": 0.38
+ },
+ "phrases": [
+  {
+   "n": 14,
+   "affiche": "Soixante ans, ça paraît une éternité. Soixante étés, ça passe en un *souffle*.",
+   "voix": "Soixante ans, ça paraît une éternité. Soixante étés, ça passe en un souffle.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 2,
+   "affiche": "Soixante fois la mer, les longues soirées, les rires dehors.",
+   "voix": "Soixante fois la mer, les longues soirées, les rires dehors.",
+   "pause": 0.9,
+   "plan": "fond"
+  },
+  {
+   "n": 3,
+   "affiche": "Et à peine soixante hivers pour rester au chaud avec ceux que tu aimes.",
+   "voix": "Et à peine soixante hivers pour rester au chaud avec ceux que tu aimes.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 4,
+   "affiche": "Moi, à ton âge, je croyais que ça ne finirait jamais.",
+   "voix": "Moi, à ton âge, je croyais que ça ne finirait jamais.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 5,
+   "affiche": "Je remettais tout à l'été prochain. Le voyage, les excuses, les *je t'aime*.",
+   "voix": "Je remettais tout à l'été prochain. Le voyage, les excuses, les je t'aime.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 6,
+   "affiche": "Aujourd'hui, il me reste peut-être trois *printemps*.",
+   "voix": "Aujourd'hui, il me reste peut-être trois printemps.",
+   "pause": 1.4,
+   "plan": "fond"
+  },
+  {
+   "n": 7,
+   "affiche": "Et tu sais ce qui me manque ? Pas l'argent. Pas le travail.",
+   "voix": "Et tu sais ce qui me manque ? Pas l'argent. Pas le travail.",
+   "pause": 0.9,
+   "plan": "fond"
+  },
+  {
+   "n": 8,
+   "affiche": "Les dimanches où je n'ai rien fait avec les gens que j'aimais.",
+   "voix": "Les dimanches où je n'ai rien fait avec les gens que j'aimais.",
+   "pause": 1.3,
+   "plan": "fond"
+  },
+  {
+   "n": 9,
+   "affiche": "Le temps ne se garde pas. Il ne se rattrape pas. Il se *vit*.",
+   "voix": "Le temps ne se garde pas. Il ne se rattrape pas. Il se vit.",
+   "pause": 1.2,
+   "plan": "fond"
+  },
+  {
+   "n": 10,
+   "affiche": "Alors cet automne, ne le regarde pas passer derrière une vitre.",
+   "voix": "Alors cet automne, ne le regarde pas passer derrière une vitre.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 11,
+   "affiche": "Sors. Appelle. Pars. Aime trop fort.",
+   "voix": "Sors. Appelle. Pars. Aime trop fort.",
+   "pause": 1.2,
+   "plan": "fond"
+  },
+  {
+   "n": 12,
+   "affiche": "Parce qu'un jour, toi aussi, tu compteras les saisons qui te restent.",
+   "voix": "Parce qu'un jour, toi aussi, tu compteras les saisons qui te restent.",
+   "pause": 1.0,
+   "plan": "fond"
+  },
+  {
+   "n": 15,
+   "affiche": "Et ce jour-là, tu voudras n'en avoir perdu *aucune*.",
+   "voix": "Et ce jour-là, tu voudras n'en avoir perdu aucune.",
+   "pause": 0.0,
+   "plan": "fond"
+  }
+ ]
+}

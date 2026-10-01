@@ -1,0 +1,11 @@
+# Aucun son ni aucune vidéo en clair dans ce dépôt public : seulement les versions chiffrées (.enc)
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.ogg
+*.mp4
+*.mov
+*.mkv
+__pycache__/
+tiktok/*/_travail*/

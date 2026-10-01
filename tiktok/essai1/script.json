@@ -1,0 +1,251 @@
+{
+  "serie": "Ce que ton père ne te dira jamais",
+  "episode": 1,
+  "phrases": [
+    {
+      "n": 1,
+      "affiche": "Je ne te le dirai *jamais* en face. Alors écoute bien.",
+      "voix": "Je ne te le dirai jamais en face. Alors, écoute bien.",
+      "pause": 1.1,
+      "plan": "fenetre"
+    },
+    {
+      "n": 2,
+      "affiche": "Le jour de ta naissance, j'ai eu *peur* comme jamais.",
+      "voix": "Le jour de ta naissance, j'ai eu peur comme jamais.",
+      "pause": 0.6,
+      "plan": "naissance"
+    },
+    {
+      "n": 3,
+      "affiche": "Pas peur de toi. Peur de ne pas être à la hauteur.",
+      "voix": "Pas peur de toi. Peur de ne pas être à la hauteur.",
+      "pause": 1.2,
+      "plan": "bebe"
+    },
+    {
+      "n": 4,
+      "affiche": "Quand je rentrais tard, fatigué, sans un mot, ce n'était pas contre toi.",
+      "voix": "Quand je rentrais tard, fatigué, sans un mot, ce n'était pas contre toi.",
+      "pause": 0.6,
+      "plan": "route"
+    },
+    {
+      "n": 5,
+      "affiche": "Je gardais mes soucis loin de toi.",
+      "voix": "Je gardais mes soucis loin de toi.",
+      "pause": 1.2,
+      "plan": "soucis"
+    },
+    {
+      "n": 6,
+      "affiche": "Quand je te disais « fais attention », ça voulait dire « *je t'aime* ».",
+      "voix": "Quand je te disais : fais attention, ça voulait dire : je t'aime.",
+      "pause": 0.6,
+      "plan": "velo"
+    },
+    {
+      "n": 7,
+      "affiche": "Je ne savais pas le dire autrement.",
+      "voix": "Je ne savais pas le dire autrement.",
+      "pause": 1.2,
+      "plan": "escalier"
+    },
+    {
+      "n": 8,
+      "affiche": "Et je suis *fier de toi*. Même quand je ne le dis pas.",
+      "voix": "Et je suis fier de toi. Même quand je ne le dis pas.",
+      "pause": 1.3,
+      "plan": "calin"
+    },
+    {
+      "n": 9,
+      "affiche": "Aujourd'hui, tu as grandi. Tu as ta vie. C'est tout ce que je voulais.",
+      "voix": "Aujourd'hui, tu as grandi. Tu as ta vie. C'est tout ce que je voulais.",
+      "pause": 0.9,
+      "plan": "diplome"
+    },
+    {
+      "n": 10,
+      "affiche": "Mais parfois, j'attends ton appel plus que je ne l'avoue.",
+      "voix": "Mais parfois, j'attends ton appel plus que je ne l'avoue.",
+      "pause": 1.2,
+      "plan": "telephone"
+    },
+    {
+      "n": 11,
+      "affiche": "Je ne te demande rien. Juste, de temps en temps, passe me voir.",
+      "voix": "Je ne te demande rien. Juste, de temps en temps, passe me voir.",
+      "pause": 1.3,
+      "plan": "attente"
+    },
+    {
+      "n": 12,
+      "affiche": "Un jour, je ne serai *plus là* pour te le dire.",
+      "voix": "Un jour, je ne serai plus là pour te le dire.",
+      "pause": 1.5,
+      "plan": "visage"
+    },
+    {
+      "n": 13,
+      "affiche": "Alors aujourd'hui, *appelle ton père*.",
+      "voix": "Alors aujourd'hui, appelle ton père.",
+      "pause": 0.0,
+      "plan": "appel"
+    }
+  ],
+  "plans": {
+    "fenetre": {
+      "pexels": 9902446,
+      "auteur": "Ron Lach",
+      "secours": [
+        8087768,
+        7263300
+      ]
+    },
+    "naissance": {
+      "pexels": 7918429,
+      "auteur": "",
+      "secours": [
+        7918430
+      ]
+    },
+    "bebe": {
+      "pexels": 5729009,
+      "auteur": "",
+      "secours": [
+        6849061
+      ]
+    },
+    "route": {
+      "pexels": 9531464,
+      "auteur": "Ron Lach",
+      "secours": [
+        3554563
+      ]
+    },
+    "soucis": {
+      "pexels": 7279032,
+      "auteur": "",
+      "secours": [
+        11945214
+      ]
+    },
+    "velo": {
+      "pexels": 8747881,
+      "auteur": "Pavel Danilyuk",
+      "secours": [
+        5450427
+      ],
+      "url": "https://videos.pexels.com/video-files/8747881/8747881-uhd_1440_2560_25fps.mp4"
+    },
+    "escalier": {
+      "pexels": 8551270,
+      "auteur": "Kindel Media",
+      "secours": [],
+      "url": "https://videos.pexels.com/video-files/8551270/8551270-uhd_2560_1440_30fps.mp4"
+    },
+    "calin": {
+      "pexels": 4555433,
+      "auteur": "",
+      "secours": []
+    },
+    "diplome": {
+      "pexels": 7205253,
+      "auteur": "",
+      "secours": [
+        7712354
+      ]
+    },
+    "telephone": {
+      "pexels": 6306262,
+      "auteur": "",
+      "secours": [
+        8877783
+      ]
+    },
+    "attente": {
+      "pexels": 7522206,
+      "auteur": "",
+      "secours": [
+        8860242,
+        8860241
+      ]
+    },
+    "visage": {
+      "pexels": 9644240,
+      "auteur": "",
+      "secours": [
+        8860238
+      ]
+    },
+    "appel": {
+      "pexels": 5527602,
+      "auteur": "",
+      "secours": [
+        7443798
+      ]
+    }
+  },
+  "reglages": {
+    "fenetre": {
+      "entree": 1.0,
+      "cadrage": 0.3
+    },
+    "naissance": {
+      "entree": 0.5,
+      "cadrage": 0.4
+    },
+    "bebe": {
+      "entree": 1.0,
+      "cadrage": 0.45
+    },
+    "route": {
+      "entree": 2.0,
+      "cadrage": 0.55
+    },
+    "soucis": {
+      "entree": 2.0,
+      "cadrage": 0.62
+    },
+    "velo": {
+      "entree": 1.0,
+      "cadrage": 0.42
+    },
+    "escalier": {
+      "entree": 0.3,
+      "cadrage": 0.5
+    },
+    "calin": {
+      "entree": 1.0,
+      "cadrage": 0.55
+    },
+    "diplome": {
+      "entree": 0.5,
+      "cadrage": 0.4
+    },
+    "telephone": {
+      "entree": 1.0,
+      "cadrage": 0.5
+    },
+    "attente": {
+      "entree": 0.5,
+      "cadrage": 0.3
+    },
+    "visage": {
+      "entree": 1.0,
+      "cadrage": 0.75
+    },
+    "appel": {
+      "entree": 2.0,
+      "cadrage": 0.3
+    }
+  },
+  "fin": "Envoie-lui cette vidéo.",
+  "tempo_voix": 0.9,
+  "lueurs": [
+    6,
+    9,
+    13
+  ]
+}
