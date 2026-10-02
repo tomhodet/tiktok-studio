@@ -15,6 +15,7 @@ import mimetypes
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -34,9 +35,23 @@ def appel(methode: str, url: str, donnees=None, entetes=None) -> dict | list | N
         h["Content-Type"] = "application/json"
     h.update(entetes or {})
     req = urllib.request.Request(url if url.startswith("http") else API + url, data=corps, headers=h, method=methode)
-    with urllib.request.urlopen(req, timeout=600) as r:
-        texte = r.read()
+    texte = reessayer(lambda: urllib.request.urlopen(req, timeout=600))
     return json.loads(texte) if texte else None
+
+
+def reessayer(ouvrir, essais: int = 5) -> bytes:
+    """GitHub répond parfois 500 ou 502 quelques secondes : on réessaie au lieu d'échouer."""
+    for k in range(essais):
+        try:
+            with ouvrir() as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code < 500 or k == essais - 1:
+                raise
+        except urllib.error.URLError:
+            if k == essais - 1:
+                raise
+        time.sleep(5 * (k + 1))
 
 
 def toutes_releases() -> list[dict]:
@@ -142,14 +157,19 @@ def lire_asset(url: str) -> bytes:
     ouvreur = urllib.request.build_opener(_SansSuivre)
     req = urllib.request.Request(url, headers={"Authorization": f"Bearer {os.environ['GH_TOKEN']}",
                                                "Accept": "application/octet-stream"})
-    try:
-        with ouvreur.open(req, timeout=60) as r:
-            return r.read()
-    except urllib.error.HTTPError as e:
-        if e.code not in (301, 302, 303, 307, 308):
-            raise
-        with urllib.request.urlopen(e.headers["Location"], timeout=120) as r:
-            return r.read()
+    adresse = []
+
+    def ouvrir():
+        if adresse:
+            return urllib.request.urlopen(adresse[0], timeout=120)
+        try:
+            return ouvreur.open(req, timeout=60)
+        except urllib.error.HTTPError as e:
+            if e.code not in (301, 302, 303, 307, 308):
+                raise
+            adresse.append(e.headers["Location"])
+            return urllib.request.urlopen(adresse[0], timeout=120)
+    return reessayer(ouvrir)
 
 
 def echec(rid: str, lot: str, ep: str) -> None:
