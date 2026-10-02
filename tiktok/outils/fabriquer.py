@@ -18,7 +18,7 @@ PY = "/tmp/tts/bin/python"
 LOT, ID, OUT = sys.argv[1], sys.argv[2], Path(sys.argv[3])
 EP = Path("tiktok") / ID
 VCB = EP / "voix_cb"
-TOURS = [[1, 2], [3, 4], [5, 6], [7, 8]]
+TOURS = [[1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11, 12]]
 
 
 def run(*cmd, sortie: Path | None = None) -> int:
@@ -84,7 +84,8 @@ def main() -> None:
     configs = perso.get("configs_production", perso["configs"])
     ref = configs[0][0]
 
-    ok, t = voix_complete(ref, configs, 0)
+    deja = len(list(VCB.glob(f"{ID}_v*")))      # prises reprises d'une exécution précédente (cache)
+    ok, t = voix_complete(ref, configs, deja)
     if not ok:
         print((VCB / "tri.txt").read_text(encoding="utf-8")[-4000:])
         sys.exit(2)

@@ -1,0 +1,368 @@
+{
+ "nom": "j025",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j025_grandmere",
+   "perso": "grandmere",
+   "episode": 26,
+   "fin": "Envoie-la à quelqu'un qui a préparé tes gamelles.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il l'a accrochée sur ma robe.",
+   "legende": "Derrière chaque médaille, il y a quelqu'un qui n'est pas monté sur l'estrade. #grandmere #travail #amour #reconnaissance",
+   "phrases": [
+    [
+     "Dans ma boîte à bijoux, il y a une *médaille* du travail. Je n'ai jamais travaillé à l'usine.",
+     1.3
+    ],
+    [
+     "Ton grand-père y a passé trente-cinq ans. Il partait à cinq heures, avec sa gamelle.",
+     1.2
+    ],
+    [
+     "Cette gamelle, c'est moi qui la préparais. Tous les soirs. Plus de huit mille fois.",
+     1.4
+    ],
+    [
+     "Moi, je tenais la maison, les comptes, les enfants et le jardin.",
+     1.2
+    ],
+    [
+     "On disait de moi : elle ne travaille pas, elle est à la maison.",
+     1.4
+    ],
+    [
+     "Pour ses trente-cinq ans de service, il y a eu une cérémonie à la mairie.",
+     1.2
+    ],
+    [
+     "Le maire a fait un discours. Il a épinglé la médaille sur sa veste.",
+     1.4
+    ],
+    [
+     "Ton grand-père l'a regardée longtemps. Puis il l'a détachée.",
+     1.4
+    ],
+    [
+     "Il a traversé la salle. Il l'a accrochée sur ma robe.",
+     1.6
+    ],
+    [
+     "Il a dit : la moitié de ces années, c'est elle qui les a *faites*.",
+     1.8
+    ],
+    [
+     "Je n'ai jamais été aussi fière. Ni aussi rouge.",
+     1.4
+    ],
+    [
+     "Derrière chaque médaille, il y a quelqu'un qui n'est pas monté sur l'estrade.",
+     1.6
+    ],
+    [
+     "Toi, le jour où tu réussiras, regarde qui a préparé tes gamelles.",
+     1.2
+    ],
+    [
+     "Et va lui épingler ta *médaille*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j025_grandpere",
+   "perso": "grandpere",
+   "episode": 27,
+   "fin": "Envoie-la à quelqu'un qui se croit plus fort que la mer.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Un mot qu'on ne prononce jamais.",
+   "legende": "Ce n'est pas le mot qui coule les bateaux. C'est le garçon qui se croit plus fort que la mer. #grandpere #mer #marin #humour #respect",
+   "phrases": [
+    [
+     "Sur un bateau, il y a un mot qu'on ne prononce *jamais*.",
+     1.3
+    ],
+    [
+     "Le nom d'un petit animal aux longues oreilles. Tu vois lequel.",
+     1.2
+    ],
+    [
+     "À seize ans, je trouvais ces histoires ridicules.",
+     1.2
+    ],
+    [
+     "Un matin, sur le pont, je l'ai crié trois fois. Pour faire rire l'équipage.",
+     1.4
+    ],
+    [
+     "Personne n'a ri. Le patron du bateau m'a regardé sans rien dire.",
+     1.4
+    ],
+    [
+     "Le soir, il m'a pris à part. J'ai cru qu'il allait me jeter par-dessus bord.",
+     1.4
+    ],
+    [
+     "Il m'a dit : ce n'est pas le mot qui coule les bateaux.",
+     1.2
+    ],
+    [
+     "C'est le garçon qui se croit plus fort que la *mer*.",
+     1.8
+    ],
+    [
+     "J'ai navigué quarante ans. J'ai vu des tempêtes à faire prier un curé. Je suis toujours rentré.",
+     1.4
+    ],
+    [
+     "Les superstitions rappellent aux hommes qu'ils sont petits.",
+     1.4
+    ],
+    [
+     "Un homme qui se sait petit vérifie ses cordages. Il écoute le vent.",
+     1.6
+    ],
+    [
+     "Un jour, tu te croiras plus fort que ta mer à toi. Méfie-toi de ce jour-là.",
+     1.4
+    ],
+    [
+     "Je ne dis toujours pas le mot. Ta grand-mère fait du civet. On dit : du poulet.",
+     1.4
+    ],
+    [
+     "Ce n'est pas de la peur. C'est du *respect*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j025_pere",
+   "perso": "pere",
+   "episode": 26,
+   "fin": "Envoie-la à quelqu'un qui a refusé de mentir.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai refusé de mentir. J'ai perdu mon travail.",
+   "legende": "Ton nom, c'est ce que les gens disent de toi quand tu as quitté la pièce. #papa #pere #travail #honnetete #valeurs",
+   "phrases": [
+    [
+     "Il y a vingt ans, j'ai perdu mon travail pour avoir refusé de *mentir*.",
+     1.3
+    ],
+    [
+     "Je vendais des chaudières. Un jour, on m'a envoyé chez un vieux couple.",
+     1.2
+    ],
+    [
+     "Leur chaudière marchait très bien. Il fallait juste changer une petite pièce.",
+     1.2
+    ],
+    [
+     "Consigne du chef : dire qu'elle est fichue, et vendre la neuve.",
+     1.4
+    ],
+    [
+     "La vieille dame m'a servi un café. Elle m'a parlé de ses petits-enfants.",
+     1.4
+    ],
+    [
+     "Je n'ai pas pu. J'ai changé la petite pièce, et je suis reparti.",
+     1.4
+    ],
+    [
+     "Un mois plus tard, j'étais licencié.",
+     1.4
+    ],
+    [
+     "Tu avais six ans, on avait un crédit. Je n'ai pas dormi pendant des mois.",
+     1.6
+    ],
+    [
+     "Trois ans après, un homme m'a appelé. C'était le fils du vieux couple.",
+     1.4
+    ],
+    [
+     "Il dirigeait une entreprise. Il m'a dit : ma mère m'a parlé de vous. Je cherche quelqu'un d'*honnête*.",
+     1.8
+    ],
+    [
+     "J'y suis resté dix-sept ans.",
+     1.4
+    ],
+    [
+     "Personne ne m'avait vu refuser. Mais une vieille dame l'avait raconté à son fils.",
+     1.4
+    ],
+    [
+     "Ton *nom*, c'est ce que les gens disent de toi quand tu as quitté la pièce.",
+     1.6
+    ],
+    [
+     "Ne le vends jamais. Aucun salaire ne te le rachètera.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j025_mere",
+   "perso": "mere",
+   "episode": 26,
+   "fin": "Envoie-la à quelqu'un qui souffre en silence au travail.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'ai eu peur d'aller travailler.",
+   "legende": "Le silence protège toujours celui qui fait mal. Jamais celui qui a mal. #maman #mere #travail #courage #harcelement",
+   "phrases": [
+    [
+     "Pendant deux ans, j'ai eu *peur* d'aller travailler. Tu ne l'as jamais su.",
+     1.3
+    ],
+    [
+     "Mon nouveau chef se moquait de moi devant toute l'équipe.",
+     1.2
+    ],
+    [
+     "Il corrigeait mes rapports en rouge et les faisait circuler.",
+     1.2
+    ],
+    [
+     "Le soir, je souriais en rentrant. Et je pleurais sous la douche.",
+     1.4
+    ],
+    [
+     "Un jour, tu es rentré du collège avec un bleu. Un garçon t'embêtait depuis des semaines.",
+     1.4
+    ],
+    [
+     "Je t'ai dit ce que disent toutes les mères : il ne faut pas se taire.",
+     1.4
+    ],
+    [
+     "Tu m'as demandé : et si personne ne me croit ?",
+     1.6
+    ],
+    [
+     "J'ai répondu : on te croira. Et là, je me suis *entendue*.",
+     1.8
+    ],
+    [
+     "Je donnais à mon enfant un conseil que je ne suivais pas.",
+     1.4
+    ],
+    [
+     "Le lendemain, tu as parlé au directeur. Et moi, aux ressources humaines.",
+     1.4
+    ],
+    [
+     "Trois collègues ont parlé avec moi. Elles vivaient la même chose, en silence.",
+     1.4
+    ],
+    [
+     "Un mois plus tard, il était parti. Et ton garçon du collège te laissait tranquille.",
+     1.4
+    ],
+    [
+     "Le silence protège toujours celui qui fait mal. Jamais celui qui a mal.",
+     1.6
+    ],
+    [
+     "Alors parle. Et si tu donnes un conseil à ton enfant, *suis-le* aussi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j025_fou",
+   "perso": "fou",
+   "episode": 25,
+   "fin": "Envoie-la à quelqu'un qui a abandonné quelque chose.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il a mis cinquante-quatre ans à finir.",
+   "legende": "Un abandon n'est qu'un chapitre. Pas toute ton histoire. #motivation #sport #marathon #jeuxolympiques #humour",
+   "phrases": [
+    [
+     "En mille neuf cent douze, un coureur japonais disparaît en plein *marathon* olympique.",
+     1.3
+    ],
+    [
+     "Stockholm. Une chaleur écrasante. Les coureurs s'effondrent les uns après les autres.",
+     1.2
+    ],
+    [
+     "À mi-course, il n'en peut plus. Il quitte la route.",
+     1.4
+    ],
+    [
+     "Une famille l'accueille. On lui donne à boire.",
+     1.4
+    ],
+    [
+     "Il a tellement honte qu'il ne prévient personne. Il rentre au Japon sans un mot.",
+     1.4
+    ],
+    [
+     "En Suède, on le déclare disparu.",
+     1.4
+    ],
+    [
+     "Lui, pendant ce temps, continue de courir. On l'appellera le père du marathon japonais.",
+     1.4
+    ],
+    [
+     "Cinquante-quatre ans plus tard, la télévision suédoise le retrouve. Elle l'invite à finir sa course.",
+     1.4
+    ],
+    [
+     "Le vieil homme revient à Stockholm. Il franchit enfin la ligne d'arrivée.",
+     1.6
+    ],
+    [
+     "Son temps officiel : cinquante-quatre ans, huit mois, six jours, cinq heures et trente-deux minutes.",
+     1.4
+    ],
+    [
+     "Il a dit : ce fut un long *voyage*.",
+     1.2
+    ],
+    [
+     "En chemin, je me suis marié, j'ai eu six enfants et dix petits-enfants.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu as peut-être abandonné quelque chose. Et tu en as honte.",
+     1.4
+    ],
+    [
+     "Ne disparais pas. Un abandon n'est qu'un chapitre. Pas toute ton histoire.",
+     1.4
+    ],
+    [
+     "Vis ta vie. Et un jour, reviens franchir ta *ligne*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

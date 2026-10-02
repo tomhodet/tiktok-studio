@@ -1,0 +1,368 @@
+{
+ "nom": "j024",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j024_grandmere",
+   "perso": "grandmere",
+   "episode": 25,
+   "fin": "Envoie-la à quelqu'un qui rit trop fort au travail.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Renvoyée pour avoir ri trop fort.",
+   "legende": "On travaille mieux quand on a le droit d'être heureux en travaillant. #grandmere #travail #humour #bonheur",
+   "phrases": [
+    [
+     "À dix-sept ans, je me suis fait renvoyer de mon premier travail. Pour avoir *ri* trop fort.",
+     1.3
+    ],
+    [
+     "Un atelier de couture. Trente filles, trente machines, et un patron qui détestait le bruit.",
+     1.2
+    ],
+    [
+     "Sur le mur, il avait écrit : ici, on travaille. On ne parle pas.",
+     1.2
+    ],
+    [
+     "Neuf heures par jour, sans un mot. Juste les machines et la pendule.",
+     1.4
+    ],
+    [
+     "Un matin, ma voisine m'a soufflé que le patron portait une perruque.",
+     1.4
+    ],
+    [
+     "Je n'ai pas pu me retenir. J'ai éclaté de rire.",
+     1.4
+    ],
+    [
+     "Il est arrivé, tout rouge. Il m'a demandé : vous trouvez ça drôle, mademoiselle ?",
+     1.4
+    ],
+    [
+     "J'ai voulu dire non. J'ai dit oui. Et j'ai ri encore plus fort.",
+     1.8
+    ],
+    [
+     "Le soir même, j'étais dehors. J'ai pleuré tout le long du chemin.",
+     1.4
+    ],
+    [
+     "La semaine suivante, je suis entrée dans une blanchisserie. Les femmes y chantaient toute la journée.",
+     1.4
+    ],
+    [
+     "J'y suis restée trente ans. Je n'ai jamais aussi bien travaillé.",
+     1.6
+    ],
+    [
+     "On travaille mieux quand on a le droit d'être *heureux* en travaillant.",
+     1.4
+    ],
+    [
+     "Alors si un jour on te reproche de rire, ne t'excuse pas.",
+     1.2
+    ],
+    [
+     "Va chercher un atelier où les gens *chantent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j024_grandpere",
+   "perso": "grandpere",
+   "episode": 26,
+   "fin": "Envoie-la à quelqu'un qui fait bien son travail jusqu'au bout.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Le lendemain, elle partait à la ferraille.",
+   "legende": "On ne choisit pas toujours le jour où on part. Mais on choisit toujours la manière. #grandpere #travail #dignite #usine",
+   "phrases": [
+    [
+     "Le dernier jour de l'usine, j'ai nettoyé ma machine. Le lendemain, elle partait à la *ferraille*.",
+     1.3
+    ],
+    [
+     "Trente-huit ans que je travaillais dessus. J'en connaissais chaque bruit, chaque caprice.",
+     1.2
+    ],
+    [
+     "Ce jour-là, les gars sont partis à midi. Certains ont jeté leurs gants.",
+     1.2
+    ],
+    [
+     "Ils avaient le droit d'être en colère.",
+     1.4
+    ],
+    [
+     "Moi, je suis resté. J'ai démonté, nettoyé, graissé chaque pièce. Comme tous les vendredis.",
+     1.4
+    ],
+    [
+     "J'ai rangé mes outils. J'ai passé le chiffon une dernière fois.",
+     1.4
+    ],
+    [
+     "Un jeune m'a regardé faire. Il a dit : à quoi bon ? Demain, elle part à la casse.",
+     1.4
+    ],
+    [
+     "Je lui ai répondu : ce n'est pas pour elle. C'est pour *moi*.",
+     1.8
+    ],
+    [
+     "Je ne voulais pas que trente-huit ans de métier se terminent par du travail bâclé.",
+     1.6
+    ],
+    [
+     "Personne ne l'a vue briller, cette machine. Personne ne m'a dit merci.",
+     1.4
+    ],
+    [
+     "Ça m'était égal. Moi, je savais.",
+     1.4
+    ],
+    [
+     "On ne choisit pas toujours le jour où on part. Mais on choisit toujours la manière.",
+     1.4
+    ],
+    [
+     "Ne claque jamais une porte. Même celle qu'on te ferme au nez.",
+     1.2
+    ],
+    [
+     "Pars la tête haute. Et laisse toujours ta place plus *propre* que tu ne l'as trouvée.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j024_pere",
+   "perso": "pere",
+   "episode": 25,
+   "fin": "Envoie-la à quelqu'un qui travaille même malade.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Je n'ai jamais pris un jour de maladie.",
+   "legende": "Au travail, tout le monde est remplaçable. Pour ceux qui t'aiment, tu ne l'es jamais. #papa #pere #travail #famille #emotion",
+   "phrases": [
+    [
+     "En vingt-cinq ans de travail, je n'ai jamais pris un seul jour de *maladie*.",
+     1.3
+    ],
+    [
+     "J'y suis allé avec de la fièvre. Avec un bras dans le plâtre.",
+     1.0
+    ],
+    [
+     "Et même le lendemain de l'enterrement de ma mère.",
+     1.2
+    ],
+    [
+     "J'en étais fier. Je croyais que sans moi, tout s'écroulerait.",
+     1.4
+    ],
+    [
+     "Et puis, à quarante-cinq ans, on m'a opéré. Trois semaines à l'hôpital.",
+     1.4
+    ],
+    [
+     "Le premier jour, j'appelais le bureau depuis mon lit.",
+     1.2
+    ],
+    [
+     "Au bout de deux jours, un collègue avait tout repris. Tout marchait très bien sans moi.",
+     1.6
+    ],
+    [
+     "À la maison, c'était une autre histoire.",
+     1.2
+    ],
+    [
+     "Tu avais dix ans. Tu avais fait un calendrier, et tu barrais les jours jusqu'à mon retour.",
+     1.4
+    ],
+    [
+     "Le soir de mon retour, tu as dormi devant ma porte. Pour être sûr que je ne reparte pas.",
+     1.8
+    ],
+    [
+     "Ce soir-là, j'ai compris ce que personne ne m'avait jamais dit.",
+     1.2
+    ],
+    [
+     "Au travail, tout le monde est *remplaçable*. Ce n'est pas méchant. C'est comme ça.",
+     1.6
+    ],
+    [
+     "Pour ceux qui t'aiment, tu ne l'es jamais.",
+     1.4
+    ],
+    [
+     "Alors ne donne pas ta santé à un endroit qui te remplace en deux jours.",
+     1.2
+    ],
+    [
+     "Garde-la pour ceux qui barrent les *jours*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j024_mere",
+   "perso": "mere",
+   "episode": 25,
+   "fin": "Envoie-la à quelqu'un qui t'a aimé en silence.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Je n'ai pas vu tes premiers pas.",
+   "legende": "Aimer, parfois, c'est se pousser un peu. Pour que l'autre soit sur la photo. #maman #mere #emotion #famille",
+   "phrases": [
+    [
+     "Tes premiers pas, tu ne les as pas faits devant moi. Je l'ai appris l'année dernière.",
+     1.3
+    ],
+    [
+     "Tu avais quatre mois quand j'ai repris le travail. Je t'ai confié à une nourrice.",
+     1.2
+    ],
+    [
+     "Je pleurais dans la voiture. Et le soir, je lui posais toujours la même question.",
+     1.4
+    ],
+    [
+     "Il a marché ? Elle répondait : pas encore, madame. Bientôt.",
+     1.4
+    ],
+    [
+     "Un samedi, tu as lâché la table basse. Tu as fait trois pas vers moi.",
+     1.4
+    ],
+    [
+     "J'ai pleuré. J'ai appelé toute la famille. C'était le plus beau jour de ma vie.",
+     1.4
+    ],
+    [
+     "L'an dernier, à son enterrement, sa fille m'a raconté la vérité.",
+     1.2
+    ],
+    [
+     "Tu marchais chez sa mère depuis deux semaines. Elle n'avait jamais voulu me le dire.",
+     1.6
+    ],
+    [
+     "Elle disait à sa fille : les premiers pas, c'est pour la *maman*.",
+     1.8
+    ],
+    [
+     "Elle t'a regardé marcher pendant deux semaines. Et elle s'est tue. Pour moi.",
+     1.4
+    ],
+    [
+     "Il y a des gens qui mentent pour te laisser ta *place*.",
+     1.6
+    ],
+    [
+     "Ils ne demandent rien. Souvent, tu ne le sauras jamais.",
+     1.4
+    ],
+    [
+     "Moi, je l'ai su trop tard pour la remercier.",
+     1.4
+    ],
+    [
+     "Aimer, parfois, c'est se pousser un peu. Pour que l'autre soit sur la *photo*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j024_fou",
+   "perso": "fou",
+   "episode": 24,
+   "fin": "Envoie-la à quelqu'un qui vient de tomber.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Au milieu de la finale, il tombe.",
+   "legende": "Ce n'est pas la chute qui décide de ta course. C'est la seconde d'après. #motivation #sport #athletisme #resilience",
+   "phrases": [
+    [
+     "Au milieu d'une finale olympique, un jeune policier finlandais *tombe* sur la piste.",
+     1.3
+    ],
+    [
+     "Munich, mille neuf cent soixante-douze. Le dix mille mètres. Vingt-cinq tours de piste.",
+     1.2
+    ],
+    [
+     "Au douzième tour, il s'accroche avec un autre coureur. Il s'écrase par terre.",
+     1.4
+    ],
+    [
+     "Les autres continuent. Une finale olympique n'attend personne.",
+     1.4
+    ],
+    [
+     "À ce moment-là, il a deux choix.",
+     1.0
+    ],
+    [
+     "Rester au sol, et se demander pourquoi ça tombe sur lui. Le jour le plus important de sa vie.",
+     1.2
+    ],
+    [
+     "Ou se relever. Tout de suite. Sans réfléchir.",
+     1.6
+    ],
+    [
+     "Il se relève. Il repart. Il rattrape le groupe, coureur après coureur.",
+     1.4
+    ],
+    [
+     "Et il franchit la ligne en premier. Avec un nouveau *record du monde*.",
+     1.8
+    ],
+    [
+     "Cet homme s'appelait Lasse Virén. Il a gagné quatre médailles d'or olympiques.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu vas tomber. Au milieu d'un projet. D'une relation. D'une année.",
+     1.2
+    ],
+    [
+     "Ce n'est pas la chute qui décide de ta course. C'est la seconde d'après.",
+     1.6
+    ],
+    [
+     "Tu chercheras plus tard pourquoi tu es tombé.",
+     1.2
+    ],
+    [
+     "D'abord, *relève-toi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

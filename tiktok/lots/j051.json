@@ -1,0 +1,360 @@
+{
+ "nom": "j051",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j051_grandmere",
+   "perso": "grandmere",
+   "episode": 52,
+   "fin": "Envoie-la à l'amie qui est restée à côté de toi.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Odette n'apportait rien.",
+   "legende": "Quand quelqu'un pleure, n'apporte rien. Apporte-toi. #grandmere #amitie #deuil #emotion",
+   "phrases": [
+    [
+     "Quand ton grand-père est mort, mes amies ont organisé un *tour* de garde.",
+     1.3
+    ],
+    [
+     "Chaque soir, l'une d'elles venait dormir chez moi. Pendant un mois.",
+     1.2
+    ],
+    [
+     "Josiane apportait de la soupe. Toujours trop salée.",
+     1.2
+    ],
+    [
+     "Michèle apportait des photos. Elle voulait qu'on pleure ensemble. On pleurait.",
+     1.4
+    ],
+    [
+     "Simone parlait. Du temps, des voisins, de son chat. Pour que la maison ne soit pas silencieuse.",
+     1.4
+    ],
+    [
+     "Et puis il y avait Odette.",
+     1.6
+    ],
+    [
+     "Odette n'apportait rien. Elle s'asseyait à côté de moi sur le canapé. Et elle se taisait.",
+     1.4
+    ],
+    [
+     "Un soir, on est restées comme ça deux heures. Sa main sur la mienne.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, j'ai oublié le goût de la soupe. J'ai oublié les photos et les histoires de chat.",
+     1.4
+    ],
+    [
+     "Mais je me souviens de chaque minute sur ce canapé avec *Odette*.",
+     1.8
+    ],
+    [
+     "Quand quelqu'un a du chagrin, on croit qu'il faut trouver les bons mots.",
+     1.2
+    ],
+    [
+     "Il n'y a pas de bons mots. Il y a juste une main sur la sienne.",
+     1.4
+    ],
+    [
+     "Alors le jour où ton amie pleure, n'apporte rien. Apporte-*toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j051_grandpere",
+   "perso": "grandpere",
+   "episode": 53,
+   "fin": "Envoie-la à l'ami avec qui tu t'es battu.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Un coup de poing à mon meilleur ami.",
+   "legende": "Les plus belles amitiés commencent parfois par un coup de poing. #grandpere #amitie #humour #servicemilitaire",
+   "phrases": [
+    [
+     "Le premier jour du service militaire, j'ai donné un coup de poing à mon meilleur *ami*.",
+     1.3
+    ],
+    [
+     "Il ne l'était pas encore. C'était un grand Lorrain qui avait pris mon lit.",
+     1.2
+    ],
+    [
+     "On s'est battus dans le dortoir. Devant quarante appelés qui comptaient les points.",
+     1.4
+    ],
+    [
+     "Le sergent nous a punis tous les deux. Une semaine de corvée de patates. Ensemble.",
+     1.4
+    ],
+    [
+     "Le premier jour, on ne s'est pas dit un mot. Juste le bruit des couteaux.",
+     1.2
+    ],
+    [
+     "Le troisième jour, il m'a montré comment éplucher sans se couper.",
+     1.4
+    ],
+    [
+     "Le cinquième jour, on riait tellement que le sergent nous a remis une semaine.",
+     1.6
+    ],
+    [
+     "Il a été mon témoin de mariage. Je suis le parrain de sa fille.",
+     1.4
+    ],
+    [
+     "À l'enterrement de mon père, il portait le cercueil avec moi.",
+     1.4
+    ],
+    [
+     "Soixante ans plus tard, on n'est toujours pas d'accord sur une chose. Qui a gagné la *bagarre*.",
+     1.8
+    ],
+    [
+     "Il dit que c'est lui. Il a pourtant le nez de travers depuis ce jour-là.",
+     1.4
+    ],
+    [
+     "Méfie-toi des gens qui sont d'accord avec toi dès le premier jour.",
+     1.4
+    ],
+    [
+     "Les plus belles amitiés commencent parfois par un coup de *poing*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j051_pere",
+   "perso": "pere",
+   "episode": 52,
+   "fin": "Envoie-la à quelqu'un à qui tu dois une lettre.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai ri avec eux.",
+   "legende": "Parfois, le courage, c'est juste de ne pas rire avec les autres. #papa #pere #amitie #harcelement #pardon",
+   "phrases": [
+    [
+     "Au collège, j'ai laissé tomber mon meilleur ami devant toute la *cour*.",
+     1.3
+    ],
+    [
+     "Il s'appelait Thierry. Il bégayait. Les grands l'avaient pris pour cible.",
+     1.2
+    ],
+    [
+     "Un jour, ils l'ont coincé contre le grillage. Ils l'imitaient. Tout le monde riait.",
+     1.4
+    ],
+    [
+     "Il m'a regardé. Il attendait que je vienne.",
+     1.6
+    ],
+    [
+     "Je n'ai pas bougé. J'avais treize ans et j'avais peur qu'ils s'en prennent à moi.",
+     1.4
+    ],
+    [
+     "Pire. Pour qu'ils me laissent tranquille, j'ai ri avec eux.",
+     1.6
+    ],
+    [
+     "Le lendemain, il a changé de place en classe. On ne s'est plus jamais parlé.",
+     1.4
+    ],
+    [
+     "Pendant trente ans, j'ai revu son regard. Contre ce grillage.",
+     1.4
+    ],
+    [
+     "À quarante-trois ans, je l'ai retrouvé. Il était devenu orthophoniste.",
+     1.4
+    ],
+    [
+     "Je lui ai écrit une lettre. Trois pages. Pour demander pardon pour un rire.",
+     1.4
+    ],
+    [
+     "Il m'a répondu une seule ligne : j'ai *attendu* ce mot pendant trente ans. Merci.",
+     1.8
+    ],
+    [
+     "Dans la vie, on te demandera rarement d'être un héros.",
+     1.2
+    ],
+    [
+     "Juste de ne pas rire avec les autres. C'est déjà beaucoup.",
+     1.4
+    ],
+    [
+     "Et si un jour tu as ri, écris la *lettre*. Même trente ans après.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j051_mere",
+   "perso": "mere",
+   "episode": 52,
+   "fin": "Envoie-la à quelqu'un qui avait un ami imaginaire.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il s'appelait Bernard.",
+   "legende": "Moi aussi, à ton âge, j'avais un ami que personne ne voyait. #maman #mere #enfance #humour #amitie",
+   "phrases": [
+    [
+     "Quand tu avais quatre ans, tu avais un ami que personne ne voyait. Il s'appelait *Bernard*.",
+     1.3
+    ],
+    [
+     "Bernard avait sa place à table. Il fallait lui servir de la purée. Sans sel.",
+     1.4
+    ],
+    [
+     "En voiture, personne n'avait le droit de s'asseoir à gauche. C'était la place de Bernard.",
+     1.2
+    ],
+    [
+     "Le vase cassé, c'était Bernard. Le mur dessiné au feutre, encore Bernard.",
+     1.4
+    ],
+    [
+     "Ton père trouvait ça inquiétant. Moi, je trouvais ça normal.",
+     1.2
+    ],
+    [
+     "Parce que moi aussi, à ton âge, j'avais un ami que personne ne voyait.",
+     1.6
+    ],
+    [
+     "Je ne te l'ai jamais dit. Il s'appelait *Bernard*.",
+     1.8
+    ],
+    [
+     "Je n'ai jamais prononcé ce prénom devant toi. Jamais.",
+     1.4
+    ],
+    [
+     "Un jour, en rentrant de l'école, tu as annoncé : Bernard est parti. J'ai des copains maintenant.",
+     1.4
+    ],
+    [
+     "Tu n'étais pas triste. Moi, un peu.",
+     1.2
+    ],
+    [
+     "Les amis que personne ne voit, on se les invente quand on se sent seul.",
+     1.4
+    ],
+    [
+     "Le mien est parti quand j'ai rencontré ma meilleure amie. À six ans.",
+     1.4
+    ],
+    [
+     "Peut-être que Bernard fait le tour des enfants qui ont besoin de lui.",
+     1.4
+    ],
+    [
+     "S'il passe un jour chez tes enfants, laisse-lui une place à *table*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j051_fou",
+   "perso": "fou",
+   "episode": 51,
+   "fin": "Envoie-la à quelqu'un qui a envie de tout jeter.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Un an pour écrire ce que tu veux.",
+   "legende": "Descends. Et va ramasser tes pages. #motivation #ecriture #harperlee #perseverance #reussite",
+   "phrases": [
+    [
+     "Un soir de Noël, à New York, une jeune femme trouve une *enveloppe* dans le sapin de ses amis.",
+     1.3
+    ],
+    [
+     "Elle a trente ans. Elle travaille dans une compagnie aérienne. Elle écrit quand elle peut.",
+     1.2
+    ],
+    [
+     "Dans l'enveloppe, il y a un an de salaire.",
+     1.2
+    ],
+    [
+     "Et un mot : tu as un an pour écrire ce que tu veux. Joyeux Noël.",
+     1.6
+    ],
+    [
+     "Elle dit que c'est trop risqué. Ses amis répondent que ce n'est pas un risque. C'est une certitude.",
+     1.4
+    ],
+    [
+     "Elle quitte son travail.",
+     1.2
+    ],
+    [
+     "Mais le texte est trop décousu. Il faut tout reprendre. Encore et encore.",
+     1.4
+    ],
+    [
+     "Un soir d'hiver, découragée, elle jette son manuscrit par la fenêtre. Dans la neige.",
+     1.6
+    ],
+    [
+     "En larmes, elle appelle son éditrice. Réponse : va ramasser les pages. Tout de suite.",
+     1.4
+    ],
+    [
+     "Elle descend. Elle ramasse tout. Elle recommence.",
+     1.4
+    ],
+    [
+     "En mille neuf cent soixante, le livre paraît. Il s'appelle Ne tirez pas sur l'oiseau *moqueur*.",
+     1.8
+    ],
+    [
+     "Prix Pulitzer. Plus de quarante millions d'exemplaires. Elle s'appelait Harper Lee.",
+     1.6
+    ],
+    [
+     "Toi aussi, un soir, tu auras envie de tout jeter par la fenêtre.",
+     1.2
+    ],
+    [
+     "Ce soir-là, pense à cette femme dans la neige.",
+     1.4
+    ],
+    [
+     "Descends. Et va ramasser tes *pages*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

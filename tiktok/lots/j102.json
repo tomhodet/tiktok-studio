@@ -1,0 +1,356 @@
+{
+ "nom": "j102",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j102_grandmere",
+   "perso": "grandmere",
+   "episode": 103,
+   "fin": "Envoie-la à quelqu'un qui s'est marié contre l'avis de ses parents.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je me suis enfuie par la fenêtre.",
+   "legende": "Parfois, on dit non avec la bouche. Et oui avec une fenêtre. #grandmere #famille #mariage #amour",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-cinq, je me suis enfuie de chez mes parents. Par la *fenêtre* de la cuisine.",
+     1.3
+    ],
+    [
+     "J'avais dix-neuf ans. Mon père ne voulait pas de ton grand-père.",
+     1.2
+    ],
+    [
+     "Il m'a dit : si tu épouses ce va-nu-pieds, ne reviens jamais.",
+     1.4
+    ],
+    [
+     "Un soir de mars, j'ai mis deux robes dans une valise en carton.",
+     1.2
+    ],
+    [
+     "J'ai attendu que la maison dorme. La fenêtre n'était pas fermée. Je n'ai pas réfléchi.",
+     1.4
+    ],
+    [
+     "Ton grand-père m'attendait au bout du chemin. Avec un bouquet de pissenlits.",
+     1.4
+    ],
+    [
+     "Mon père a mis trois ans à me reparler.",
+     1.6
+    ],
+    [
+     "Trente ans plus tard, ma mère m'a demandé : tu te souviens de cette fenêtre ?",
+     1.2
+    ],
+    [
+     "Mon père la fermait lui-même tous les soirs. Avec un gros verrou.",
+     1.6
+    ],
+    [
+     "Elle a souri : ce soir-là, je m'étais relevée pour la *rouvrir*.",
+     1.8
+    ],
+    [
+     "Elle n'avait pas le droit de me dire oui. Alors elle m'a ouvert une fenêtre.",
+     1.6
+    ],
+    [
+     "Quand tes parents te disent non, regarde bien autour de toi.",
+     1.2
+    ],
+    [
+     "Parfois, on dit non avec la bouche. Et oui avec une *fenêtre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j102_grandpere",
+   "perso": "grandpere",
+   "episode": 104,
+   "fin": "Envoie-la à ton frère. Même s'il y a une clôture.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Une clôture. Pendant trente ans.",
+   "legende": "N'attends pas une tempête pour aller chercher ton frère. #grandpere #freres #famille #reconciliation",
+   "phrases": [
+    [
+     "Entre la ferme de mon frère et la mienne, il y a eu une *clôture*. Pendant trente ans.",
+     1.3
+    ],
+    [
+     "À la mort de notre père, on a coupé le champ en deux.",
+     1.2
+    ],
+    [
+     "Trois rangs de fil de fer. Et plus un seul mot.",
+     1.4
+    ],
+    [
+     "Un hiver, une nuit de tempête, mes vaches ont arraché la clôture.",
+     1.2
+    ],
+    [
+     "Au matin, plus une bête. Je les ai cherchées partout dans la neige.",
+     1.4
+    ],
+    [
+     "Elles étaient dans l'étable de mon frère. Au chaud. Avec du foin frais.",
+     1.6
+    ],
+    [
+     "Il s'était levé en pleine nuit pour les rentrer. Tout seul.",
+     1.4
+    ],
+    [
+     "Il me les a ramenées à midi. Il n'a rien dit. Moi non plus.",
+     1.6
+    ],
+    [
+     "Le soir, sur un piquet de la clôture, j'ai posé une bouteille de calvados.",
+     1.4
+    ],
+    [
+     "Le lendemain, la bouteille avait disparu. À sa place, il y avait deux *verres*.",
+     1.8
+    ],
+    [
+     "Ce soir-là, on a trinqué. Chacun de son côté du fil de fer.",
+     1.6
+    ],
+    [
+     "L'été dernier, à quatre-vingts ans, on a arraché la clôture ensemble.",
+     1.4
+    ],
+    [
+     "Trente ans pour la planter. Un après-midi pour l'enlever.",
+     1.6
+    ],
+    [
+     "N'attends pas une tempête pour aller chercher ton *frère*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j102_pere",
+   "perso": "pere",
+   "episode": 103,
+   "fin": "Envoie-la à quelqu'un qui se sent invisible chez lui.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "J'ai lu ton journal intime.",
+   "legende": "Je n'avais pas le droit de lire cette page. Mais elle m'a rendu mon enfant. #papa #pere #famille #adolescence #emotion",
+   "phrases": [
+    [
+     "Quand tu avais quinze ans, j'ai lu ton *journal* intime. Une seule page.",
+     1.3
+    ],
+    [
+     "Il était tombé de ton sac, ouvert, dans l'entrée. J'aurais dû le refermer.",
+     1.2
+    ],
+    [
+     "J'avais peur de découvrir des bêtises. Des cigarettes, des mensonges.",
+     1.4
+    ],
+    [
+     "Il n'y avait rien de tout ça. Juste une phrase. Sur moi.",
+     1.6
+    ],
+    [
+     "Tu avais écrit : mon père ne me *voit* pas.",
+     1.8
+    ],
+    [
+     "Je suis resté assis dans l'entrée, avec mon manteau sur le dos.",
+     1.6
+    ],
+    [
+     "C'était vrai. Je rentrais tard, j'allumais la télévision, je demandais tes notes.",
+     1.2
+    ],
+    [
+     "Je ne connaissais même pas le prénom de ton meilleur ami.",
+     1.4
+    ],
+    [
+     "Le lendemain, je t'ai demandé de m'apprendre ton jeu vidéo.",
+     1.2
+    ],
+    [
+     "Tu m'as battu quarante fois. Tu riais. Tu as cru que j'étais malade.",
+     1.4
+    ],
+    [
+     "Je ne t'ai jamais dit pourquoi j'avais changé. Je te le dis aujourd'hui.",
+     1.4
+    ],
+    [
+     "Je n'avais pas le droit de lire cette page. Mais elle m'a rendu mon enfant.",
+     1.6
+    ],
+    [
+     "Ce jour-là, à quarante ans, j'ai appris à te *lire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j102_mere",
+   "perso": "mere",
+   "episode": 103,
+   "fin": "Envoie-la à celle qui organise tous les Noëls de la famille.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Cette année, je ne fais pas Noël.",
+   "legende": "Parfois, pour réunir une famille, il faut savoir quitter la table. #maman #mere #noel #famille #humour",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai organisé *Noël* pour vingt-deux personnes. La moitié ne se parlait pas.",
+     1.3
+    ],
+    [
+     "Ta tante boudait ton oncle. Ton oncle boudait son beau-frère.",
+     1.2
+    ],
+    [
+     "Et ta grand-mère ne parlait à personne avant le fromage.",
+     1.4
+    ],
+    [
+     "Je faisais des plans de table comme un général. Au crayon, avec une gomme.",
+     1.2
+    ],
+    [
+     "Le jour même, je servais, je souriais, je séparais. Je ne mangeais rien.",
+     1.4
+    ],
+    [
+     "Il y a trois ans, j'ai annoncé : cette année, je ne fais pas Noël.",
+     1.6
+    ],
+    [
+     "Personne ne m'a crue. Puis tout le monde a paniqué.",
+     1.4
+    ],
+    [
+     "Ils ont été obligés de s'appeler. Entre eux. Pour savoir qui ferait quoi.",
+     1.4
+    ],
+    [
+     "Ta tante a appelé ton oncle. Pour la première fois en six ans.",
+     1.6
+    ],
+    [
+     "Le soir de Noël, ils m'ont envoyé une photo. Ils riaient tous autour de la *bûche*.",
+     1.8
+    ],
+    [
+     "Moi, j'étais en pyjama devant la télévision. Avec une pizza.",
+     1.4
+    ],
+    [
+     "Tant que je jouais l'arbitre, ils n'avaient aucune raison de se parler.",
+     1.2
+    ],
+    [
+     "Parfois, pour réunir une famille, il faut savoir quitter la *table*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j102_fou",
+   "perso": "fou",
+   "episode": 102,
+   "fin": "Envoie-la à quelqu'un qui craque toujours au mauvais moment.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Il s'est fait attacher au mât.",
+   "legende": "Les forts ne résistent pas mieux que les autres. Ils choisissent leurs cordes. #motivation #discipline #mythologie #ulysse",
+   "phrases": [
+    [
+     "Un marin grec s'est fait attacher au *mât* de son propre bateau. Volontairement.",
+     1.3
+    ],
+    [
+     "C'était Ulysse, le héros d'Homère. Et il savait ce qui l'attendait.",
+     1.2
+    ],
+    [
+     "Sur une île, des sirènes chantaient. Ceux qui les écoutaient ne rentraient jamais chez eux.",
+     1.4
+    ],
+    [
+     "Autour d'elles, des tas d'os. Tous ceux qui avaient écouté.",
+     1.6
+    ],
+    [
+     "Ulysse a bouché les oreilles de ses hommes avec de la cire.",
+     1.2
+    ],
+    [
+     "Puis il leur a donné un ordre étrange.",
+     1.2
+    ],
+    [
+     "Attachez-moi au mât. Et si je vous supplie de me détacher, serrez plus fort.",
+     1.6
+    ],
+    [
+     "Le chant est arrivé. Ulysse a crié, supplié, ordonné qu'on le libère.",
+     1.4
+    ],
+    [
+     "Ses hommes ont ajouté des *cordes*.",
+     1.8
+    ],
+    [
+     "Il a entendu le chant des sirènes. Et il est passé, vivant.",
+     1.6
+    ],
+    [
+     "Ulysse ne comptait pas sur sa volonté. Il savait qu'elle lâcherait.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as tes sirènes. Ton téléphone, ton lit, ta paresse.",
+     1.2
+    ],
+    [
+     "N'attends pas d'être fort au mauvais moment. Attache-toi avant.",
+     1.4
+    ],
+    [
+     "Range le téléphone, prépare ton sac la veille, annonce ton projet à quelqu'un.",
+     1.4
+    ],
+    [
+     "Les forts ne résistent pas mieux que les autres. Ils choisissent leurs *cordes*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

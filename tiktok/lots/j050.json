@@ -1,0 +1,364 @@
+{
+ "nom": "j050",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j050_grandmere",
+   "perso": "grandmere",
+   "episode": 51,
+   "fin": "Envoie-la à quelqu'un qui croit avoir été trahi.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ma meilleure amie m'a volé mon fiancé.",
+   "legende": "Certaines trahisons sont des cadeaux mal emballés. #grandmere #amitie #humour #amour",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-six, ma meilleure amie m'a volé mon *fiancé*.",
+     1.3
+    ],
+    [
+     "Il s'appelait Gérard. Il avait une moto et les cheveux pleins de brillantine.",
+     1.2
+    ],
+    [
+     "Un samedi, au bal, je les ai vus danser joue contre joue.",
+     1.4
+    ],
+    [
+     "Je ne lui ai plus adressé la parole pendant un an.",
+     1.2
+    ],
+    [
+     "Puis j'ai reçu un faire-part. Elle l'épousait.",
+     1.4
+    ],
+    [
+     "Je suis allée au mariage par fierté. Avec ma plus belle robe et mon plus faux sourire.",
+     1.4
+    ],
+    [
+     "À ma table, il y avait un cousin du marié. Un grand maladroit.",
+     1.2
+    ],
+    [
+     "Il m'a marché sur les pieds toute la soirée. Et il s'excusait à chaque fois.",
+     1.6
+    ],
+    [
+     "Ce grand maladroit, c'était ton *grand-père*.",
+     1.8
+    ],
+    [
+     "Ça fait bientôt soixante ans qu'il me marche sur les pieds. Et qu'il s'excuse.",
+     1.6
+    ],
+    [
+     "Ce soir-là, mon amie et moi, on s'est réconciliées. L'année suivante, elle était mon témoin.",
+     1.4
+    ],
+    [
+     "Gérard, lui, a perdu sa moto, puis ses cheveux. On en rit encore toutes les deux.",
+     1.4
+    ],
+    [
+     "Ce qu'on te vole, c'est parfois juste ce qui te barrait la route.",
+     1.4
+    ],
+    [
+     "Certaines trahisons sont des *cadeaux* mal emballés.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j050_grandpere",
+   "perso": "grandpere",
+   "episode": 52,
+   "fin": "Envoie-la à quelqu'un avec qui tu aimes te taire.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "On ne s'est presque jamais parlé.",
+   "legende": "Parfois, l'amitié, c'est juste quelqu'un qui s'assoit à côté de toi. Et qui reste. #grandpere #amitie #peche #emotion",
+   "phrases": [
+    [
+     "Pendant trente ans, j'ai pêché avec le même homme. On ne s'est presque jamais *parlé*.",
+     1.3
+    ],
+    [
+     "Tous les dimanches, à cinq heures du matin, il m'attendait au bout du chemin.",
+     1.2
+    ],
+    [
+     "Il disait bonjour. Je disais bonjour. Et c'était tout jusqu'au soir.",
+     1.4
+    ],
+    [
+     "On s'asseyait au bord de l'étang, à trois mètres l'un de l'autre.",
+     1.2
+    ],
+    [
+     "Quand il sortait un brochet, je hochais la tête. Quand je ratais une prise, il souriait.",
+     1.4
+    ],
+    [
+     "Ta grand-mère me demandait de quoi on parlait. Je répondais : de rien.",
+     1.4
+    ],
+    [
+     "L'hiver dernier, il est parti. Sans faire de bruit. Comme il avait vécu.",
+     1.6
+    ],
+    [
+     "À l'enterrement, son fils est venu me serrer la main.",
+     1.2
+    ],
+    [
+     "Il m'a dit : mon père disait que c'était avec vous qu'il avait ses meilleures *conversations*.",
+     1.8
+    ],
+    [
+     "Je suis rentré à pied. J'ai mis longtemps.",
+     1.6
+    ],
+    [
+     "On croit que l'amitié, ce sont des mots. Des confidences.",
+     1.2
+    ],
+    [
+     "Parfois, c'est juste quelqu'un qui s'assoit à côté de toi. Et qui reste.",
+     1.4
+    ],
+    [
+     "Le dimanche, je vais toujours à l'étang. Je laisse trois mètres libres à côté de moi.",
+     1.6
+    ],
+    [
+     "Et maintenant, c'est moi qui lui *parle*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j050_pere",
+   "perso": "pere",
+   "episode": 51,
+   "fin": "Envoie-la à l'ami que tu appellerais à deux heures du matin.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Tu te souviens du pacte ?",
+   "legende": "Ces amis-là, on ne les compte pas. On les garde. #papa #pere #amitie #loyaute #emotion",
+   "phrases": [
+    [
+     "À dix ans, mon meilleur ami et moi, on a fait un *pacte* de sang.",
+     1.3
+    ],
+    [
+     "Avec une épingle à nourrice volée à sa mère.",
+     1.2
+    ],
+    [
+     "Le pacte disait : si l'un appelle, l'autre vient. Peu importe l'heure. Peu importe où.",
+     1.4
+    ],
+    [
+     "On a grandi. Il est parti travailler à Marseille. Je suis resté ici.",
+     1.2
+    ],
+    [
+     "On s'est vus une fois par an. Puis une fois tous les trois ans.",
+     1.4
+    ],
+    [
+     "Il y a six ans, mon téléphone a sonné à deux heures du matin.",
+     1.4
+    ],
+    [
+     "Il a juste dit : tu te souviens du pacte ?",
+     1.6
+    ],
+    [
+     "Je n'ai posé aucune question. J'ai pris la voiture. Huit cents kilomètres dans la nuit.",
+     1.4
+    ],
+    [
+     "Sa femme venait de partir. Il était assis par terre, au milieu des cartons.",
+     1.4
+    ],
+    [
+     "Je suis resté trois jours. J'ai fait à manger. Je l'ai écouté pleurer et jurer.",
+     1.4
+    ],
+    [
+     "Quand je suis reparti, il m'a montré son pouce. Je lui ai montré le mien.",
+     1.6
+    ],
+    [
+     "On a encore la petite *cicatrice*. Tous les deux. Quarante-cinq ans après.",
+     1.8
+    ],
+    [
+     "Demande-toi qui tu appellerais à deux heures du matin. Et qui viendrait.",
+     1.4
+    ],
+    [
+     "Ces amis-là, on ne les compte pas. On les *garde*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j050_mere",
+   "perso": "mere",
+   "episode": 51,
+   "fin": "Envoie-la à l'amie qui a gardé ta place.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Elle m'a appelée maman.",
+   "legende": "Une vraie amie ne prend pas ta place. Elle te la garde. #maman #mere #amitie #emotion #famille",
+   "phrases": [
+    [
+     "Quand tu avais cinq ans, je suis partie trois semaines. Tu as cru que j'étais en *voyage*.",
+     1.3
+    ],
+    [
+     "En réalité, j'étais à l'hôpital. Une opération.",
+     1.2
+    ],
+    [
+     "Ton père travaillait de nuit. Personne ne pouvait s'occuper de toi.",
+     1.2
+    ],
+    [
+     "Alors mon amie Nadia s'est installée chez nous. Avec sa valise et son oreiller.",
+     1.4
+    ],
+    [
+     "Elle t'emmenait à l'école. Elle te faisait des tresses. Elle a appris toutes tes chansons.",
+     1.2
+    ],
+    [
+     "Le soir, elle m'appelait pour me raconter ta journée.",
+     1.4
+    ],
+    [
+     "Un soir, elle s'est tue au téléphone. Puis elle a dit : elle m'a appelée maman.",
+     1.6
+    ],
+    [
+     "J'ai eu mal. Une seconde. Puis j'ai demandé : qu'est-ce que tu lui as répondu ?",
+     1.6
+    ],
+    [
+     "Elle m'a dit : je lui ai expliqué que sa maman revenait *bientôt*. Et qu'elle l'aimait plus que tout.",
+     1.8
+    ],
+    [
+     "Elle aurait pu prendre ma place dans ton cœur. Elle a passé trois semaines à la défendre.",
+     1.6
+    ],
+    [
+     "Tu ne te souviens de rien. Tu étais trop petite.",
+     1.2
+    ],
+    [
+     "Mais quand tu croises Nadia, tu la serres toujours un peu plus fort que les autres.",
+     1.4
+    ],
+    [
+     "Une vraie amie ne prend pas ta place. Elle te la *garde*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j050_fou",
+   "perso": "fou",
+   "episode": 50,
+   "fin": "Envoie-la à quelqu'un qui a dû tout réapprendre.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Il ne pourra plus jamais jouer.",
+   "legende": "Il a inventé un style avec deux doigts. #motivation #musique #jazz #djangoreinhardt #resilience",
+   "phrases": [
+    [
+     "À dix-huit ans, un jeune musicien perd l'usage de deux *doigts*.",
+     1.3
+    ],
+    [
+     "Une nuit, dans sa roulotte, il renverse une bougie. Des fleurs en celluloïd prennent feu.",
+     1.2
+    ],
+    [
+     "Il est brûlé sur la moitié du corps. Sa main gauche est gravement atteinte.",
+     1.4
+    ],
+    [
+     "Les médecins veulent lui couper la jambe. Il refuse.",
+     1.4
+    ],
+    [
+     "Ils lui disent qu'il ne pourra plus jamais jouer.",
+     1.6
+    ],
+    [
+     "Il reste dix-huit mois à l'hôpital. Son frère lui apporte une guitare.",
+     1.2
+    ],
+    [
+     "Deux doigts de sa main gauche restent paralysés. Alors il invente une autre façon de jouer.",
+     1.4
+    ],
+    [
+     "Il réapprend presque tout avec deux doigts seulement. Note après note.",
+     1.4
+    ],
+    [
+     "Quelques années plus tard, il fonde un quintette avec Stéphane Grappelli.",
+     1.4
+    ],
+    [
+     "Son style donne naissance à un jazz à part entière. Le jazz *manouche*.",
+     1.8
+    ],
+    [
+     "Il s'appelait Django Reinhardt.",
+     1.6
+    ],
+    [
+     "Toi, tu as peut-être perdu quelque chose. Un travail. Une chance. Une partie de toi.",
+     1.2
+    ],
+    [
+     "Et tu attends de tout retrouver avant de recommencer.",
+     1.4
+    ],
+    [
+     "Lui n'a rien retrouvé. Il a joué avec ce qui restait.",
+     1.6
+    ],
+    [
+     "Il a inventé un style avec deux doigts. Qu'est-ce que tu vas faire avec les *tiens* ?",
+     0
+    ]
+   ]
+  }
+ ]
+}

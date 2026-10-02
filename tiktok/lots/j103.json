@@ -1,0 +1,360 @@
+{
+ "nom": "j103",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j103_grandmere",
+   "perso": "grandmere",
+   "episode": 104,
+   "fin": "Envoie-la à quelqu'un qui a une belle-mère difficile.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Elle m'appelait la petite.",
+   "legende": "Avant d'en vouloir à quelqu'un pour un mot, demande-lui d'où il vient. #grandmere #bellemere #famille #secret #emotion",
+   "phrases": [
+    [
+     "Pendant vingt ans, ma belle-mère ne m'a jamais appelée par mon prénom. Elle disait : la *petite*.",
+     1.3
+    ],
+    [
+     "La petite peut mettre la table. La petite a trop salé.",
+     1.2
+    ],
+    [
+     "J'avais trente ans, deux enfants, et j'étais toujours la petite.",
+     1.4
+    ],
+    [
+     "Je croyais qu'elle me méprisait. Chaque dimanche, je rentrais en pleurant.",
+     1.4
+    ],
+    [
+     "Je ne lui ai jamais rien dit. Je lui faisais la tête, poliment.",
+     1.2
+    ],
+    [
+     "Quand elle est morte, j'ai vidé son armoire. Sous les draps, il y avait une photo.",
+     1.4
+    ],
+    [
+     "Une fillette de trois ans, avec un gros nœud dans les cheveux.",
+     1.4
+    ],
+    [
+     "Derrière, au crayon, il y avait écrit : la petite.",
+     1.8
+    ],
+    [
+     "Ton grand-père m'a raconté. Il avait eu une sœur, morte à trois ans.",
+     1.4
+    ],
+    [
+     "Sa mère n'avait plus jamais prononcé son prénom. Elle disait seulement : la petite.",
+     1.6
+    ],
+    [
+     "Ce mot que je détestais, c'était le plus *tendre* qu'elle avait.",
+     1.8
+    ],
+    [
+     "Elle me l'avait donné. Je ne l'ai jamais remerciée.",
+     1.4
+    ],
+    [
+     "Avant d'en vouloir à quelqu'un pour un mot, demande-lui d'où il vient.",
+     1.2
+    ],
+    [
+     "Moi, j'ai passé vingt ans à détester le plus beau nom qu'on m'ait *donné*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j103_grandpere",
+   "perso": "grandpere",
+   "episode": 105,
+   "fin": "Envoie-la à ton frère. Il te doit sûrement quelque chose.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Mon frère me doit dix francs.",
+   "legende": "Certaines dettes, il ne faut jamais les rembourser. #grandpere #freres #humour #famille",
+   "phrases": [
+    [
+     "Mon frère me doit dix *francs*. Depuis mille neuf cent soixante-deux.",
+     1.3
+    ],
+    [
+     "Il me les a empruntés pour emmener une fille au bal.",
+     1.2
+    ],
+    [
+     "Depuis, chaque année, le jour de son anniversaire, je l'appelle pour réclamer ma dette.",
+     1.4
+    ],
+    [
+     "Il répond toujours la même chose : l'année prochaine, promis.",
+     1.4
+    ],
+    [
+     "On s'est fâchés plusieurs fois dans notre vie. Pour la ferme, pour la politique, pour rien.",
+     1.2
+    ],
+    [
+     "Une fois, on ne s'est pas parlé pendant sept ans.",
+     1.4
+    ],
+    [
+     "Mais chaque anniversaire, j'appelais quand même. Juste pour les dix francs.",
+     1.6
+    ],
+    [
+     "L'an dernier, il est venu chez moi. Il a sorti son vieux portefeuille.",
+     1.4
+    ],
+    [
+     "Dedans, plié en quatre, il y avait un billet de dix francs. Le même.",
+     1.6
+    ],
+    [
+     "La fille n'était jamais venue au bal. Il n'avait jamais dépensé le *billet*.",
+     1.8
+    ],
+    [
+     "Il me l'a tendu. J'ai refusé.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : si tu me rembourses, je n'ai plus de raison de t'appeler.",
+     1.6
+    ],
+    [
+     "Il a rangé le billet. Il a souri. Il le savait depuis soixante ans.",
+     1.4
+    ],
+    [
+     "Certaines dettes, il ne faut jamais les *rembourser*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j103_pere",
+   "perso": "pere",
+   "episode": 104,
+   "fin": "Envoie-la à quelqu'un qui attend que l'autre fasse le premier pas.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Pourquoi tu ne viens jamais ?",
+   "legende": "Les adultes attendent que l'autre fasse le premier pas. Les enfants, eux, traversent la salle. #papa #pere #famille #reconciliation #enfance",
+   "phrases": [
+    [
+     "Mon père et moi, on ne s'est pas parlé pendant huit ans. C'est toi qui nous as *réconciliés*.",
+     1.3
+    ],
+    [
+     "Tu avais six ans. Tu ne t'en souviens sûrement pas.",
+     1.2
+    ],
+    [
+     "Il avait dit du mal de ta mère. Je l'avais mis à la porte.",
+     1.4
+    ],
+    [
+     "Huit ans sans un mot. Tu connaissais ton grand-père en photo.",
+     1.4
+    ],
+    [
+     "Un jour, au mariage d'un cousin, on s'est retrouvés à la même table.",
+     1.2
+    ],
+    [
+     "Lui à un bout, moi à l'autre. On fixait nos assiettes.",
+     1.4
+    ],
+    [
+     "Toi, tu as traversé la salle. Tu t'es planté devant lui.",
+     1.2
+    ],
+    [
+     "Tu lui as demandé : pourquoi tu ne viens jamais à la maison ?",
+     1.6
+    ],
+    [
+     "Toute la table s'est tue. Mon père m'a regardé.",
+     1.6
+    ],
+    [
+     "Il a répondu : parce que personne ne m'a *invité*.",
+     1.6
+    ],
+    [
+     "Tu as dit : alors je t'invite. Dimanche.",
+     1.8
+    ],
+    [
+     "Il est venu le dimanche suivant. Avec un gâteau et les yeux rouges.",
+     1.4
+    ],
+    [
+     "Huit ans de fierté. Une question d'enfant a suffi.",
+     1.4
+    ],
+    [
+     "Les adultes attendent toujours que l'autre fasse le premier pas.",
+     1.2
+    ],
+    [
+     "Les enfants, eux, traversent la *salle*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j103_mere",
+   "perso": "mere",
+   "episode": 104,
+   "fin": "Envoie-la à quelqu'un qui a besoin qu'on lui ouvre la porte.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je te l'avais bien dit.",
+   "legende": "Tu n'avais pas besoin d'une mère qui avait raison. Tu avais besoin d'une mère. #maman #mere #pardon #famille #emotion",
+   "phrases": [
+    [
+     "Le jour de ton divorce, je t'ai dit la pire phrase de ma *vie*.",
+     1.3
+    ],
+    [
+     "Tu es arrivé avec deux sacs et les yeux gonflés.",
+     1.2
+    ],
+    [
+     "Je t'ai fait un café. Et je t'ai dit : je te l'avais bien dit.",
+     1.6
+    ],
+    [
+     "Tu as bu ton café sans un mot. Puis tu n'es plus venu pendant six mois.",
+     1.4
+    ],
+    [
+     "J'avais raison, c'est vrai. Je n'avais jamais cru à ce mariage.",
+     1.2
+    ],
+    [
+     "Mais ce jour-là, avoir raison, ça ne servait à rien.",
+     1.4
+    ],
+    [
+     "Tu n'avais pas besoin d'une mère qui avait raison. Tu avais besoin d'une *mère*.",
+     1.8
+    ],
+    [
+     "Pendant six mois, j'ai rejoué cette scène dans ma tête. Tous les soirs.",
+     1.4
+    ],
+    [
+     "J'aurais dû me taire. Ouvrir la porte. Prendre les sacs.",
+     1.4
+    ],
+    [
+     "Et te dire : reste ici le temps qu'il faudra.",
+     1.6
+    ],
+    [
+     "Tu es revenu, et je ne t'ai jamais demandé pardon. Je le fais aujourd'hui.",
+     1.4
+    ],
+    [
+     "Si un jour quelqu'un que tu aimes tombe, ne lui dis jamais : je te l'avais dit.",
+     1.2
+    ],
+    [
+     "Ouvre la porte. Prends les *sacs*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j103_fou",
+   "perso": "fou",
+   "episode": 103,
+   "fin": "Envoie-la à quelqu'un qui se juge à son manteau.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Mange, mon manteau. Mange.",
+   "legende": "Ne confonds jamais le respect qu'on donne à ton manteau avec celui qu'on te donne. #motivation #sagesse #nasreddin #conte",
+   "phrases": [
+    [
+     "Dans un vieux conte turc, Nasreddin Hodja est invité à un *mariage*.",
+     1.3
+    ],
+    [
+     "Il arrive en habits de travail, pleins de poussière. Personne ne le salue.",
+     1.2
+    ],
+    [
+     "On le place au bout de la table, près de la porte. Personne ne le sert.",
+     1.4
+    ],
+    [
+     "Alors il rentre chez lui. Il enfile son plus beau manteau, doublé de fourrure.",
+     1.2
+    ],
+    [
+     "Il revient. Cette fois, on se lève. On l'installe à la place d'honneur.",
+     1.4
+    ],
+    [
+     "On lui sert la soupe en premier.",
+     1.4
+    ],
+    [
+     "Nasreddin prend la manche de son manteau. Et il la trempe dans la soupe.",
+     1.6
+    ],
+    [
+     "Il dit : mange, mon *manteau*. Mange.",
+     1.6
+    ],
+    [
+     "Les invités sont choqués. Il répond : c'est lui que vous avez invité. Pas moi.",
+     1.8
+    ],
+    [
+     "Toi aussi, on te regarde selon ton manteau. Ton titre, ta voiture, ton salaire.",
+     1.2
+    ],
+    [
+     "Ne confonds jamais le respect qu'on donne à ton manteau avec celui qu'on te donne.",
+     1.4
+    ],
+    [
+     "Et surtout, ne te juge pas toi-même à ton manteau.",
+     1.4
+    ],
+    [
+     "Le jour où tu l'enlèves, regarde bien qui reste à ta *table*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

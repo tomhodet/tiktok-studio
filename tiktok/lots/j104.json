@@ -1,0 +1,364 @@
+{
+ "nom": "j104",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j104_grandmere",
+   "perso": "grandmere",
+   "episode": 105,
+   "fin": "Envoie-la à quelqu'un qui t'agace depuis toujours.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "On se déteste depuis cinquante ans.",
+   "legende": "Dans une famille, il y a des gens qu'on ne supporte pas. Et sans qui on ne vit pas. #grandmere #famille #humour #bellesoeur",
+   "phrases": [
+    [
+     "Ma belle-sœur et moi, on se *déteste* depuis cinquante ans. On s'appelle tous les jours.",
+     1.3
+    ],
+    [
+     "Tous les matins à neuf heures, le téléphone sonne. C'est Monique.",
+     1.2
+    ],
+    [
+     "Elle me dit que ma tarte était trop cuite. Je lui dis que son chapeau était ridicule.",
+     1.4
+    ],
+    [
+     "On se dispute vingt minutes. Puis on raccroche, très contentes.",
+     1.4
+    ],
+    [
+     "Tout a commencé à mon mariage. Elle a dit tout haut que ma pièce montée penchait.",
+     1.2
+    ],
+    [
+     "Elle penchait, c'est vrai. Je ne lui ai jamais pardonné.",
+     1.6
+    ],
+    [
+     "L'hiver dernier, le téléphone n'a pas sonné. Ni le lundi, ni le mardi.",
+     1.6
+    ],
+    [
+     "Le mercredi, j'ai pris le car jusque chez elle. Deux heures de route.",
+     1.4
+    ],
+    [
+     "Elle était tombée dans sa cuisine. Elle ne pouvait plus se relever.",
+     1.6
+    ],
+    [
+     "À l'hôpital, elle a ouvert un œil. Elle a dit : tu as mis ton manteau à l'*envers*.",
+     1.8
+    ],
+    [
+     "J'ai pleuré de joie. Elle était toujours aussi pénible.",
+     1.4
+    ],
+    [
+     "Dans une famille, il y a des gens qu'on ne supporte pas. Et sans qui on ne vit pas.",
+     1.4
+    ],
+    [
+     "Garde-les. Ce sont les seuls qui s'inquiètent quand ton téléphone reste *muet*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j104_grandpere",
+   "perso": "grandpere",
+   "episode": 106,
+   "fin": "Envoie-la à quelqu'un à qui tu ne parles plus.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Deux coups de sifflet chaque matin.",
+   "legende": "On ne s'est jamais réconciliés avec des mots. On n'en a pas eu besoin. #grandpere #freres #cheminot #pardon #famille",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai salué mon frère tous les matins. Sans jamais lui *parler*.",
+     1.3
+    ],
+    [
+     "On s'était fâchés pour la maison de notre mère. Des mots qu'on ne reprend pas.",
+     1.2
+    ],
+    [
+     "J'étais conducteur de train. Lui, il était garde-barrière, sur ma ligne.",
+     1.4
+    ],
+    [
+     "Tous les matins à sept heures, mon train passait devant sa maison.",
+     1.2
+    ],
+    [
+     "Au début, je regardais droit devant. Lui, il baissait sa barrière et me tournait le dos.",
+     1.4
+    ],
+    [
+     "Un matin de neige, je ne sais pas pourquoi, j'ai donné deux petits coups de sifflet.",
+     1.6
+    ],
+    [
+     "Le lendemain, il était devant sa porte. Il a levé la *main*.",
+     1.6
+    ],
+    [
+     "Pendant neuf ans, ça a été notre conversation. Deux coups de sifflet, une main levée.",
+     1.4
+    ],
+    [
+     "On ne s'est jamais réconciliés avec des mots. On n'en a pas eu besoin.",
+     1.4
+    ],
+    [
+     "Quand il est mort, sa femme m'a dit une chose.",
+     1.4
+    ],
+    [
+     "Il sortait tous les matins à sept heures. Même malade. Même les jours où je ne conduisais pas.",
+     1.8
+    ],
+    [
+     "On croit qu'il faut un grand discours pour pardonner.",
+     1.2
+    ],
+    [
+     "Souvent, il suffit d'un petit signe. Répété tous les jours.",
+     1.4
+    ],
+    [
+     "Le mien, c'était deux coups de *sifflet*. Trouve le tien.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j104_pere",
+   "perso": "pere",
+   "episode": 105,
+   "fin": "Envoie-la à la sœur que la vie t'a donnée.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ta tante n'est pas ma sœur.",
+   "legende": "La famille, ce n'est pas un papier chez le notaire. #papa #pere #famille #fratrie #emotion",
+   "phrases": [
+    [
+     "Ta tante Nadine n'est pas ma *sœur*. Enfin, pas sur le papier.",
+     1.3
+    ],
+    [
+     "Elle est arrivée chez nous à six ans. Avec un sac en plastique et un ours borgne.",
+     1.2
+    ],
+    [
+     "Une enfant placée. Elle devait rester six mois. Elle est restée toute sa vie.",
+     1.4
+    ],
+    [
+     "Pour ton oncle et moi, c'était notre sœur. On se battait pour elle à l'école.",
+     1.2
+    ],
+    [
+     "L'an dernier, après la mort de ta grand-mère, on était chez le notaire. Tous les trois.",
+     1.4
+    ],
+    [
+     "Le notaire a lu le testament. Puis il a regardé Nadine.",
+     1.4
+    ],
+    [
+     "Il a dit : madame, aux yeux de la loi, vous n'êtes pas de la *famille*.",
+     1.8
+    ],
+    [
+     "Nadine a baissé les yeux. Comme à six ans, avec son ours.",
+     1.6
+    ],
+    [
+     "Ton oncle s'est levé. Il a dit : alors on partage en trois. Ou on ne signe pas.",
+     1.6
+    ],
+    [
+     "J'ai signé à côté de lui. Sans réfléchir une seconde.",
+     1.4
+    ],
+    [
+     "Le notaire a parlé d'impôts énormes. On a payé.",
+     1.4
+    ],
+    [
+     "Ce jour-là, Nadine a pleuré devant nous pour la première fois.",
+     1.6
+    ],
+    [
+     "La famille, ce n'est pas un papier chez le notaire.",
+     1.2
+    ],
+    [
+     "C'est quelqu'un qui se *lève* quand on te dit que tu n'en fais pas partie.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j104_mere",
+   "perso": "mere",
+   "episode": 105,
+   "fin": "Envoie-la à ta mère. Même si vous êtes fâchées.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Je n'ai dit qu'un mot : maman.",
+   "legende": "Il y a des moments où on a besoin de sa mère plus que de sa fierté. #maman #mere #naissance #famille #reconciliation",
+   "phrases": [
+    [
+     "Le jour de ta *naissance*, j'ai appelé ma mère. On ne se parlait plus depuis trois ans.",
+     1.3
+    ],
+    [
+     "Elle m'avait dit, pendant une dispute : toi, tu ne seras jamais une bonne mère.",
+     1.4
+    ],
+    [
+     "J'avais claqué la porte. Je voulais lui prouver le contraire. Sans elle.",
+     1.2
+    ],
+    [
+     "Et puis tu es né. Un dimanche, à quatre heures du matin.",
+     1.2
+    ],
+    [
+     "Le soir même, tu hurlais. Tu refusais de boire. Je ne savais rien faire.",
+     1.4
+    ],
+    [
+     "Les infirmières étaient débordées. Ton père dormait sur une chaise.",
+     1.4
+    ],
+    [
+     "À minuit, j'ai pris le téléphone du couloir. J'ai fait son numéro.",
+     1.6
+    ],
+    [
+     "Elle a décroché à la première sonnerie. Je n'ai dit qu'un mot : *maman*.",
+     1.8
+    ],
+    [
+     "Elle n'a posé aucune question. Elle a dit : mets-le contre ton cœur, et chante.",
+     1.4
+    ],
+    [
+     "J'ai chanté la chanson qu'elle me chantait petite. Tu t'es endormi.",
+     1.6
+    ],
+    [
+     "Le lendemain, elle était là. Avec des fleurs et une boîte de gâteaux.",
+     1.4
+    ],
+    [
+     "On n'a jamais reparlé de la dispute. Il y avait toi.",
+     1.4
+    ],
+    [
+     "Il y a des moments où on a besoin de sa mère plus que de sa fierté.",
+     1.2
+    ],
+    [
+     "Ce soir-là, tu m'as rendu ma *mère*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j104_fou",
+   "perso": "fou",
+   "episode": 104,
+   "fin": "Envoie-la à quelqu'un qui attend que les autres s'y mettent.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Demain, on le fait nous-mêmes.",
+   "legende": "Ne t'attends qu'à toi seul. #motivation #discipline #esope #lafontaine #fable",
+   "phrases": [
+    [
+     "Une alouette a fait son nid au milieu d'un champ de *blé*. Et le blé est mûr.",
+     1.3
+    ],
+    [
+     "Ses petits ne savent pas encore voler. Elle leur dit : écoutez bien le fermier.",
+     1.2
+    ],
+    [
+     "Un jour, le fermier arrive avec son fils. Il dit : demandons à nos amis de venir moissonner.",
+     1.4
+    ],
+    [
+     "Les petits paniquent. La mère répond : restez tranquilles. Ce n'est pas encore le moment.",
+     1.4
+    ],
+    [
+     "Le lendemain, personne ne vient. Les amis ont autre chose à faire.",
+     1.2
+    ],
+    [
+     "Le fermier dit : alors demandons à la famille. Les cousins viendront.",
+     1.4
+    ],
+    [
+     "L'alouette ne bouge pas. Le lendemain, aucun cousin ne vient.",
+     1.4
+    ],
+    [
+     "Alors le fermier dit à son fils : demain à l'aube, on prend nos faucilles. On le fait nous-mêmes.",
+     1.6
+    ],
+    [
+     "L'alouette réveille ses petits. Cette fois, on part.",
+     1.8
+    ],
+    [
+     "Cette fable vient d'Ésope. La Fontaine l'a reprise, avec une morale en cinq mots.",
+     1.4
+    ],
+    [
+     "Ne t'attends qu'à toi *seul*.",
+     1.6
+    ],
+    [
+     "Tant que tu attends les autres, rien ne bouge. Ni les amis, ni la famille.",
+     1.2
+    ],
+    [
+     "Le jour où tu dis : je le fais moi-même, tout change.",
+     1.4
+    ],
+    [
+     "Alors pose-toi une question : ton projet, il attend qui ?",
+     1.4
+    ],
+    [
+     "Si la réponse n'est pas toi, il attendra *longtemps*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "nom": "j037",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j037_grandmere",
+   "perso": "grandmere",
+   "episode": 38,
+   "fin": "Envoie-la à quelqu'un qui est toujours en retard pour de bonnes raisons.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Deux heures de retard. Et de la paille.",
+   "legende": "La ponctualité, ça s'apprend. La bonté, jamais. #grandmere #mariage #amour #humour",
+   "phrases": [
+    [
+     "Le jour de notre mariage, ton grand-père est arrivé à la mairie avec deux heures de *retard*.",
+     1.3
+    ],
+    [
+     "Et de la paille dans les cheveux.",
+     1.4
+    ],
+    [
+     "Toute la noce attendait devant la mairie.",
+     1.2
+    ],
+    [
+     "Ma mère pleurait. Mon père répétait : je te l'avais dit.",
+     1.2
+    ],
+    [
+     "Moi, je serrais mon bouquet. J'étais sûre qu'il avait changé d'avis.",
+     1.4
+    ],
+    [
+     "Puis on l'a vu arriver en courant, couvert de boue.",
+     1.2
+    ],
+    [
+     "Il a dit : la vache du voisin vêlait. Le veau se présentait mal. Il n'y avait personne.",
+     1.6
+    ],
+    [
+     "J'avais envie de le tuer. Le maire aussi, je crois.",
+     1.4
+    ],
+    [
+     "Puis il m'a regardée, et il a dit : ils sont *vivants*. Tous les deux.",
+     1.8
+    ],
+    [
+     "À ce moment-là, j'ai su exactement quel homme j'épousais.",
+     1.4
+    ],
+    [
+     "Un homme qui ne laisse personne dans le pétrin. Même une vache. Même le jour de ses noces.",
+     1.4
+    ],
+    [
+     "Le voisin a donné mon prénom au veau. Je ne l'ai jamais remercié.",
+     1.6
+    ],
+    [
+     "Soixante ans plus tard, il est toujours en retard. Toujours pour aider quelqu'un.",
+     1.2
+    ],
+    [
+     "La ponctualité, ça s'apprend. La bonté, jamais.",
+     1.2
+    ],
+    [
+     "Alors choisis celui qui arrive en retard, avec de la *paille* dans les cheveux.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j037_grandpere",
+   "perso": "grandpere",
+   "episode": 39,
+   "fin": "Envoie-la à quelqu'un qui a un signal avec toi.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Le train a sifflé deux fois.",
+   "legende": "On croit que l'amour, ce sont des grands mots. Le mien tenait en deux coups de sifflet. #grandpere #amour #cheminot #emotion",
+   "phrases": [
+    [
+     "Pendant trente ans, mon train a sifflé deux fois en passant derrière notre maison.",
+     1.3
+    ],
+    [
+     "J'étais conducteur. La ligne longeait le jardin.",
+     1.2
+    ],
+    [
+     "Deux coups de sifflet. Ça voulait dire : je pense à *toi*.",
+     1.6
+    ],
+    [
+     "Ta grand-mère sortait avec son torchon. Elle l'agitait jusqu'à ce que le dernier wagon disparaisse.",
+     1.4
+    ],
+    [
+     "Même les jours de dispute. Ces jours-là, elle agitait le torchon un peu moins fort.",
+     1.4
+    ],
+    [
+     "Les collègues rigolaient. Ils disaient que j'usais le sifflet pour rien.",
+     1.2
+    ],
+    [
+     "J'ai pris ma retraite. Les trains ont continué à passer. Sans siffler.",
+     1.6
+    ],
+    [
+     "L'hiver dernier, ta grand-mère est partie.",
+     1.6
+    ],
+    [
+     "Le jour de l'enterrement, on est sortis de la maison derrière le cercueil.",
+     1.4
+    ],
+    [
+     "Et au même moment, le train de quinze heures est passé.",
+     1.2
+    ],
+    [
+     "Il a sifflé *deux fois*.",
+     1.8
+    ],
+    [
+     "Le conducteur, c'était un petit jeune que j'avais formé. Je ne lui avais jamais rien demandé.",
+     1.6
+    ],
+    [
+     "Il savait, c'est tout. Tout le monde savait.",
+     1.4
+    ],
+    [
+     "On croit que l'amour, ce sont des grands mots. Le mien tenait en deux coups de sifflet.",
+     1.4
+    ],
+    [
+     "Trouve ton signal. Et répète-le jusqu'au *bout*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j037_pere",
+   "perso": "pere",
+   "episode": 38,
+   "fin": "Envoie-la à quelqu'un qui a su laisser partir.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J'ai écrit ce discours onze fois.",
+   "legende": "Aimer quelqu'un, ce n'est pas forcément le garder. #papa #pere #divorce #amour #famille",
+   "phrases": [
+    [
+     "Au remariage de ta mère, c'est moi qui ai fait le *discours*.",
+     1.3
+    ],
+    [
+     "Quand je me suis levé, toute la salle a retenu son souffle.",
+     1.4
+    ],
+    [
+     "Notre divorce avait été une guerre. Des avocats, des cris, des portes claquées.",
+     1.4
+    ],
+    [
+     "Ce que tu ne sais pas, c'est que j'ai écrit ce discours onze fois.",
+     1.4
+    ],
+    [
+     "Les premières versions étaient méchantes. Je les ai toutes brûlées dans l'évier.",
+     1.4
+    ],
+    [
+     "La dernière était très courte.",
+     1.6
+    ],
+    [
+     "J'ai dit : je l'ai aimée vingt ans, et à la fin, je ne savais plus la faire rire.",
+     1.6
+    ],
+    [
+     "Puis je me suis tourné vers son mari : vous, vous savez. *Merci*.",
+     1.8
+    ],
+    [
+     "Ta mère a pleuré. Toi, tu m'as serré à m'en casser les côtes.",
+     1.4
+    ],
+    [
+     "Ça m'a coûté, je ne vais pas te mentir. J'ai dormi douze heures, après. Comme après un déménagement.",
+     1.4
+    ],
+    [
+     "Mais j'ai compris quelque chose ce jour-là.",
+     1.2
+    ],
+    [
+     "Aimer quelqu'un, ce n'est pas forcément le garder. C'est vouloir qu'il soit heureux. Même sans toi.",
+     1.6
+    ],
+    [
+     "Ta mère et moi, on a raté notre mariage. Mais on a réussi notre *divorce*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j037_mere",
+   "perso": "mere",
+   "episode": 38,
+   "fin": "Envoie-la à quelqu'un qui a aimé pour deux.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Je vais aimer pour deux.",
+   "legende": "Parfois, il faut que quelqu'un aime pour deux. #maman #mere #couple #amour #emotion",
+   "phrases": [
+    [
+     "Un soir, j'ai dit à ton père que je ne l'aimais plus.",
+     1.3
+    ],
+    [
+     "Tu avais douze ans. Tu dormais dans la chambre à côté.",
+     1.2
+    ],
+    [
+     "Je n'avais rien à lui reprocher. C'était vide, comme une maison sans chauffage.",
+     1.4
+    ],
+    [
+     "Je m'attendais à des cris. À une valise. À une porte qui claque.",
+     1.4
+    ],
+    [
+     "Ton père a posé sa tasse. Il a réfléchi longtemps.",
+     1.6
+    ],
+    [
+     "Puis il a dit : d'accord. Alors je vais *aimer pour deux*, le temps que ça revienne.",
+     1.8
+    ],
+    [
+     "Et il l'a fait. Pendant presque un an.",
+     1.4
+    ],
+    [
+     "Il me préparait mon café. Il laissait la lumière allumée quand je rentrais tard.",
+     1.2
+    ],
+    [
+     "Il ne m'a jamais rien demandé. Pas une question, pas un reproche.",
+     1.4
+    ],
+    [
+     "Un dimanche, il réparait ton vélo dans le garage. Il jurait contre la chaîne.",
+     1.2
+    ],
+    [
+     "Et je me suis surprise à le regarder. Longtemps. *Comme avant*.",
+     1.8
+    ],
+    [
+     "Le soir, il a souri. Il a dit : te revoilà.",
+     1.6
+    ],
+    [
+     "L'amour a des hivers. Ça ne veut pas dire que le printemps ne reviendra pas.",
+     1.4
+    ],
+    [
+     "Parfois, il faut que quelqu'un aime pour deux. Un jour, ce sera peut-être ton *tour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j037_fou",
+   "perso": "fou",
+   "episode": 37,
+   "fin": "Envoie-la à quelqu'un que personne ne veut croire.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Il a bu un bouillon de bactéries.",
+   "legende": "Quand personne ne te croit, arrête d'expliquer. Prouve. #motivation #science #medecine #perseverance",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-quatre, un jeune médecin australien boit un bouillon rempli de *bactéries*.",
+     1.3
+    ],
+    [
+     "Il le fait exprès. Pour prouver qu'il a raison.",
+     1.4
+    ],
+    [
+     "À l'époque, on est sûr que l'ulcère de l'estomac vient des nerfs et de l'acide.",
+     1.2
+    ],
+    [
+     "Lui et son collègue, Robin Warren, accusent une bactérie cachée dans l'estomac.",
+     1.2
+    ],
+    [
+     "Impossible, répondent les experts. Rien ne peut vivre dans un estomac.",
+     1.4
+    ],
+    [
+     "Leurs résultats sont classés parmi les dix pour cent les plus mauvais d'un congrès.",
+     1.6
+    ],
+    [
+     "Alors il décide de servir lui-même de *cobaye*.",
+     1.6
+    ],
+    [
+     "Trois jours après, il a des nausées.",
+     1.2
+    ],
+    [
+     "Et une haleine si terrible que sa femme le remarque.",
+     1.4
+    ],
+    [
+     "Le huitième jour, on examine son estomac. Il est en feu. La bactérie est là.",
+     1.8
+    ],
+    [
+     "Il avait raison depuis le début.",
+     1.6
+    ],
+    [
+     "Vingt et un ans plus tard, Robin Warren et lui reçoivent le prix Nobel de médecine.",
+     1.4
+    ],
+    [
+     "Cet homme, c'est Barry Marshall.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, tu sauras quelque chose que personne ne veut croire.",
+     1.2
+    ],
+    [
+     "Ce jour-là, arrête d'expliquer. *Prouve*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

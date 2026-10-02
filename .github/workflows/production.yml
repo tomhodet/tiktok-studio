@@ -2,6 +2,7 @@ name: production
 # Fabrication des vidéos en série : un envoi qui modifie tiktok/commande.json lance la fabrication des lots
 # commandés (5 épisodes par lot). Chaque épisode est fabriqué de bout en bout sur sa propre machine puis
 # déposé dans le brouillon de publication de son jour (visible seulement par le propriétaire du dépôt).
+# Les prises de voix sont gardées en cache, chiffrées : une panne en fin de chaîne ne les fait pas perdre.
 on:
   push:
     branches: [main]
@@ -63,16 +64,26 @@ jobs:
           sudo apt-get install -y -qq ffmpeg fluidsynth musescore-general-soundfont > /dev/null
           python -m venv /tmp/tts
           /tmp/tts/bin/pip install -q --index-url https://download.pytorch.org/whl/cpu --extra-index-url https://pypi.org/simple chatterbox-tts 2>&1 | tail -3
-          /tmp/tts/bin/pip install -q faster-whisper soundfile num2words playwright 2>&1 | tail -3
+          /tmp/tts/bin/pip install -q faster-whisper soundfile num2words playwright mido 2>&1 | tail -3
           /tmp/tts/bin/python -m playwright install --with-deps chromium > /dev/null 2>&1
           echo "/tmp/tts/bin" >> "$GITHUB_PATH"
           ffmpeg -hide_banner -filters 2>/dev/null | grep -q rubberband && echo "rubberband disponible" || echo "rubberband absent : atempo"
-      - name: Références de voix et fond déchiffrés
+      - name: Prises déjà calculées
+        uses: actions/cache/restore@v4
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-${{ github.run_id }}
+          restore-keys: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-
+      - name: Références de voix, fond et prises déchiffrés
         env:
           COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
         run: |
           bash tiktok/outils/coffre.sh dechiffrer tiktok/voix_ref
           bash tiktok/outils/coffre.sh dechiffrer tiktok/fonds
+          if [ -f prises.tar.enc ]; then
+            openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in prises.tar.enc -pass env:COFFRE_CLE | tar -x
+            echo "prises reprises : $(ls tiktok/${{ matrix.ep }}/voix_cb/*/*.flac 2>/dev/null | wc -l)"
+          fi
       - name: Fabrication
         run: |
           set +e
@@ -80,6 +91,20 @@ jobs:
           code=$?
           echo "code de sortie $code"
           [ "$code" = 0 ] || [ "$code" = 4 ]
+      - name: Prises chiffrées pour une reprise
+        if: always()
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          rm -f prises.tar.enc
+          if [ -d "tiktok/${{ matrix.ep }}/voix_cb" ]; then
+            tar -c "tiktok/${{ matrix.ep }}/voix_cb" | openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -out prises.tar.enc -pass env:COFFRE_CLE
+          fi
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Dépôt dans le brouillon du jour
         env:
           GH_TOKEN: ${{ github.token }}
