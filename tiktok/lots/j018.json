@@ -1,0 +1,344 @@
+{
+ "nom": "j018",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j018_grandmere",
+   "perso": "grandmere",
+   "episode": 19,
+   "fin": "Envoie-la à quelqu’un qui a travaillé toute sa vie.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Regarde mes mains.",
+   "legende": "Des mains abîmées, ce sont des mains qui ont servi. #grandmere #travail #fierte #emotion",
+   "phrases": [
+    [
+     "Regarde mes mains. Elles sont tordues, tachées, pleines de rides. Je les trouve *belles*.",
+     1.3
+    ],
+    [
+     "Ces mains ont lavé des draps dans la rivière, l'hiver, quand j'avais dix ans.",
+     1.2
+    ],
+    [
+     "Elles ont tenu ta mère pour la première fois. Elle tenait dans une seule.",
+     1.6
+    ],
+    [
+     "Elles ont fait des milliers de repas. Des milliers de lits. Des milliers de pansements.",
+     1.4
+    ],
+    [
+     "Elles ont tenu la main de ton grand-père, le jour où il est parti.",
+     1.8
+    ],
+    [
+     "Quand j'étais jeune, j'avais honte de mes mains. Elles étaient rouges, abîmées.",
+     1.2
+    ],
+    [
+     "Les filles de la ville avaient des mains blanches et douces.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, je sais une chose.",
+     1.0
+    ],
+    [
+     "Des mains abîmées, ce sont des mains qui ont *servi*.",
+     1.6
+    ],
+    [
+     "Les mains parfaites, ce sont souvent des mains qui n'ont rien porté.",
+     1.4
+    ],
+    [
+     "Ne cache jamais tes cicatrices. Ne cache jamais tes rides.",
+     1.2
+    ],
+    [
+     "Ce sont les traces de tout ce que tu as fait pour les autres.",
+     1.4
+    ],
+    [
+     "Un jour, quelqu'un les trouvera *belles*, toi aussi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j018_grandpere",
+   "perso": "grandpere",
+   "episode": 20,
+   "fin": "Envoie-la à quelqu’un qui veut tout, tout de suite.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Tu ne peux pas tirer sur une tomate.",
+   "legende": "La patience, c'est le seul engrais qui ne coûte rien. #grandpere #jardin #patience #sagesse",
+   "phrases": [
+    [
+     "Pendant quarante ans, j'ai cultivé un petit *jardin*, au bord de la voie ferrée.",
+     1.3
+    ],
+    [
+     "Dix mètres sur vingt. Des tomates, des haricots, et une cabane qui penchait.",
+     1.2
+    ],
+    [
+     "Mes collègues partaient en vacances au soleil. Moi, j'allais au jardin.",
+     1.4
+    ],
+    [
+     "Ils me trouvaient triste. Moi, je les trouvais pressés.",
+     1.6
+    ],
+    [
+     "Un jardin, ça t'apprend tout ce qu'il faut savoir sur la vie.",
+     1.2
+    ],
+    [
+     "Tu ne peux pas tirer sur une tomate pour qu'elle pousse plus *vite*.",
+     1.6
+    ],
+    [
+     "Tu ne récoltes que ce que tu as semé. Jamais plus.",
+     1.4
+    ],
+    [
+     "Et certaines années, malgré tout ton travail, la grêle détruit tout.",
+     1.4
+    ],
+    [
+     "Alors tu recommences. Sans te plaindre. Au printemps.",
+     1.6
+    ],
+    [
+     "Les gens d'aujourd'hui veulent des résultats tout de suite. Des récoltes sans saisons.",
+     1.2
+    ],
+    [
+     "Ça n'existe pas. Ni dans un jardin, ni dans une vie.",
+     1.4
+    ],
+    [
+     "Plante. Arrose. Attends. Et accepte la grêle.",
+     1.4
+    ],
+    [
+     "La *patience*, c'est le seul engrais qui ne coûte rien.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j018_pere",
+   "perso": "pere",
+   "episode": 19,
+   "fin": "Envoie-la à ton père. Tu l’as dépassé, mais il est toujours là.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je t’ai dit que j’avais une crampe.",
+   "legende": "Le jour où l'enfant devient plus rapide que le père. #papa #pere #grandir #fierte #emotion",
+   "phrases": [
+    [
+     "Le jour où tu m'as battu à la course, je t'ai dit que j'avais une crampe. C'était *faux*.",
+     1.3
+    ],
+    [
+     "Tu avais quatorze ans. On courait jusqu'au bout de la plage, comme tous les étés.",
+     1.2
+    ],
+    [
+     "Pendant des années, je te laissais un peu d'avance, puis je te dépassais à la fin.",
+     1.4
+    ],
+    [
+     "Cet été-là, j'ai couru de toutes mes forces. Et tu es arrivé avant moi.",
+     1.6
+    ],
+    [
+     "Tu as levé les bras. Tu riais. Tu ne te doutais de rien.",
+     1.4
+    ],
+    [
+     "J'ai fait semblant d'avoir mal à la jambe. Pour que tu ne voies pas l'autre chose.",
+     1.6
+    ],
+    [
+     "Ce n'était pas de la jalousie. C'était un coup au cœur.",
+     1.6
+    ],
+    [
+     "Je venais de comprendre que tu n'aurais plus jamais besoin de *moi* pour gagner.",
+     1.8
+    ],
+    [
+     "Tous les pères vivent ce moment. Le jour où l'enfant devient plus grand, plus rapide, plus fort.",
+     1.4
+    ],
+    [
+     "C'est le but. C'est exactement pour ça qu'on se lève chaque matin.",
+     1.4
+    ],
+    [
+     "Mais personne ne te prévient que ça fait aussi un peu mal.",
+     1.6
+    ],
+    [
+     "Alors si un jour tu dépasses ton père, ne lui dis rien.",
+     1.2
+    ],
+    [
+     "Ralentis juste un peu sur le retour. Et marchez *ensemble*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j018_mere",
+   "perso": "mere",
+   "episode": 19,
+   "fin": "Envoie-la à ta mère, qui t’a toujours vu plus grand.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Toujours une taille au-dessus.",
+   "legende": "Achète-leur des rêves une taille au-dessus. #maman #mere #enfance #confiance #amour",
+   "phrases": [
+    [
+     "Quand tu étais petit, je t'achetais toujours des chaussures une *taille* au-dessus.",
+     1.3
+    ],
+    [
+     "Tu nageais dedans. Tu tombais. Tu me disais : maman, elles sont trop grandes.",
+     1.4
+    ],
+    [
+     "Je répondais : tu vas grandir.",
+     1.6
+    ],
+    [
+     "On n'avait pas assez d'argent pour en racheter tous les six mois.",
+     1.2
+    ],
+    [
+     "Alors tu as passé ton enfance dans des chaussures trop grandes. Avec du papier au bout.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu me dis en riant que c'est pour ça que tu marches bizarrement.",
+     1.4
+    ],
+    [
+     "Mais tu sais ce que je vois, moi ?",
+     1.0
+    ],
+    [
+     "Un enfant qui a toujours eu de la place pour *grandir*.",
+     1.6
+    ],
+    [
+     "Dans tes chaussures. Dans tes rêves. Dans ce que je croyais de toi.",
+     1.4
+    ],
+    [
+     "Je t'ai toujours vu un peu plus grand que tu n'étais.",
+     1.6
+    ],
+    [
+     "Et tu as fini par remplir les chaussures.",
+     1.6
+    ],
+    [
+     "Si tu as des enfants un jour, achète-leur des rêves une taille au-dessus.",
+     1.2
+    ],
+    [
+     "Ils finiront par les *remplir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j018_fou",
+   "perso": "fou",
+   "episode": 18,
+   "fin": "Envoie-la à quelqu’un qui construit sa cathédrale.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je construis une cathédrale.",
+   "legende": "La différence, ce n'est pas ce que tu fais. C'est ce que tu vois. #motivation #sens #travail #ambition",
+   "phrases": [
+    [
+     "Un voyageur passe devant un chantier. Il demande à trois *maçons* ce qu'ils font.",
+     1.3
+    ],
+    [
+     "Le premier, sans lever la tête, répond : je pose des briques.",
+     1.4
+    ],
+    [
+     "Le deuxième répond : je monte un mur. Je gagne ma vie.",
+     1.4
+    ],
+    [
+     "Le troisième pose sa truelle. Il sourit. Il dit : je construis une cathédrale.",
+     1.8
+    ],
+    [
+     "Ils faisaient exactement le même travail. Les mêmes briques. Le même mortier.",
+     1.2
+    ],
+    [
+     "Mais un seul allait rentrer chez lui fier, ce soir-là.",
+     1.6
+    ],
+    [
+     "La différence, ce n'est pas ce que tu fais. C'est ce que tu *vois*.",
+     1.6
+    ],
+    [
+     "Tu crois que ton travail est petit. Répétitif. Inutile.",
+     1.2
+    ],
+    [
+     "Tu poses des briques. Tous les jours. Les mêmes.",
+     1.4
+    ],
+    [
+     "Mais tes briques construisent quelque chose. Ta famille. Ton avenir. Ta liberté.",
+     1.4
+    ],
+    [
+     "Lève la tête de temps en temps. Regarde la cathédrale.",
+     1.4
+    ],
+    [
+     "Et si tu ne vois aucune cathédrale, alors change de chantier.",
+     1.4
+    ],
+    [
+     "La vie est trop courte pour poser des briques qui ne construisent *rien*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

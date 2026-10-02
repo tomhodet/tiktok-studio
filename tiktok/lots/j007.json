@@ -1,0 +1,348 @@
+{
+ "nom": "j007",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j007_grandmere",
+   "perso": "grandmere",
+   "episode": 8,
+   "fin": "Envoie-la à quelqu’un qui a le cœur sur la main.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Toujours une assiette de trop.",
+   "legende": "Le bien que tu fais fait juste un long détour. #grandmere #gentillesse #famille #histoirevraie",
+   "phrases": [
+    [
+     "Chez moi, il y a toujours une *assiette* de trop sur la table. Depuis soixante ans.",
+     1.3
+    ],
+    [
+     "Ma mère faisait pareil. Elle disait : on ne sait jamais qui va frapper à la porte.",
+     1.2
+    ],
+    [
+     "Quand j'avais huit ans, un soir d'hiver, quelqu'un a frappé.",
+     1.0
+    ],
+    [
+     "Un homme trempé, qui n'avait pas mangé depuis deux jours.",
+     1.2
+    ],
+    [
+     "Ma mère lui a servi la soupe dans l'assiette de trop. Il a pleuré en mangeant.",
+     1.6
+    ],
+    [
+     "On ne l'a jamais revu. Du moins, c'est ce que je croyais.",
+     1.4
+    ],
+    [
+     "Vingt ans plus tard, ma mère est tombée malade. On n'avait pas d'argent pour l'opération.",
+     1.2
+    ],
+    [
+     "Le chirurgien est venu la voir. Il l'a regardée longtemps.",
+     1.2
+    ],
+    [
+     "Il a dit : vous ne me reconnaissez pas ? Vous m'avez donné de la *soupe*, un soir d'hiver.",
+     1.8
+    ],
+    [
+     "Il n'a jamais envoyé la facture.",
+     1.6
+    ],
+    [
+     "Je ne sais pas si c'est le destin. Ma mère disait que c'était la soupe.",
+     1.4
+    ],
+    [
+     "Le bien que tu fais ne disparaît jamais. Il fait juste un long *détour*.",
+     1.2
+    ],
+    [
+     "Alors garde toujours une assiette de trop.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j007_grandpere",
+   "perso": "grandpere",
+   "episode": 9,
+   "fin": "Envoie-la à quelqu’un qui porte tout tout seul.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je n’ai pas réussi à ouvrir un pot de confiture.",
+   "legende": "Demander de l'aide, c'est laisser quelqu'un t'aimer. #grandpere #fierte #couple #sagesse",
+   "phrases": [
+    [
+     "J'étais l'homme le plus fort de l'usine. Je portais les sacs de ciment par deux.",
+     1.3
+    ],
+    [
+     "Je n'ai jamais demandé d'aide à personne. *Jamais*.",
+     1.4
+    ],
+    [
+     "Ce matin, je n'ai pas réussi à ouvrir un pot de confiture.",
+     1.6
+    ],
+    [
+     "Je suis resté dix minutes dans la cuisine, à me battre avec ce pot.",
+     1.2
+    ],
+    [
+     "Ta grand-mère m'a regardé. Elle n'a rien dit. Elle a attendu.",
+     1.4
+    ],
+    [
+     "Et j'ai fait quelque chose que je n'avais jamais fait en quatre-vingts ans.",
+     1.2
+    ],
+    [
+     "Je lui ai tendu le pot. Et j'ai dit : tu peux m'*aider* ?",
+     1.8
+    ],
+    [
+     "Elle l'a ouvert en deux secondes. Elle a souri. Elle n'a rien ajouté.",
+     1.4
+    ],
+    [
+     "J'ai compris ce matin ce que j'aurais dû comprendre à vingt ans.",
+     1.2
+    ],
+    [
+     "Demander de l'aide, ce n'est pas être faible.",
+     1.2
+    ],
+    [
+     "C'est laisser quelqu'un t'aimer.",
+     1.8
+    ],
+    [
+     "Combien de fois j'ai porté seul des choses trop lourdes, juste par fierté ?",
+     1.2
+    ],
+    [
+     "Ne fais pas comme moi. Tends le *pot*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j007_pere",
+   "perso": "pere",
+   "episode": 8,
+   "fin": "Envoie-la à ton père.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je ne t’ai jamais dit comment je l’ai payé.",
+   "legende": "Il a vendu sa guitare. Il ne l'a jamais dit. #papa #pere #sacrifice #famille #emotion",
+   "phrases": [
+    [
+     "Tu te souviens de ton appareil dentaire ? Je ne t'ai jamais dit comment je l'ai *payé*.",
+     1.3
+    ],
+    [
+     "J'avais une guitare. Une vieille guitare que j'avais depuis mes seize ans.",
+     1.2
+    ],
+    [
+     "C'était la seule chose qui était vraiment à moi.",
+     1.4
+    ],
+    [
+     "Le dentiste a donné le prix. On ne l'avait pas.",
+     1.2
+    ],
+    [
+     "Le lendemain, je suis allé chez un brocanteur. Je suis revenu sans ma guitare.",
+     1.6
+    ],
+    [
+     "Ta mère a pleuré. Moi, j'ai dit que je n'en jouais plus, de toute façon.",
+     1.4
+    ],
+    [
+     "C'était faux. J'en jouais tous les soirs, quand tu dormais.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, quand tu souris, je vois ma *guitare*.",
+     1.6
+    ],
+    [
+     "Et tu sais quoi ? C'est la plus belle chanson que j'aie jamais jouée.",
+     1.4
+    ],
+    [
+     "Il y a des choses que les parents ne racontent pas.",
+     1.2
+    ],
+    [
+     "Pas pour qu'on leur dise merci. Juste parce que c'était normal.",
+     1.4
+    ],
+    [
+     "Mais un jour, toi aussi, tu vendras ta guitare pour quelqu'un.",
+     1.2
+    ],
+    [
+     "Et ce jour-là, tu *souriras*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j007_mere",
+   "perso": "mere",
+   "episode": 8,
+   "fin": "Envoie-la à ta mère.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Cette cicatrice, c’est toi.",
+   "legende": "Certaines cicatrices sont des portes. #maman #mere #naissance #amour #emotion",
+   "phrases": [
+    [
+     "J'ai une *cicatrice* de quinze centimètres sur le ventre. C'est toi.",
+     1.3
+    ],
+    [
+     "Tu ne voulais pas sortir. Tu étais bien, là-dedans.",
+     1.4
+    ],
+    [
+     "Après vingt heures, le médecin a dit : on y va.",
+     1.2
+    ],
+    [
+     "J'avais peur. Pas pour moi. Pour toi.",
+     1.4
+    ],
+    [
+     "Quand je me suis réveillée, tu étais sur ma poitrine. Tout petit. Tout rouge. Furieux.",
+     1.6
+    ],
+    [
+     "Pendant des années, j'ai caché cette cicatrice. À la plage, je mettais un paréo.",
+     1.2
+    ],
+    [
+     "Je la trouvais laide.",
+     1.4
+    ],
+    [
+     "Et puis un jour, tu avais quatre ans, tu l'as vue.",
+     1.0
+    ],
+    [
+     "Tu as demandé : c'est quoi ? J'ai dit : c'est la porte par où tu es arrivé.",
+     1.6
+    ],
+    [
+     "Tu l'as *embrassée*. Et depuis ce jour-là, je ne la cache plus.",
+     1.8
+    ],
+    [
+     "On a tous des cicatrices dont on a honte.",
+     1.2
+    ],
+    [
+     "Mais certaines sont des *portes*.",
+     1.4
+    ],
+    [
+     "Par où sont arrivées les plus belles choses de notre vie.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j007_fou",
+   "perso": "fou",
+   "episode": 7,
+   "fin": "Envoie-la à quelqu’un qui est né pour voler.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il pensait qu’il était une poule.",
+   "legende": "Ceux qui grattent la terre te diront toujours de gratter la terre. #motivation #mindset #confiance #reussite",
+   "phrases": [
+    [
+     "Un fermier a trouvé un œuf d'aigle. Il l'a mis sous une de ses *poules*.",
+     1.3
+    ],
+    [
+     "L'aiglon est né au milieu des poussins. Il a grandi avec eux.",
+     1.2
+    ],
+    [
+     "Il grattait la terre. Il picorait des graines. Il battait des ailes pour sauter sur la barrière.",
+     1.2
+    ],
+    [
+     "Il pensait qu'il était une poule.",
+     1.6
+    ],
+    [
+     "Un jour, il a levé les yeux. Un aigle immense planait au-dessus de la ferme.",
+     1.2
+    ],
+    [
+     "Il a demandé : qui est-ce ? Une poule a répondu : c'est le roi du ciel.",
+     1.4
+    ],
+    [
+     "Ne rêve pas. Toi, tu es né pour gratter la terre.",
+     1.6
+    ],
+    [
+     "Alors il a baissé la tête. Et il est mort comme une poule.",
+     1.8
+    ],
+    [
+     "Ce ne sont pas ses ailes qui lui manquaient. C'est quelqu'un pour lui dire ce qu'il *était*.",
+     1.6
+    ],
+    [
+     "Regarde autour de toi. Qui te dit ce que tu es ?",
+     1.2
+    ],
+    [
+     "Ceux qui grattent la terre te diront toujours de gratter la terre.",
+     1.4
+    ],
+    [
+     "Pas parce qu'ils sont méchants. Parce qu'ils n'ont jamais vu le ciel.",
+     1.4
+    ],
+    [
+     "Toi, tu l'as vu. Tu le sais.",
+     1.0
+    ],
+    [
+     "Alors arrête de picorer. *Vole*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

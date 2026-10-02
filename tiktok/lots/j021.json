@@ -1,0 +1,344 @@
+{
+ "nom": "j021",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j021_grandmere",
+   "perso": "grandmere",
+   "episode": 22,
+   "fin": "Envoie-la à quelqu’un qui va se marier.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Ma robe de mariée, c’étaient les rideaux du salon.",
+   "legende": "Ce qui compte, c'est qui t'attend au bout de l'allée. #grandmere #mariage #amour #famille #humour",
+   "phrases": [
+    [
+     "Ma robe de mariée, ma mère l'a cousue dans les *rideaux* du salon.",
+     1.3
+    ],
+    [
+     "On n'avait pas d'argent pour du tissu. Encore moins pour une robe.",
+     1.2
+    ],
+    [
+     "Pendant trois semaines, elle a cousu tous les soirs, à la lumière d'une lampe à pétrole.",
+     1.4
+    ],
+    [
+     "Le salon est resté sans rideaux tout l'été. Les voisins voyaient tout.",
+     1.6
+    ],
+    [
+     "Le jour du mariage, la robe était un peu jaunie. Elle sentait la pipe de mon père.",
+     1.6
+    ],
+    [
+     "J'avais honte. Mes cousines avaient des robes de la ville.",
+     1.2
+    ],
+    [
+     "Ton grand-père m'a vue arriver à l'église. Il a pleuré.",
+     1.6
+    ],
+    [
+     "Il a dit : tu es la plus belle chose que j'aie jamais *vue*.",
+     1.8
+    ],
+    [
+     "Soixante ans plus tard, ta cousine s'est mariée dans une robe à trois mille euros.",
+     1.2
+    ],
+    [
+     "Elle a divorcé l'année d'après.",
+     1.6
+    ],
+    [
+     "Je ne dis pas que les belles robes portent malheur.",
+     1.2
+    ],
+    [
+     "Je dis que ce qui compte, ce n'est jamais le tissu. C'est qui t'attend au bout de l'allée.",
+     1.6
+    ],
+    [
+     "Et qui a cousu pour toi, *toute* la nuit.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j021_grandpere",
+   "perso": "grandpere",
+   "episode": 23,
+   "fin": "Envoie-la à quelqu’un qui dit je t’aime avec les mains.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Pas une seule fois.",
+   "legende": "Ces hommes-là n'avaient pas appris les mots. Ils avaient appris les mains. #grandpere #pere #amour #famille",
+   "phrases": [
+    [
+     "Mon père ne m'a jamais dit qu'il m'aimait. Pas une seule *fois*.",
+     1.3
+    ],
+    [
+     "Il rentrait de la mine noir de la tête aux pieds. Il mangeait sans parler. Il se couchait.",
+     1.4
+    ],
+    [
+     "Pendant des années, j'ai cru qu'il ne m'aimait pas.",
+     1.6
+    ],
+    [
+     "Le jour où je suis parti au service militaire, il m'a accompagné à la gare.",
+     1.2
+    ],
+    [
+     "Il n'a rien dit sur le quai. Il a juste posé sa main sur mon épaule. Et il a serré.",
+     1.8
+    ],
+    [
+     "Fort. Longtemps.",
+     1.6
+    ],
+    [
+     "Je n'ai compris que bien plus tard que c'était son *je t'aime*.",
+     1.8
+    ],
+    [
+     "Ces hommes-là n'avaient pas appris les mots. Ils avaient appris les mains.",
+     1.6
+    ],
+    [
+     "Quand ton père est parti à l'université, j'ai fait pareil. La main sur l'épaule.",
+     1.4
+    ],
+    [
+     "Mais je me suis rattrapé. Le soir, au téléphone, je lui ai dit : je t'aime, mon fils.",
+     1.6
+    ],
+    [
+     "Il a été tellement surpris qu'il m'a demandé si j'étais malade.",
+     1.4
+    ],
+    [
+     "Les mains, c'est bien. Les mots, c'est mieux. Les deux, c'est tout.",
+     1.4
+    ],
+    [
+     "Ne laisse pas ceux que tu aimes *deviner*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j021_pere",
+   "perso": "pere",
+   "episode": 22,
+   "fin": "Envoie-la à ton père. Même s’il se trompe parfois d’une lettre.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Il s’est trompé d’une lettre.",
+   "legende": "Ton prénom tatoué. Avec une faute. #papa #pere #tatouage #humour #amour",
+   "phrases": [
+    [
+     "Ta mère ne le sait pas, mais j'ai ton *prénom* tatoué sur l'épaule.",
+     1.3
+    ],
+    [
+     "Je l'ai fait le lendemain de ta naissance. Sur un coup de tête.",
+     1.4
+    ],
+    [
+     "Le tatoueur m'a demandé : vous êtes sûr ? Les prénoms, c'est pour la vie.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : justement.",
+     1.6
+    ],
+    [
+     "Il s'est trompé d'une *lettre*.",
+     1.8
+    ],
+    [
+     "Depuis vingt-cinq ans, j'ai ton prénom mal écrit sur l'épaule. Et je n'ai jamais voulu le corriger.",
+     1.6
+    ],
+    [
+     "À la piscine, les gens me demandent qui c'est. Je leur dis : c'est mon enfant. Ou presque.",
+     1.6
+    ],
+    [
+     "Ce tatouage, c'est moi. Plein de bonne volonté. Et un peu à côté.",
+     1.6
+    ],
+    [
+     "J'ai été un père comme ça. J'ai voulu bien faire. Je me suis souvent trompé d'une lettre.",
+     1.6
+    ],
+    [
+     "Mais l'intention était là. Gravée. Pour la vie.",
+     1.4
+    ],
+    [
+     "Si un jour tu as des enfants, tu te tromperas toi aussi.",
+     1.2
+    ],
+    [
+     "Ce n'est pas grave. Ils sauront lire entre les lettres.",
+     1.4
+    ],
+    [
+     "Ce qui compte, c'est que ce soit *gravé*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j021_mere",
+   "perso": "mere",
+   "episode": 22,
+   "fin": "Envoie-la à ta mère et à son sac trop lourd.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Mon sac est trop lourd. C’est de ta faute.",
+   "legende": "Une petite voiture dans son sac depuis trente ans. #maman #mere #humour #amour #famille",
+   "phrases": [
+    [
+     "Ça fait trente ans que mon sac est trop *lourd*. Et c'est de ta faute.",
+     1.3
+    ],
+    [
+     "Il y a des mouchoirs. Des pansements. Un biscuit. Une petite voiture.",
+     1.2
+    ],
+    [
+     "La petite voiture, tu avais quatre ans. Tu en as trente-quatre. Je ne l'ai jamais sortie.",
+     1.6
+    ],
+    [
+     "Il y a aussi un paquet de lingettes. Tu n'en as plus besoin depuis longtemps.",
+     1.4
+    ],
+    [
+     "Mais je ne sais pas faire autrement. Mon sac s'est rempli pour toi. Il ne s'est jamais vidé.",
+     1.6
+    ],
+    [
+     "Ton père dit que je porte une pharmacie. Il a raison.",
+     1.4
+    ],
+    [
+     "La semaine dernière, tu t'es coupé le doigt chez moi. J'ai sorti un pansement en deux secondes.",
+     1.6
+    ],
+    [
+     "Tu as ri. Tu as dit : maman, tu es *incroyable*.",
+     1.8
+    ],
+    [
+     "Voilà. C'est pour ces deux secondes-là que je porte ce sac depuis trente ans.",
+     1.6
+    ],
+    [
+     "Les mères ne se débarrassent jamais vraiment de rien.",
+     1.2
+    ],
+    [
+     "Ni de leurs inquiétudes. Ni de leurs mouchoirs. Ni de leur amour.",
+     1.4
+    ],
+    [
+     "Alors ne te moque pas de mon sac.",
+     1.2
+    ],
+    [
+     "Un jour, tu auras le même. Et tu comprendras pourquoi il est si *lourd*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j021_fou",
+   "perso": "fou",
+   "episode": 21,
+   "fin": "Envoie-la à quelqu’un qui collectionne les refus.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Douze refus.",
+   "legende": "Douze éditeurs ont dit non à Harry Potter. #motivation #echec #perseverance #reussite #rowling",
+   "phrases": [
+    [
+     "Une mère seule, sans travail, écrit un roman dans des cafés, avec sa fille qui dort dans la *poussette*.",
+     1.3
+    ],
+    [
+     "Elle vit des aides sociales. Elle traverse une dépression. Elle se sent comme un échec total.",
+     1.4
+    ],
+    [
+     "Elle envoie son manuscrit à des éditeurs. Le premier refuse.",
+     1.2
+    ],
+    [
+     "Puis le deuxième. Le troisième. Douze refus.",
+     1.6
+    ],
+    [
+     "On lui conseille de trouver un vrai travail. Les livres pour enfants, ça ne rapporte rien.",
+     1.4
+    ],
+    [
+     "Le treizième éditeur accepte. Un petit tirage. Quelques centaines d'exemplaires.",
+     1.4
+    ],
+    [
+     "Ce livre s'appelait Harry *Potter*.",
+     1.8
+    ],
+    [
+     "Des centaines de millions de livres plus tard, elle dit que l'échec l'a libérée.",
+     1.4
+    ],
+    [
+     "Quand elle avait tout perdu, elle n'avait plus rien à perdre. Alors elle a tout donné.",
+     1.6
+    ],
+    [
+     "Toi, tu as peut-être reçu un refus. Deux. Dix.",
+     1.2
+    ],
+    [
+     "Chaque non te rapproche du seul oui qui compte.",
+     1.6
+    ],
+    [
+     "Douze personnes ont dit non à Harry Potter.",
+     1.4
+    ],
+    [
+     "Alors qui sont-ils, ceux qui t'ont dit non, pour décider de ta *fin* ?",
+     0
+    ]
+   ]
+  }
+ ]
+}

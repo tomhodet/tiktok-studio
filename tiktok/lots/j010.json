@@ -1,0 +1,348 @@
+{
+ "nom": "j010",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j010_grandmere",
+   "perso": "grandmere",
+   "episode": 11,
+   "fin": "Envoie-la à quelqu’un qui a déjà aidé un inconnu.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Il me manquait deux francs.",
+   "legende": "Le jour où vous pourrez, faites-le pour quelqu'un d'autre. #grandmere #gentillesse #entraide #emotion",
+   "phrases": [
+    [
+     "Le meilleur conseil de ma vie, c'est une *caissière* qui me l'a donné.",
+     1.3
+    ],
+    [
+     "J'avais trente ans, trois enfants, et plus un centime à la fin du mois.",
+     1.2
+    ],
+    [
+     "Ce jour-là, il me manquait deux francs pour payer mes courses.",
+     1.2
+    ],
+    [
+     "La file attendait derrière moi. Je sentais leurs regards. J'ai commencé à reposer le lait.",
+     1.4
+    ],
+    [
+     "La caissière a posé sa main sur la mienne. Elle a dit : gardez le lait.",
+     1.6
+    ],
+    [
+     "Elle a sorti deux francs de sa poche.",
+     1.4
+    ],
+    [
+     "En partant, je lui ai dit : je ne sais pas comment vous remercier.",
+     1.0
+    ],
+    [
+     "Elle m'a répondu : le jour où vous pourrez, faites-le pour quelqu'un d'*autre*.",
+     1.8
+    ],
+    [
+     "Je ne l'ai jamais revue.",
+     1.4
+    ],
+    [
+     "Mais depuis cinquante ans, je l'ai fait des centaines de fois. Pour des inconnus.",
+     1.4
+    ],
+    [
+     "Et chaque fois, je leur répète sa phrase.",
+     1.4
+    ],
+    [
+     "Garde toujours un peu de monnaie dans ta poche.",
+     1.0
+    ],
+    [
+     "Ce n'est pas de l'argent qu'on se passe. C'est un *relais*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j010_grandpere",
+   "perso": "grandpere",
+   "episode": 12,
+   "fin": "Envoie-la à quelqu’un qui commence en bas de l’échelle.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Comment il est entré dans la bouteille ?",
+   "legende": "Parfois, il faut entrer petit pour pouvoir se dresser. #grandpere #patience #travail #strategie",
+   "phrases": [
+    [
+     "Il m'a fallu trois ans pour construire le *bateau* qui est dans cette bouteille.",
+     1.3
+    ],
+    [
+     "Trois ans, avec des pinces, une loupe, et beaucoup de jurons.",
+     1.4
+    ],
+    [
+     "Tout le monde me demande comment il est entré par le goulot.",
+     1.2
+    ],
+    [
+     "La réponse, c'est qu'il est entré couché. Les mâts pliés. Tout petit.",
+     1.4
+    ],
+    [
+     "Et une fois à l'intérieur, j'ai tiré sur un fil. Et il s'est dressé.",
+     1.6
+    ],
+    [
+     "J'ai repensé à ce bateau toute ma vie.",
+     1.2
+    ],
+    [
+     "Quand j'ai commencé à l'usine, j'étais le plus jeune. On me donnait les pires tâches.",
+     1.4
+    ],
+    [
+     "J'ai plié mes mâts. J'ai appris. J'ai écouté. J'ai attendu.",
+     1.6
+    ],
+    [
+     "Et le jour venu, j'ai tiré sur le *fil*.",
+     1.6
+    ],
+    [
+     "Il y a des moments dans la vie où il faut entrer petit, pour pouvoir se dresser.",
+     1.6
+    ],
+    [
+     "Ce n'est pas de la faiblesse. C'est de la stratégie.",
+     1.2
+    ],
+    [
+     "Ne confonds jamais la patience et la soumission.",
+     1.2
+    ],
+    [
+     "Le bateau sait toujours qu'il est un *bateau*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j010_pere",
+   "perso": "pere",
+   "episode": 11,
+   "fin": "Envoie-la à quelqu’un qui a grandi entre deux maisons.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu as demandé si c’était de ta faute.",
+   "legende": "Je t'aime. Elle t'aime. Ça, ça n'a jamais divorcé. #papa #pere #divorce #famille #emotion",
+   "phrases": [
+    [
+     "Le jour où ta mère et moi, on s'est séparés, tu avais sept ans.",
+     1.3
+    ],
+    [
+     "Tu as demandé si c'était de ta *faute*. Je n'ai jamais oublié cette question.",
+     1.6
+    ],
+    [
+     "Ce n'était pas de ta faute. Ce ne l'a jamais été. Pas une seconde.",
+     1.4
+    ],
+    [
+     "On n'arrivait plus à s'aimer. Mais on n'a jamais arrêté de t'aimer.",
+     1.6
+    ],
+    [
+     "Je te voyais un week-end sur deux. Le dimanche soir, je te ramenais en voiture.",
+     1.2
+    ],
+    [
+     "Et quand tu fermais la portière, je restais garé au coin de la rue. Dix minutes.",
+     1.6
+    ],
+    [
+     "Je ne pouvais pas conduire. Je pleurais trop.",
+     1.6
+    ],
+    [
+     "Je me suis promis une chose : ne jamais dire de mal de ta mère devant toi.",
+     1.4
+    ],
+    [
+     "J'ai tenu. Même les jours où j'étais en colère.",
+     1.2
+    ],
+    [
+     "Parce que tu es fait d'elle, autant que de moi.",
+     1.6
+    ],
+    [
+     "Les adultes se séparent. Ça arrive.",
+     1.0
+    ],
+    [
+     "Mais un enfant ne devrait jamais avoir à choisir entre deux *moitiés* de lui-même.",
+     1.4
+    ],
+    [
+     "Je t'aime. Elle t'aime. Ça, ça n'a jamais divorcé.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j010_mere",
+   "perso": "mere",
+   "episode": 11,
+   "fin": "Envoie-la à ta mère. Elle a sûrement des lettres, elle aussi.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu n’as jamais eu le droit de l’ouvrir.",
+   "legende": "Sous son lit, une boîte de lettres jamais données. #maman #mere #lettres #amour #famille",
+   "phrases": [
+    [
+     "Sous mon lit, il y a une boîte à chaussures. Tu n'as jamais eu le droit de l'*ouvrir*.",
+     1.3
+    ],
+    [
+     "Dedans, il y a toutes les lettres que je t'ai écrites. Et que je ne t'ai jamais données.",
+     1.6
+    ],
+    [
+     "Une pour chaque anniversaire. Depuis ta naissance.",
+     1.4
+    ],
+    [
+     "La première dit : tu as un jour, et je ne dors plus.",
+     1.4
+    ],
+    [
+     "Celle de tes treize ans dit : tu as claqué la porte, et je t'aime quand même.",
+     1.6
+    ],
+    [
+     "Celle de tes dix-huit ans, je l'ai écrite dans la voiture, devant ta chambre d'étudiant.",
+     1.4
+    ],
+    [
+     "Je n'arrivais pas à *démarrer*.",
+     1.6
+    ],
+    [
+     "Je ne sais pas pourquoi je ne te les ai jamais données. Peut-être par pudeur.",
+     1.2
+    ],
+    [
+     "Peut-être parce qu'une mère a peur d'en dire trop.",
+     1.4
+    ],
+    [
+     "Un jour, cette boîte sera à toi.",
+     1.2
+    ],
+    [
+     "Tu y trouveras ce que je n'ai jamais su te dire en face.",
+     1.4
+    ],
+    [
+     "Mais je ne veux pas attendre ce jour-là.",
+     1.2
+    ],
+    [
+     "Alors voilà. La première lettre dit : je t'aime. Les autres disent *pareil*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j010_fou",
+   "perso": "fou",
+   "episode": 10,
+   "fin": "Envoie-la à quelqu’un qui doit tourner la page.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Vingt-sept ans en prison.",
+   "legende": "S'il n'avait pas laissé sa haine derrière lui, il serait resté prisonnier. #motivation #pardon #mandela #liberte",
+   "phrases": [
+    [
+     "Un homme a passé vingt-sept ans en *prison*.",
+     1.3
+    ],
+    [
+     "Près de dix mille jours. Une cellule minuscule. Un matelas par terre.",
+     1.2
+    ],
+    [
+     "On lui a pris sa jeunesse. On lui a pris sa famille.",
+     1.4
+    ],
+    [
+     "Quand il est sorti, il avait soixante et onze ans.",
+     1.4
+    ],
+    [
+     "Tout le monde attendait sa vengeance.",
+     1.6
+    ],
+    [
+     "Il a dit : si je n'avais pas laissé ma haine derrière moi, je serais resté *prisonnier*.",
+     1.8
+    ],
+    [
+     "Quatre ans plus tard, il est devenu président de son pays.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Nelson Mandela.",
+     1.6
+    ],
+    [
+     "Toi, tu n'as pas passé vingt-sept ans en prison.",
+     1.0
+    ],
+    [
+     "Mais tu portes peut-être une rancune depuis des années. Contre un ex. Un parent. Un ancien ami.",
+     1.4
+    ],
+    [
+     "Et tu crois que c'est eux que tu punis.",
+     1.4
+    ],
+    [
+     "C'est toi que tu enfermes.",
+     1.6
+    ],
+    [
+     "La porte est ouverte. Elle l'a toujours été.",
+     1.2
+    ],
+    [
+     "Il te reste juste à *sortir*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

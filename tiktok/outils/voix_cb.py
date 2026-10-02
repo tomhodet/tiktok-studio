@@ -80,8 +80,11 @@ def main() -> None:
     spec = json.loads((EP / "script.json").read_text(encoding="utf-8"))
     phrases = {p["n"]: p for p in spec["phrases"]}
     choix = sorted(phrases) if TACHE["phrases"] == "toutes" else TACHE["phrases"]
-    combos = [(n, r, e, c, g) for n in choix for r in TACHE["refs"] for e in TACHE["exag"]
-              for c in TACHE["cfg"] for g in TACHE["graines"]]
+    if TACHE.get("configs"):      # réglages listés tels quels : [[référence, exagération, cfg], ...]
+        combos = [(n, r, e, c, g) for n in choix for r, e, c in TACHE["configs"] for g in TACHE["graines"]]
+    else:                         # sinon toutes les combinaisons références x exagérations x cfg
+        combos = [(n, r, e, c, g) for n in choix for r in TACHE["refs"] for e in TACHE["exag"]
+                  for c in TACHE["cfg"] for g in TACHE["graines"]]
     mes = [x for i, x in enumerate(combos) if i % TACHE["lots"] == LOT]
     mes.sort(key=lambda x: (x[1], x[2]))          # une préparation de référence par groupe
     SORTIE.mkdir(parents=True, exist_ok=True)

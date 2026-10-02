@@ -24,11 +24,19 @@ def nombres_en_lettres(t: str) -> str:
 
 
 HOMOPHONES = [{"ses", "ces", "c'est", "s'est", "sait"}, {"a", "à", "as"}, {"et", "est", "es"}, {"ou", "où"},
-              {"on", "ont"}, {"son", "sont"}, {"mais", "mes", "met", "mets"}, {"la", "là", "l'a"}, {"ce", "se"}]
+              {"on", "ont"}, {"son", "sont"}, {"mais", "mes", "met", "mets"}, {"peu", "peut", "peux"},
+              {"la", "là", "l'a"}, {"quand", "qu'en", "quant"}, {"leur", "leurs"}, {"ce", "se"}, {"ma", "m'a"},
+              {"ta", "t'a"}, {"sa", "ça"}, {"dit", "dis"}, {"fait", "fais"}, {"vie", "vit"}, {"fin", "faim"},
+              {"pere", "père", "paire"}, {"par", "pars", "part"}, {"mère", "mer", "maire"}, {"cœur", "choeur", "chœur"},
+              {"ceux", "ce"}, {"traitera", "traîtra", "traitra"}, {"prends", "prend"},
+              {"pousse", "pouce", "pousses", "pouces"}, {"cou", "coup", "coût", "coups"}, {"verre", "vers", "vert", "ver"},
+              {"sans", "sang", "cent", "s'en"}, {"tant", "temps", "t'en"}, {"voix", "voie", "vois", "voit"}]
 
 
 def canon(m: str) -> str:
     """Forme de comparaison : sans accents, homophones ramenés à une seule forme (même son, autre orthographe)."""
+    if m.startswith("n'") and len(m) > 3:     # « on n'apprend » = « on apprend » à l'oreille (liaison)
+        m = m[2:]
     for g in HOMOPHONES:
         if m in g:
             m = sorted(g)[0]

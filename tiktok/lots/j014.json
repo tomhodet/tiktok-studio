@@ -1,0 +1,344 @@
+{
+ "nom": "j014",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j014_grandmere",
+   "perso": "grandmere",
+   "episode": 15,
+   "fin": "Envoie-la à quelqu’un qui aime sans condition.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Il m’a redemandée en mariage.",
+   "legende": "La mémoire peut partir. L'amour sait retrouver le chemin. #grandmere #amour #alzheimer #couple #emotion",
+   "phrases": [
+    [
+     "L'année dernière, ton grand-père m'a demandée en mariage. Pour la *deuxième* fois.",
+     1.3
+    ],
+    [
+     "Il ne me reconnaissait plus. La maladie lui avait volé cinquante ans de souvenirs.",
+     1.4
+    ],
+    [
+     "Un matin, à la maison de retraite, il m'a regardée comme si j'étais une inconnue.",
+     1.2
+    ],
+    [
+     "Il a dit : mademoiselle, vous êtes la plus belle femme que j'aie jamais vue.",
+     1.6
+    ],
+    [
+     "Puis il a pris ma main et il a dit : voulez-vous m'épouser ?",
+     1.8
+    ],
+    [
+     "J'ai dit oui. Comme la première fois.",
+     1.6
+    ],
+    [
+     "Il ne se souvenait pas de notre mariage. Ni de nos enfants. Ni de mon prénom.",
+     1.4
+    ],
+    [
+     "Mais il est retombé *amoureux* de moi. En une seule matinée.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai compris quelque chose.",
+     1.0
+    ],
+    [
+     "La mémoire peut partir. L'amour, lui, sait retrouver le chemin.",
+     1.6
+    ],
+    [
+     "Il est parti au printemps. Il me tenait la main.",
+     1.6
+    ],
+    [
+     "Si tu aimes quelqu'un, dis-le-lui tant qu'il s'en souvient.",
+     1.2
+    ],
+    [
+     "Et s'il oublie, dis-le-lui *encore*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j014_grandpere",
+   "perso": "grandpere",
+   "episode": 16,
+   "fin": "Envoie-la à quelqu’un qui a un mauvais chef.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Il m’a humilié devant toute l’usine.",
+   "legende": "Ne deviens jamais le chef que tu as détesté. #grandpere #travail #dignite #management #exemple",
+   "phrases": [
+    [
+     "À vingt ans, mon patron m'a humilié devant toute l'usine. Je ne l'ai jamais *oublié*.",
+     1.3
+    ],
+    [
+     "J'avais fait une erreur sur une commande. Il a crié. Il m'a traité d'incapable.",
+     1.2
+    ],
+    [
+     "Tout le monde regardait. Personne n'a rien dit.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai voulu démissionner. Ma mère m'a dit : non. Deviens si bon qu'il aura honte.",
+     1.6
+    ],
+    [
+     "Alors j'ai appris. Le soir, le week-end, sur mes pauses.",
+     1.2
+    ],
+    [
+     "Dix ans plus tard, c'est moi qui dirigeais l'atelier.",
+     1.6
+    ],
+    [
+     "Et un jour, un jeune a fait une erreur sur une commande. La même que moi.",
+     1.4
+    ],
+    [
+     "Tout le monde attendait que je crie.",
+     1.6
+    ],
+    [
+     "Je l'ai emmené dans mon bureau. J'ai fermé la porte. Je lui ai *expliqué*.",
+     1.4
+    ],
+    [
+     "Il est resté vingt ans dans l'entreprise. C'est le meilleur ouvrier que j'aie connu.",
+     1.6
+    ],
+    [
+     "On peut répondre à l'humiliation par la vengeance. Ou par l'exemple.",
+     1.2
+    ],
+    [
+     "La vengeance ne répare rien. L'exemple répare tout ce qui vient après.",
+     1.4
+    ],
+    [
+     "Ne deviens jamais le chef que tu as *détesté*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j014_pere",
+   "perso": "pere",
+   "episode": 15,
+   "fin": "Envoie-la à quelqu’un qui a un projet dans un tiroir.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je ne l’ai jamais fait.",
+   "legende": "Le pire, ce n'est pas d'échouer. C'est de ne jamais savoir. #papa #pere #reve #entrepreneur #regrets",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai rêvé d'ouvrir un *restaurant*. Je ne l'ai jamais fait.",
+     1.3
+    ],
+    [
+     "J'avais tout prévu. Le nom. La carte. L'endroit, au coin de notre rue.",
+     1.2
+    ],
+    [
+     "Chaque année, je trouvais une bonne raison d'attendre.",
+     1.2
+    ],
+    [
+     "Les crédits. Ton école. La crise. La peur de tout perdre.",
+     1.4
+    ],
+    [
+     "Il y a trois ans, l'endroit au coin de la rue a été vendu. C'est devenu une pizzeria.",
+     1.6
+    ],
+    [
+     "Je passe devant tous les jours. Elle est toujours pleine.",
+     1.6
+    ],
+    [
+     "Je ne regrette pas d'avoir été prudent. J'avais une famille à nourrir.",
+     1.2
+    ],
+    [
+     "Je regrette de ne pas avoir essayé, même petit.",
+     1.4
+    ],
+    [
+     "Un marché le dimanche. Un camion. N'importe quoi.",
+     1.2
+    ],
+    [
+     "Le pire, ce n'est pas d'échouer. C'est de ne jamais *savoir*.",
+     1.8
+    ],
+    [
+     "Toi, tu as un rêve. Je le vois quand tu en parles.",
+     1.2
+    ],
+    [
+     "N'attends pas le moment parfait. Il n'existe pas.",
+     1.2
+    ],
+    [
+     "Commence petit. Mais *commence*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j014_mere",
+   "perso": "mere",
+   "episode": 15,
+   "fin": "Envoie-la à quelqu’un qui sait qu’il peut toujours rentrer.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Il y a toujours une clé sous le paillasson.",
+   "legende": "Tout le monde a besoin d'un endroit où il n'a rien à prouver. #maman #mere #maison #famille #amour",
+   "phrases": [
+    [
+     "Il y a toujours une *clé* sous le paillasson. Depuis que tu es parti.",
+     1.3
+    ],
+    [
+     "Ton père dit que c'est dangereux. Que n'importe qui pourrait entrer.",
+     1.2
+    ],
+    [
+     "Je lui réponds : c'est le but.",
+     1.6
+    ],
+    [
+     "Je veux que tu saches que tu peux revenir. N'importe quand. Sans prévenir.",
+     1.4
+    ],
+    [
+     "À trois heures du matin, avec ta valise. Après une dispute. Après un échec.",
+     1.4
+    ],
+    [
+     "Tu n'auras pas besoin de sonner. Pas besoin d'expliquer.",
+     1.4
+    ],
+    [
+     "Ta chambre est toujours là. J'ai juste mis mes plantes sur ton bureau.",
+     1.6
+    ],
+    [
+     "Tu n'es jamais revenu à trois heures du matin. Et j'en suis heureuse.",
+     1.4
+    ],
+    [
+     "Ça veut dire que tu vas *bien*.",
+     1.6
+    ],
+    [
+     "Mais la clé reste là. Elle restera là tant que je vivrai ici.",
+     1.4
+    ],
+    [
+     "Tout le monde a besoin d'un endroit où il n'a rien à prouver.",
+     1.2
+    ],
+    [
+     "Le tien, c'est ici. Sous le *paillasson*.",
+     1.4
+    ],
+    [
+     "Et si un jour tu as des enfants, mets une clé sous le tien.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j014_fou",
+   "perso": "fou",
+   "episode": 14,
+   "fin": "Envoie-la à quelqu’un qui pousse son rocher tous les jours.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Il doit recommencer pour l’éternité.",
+   "legende": "Le sommet n'est pas la récompense. La montée est la récompense. #motivation #discipline #sisyphe #sens",
+   "phrases": [
+    [
+     "Dans un vieux mythe grec, un homme est condamné à pousser un *rocher* en haut d'une montagne.",
+     1.3
+    ],
+    [
+     "Chaque fois qu'il arrive en haut, le rocher roule jusqu'en bas.",
+     1.2
+    ],
+    [
+     "Et il doit recommencer. Pour l'éternité.",
+     1.6
+    ],
+    [
+     "Les dieux pensaient lui avoir donné la pire punition qui soit. Un effort qui ne mène à rien.",
+     1.4
+    ],
+    [
+     "Mais un écrivain a dit qu'il fallait l'imaginer *heureux*.",
+     1.6
+    ],
+    [
+     "Heureux ? Avec ce rocher ? Pour toujours ?",
+     1.4
+    ],
+    [
+     "Oui. Parce que celui qui se bat chaque jour pour son sommet a déjà trouvé un sens.",
+     1.6
+    ],
+    [
+     "Ton rocher à toi, c'est peut-être ton travail. Ton entraînement. Ta famille.",
+     1.2
+    ],
+    [
+     "Chaque matin, il est revenu en bas. Chaque matin, tu dois le remonter.",
+     1.4
+    ],
+    [
+     "Si tu attends d'arriver en haut pour être heureux, tu ne le seras jamais.",
+     1.6
+    ],
+    [
+     "Le sommet n'est pas la récompense. La *montée* est la récompense.",
+     1.6
+    ],
+    [
+     "Alors pousse ton rocher. Pas en traînant les pieds.",
+     1.2
+    ],
+    [
+     "Pousse-le comme quelqu'un qui a *choisi* sa montagne.",
+     0
+    ]
+   ]
+  }
+ ]
+}

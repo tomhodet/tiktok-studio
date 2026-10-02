@@ -1,0 +1,348 @@
+{
+ "nom": "j006",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j006_grandmere",
+   "perso": "grandmere",
+   "episode": 7,
+   "fin": "Envoie-la à quelqu’un qui porte une colère trop lourde.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je ne lui ai jamais pardonné.",
+   "legende": "Quarante ans à porter la colère de quelqu'un d'autre. #grandmere #pardon #paix #sagesse",
+   "phrases": [
+    [
+     "Mon père m'a fait beaucoup de mal. Je ne lui ai jamais *pardonné*.",
+     1.3
+    ],
+    [
+     "Il est mort il y a quarante ans. Et je lui en voulais encore la semaine dernière.",
+     1.6
+    ],
+    [
+     "Tu te rends compte ? Quarante ans à porter sa colère.",
+     1.2
+    ],
+    [
+     "Lui ne la portait plus. Il était parti. C'est moi qui la portais.",
+     1.4
+    ],
+    [
+     "Tous les matins, en me levant. Tous les soirs, en me couchant.",
+     1.2
+    ],
+    [
+     "Elle m'a coûté des amitiés. Des nuits. Des sourires.",
+     1.4
+    ],
+    [
+     "La semaine dernière, je suis allée sur sa tombe.",
+     1.0
+    ],
+    [
+     "Je ne lui ai pas dit que ce n'était pas grave. C'était grave.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : je te laisse ça. Je ne le porte *plus*.",
+     1.8
+    ],
+    [
+     "Et en rentrant, pour la première fois depuis quarante ans, j'ai dormi d'une traite.",
+     1.6
+    ],
+    [
+     "Le pardon, ce n'est pas dire que l'autre avait raison.",
+     1.2
+    ],
+    [
+     "C'est poser un sac trop lourd, que tu portais à sa place.",
+     1.2
+    ],
+    [
+     "Ne fais pas comme moi. N'attends pas *quarante* ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j006_grandpere",
+   "perso": "grandpere",
+   "episode": 8,
+   "fin": "Envoie-la à quelqu’un qui a fait une erreur et qui s’en veut.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "À dix ans, j’ai volé un vélo.",
+   "legende": "Tu n'es pas un voleur. Tu as volé. Ce n'est pas pareil. #grandpere #erreur #pardon #education",
+   "phrases": [
+    [
+     "À dix ans, j'ai volé un *vélo*.",
+     1.3
+    ],
+    [
+     "Il était rouge, il brillait, il était devant l'épicerie. Je suis parti avec.",
+     1.2
+    ],
+    [
+     "Le soir, mon père l'a vu dans la cour. Il n'a rien dit.",
+     1.4
+    ],
+    [
+     "Il m'a pris par la main, et on a marché jusqu'à l'épicerie. Avec le vélo.",
+     1.2
+    ],
+    [
+     "Le propriétaire était là. Un garçon de mon âge, qui pleurait.",
+     1.4
+    ],
+    [
+     "Mon père m'a dit : regarde-le. Regarde bien ce que tu as fait.",
+     1.6
+    ],
+    [
+     "Je lui ai rendu son vélo. Et je me suis excusé, devant tout le monde.",
+     1.2
+    ],
+    [
+     "J'avais tellement honte que je voulais disparaître.",
+     1.4
+    ],
+    [
+     "Sur le chemin du retour, mon père m'a dit une seule phrase.",
+     1.2
+    ],
+    [
+     "Tu n'es pas un voleur. Tu as volé. Ce n'est pas pareil, tant que tu *répares*.",
+     1.8
+    ],
+    [
+     "Je n'ai plus jamais rien volé de ma vie.",
+     1.2
+    ],
+    [
+     "Tu feras des erreurs. Des grosses. Tout le monde en fait.",
+     1.2
+    ],
+    [
+     "Ce qui compte, ce n'est pas l'erreur. C'est le chemin que tu fais pour la *réparer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j006_pere",
+   "perso": "pere",
+   "episode": 7,
+   "fin": "Envoie-la à l’ami qui est resté.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je les observais.",
+   "legende": "On ne choisit pas ses amis quand tout va bien. #papa #pere #amitie #famille #conseil",
+   "phrases": [
+    [
+     "Tu croyais que je n'aimais pas tes amis. Je les *observais*.",
+     1.3
+    ],
+    [
+     "Quand ils venaient à la maison, je regardais comment ils te parlaient.",
+     1.2
+    ],
+    [
+     "Celui qui se moquait de toi devant les autres. Celui qui ne disait jamais merci.",
+     1.2
+    ],
+    [
+     "Et celui qui restait pour t'aider à ranger, quand tout le monde était parti.",
+     1.6
+    ],
+    [
+     "Tu t'énervais. Tu disais que j'étais trop sévère.",
+     1.2
+    ],
+    [
+     "Je ne t'ai jamais interdit personne. Je voulais que tu voies par toi-même.",
+     1.4
+    ],
+    [
+     "À dix-sept ans, tu as eu ton accident de scooter.",
+     1.0
+    ],
+    [
+     "À l'hôpital, il n'en restait qu'un. Celui qui aidait à *ranger*.",
+     1.8
+    ],
+    [
+     "Il est resté toute la nuit sur une chaise en plastique.",
+     1.4
+    ],
+    [
+     "C'est toujours ton meilleur ami aujourd'hui.",
+     1.6
+    ],
+    [
+     "On ne choisit pas ses amis quand tout va bien.",
+     1.2
+    ],
+    [
+     "On les découvre quand tout va *mal*.",
+     1.4
+    ],
+    [
+     "Garde ceux qui restent pour ranger. Les autres ne faisaient que passer.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j006_mere",
+   "perso": "mere",
+   "episode": 7,
+   "fin": "Envoie-la à ta mère, avec un mot à toi.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Le dessin est toujours sur mon frigo.",
+   "legende": "Sur son frigo, il y a encore ton dessin de tes cinq ans. #maman #mere #enfance #amour #famille",
+   "phrases": [
+    [
+     "Sur mon frigo, il y a encore un *dessin* que tu as fait à cinq ans.",
+     1.3
+    ],
+    [
+     "Une maison, un soleil, et quatre personnages. Moi, je suis la plus grande.",
+     1.2
+    ],
+    [
+     "Tu m'avais fait un collier jaune. Je n'ai jamais eu de collier jaune.",
+     1.4
+    ],
+    [
+     "Les aimants ont changé. Le frigo a changé. Le dessin est toujours là.",
+     1.4
+    ],
+    [
+     "Tes amis le voient quand ils viennent. Tu as honte. Tu me demandes de l'enlever.",
+     1.2
+    ],
+    [
+     "Je ne l'enlèverai jamais.",
+     1.6
+    ],
+    [
+     "Parce que ce jour-là, tu m'as dessinée comme tu me voyais.",
+     1.2
+    ],
+    [
+     "La plus grande. La plus forte. Avec un collier en *or*.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, je suis plus petite que toi. Je suis fatiguée. Je n'ai pas de collier.",
+     1.4
+    ],
+    [
+     "Mais chaque matin, en ouvrant le frigo, je me souviens de ce que j'étais pour toi.",
+     1.6
+    ],
+    [
+     "Et ça me donne la force de l'être encore un peu.",
+     1.4
+    ],
+    [
+     "Tu ne sais pas ce que tes mots peuvent faire à ta mère.",
+     1.2
+    ],
+    [
+     "Alors dessine-moi encore. Avec des *mots*, cette fois.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j006_fou",
+   "perso": "fou",
+   "episode": 6,
+   "fin": "Envoie-la à quelqu’un qui frappe depuis longtemps.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Au cent unième coup, la pierre se fend.",
+   "legende": "Ce n'est pas le dernier coup qui fend la pierre. #motivation #discipline #perseverance #reussite",
+   "phrases": [
+    [
+     "Regarde un tailleur de pierre frapper un rocher. Cent *fois*.",
+     1.3
+    ],
+    [
+     "Pas une fissure. Pas une trace. Rien.",
+     1.4
+    ],
+    [
+     "Et au cent unième coup, la pierre se fend en deux.",
+     1.6
+    ],
+    [
+     "Les gens qui passent à ce moment-là disent : quel coup !",
+     1.2
+    ],
+    [
+     "Ils se trompent.",
+     1.2
+    ],
+    [
+     "Ce n'est pas le dernier coup qui a fendu la pierre. Ce sont les cent *autres*.",
+     1.8
+    ],
+    [
+     "Toi, tu frappes depuis des mois. Peut-être des années.",
+     1.2
+    ],
+    [
+     "Le sport. Le travail. Ce projet auquel personne ne croit.",
+     1.2
+    ],
+    [
+     "Tu ne vois rien bouger. Alors tu te demandes si ça sert à quelque chose.",
+     1.4
+    ],
+    [
+     "Chaque coup sert. Même ceux qui ne laissent aucune trace.",
+     1.4
+    ],
+    [
+     "Surtout ceux qui ne laissent aucune trace.",
+     1.6
+    ],
+    [
+     "Tu ne sais pas si tu en es au dixième coup, ou au centième.",
+     1.2
+    ],
+    [
+     "Alors ne pose pas le marteau. Pas maintenant.",
+     1.2
+    ],
+    [
+     "Le prochain coup est peut-être *le bon*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

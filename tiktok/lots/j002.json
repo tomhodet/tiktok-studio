@@ -1,0 +1,348 @@
+{
+ "nom": "j002",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j002_grandmere",
+   "perso": "grandmere",
+   "episode": 3,
+   "fin": "Envoie-la à la personne qui t’aime sans compter.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Une bague en papier.",
+   "legende": "Cinquante ans avec une bague en papier. #grandmere #amour #couple #mariage #emotion",
+   "phrases": [
+    [
+     "Ton grand-père m'a demandée en mariage avec une *bague en papier*.",
+     1.4
+    ],
+    [
+     "Il l'avait faite avec l'emballage d'un bonbon. Il n'avait pas un sou.",
+     1.1
+    ],
+    [
+     "Il m'a dit : un jour, je t'en offrirai une vraie.",
+     1.2
+    ],
+    [
+     "Pendant cinquante ans, à chaque anniversaire, il s'excusait.",
+     1.0
+    ],
+    [
+     "Je lui répondais toujours la même chose : je n'en veux pas d'autre.",
+     1.4
+    ],
+    [
+     "Quand il est parti, j'ai rangé ses affaires.",
+     1.0
+    ],
+    [
+     "Dans sa veste du dimanche, il y avait un petit écrin.",
+     1.3
+    ],
+    [
+     "Une vraie bague. Il avait mis de l'argent de côté pendant des années, en cachette.",
+     1.2
+    ],
+    [
+     "Avec un mot : pour quand tu changeras d'*avis*.",
+     1.8
+    ],
+    [
+     "Je n'ai jamais changé d'avis.",
+     1.4
+    ],
+    [
+     "La bague en or est dans le tiroir. La bague en papier est à mon doigt.",
+     1.3
+    ],
+    [
+     "Tu vois, l'amour, ce n'est pas ce que ça coûte.",
+     1.0
+    ],
+    [
+     "C'est ce que ça *veut dire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j002_grandpere",
+   "perso": "grandpere",
+   "episode": 4,
+   "fin": "Envoie-la à quelqu’un qui plante pour les autres.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je ne le verrais jamais grand.",
+   "legende": "Il a planté un arbre qu'il ne verrait jamais grand. #grandpere #famille #transmission #sagesse",
+   "phrases": [
+    [
+     "Le jour où ton père est né, j'ai planté un *chêne* au fond du jardin.",
+     1.3
+    ],
+    [
+     "Un chêne met cent ans à devenir grand. Je savais que je ne le verrais jamais.",
+     1.4
+    ],
+    [
+     "Les voisins se moquaient. À quoi bon planter un arbre pour personne ?",
+     1.0
+    ],
+    [
+     "Je leur répondais : il n'est pas pour personne.",
+     1.2
+    ],
+    [
+     "Chaque été, je l'arrosais. Chaque hiver, je le protégeais du gel.",
+     1.0
+    ],
+    [
+     "Il poussait si lentement que j'avais l'impression qu'il ne bougeait pas.",
+     1.3
+    ],
+    [
+     "Aujourd'hui, ton père a cinquante ans. Et le chêne lui fait de l'ombre.",
+     1.4
+    ],
+    [
+     "L'été dernier, je vous ai vus, tous les deux, assis dessous.",
+     1.2
+    ],
+    [
+     "Tu lisais. Il dormait. Moi, je *regardais*.",
+     1.6
+    ],
+    [
+     "C'était un des plus beaux jours de ma vie, et je ne vous l'ai jamais dit.",
+     1.4
+    ],
+    [
+     "Les choses qui comptent poussent lentement. Un enfant. Une amitié. Une vie.",
+     1.2
+    ],
+    [
+     "Plante aujourd'hui des choses dont tu ne verras peut-être jamais l'ombre.",
+     1.1
+    ],
+    [
+     "C'est ça, *vivre* pour de vrai.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j002_pere",
+   "perso": "pere",
+   "episode": 3,
+   "fin": "Envoie-la à quelqu’un qui n’abandonne jamais.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Pas une seule fois.",
+   "legende": "Il ne l'a jamais laissé gagner. Jusqu'au jour où. #papa #pere #discipline #fierte #famille",
+   "phrases": [
+    [
+     "Pendant dix ans, je ne t'ai jamais laissé gagner aux échecs. Pas une *seule* fois.",
+     1.3
+    ],
+    [
+     "Ta mère trouvait ça cruel. Tu pleurais. Tu renversais les pièces.",
+     1.1
+    ],
+    [
+     "Et chaque dimanche, tu revenais t'asseoir en face de moi.",
+     1.3
+    ],
+    [
+     "Je voulais que tu apprennes une chose : personne ne te fera de cadeau.",
+     1.2
+    ],
+    [
+     "Ni au travail. Ni dans la vie. Ni ceux qui t'aiment.",
+     1.4
+    ],
+    [
+     "Tu avais seize ans. C'était un soir de novembre.",
+     1.0
+    ],
+    [
+     "Tu as poussé ta reine, et tu as dit : échec et *mat*.",
+     1.6
+    ],
+    [
+     "Je t'ai serré la main. Je suis allé chercher les clés de la voiture.",
+     1.0
+    ],
+    [
+     "J'ai dit que j'avais oublié quelque chose au garage.",
+     1.2
+    ],
+    [
+     "Je n'avais rien oublié. J'ai pleuré pendant vingt minutes.",
+     1.6
+    ],
+    [
+     "Je n'avais jamais été aussi fier de toi.",
+     1.3
+    ],
+    [
+     "Cette victoire, personne ne te l'a donnée. Tu l'as *prise*.",
+     1.2
+    ],
+    [
+     "Et c'est pour ça que personne ne pourra jamais te la reprendre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j002_mere",
+   "perso": "mere",
+   "episode": 3,
+   "fin": "Envoie-la à ta mère. Elle comprendra.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Ce n’était pas maman.",
+   "legende": "Ton premier mot, ce n'était pas maman. #maman #mere #famille #enfance #emotion",
+   "phrases": [
+    [
+     "Ton premier mot, ce n'était pas *maman*.",
+     1.2
+    ],
+    [
+     "J'avais passé des mois à te le répéter. Maman. Maman. Maman.",
+     1.1
+    ],
+    [
+     "Et un matin, en regardant le chat, tu as dit : papa.",
+     1.5
+    ],
+    [
+     "J'ai ri. Puis j'ai pleuré un peu dans la salle de bain.",
+     1.4
+    ],
+    [
+     "Ton deuxième mot, c'était encore papa. Ton troisième, c'était gâteau.",
+     1.4
+    ],
+    [
+     "Maman, tu l'as dit bien plus tard. Un soir où tu avais de la fièvre.",
+     1.2
+    ],
+    [
+     "Il était trois heures du matin. Tu as tendu les bras, et tu as dit : *maman*.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai compris quelque chose.",
+     1.0
+    ],
+    [
+     "Tu ne m'appelais pas quand tout allait bien. Tu m'appelais quand ça n'allait pas.",
+     1.5
+    ],
+    [
+     "Et c'est encore vrai aujourd'hui.",
+     1.2
+    ],
+    [
+     "Tu m'appelles quand tu es malade, quand tu as peur, quand tu es perdu.",
+     1.2
+    ],
+    [
+     "Et tu sais quoi ? C'est le plus beau rôle du monde.",
+     1.0
+    ],
+    [
+     "Mais appelle-moi aussi quand tout va *bien*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j002_fou",
+   "perso": "fou",
+   "episode": 2,
+   "fin": "Envoie-la à quelqu’un qui se croit abîmé.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "On le répare avec de l’or.",
+   "legende": "Au Japon, on répare les bols cassés avec de l'or. #motivation #resilience #mindset #kintsugi #reussite",
+   "phrases": [
+    [
+     "Au Japon, quand un bol précieux se *brise*, on ne le jette pas.",
+     1.4
+    ],
+    [
+     "On recolle chaque morceau. Avec de l'or.",
+     1.4
+    ],
+    [
+     "Les fissures ne sont pas cachées. Elles brillent.",
+     1.2
+    ],
+    [
+     "Et le bol vaut plus cher qu'avant d'être cassé.",
+     1.6
+    ],
+    [
+     "Toi, on t'a appris le contraire.",
+     1.0
+    ],
+    [
+     "Cacher tes échecs. Cacher tes cicatrices. Faire comme si rien ne s'était passé.",
+     1.4
+    ],
+    [
+     "Tu as été trahi. Tu as échoué. Tu as perdu quelqu'un.",
+     1.3
+    ],
+    [
+     "Et tu crois que ça t'a abîmé.",
+     1.4
+    ],
+    [
+     "Écoute bien.",
+     0.8
+    ],
+    [
+     "Ce qui t'a brisé ne t'a pas détruit. Ça t'a rendu *unique*.",
+     1.4
+    ],
+    [
+     "Personne n'a les mêmes fissures que toi.",
+     1.2
+    ],
+    [
+     "Alors arrête de les cacher. Remplis-les d'or.",
+     1.0
+    ],
+    [
+     "Avec du travail, de la patience, et du courage.",
+     1.2
+    ],
+    [
+     "Un jour, ce sont elles qu'on regardera en *premier*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

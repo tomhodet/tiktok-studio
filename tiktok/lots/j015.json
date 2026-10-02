@@ -1,0 +1,344 @@
+{
+ "nom": "j015",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j015_grandmere",
+   "perso": "grandmere",
+   "episode": 16,
+   "fin": "Envoie-la à quelqu’un qui va voir ses voisins âgés.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Pendant dix ans, j’ai détesté mon voisin.",
+   "legende": "Les gens les plus désagréables sont souvent les plus seuls. #grandmere #solitude #voisin #gentillesse",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai détesté notre voisin du dessus. Un vieux *grincheux*.",
+     1.3
+    ],
+    [
+     "Il ne disait jamais bonjour. Il se plaignait du bruit. Il frappait au plafond avec son balai.",
+     1.4
+    ],
+    [
+     "Un hiver, je ne l'ai plus entendu pendant trois jours. Plus de balai. Plus rien.",
+     1.4
+    ],
+    [
+     "J'ai frappé à sa porte. Il était par terre, dans sa cuisine. Il était tombé.",
+     1.4
+    ],
+    [
+     "À l'hôpital, l'infirmière m'a demandé : vous êtes la famille ?",
+     1.2
+    ],
+    [
+     "Il n'avait personne. Pas une visite en dix ans.",
+     1.8
+    ],
+    [
+     "Je suis revenue le voir le lendemain. Et celui d'après.",
+     1.2
+    ],
+    [
+     "Il m'a raconté sa femme, morte trop jeune. Son fils, parti sans laisser d'adresse.",
+     1.4
+    ],
+    [
+     "Il frappait au plafond, parce que c'était sa seule façon de parler à *quelqu'un*.",
+     1.8
+    ],
+    [
+     "Les gens les plus désagréables sont souvent les plus seuls.",
+     1.4
+    ],
+    [
+     "Ça n'excuse pas tout. Mais ça explique beaucoup.",
+     1.2
+    ],
+    [
+     "La prochaine fois que quelqu'un frappe au plafond, monte le voir.",
+     1.2
+    ],
+    [
+     "Il a peut-être juste besoin qu'on lui dise *bonjour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j015_grandpere",
+   "perso": "grandpere",
+   "episode": 17,
+   "fin": "Envoie-la à quelqu’un qui vient de prendre sa retraite.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J’ai cru que j’allais enfin être heureux.",
+   "legende": "L'homme n'est pas fait pour le repos. Il est fait pour être utile. #grandpere #retraite #sens #utilite",
+   "phrases": [
+    [
+     "Le jour de ma retraite, j'ai cru que j'allais enfin être *heureux*.",
+     1.3
+    ],
+    [
+     "Plus de réveil. Plus de patron. Plus d'horaires.",
+     1.2
+    ],
+    [
+     "Au bout de trois mois, je ne me levais plus avant onze heures. Je ne m'habillais plus.",
+     1.4
+    ],
+    [
+     "Ta grand-mère m'a dit : tu t'éteins. Je ne l'ai pas crue.",
+     1.6
+    ],
+    [
+     "Un jour, l'école du quartier a cherché quelqu'un pour réparer les chaises.",
+     1.2
+    ],
+    [
+     "J'y suis allé pour rendre service. Une heure. Puis une matinée. Puis tous les mardis.",
+     1.4
+    ],
+    [
+     "Les enfants m'appelaient le monsieur des chaises.",
+     1.6
+    ],
+    [
+     "Je me suis remis à me lever à sept heures. Le mardi, je me rasais même.",
+     1.4
+    ],
+    [
+     "L'homme n'est pas fait pour le repos. Il est fait pour être *utile*.",
+     1.6
+    ],
+    [
+     "Le travail, ce n'est pas seulement de l'argent. C'est une raison de se lever.",
+     1.4
+    ],
+    [
+     "Le jour où tu n'auras plus de raison, trouve-en une. Vite.",
+     1.2
+    ],
+    [
+     "Une chaise à réparer. Un enfant à aider. Un jardin.",
+     1.2
+    ],
+    [
+     "N'importe quoi, du moment que quelqu'un t'*attend*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j015_pere",
+   "perso": "pere",
+   "episode": 16,
+   "fin": "Envoie-la à ton père. Il a eu raison de dire non.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Tu n’es pas mon ami.",
+   "legende": "Un père n'est pas là pour être aimé tous les jours. #papa #pere #adolescence #education #famille",
+   "phrases": [
+    [
+     "Quand tu avais quinze ans, tu m'as crié : tu n'es pas mon *ami*.",
+     1.3
+    ],
+    [
+     "Je t'ai répondu : non. Je suis ton père.",
+     1.6
+    ],
+    [
+     "Tu as claqué la porte. Tu ne m'as pas parlé pendant trois jours.",
+     1.2
+    ],
+    [
+     "Tu voulais sortir ce soir-là. Avec des garçons plus âgés. Je t'ai dit non.",
+     1.4
+    ],
+    [
+     "Un ami t'aurait dit oui. Un ami aurait voulu que tu l'aimes.",
+     1.4
+    ],
+    [
+     "Moi, je préférais que tu me détestes, et que tu sois en *vie*.",
+     1.8
+    ],
+    [
+     "Ce soir-là, ils ont eu un accident. Ils roulaient trop vite.",
+     1.6
+    ],
+    [
+     "Personne n'a été gravement blessé. Mais tu aurais été à l'arrière, sans ceinture.",
+     1.4
+    ],
+    [
+     "Tu ne m'as jamais remercié. Tu n'as pas à le faire.",
+     1.4
+    ],
+    [
+     "Un père n'est pas là pour être aimé tous les jours.",
+     1.2
+    ],
+    [
+     "Il est là pour être là. Même quand on le déteste.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, tu me dis que je suis ton meilleur ami.",
+     1.4
+    ],
+    [
+     "Tu sais pourquoi ? Parce qu'à quinze ans, je n'ai pas *essayé* de l'être.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j015_mere",
+   "perso": "mere",
+   "episode": 16,
+   "fin": "Envoie-la à ta mère. Dis-lui qu’elle a fait de son mieux.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je n’ai pas été une mère parfaite.",
+   "legende": "On a appris ensemble. Tous les deux, avec des bleus. #maman #mere #pardon #parentalite #emotion",
+   "phrases": [
+    [
+     "Je vais te dire quelque chose que je n'ai jamais osé dire. Je n'ai pas été une mère *parfaite*.",
+     1.3
+    ],
+    [
+     "J'ai crié trop fort, certains soirs. Pour des chaussettes. Pour des devoirs.",
+     1.4
+    ],
+    [
+     "J'ai oublié ton spectacle de Noël, une année. Tu m'as cherchée dans la salle.",
+     1.6
+    ],
+    [
+     "J'ai dit des choses que je regrette. Plus que tu ne le crois.",
+     1.4
+    ],
+    [
+     "Je me couchais le soir en me disant : demain, je ferai mieux.",
+     1.2
+    ],
+    [
+     "Et le lendemain, je recommençais. Fatiguée. Débordée. Humaine.",
+     1.6
+    ],
+    [
+     "Personne ne m'avait appris à être mère. J'ai appris sur toi.",
+     1.4
+    ],
+    [
+     "Tu étais mon premier enfant. Et moi, j'étais ta première *maman*.",
+     1.6
+    ],
+    [
+     "On a appris ensemble. Tous les deux, avec des bleus.",
+     1.4
+    ],
+    [
+     "Si un jour tu as des enfants, tu vas te tromper toi aussi.",
+     1.2
+    ],
+    [
+     "Ne cherche pas à être parfait. Cherche à *réparer*.",
+     1.4
+    ],
+    [
+     "Dis pardon. Recommence. Prends-les dans tes bras.",
+     1.2
+    ],
+    [
+     "C'est ce que j'ai essayé de faire. Pardon pour le reste.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j015_fou",
+   "perso": "fou",
+   "episode": 15,
+   "fin": "Envoie-la à quelqu’un qui travaille sans recevoir d’applaudissements.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Il n’entendait plus rien.",
+   "legende": "Beethoven n'a pas entendu les applaudissements. #motivation #beethoven #perseverance #reussite",
+   "phrases": [
+    [
+     "Un compositeur a écrit sa plus grande symphonie alors qu'il était presque totalement *sourd*.",
+     1.3
+    ],
+    [
+     "Il n'entendait plus les violons. Il n'entendait plus le piano.",
+     1.2
+    ],
+    [
+     "Il sentait la musique dans le bois de l'instrument.",
+     1.4
+    ],
+    [
+     "Le soir de la première, il était sur scène, dos au public.",
+     1.2
+    ],
+    [
+     "Quand la musique s'est arrêtée, la salle s'est levée. Les gens applaudissaient. Ils criaient.",
+     1.4
+    ],
+    [
+     "Il n'entendait rien. Il croyait que c'était un échec.",
+     1.8
+    ],
+    [
+     "Une chanteuse l'a pris doucement par le bras. Et l'a *retourné* vers la salle.",
+     1.6
+    ],
+    [
+     "Il a vu des centaines de mains en l'air.",
+     1.6
+    ],
+    [
+     "Cet homme, c'était Beethoven. Cette symphonie, c'était la neuvième.",
+     1.6
+    ],
+    [
+     "Toi, tu n'entends peut-être pas les applaudissements. Pas encore.",
+     1.2
+    ],
+    [
+     "Tu travailles sans retour. Sans compliment. Sans savoir si ça vaut quelque chose.",
+     1.4
+    ],
+    [
+     "Continue de jouer. Même dans le silence.",
+     1.4
+    ],
+    [
+     "Un jour, quelqu'un va te prendre par le bras. Et te *retourner*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

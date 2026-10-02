@@ -1,0 +1,344 @@
+{
+ "nom": "j017",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j017_grandmere",
+   "perso": "grandmere",
+   "episode": 18,
+   "fin": "Envoie-la à la personne avec qui tu danses dans la cuisine.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "On dansait dans la cuisine.",
+   "legende": "Cinquante ans de valses dans la cuisine. #grandmere #amour #couple #souvenir #emotion",
+   "phrases": [
+    [
+     "Tous les dimanches soirs, ton grand-père et moi, on dansait dans la *cuisine*.",
+     1.3
+    ],
+    [
+     "Pas de musique. Juste lui qui fredonnait, faux, une vieille valse.",
+     1.4
+    ],
+    [
+     "Nos enfants trouvaient ça ridicule. Ils levaient les yeux au ciel.",
+     1.2
+    ],
+    [
+     "Les voisins d'en face nous voyaient par la fenêtre. On s'en moquait.",
+     1.2
+    ],
+    [
+     "On a dansé dans la cuisine pendant cinquante ans.",
+     1.6
+    ],
+    [
+     "Les soirs de dispute aussi. Surtout les soirs de dispute.",
+     1.6
+    ],
+    [
+     "Parce qu'on ne peut pas rester fâché avec quelqu'un qui vous marche sur les pieds en chantant faux.",
+     1.6
+    ],
+    [
+     "Depuis qu'il est parti, je n'ai plus dansé.",
+     1.6
+    ],
+    [
+     "Mais dimanche dernier, ta petite sœur est venue dans la cuisine. Elle a mis sa main dans la mienne.",
+     1.4
+    ],
+    [
+     "Et elle a fredonné. Faux. Exactement comme *lui*.",
+     1.8
+    ],
+    [
+     "Les gens qu'on aime ne partent jamais complètement.",
+     1.4
+    ],
+    [
+     "Ils laissent des valses, des chansons fausses, des habitudes idiotes.",
+     1.2
+    ],
+    [
+     "Alors danse dans ta cuisine. Ce sera ton *héritage*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j017_grandpere",
+   "perso": "grandpere",
+   "episode": 19,
+   "fin": "Envoie-la à quelqu’un qui bloque sur un problème.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Quand tu bloques sur une case.",
+   "legende": "Ce que tu ne trouves pas en face, tu le trouveras de côté. #grandpere #sagesse #patience #conseil",
+   "phrases": [
+    [
+     "Tous les matins, depuis soixante ans, je fais les *mots croisés* du journal.",
+     1.3
+    ],
+    [
+     "Ta grand-mère disait que j'aimais plus mes grilles qu'elle. C'était presque vrai.",
+     1.4
+    ],
+    [
+     "Le médecin m'a dit un jour : c'est pour ça que votre tête marche si bien.",
+     1.2
+    ],
+    [
+     "Ce ne sont pas les mots croisés. C'est ce qu'ils m'ont appris.",
+     1.4
+    ],
+    [
+     "Quand tu bloques sur une case, tu ne forces pas. Tu passes à la suivante.",
+     1.4
+    ],
+    [
+     "Et souvent, en remplissant les autres, la réponse arrive toute *seule*.",
+     1.6
+    ],
+    [
+     "J'ai fait pareil avec ma vie.",
+     1.2
+    ],
+    [
+     "Quand j'étais bloqué sur un problème, je m'occupais du reste. Le travail. La famille. Le jardin.",
+     1.4
+    ],
+    [
+     "Et un matin, la réponse était là. Comme une case qui se remplit.",
+     1.6
+    ],
+    [
+     "Toi, tu restes des nuits entières à fixer la même case. Tu t'épuises.",
+     1.2
+    ],
+    [
+     "Passe à la suivante. Avance ailleurs.",
+     1.4
+    ],
+    [
+     "La vie, c'est une grille. Les cases se répondent entre elles.",
+     1.4
+    ],
+    [
+     "Ce que tu ne trouves pas en face, tu le trouveras de *côté*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j017_pere",
+   "perso": "pere",
+   "episode": 18,
+   "fin": "Envoie-la à quelqu’un qui traverse une période difficile.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J’avais des dettes. Je ne te l’ai jamais dit.",
+   "legende": "On sort du trou. Pas vite. Pas facilement. Mais on en sort. #papa #pere #dettes #resilience #courage",
+   "phrases": [
+    [
+     "Il y a quinze ans, j'ai eu des *dettes*. Beaucoup. Je ne te l'ai jamais dit.",
+     1.3
+    ],
+    [
+     "J'avais prêté de l'argent à un ami. Il a disparu. Avec nos économies.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, j'ai travaillé le soir, en plus. Dans un entrepôt.",
+     1.2
+    ],
+    [
+     "Je te disais que j'étais en réunion. J'étais en train de décharger des camions.",
+     1.6
+    ],
+    [
+     "Je rentrais à minuit. Je venais te regarder dormir. Et je repartais le matin.",
+     1.4
+    ],
+    [
+     "J'avais honte. Je me sentais un mauvais père.",
+     1.6
+    ],
+    [
+     "Le jour où j'ai remboursé le dernier euro, je suis allé seul au bord de la mer.",
+     1.2
+    ],
+    [
+     "J'ai crié face aux *vagues*. Comme un fou.",
+     1.6
+    ],
+    [
+     "Personne ne savait. Ta mère, un peu. Toi, pas du tout.",
+     1.4
+    ],
+    [
+     "Je te le dis aujourd'hui pour une seule raison.",
+     1.0
+    ],
+    [
+     "Si un jour tu es dans le trou, sache que ton père y a été aussi.",
+     1.6
+    ],
+    [
+     "On en sort. Pas vite. Pas facilement. Mais on en sort.",
+     1.4
+    ],
+    [
+     "Et le jour où tu en sortiras, va crier face à la *mer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j017_mere",
+   "perso": "mere",
+   "episode": 18,
+   "fin": "Envoie-la à un parent fatigué.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Le soir où j’ai crié trop fort.",
+   "legende": "Ce que tu cries en dix secondes, ils peuvent le porter vingt ans. #maman #mere #parentalite #pardon #emotion",
+   "phrases": [
+    [
+     "Il y a un soir que je n'ai jamais oublié. Le soir où j'ai crié trop *fort*.",
+     1.3
+    ],
+    [
+     "Tu avais six ans. Tu avais renversé ton verre de lait. Pour la troisième fois.",
+     1.4
+    ],
+    [
+     "J'étais fatiguée. J'avais eu une journée horrible. Et j'ai explosé.",
+     1.4
+    ],
+    [
+     "Tu m'as regardée avec des yeux que je ne t'avais jamais vus. Tu avais peur de moi.",
+     1.8
+    ],
+    [
+     "De moi.",
+     1.6
+    ],
+    [
+     "Tu es parti dans ta chambre sans pleurer. C'était pire que si tu avais pleuré.",
+     1.6
+    ],
+    [
+     "Je suis restée dans la cuisine, à éponger le lait. Et j'ai pleuré, moi.",
+     1.4
+    ],
+    [
+     "Puis je suis venue m'asseoir sur ton lit. Je t'ai dit : *pardon*. Maman n'aurait pas dû crier.",
+     1.6
+    ],
+    [
+     "Tu as dit : c'est pas grave. Et tu m'as fait un câlin.",
+     1.6
+    ],
+    [
+     "Tu m'as pardonné en trois secondes. Moi, je ne me le suis jamais pardonné.",
+     1.6
+    ],
+    [
+     "Les enfants pardonnent tout, et très vite. C'est pour ça qu'il faut faire attention.",
+     1.2
+    ],
+    [
+     "Ce que tu cries en dix secondes, ils peuvent le porter pendant vingt ans.",
+     1.4
+    ],
+    [
+     "Alors si tu cries un jour, va t'asseoir sur leur lit. Et dis *pardon*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j017_fou",
+   "perso": "fou",
+   "episode": 17,
+   "fin": "Envoie-la à quelqu’un qui a honte de ses défauts.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Il arrivait toujours à moitié vide.",
+   "legende": "Tes fêlures sont peut-être exactement ce dont quelqu'un avait besoin. #motivation #confiance #estimedesoi",
+   "phrases": [
+    [
+     "Un porteur d'eau avait deux grands pots. L'un était parfait. L'autre était *fêlé*.",
+     1.3
+    ],
+    [
+     "Chaque jour, il marchait jusqu'à la rivière. Et chaque jour, le pot fêlé arrivait à moitié vide.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, le pot fêlé a eu honte. Il perdait la moitié de son eau.",
+     1.4
+    ],
+    [
+     "Un jour, il a dit au porteur : pardonne-moi. Je ne fais que la moitié de mon travail.",
+     1.6
+    ],
+    [
+     "Le porteur a souri. Il a dit : regarde le chemin.",
+     1.4
+    ],
+    [
+     "D'un côté, la terre était sèche. De l'autre, il y avait des fleurs. Partout.",
+     1.6
+    ],
+    [
+     "J'ai semé des graines de ton côté. Et chaque jour, tu les as *arrosées* sans le savoir.",
+     1.8
+    ],
+    [
+     "Pendant deux ans, j'ai cueilli ces fleurs pour décorer ma maison.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as tes fêlures.",
+     1.0
+    ],
+    [
+     "Ce que tu crois être un défaut. Ce que tu caches. Ce qui te fait honte.",
+     1.4
+    ],
+    [
+     "Et tu ne vois pas les fleurs qui poussent sur ton chemin.",
+     1.4
+    ],
+    [
+     "Tes fêlures sont peut-être exactement ce dont quelqu'un avait besoin.",
+     1.4
+    ],
+    [
+     "Arrête de t'excuser d'être *toi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

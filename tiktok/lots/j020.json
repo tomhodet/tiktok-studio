@@ -1,0 +1,344 @@
+{
+ "nom": "j020",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j020_grandmere",
+   "perso": "grandmere",
+   "episode": 21,
+   "fin": "Envoie-la à quelqu’un qui attend un appel.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Il ne m’appelle plus depuis deux ans.",
+   "legende": "Il y en a toujours un qui doit appeler en premier. #grandmere #famille #fierte #appel #emotion",
+   "phrases": [
+    [
+     "Ton oncle ne m'appelle plus. Ça fait deux *ans*.",
+     1.3
+    ],
+    [
+     "On s'est disputés. Je ne sais même plus pourquoi. Un mot de trop, à Noël.",
+     1.4
+    ],
+    [
+     "Chaque dimanche, je mets le téléphone à côté de moi. Sur la nappe.",
+     1.4
+    ],
+    [
+     "Je fais semblant de lire. Je ne lis pas. J'attends.",
+     1.8
+    ],
+    [
+     "À dix-neuf heures, je range le téléphone. Et je me dis : dimanche prochain.",
+     1.6
+    ],
+    [
+     "Je pourrais l'appeler, moi. Je le sais.",
+     1.2
+    ],
+    [
+     "Mais j'ai quatre-vingts ans, et je suis aussi têtue qu'à vingt ans.",
+     1.4
+    ],
+    [
+     "Je te raconte ça parce que tu fais pareil. Avec ton père. Je le vois.",
+     1.6
+    ],
+    [
+     "Vous êtes pareils, tous les trois. Fiers comme des coqs. Seuls comme des pierres.",
+     1.6
+    ],
+    [
+     "Dans la vie, il y en a toujours un qui doit appeler en premier.",
+     1.2
+    ],
+    [
+     "Ce n'est pas celui qui a tort. C'est celui qui a le plus de *courage*.",
+     1.6
+    ],
+    [
+     "Moi, je vais l'appeler ce soir. Je te le promets.",
+     1.4
+    ],
+    [
+     "Et toi, appelle ton père. Avant que vous ressembliez à des *pierres*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j020_grandpere",
+   "perso": "grandpere",
+   "episode": 22,
+   "fin": "Envoie-la à ton ami le plus impulsif.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "J’ai vendu ma moto pour acheter un cheval.",
+   "legende": "Les bêtises, ça se rattrape. Ce qu'on n'a pas osé, non. #grandpere #oser #humour #regrets #jeunesse",
+   "phrases": [
+    [
+     "À vingt ans, j'ai fait toutes les *bêtises* possibles. Je vais t'en raconter trois.",
+     1.3
+    ],
+    [
+     "J'ai vendu ma moto pour acheter un cheval. Je ne savais pas monter à cheval.",
+     1.6
+    ],
+    [
+     "J'ai démissionné d'un bon travail parce que mon chef portait des chaussettes ridicules.",
+     1.6
+    ],
+    [
+     "Et j'ai demandé ta grand-mère en mariage après trois rendez-vous.",
+     1.4
+    ],
+    [
+     "Les deux premières étaient des catastrophes. La troisième, c'est la meilleure décision de ma *vie*.",
+     1.8
+    ],
+    [
+     "Tout le monde me disait : tu es trop impulsif. Réfléchis. Attends.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, je suis vieux. Je réfléchis beaucoup. J'attends beaucoup.",
+     1.4
+    ],
+    [
+     "Et tu sais quoi ? Je regrette le cheval.",
+     1.6
+    ],
+    [
+     "Je ne regrette aucune de mes bêtises. Je regrette les choses que je n'ai pas osé faire.",
+     1.6
+    ],
+    [
+     "Les bêtises, ça se rattrape. On en rit. On les raconte à ses petits-enfants.",
+     1.4
+    ],
+    [
+     "Ce qu'on n'a pas osé, on ne peut même pas le raconter.",
+     1.6
+    ],
+    [
+     "Alors à ton âge, fais des bêtises. Des petites. Des grandes.",
+     1.2
+    ],
+    [
+     "Mais fais-les avec le *cœur*. C'est le seul conseil que je te donne.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j020_pere",
+   "perso": "pere",
+   "episode": 21,
+   "fin": "Envoie-la à quelqu’un à qui tu as fait une promesse.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "On n’y est jamais allés.",
+   "legende": "Les promesses qu'on ne tient pas, les enfants ne les oublient pas. #papa #pere #promesse #famille #emotion",
+   "phrases": [
+    [
+     "Chaque année, je te promettais qu'on irait à la montagne. On n'y est jamais *allés*.",
+     1.3
+    ],
+    [
+     "Il y avait toujours une bonne raison. Le travail. L'argent. La voiture à changer.",
+     1.2
+    ],
+    [
+     "Tu as arrêté de me le demander à douze ans.",
+     1.6
+    ],
+    [
+     "Je croyais que tu avais oublié. Que ça ne comptait pas.",
+     1.2
+    ],
+    [
+     "L'année dernière, j'ai trouvé un vieux cahier dans ta chambre.",
+     1.0
+    ],
+    [
+     "Dedans, tu avais dessiné la montagne. Toi, moi, une tente, un feu.",
+     1.4
+    ],
+    [
+     "Et en dessous, tu avais écrit : l'année prochaine.",
+     1.8
+    ],
+    [
+     "Il y avait six pages. Six fois la même montagne. Six fois l'année *prochaine*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai compris que les promesses qu'on ne tient pas, les enfants ne les oublient pas.",
+     1.4
+    ],
+    [
+     "Ils arrêtent juste d'en parler.",
+     1.6
+    ],
+    [
+     "Tu as trente ans maintenant. La montagne est toujours là.",
+     1.2
+    ],
+    [
+     "J'ai acheté une tente. Elle est dans le coffre de ma voiture.",
+     1.4
+    ],
+    [
+     "Tu es libre le week-end prochain ? Cette fois, ce n'est pas l'année *prochaine*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j020_mere",
+   "perso": "mere",
+   "episode": 21,
+   "fin": "Envoie-la à ta mère. Elle a beaucoup appris de toi aussi.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Ce n’est pas vrai.",
+   "legende": "Tu as été mon meilleur professeur. #maman #mere #gratitude #amour #famille",
+   "phrases": [
+    [
+     "On croit que ce sont les parents qui apprennent tout aux enfants. Ce n'est pas *vrai*.",
+     1.3
+    ],
+    [
+     "Toi, tu m'as appris des choses que personne d'autre n'aurait pu m'apprendre.",
+     1.2
+    ],
+    [
+     "Tu m'as appris la patience. À quatre heures du matin, avec un bébé qui ne dort pas.",
+     1.4
+    ],
+    [
+     "Tu m'as appris le courage. Le jour où tu es entré au bloc opératoire, en me tenant la main.",
+     1.6
+    ],
+    [
+     "Tu m'as appris à rire de moi-même. En imitant ma voix au téléphone.",
+     1.4
+    ],
+    [
+     "Tu m'as appris à demander pardon. Parce que toi, tu le faisais si facilement.",
+     1.4
+    ],
+    [
+     "Et tu m'as appris la plus difficile des choses.",
+     1.2
+    ],
+    [
+     "À te laisser *partir*.",
+     1.8
+    ],
+    [
+     "Avant toi, je croyais que l'amour, c'était garder les gens près de soi.",
+     1.4
+    ],
+    [
+     "Tu m'as appris que l'amour, c'est aussi ouvrir la porte. Et sourire.",
+     1.6
+    ],
+    [
+     "Je n'ai jamais été aussi bonne élève que dans ton école.",
+     1.4
+    ],
+    [
+     "Alors merci, mon enfant. Tu as été mon meilleur professeur.",
+     1.4
+    ],
+    [
+     "Et je n'ai pas fini d'*apprendre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j020_fou",
+   "perso": "fou",
+   "episode": 20,
+   "fin": "Envoie-la à quelqu’un qui attend les conditions parfaites.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Quatre ans dans un hangar qui fuyait.",
+   "legende": "Les conditions parfaites ne viennent jamais. #motivation #mariecurie #perseverance #reussite",
+   "phrases": [
+    [
+     "Une jeune femme a travaillé quatre ans dans un *hangar* qui fuyait, à traiter des tonnes de roche.",
+     1.3
+    ],
+    [
+     "L'hiver, il faisait six degrés à l'intérieur. L'été, on étouffait.",
+     1.2
+    ],
+    [
+     "Elle remuait de grandes marmites avec une barre de fer presque aussi grande qu'elle.",
+     1.4
+    ],
+    [
+     "Personne ne la prenait au sérieux. Une femme. Une étrangère. Dans un hangar.",
+     1.4
+    ],
+    [
+     "Au bout de quatre ans, elle a obtenu quelques grains d'une matière qui brillait dans le noir.",
+     1.6
+    ],
+    [
+     "Elle a reçu le prix Nobel. Puis un deuxième, dans une autre science.",
+     1.6
+    ],
+    [
+     "Elle s'appelait Marie *Curie*. La seule personne à avoir reçu deux prix Nobel dans deux sciences différentes.",
+     1.8
+    ],
+    [
+     "On te dira que tu n'as pas les bons outils. Le bon endroit. Le bon moment.",
+     1.2
+    ],
+    [
+     "Elle avait un hangar qui fuyait.",
+     1.6
+    ],
+    [
+     "Les conditions parfaites ne viennent jamais. Ceux qui réussissent commencent sans elles.",
+     1.4
+    ],
+    [
+     "Avec ce qu'ils ont. Là où ils sont. Maintenant.",
+     1.4
+    ],
+    [
+     "Ton hangar à toi, c'est peut-être ta chambre. Ta cuisine. Ton téléphone.",
+     1.2
+    ],
+    [
+     "C'est assez pour *commencer*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

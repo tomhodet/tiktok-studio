@@ -1,0 +1,348 @@
+{
+ "nom": "j016",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j016_grandmere",
+   "perso": "grandmere",
+   "episode": 17,
+   "fin": "Envoie-la à quelqu’un qui cherche la bonne personne.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Regarde comment il parle aux serveurs.",
+   "legende": "Le seul conseil de sa mère sur les hommes. #grandmere #amour #couple #respect #humour",
+   "phrases": [
+    [
+     "Le jour de mes dix-huit ans, ma mère m'a donné un seul conseil sur les *hommes*.",
+     1.3
+    ],
+    [
+     "Elle m'a dit : regarde comment il parle aux serveurs.",
+     1.6
+    ],
+    [
+     "Je n'ai pas compris. Je trouvais ça idiot.",
+     1.2
+    ],
+    [
+     "Mon premier fiancé était beau, riche, et il avait une voiture rouge.",
+     1.2
+    ],
+    [
+     "Au restaurant, il a claqué des doigts pour appeler la serveuse. Il l'a appelée ma petite.",
+     1.6
+    ],
+    [
+     "Je l'ai quitté au *dessert*.",
+     1.6
+    ],
+    [
+     "Ton grand-père, lui, n'avait pas de voiture. Il avait des chaussures trouées.",
+     1.2
+    ],
+    [
+     "Au café, il a aidé le serveur à ramasser un plateau tombé. Il s'est excusé de le gêner.",
+     1.6
+    ],
+    [
+     "Je l'ai épousé six mois plus tard.",
+     1.6
+    ],
+    [
+     "Cinquante-deux ans après, il me parlait encore comme il parlait à ce serveur.",
+     1.4
+    ],
+    [
+     "Avec respect. Même quand on se disputait.",
+     1.4
+    ],
+    [
+     "Les gens te montrent toujours qui ils sont. Surtout avec ceux qui ne peuvent rien leur apporter.",
+     1.2
+    ],
+    [
+     "Alors regarde bien comment ils parlent aux *serveurs*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j016_grandpere",
+   "perso": "grandpere",
+   "episode": 18,
+   "fin": "Envoie-la à un héros discret que tu connais.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Une médaille que personne n’a jamais vue.",
+   "legende": "Le courage, ce n'est pas l'absence de peur. #grandpere #courage #heros #histoirevraie",
+   "phrases": [
+    [
+     "Dans ma table de nuit, il y a une *médaille* que personne n'a jamais vue.",
+     1.3
+    ],
+    [
+     "J'avais vingt-deux ans. Une maison brûlait au bout de notre rue.",
+     1.2
+    ],
+    [
+     "Les pompiers n'étaient pas encore arrivés. On entendait un enfant crier, au premier étage.",
+     1.4
+    ],
+    [
+     "Je ne me souviens pas d'avoir réfléchi. Je suis entré.",
+     1.6
+    ],
+    [
+     "La fumée. La chaleur. Je ne voyais plus mes mains.",
+     1.4
+    ],
+    [
+     "Je l'ai trouvée sous un lit. Une petite fille. Elle avait cinq ans.",
+     1.6
+    ],
+    [
+     "Un mois plus tard, le maire m'a donné cette médaille. Je l'ai rangée. Je n'en ai jamais parlé.",
+     1.4
+    ],
+    [
+     "Il y a dix ans, une femme a sonné à ma porte. Elle avait cinquante-cinq ans.",
+     1.4
+    ],
+    [
+     "Elle m'a montré la photo de ses petits-enfants. Elle a dit : ils existent grâce à *vous*.",
+     1.8
+    ],
+    [
+     "C'est la seule médaille qui ait jamais compté.",
+     1.6
+    ],
+    [
+     "Le courage, ce n'est pas l'absence de peur. J'avais peur à en mourir.",
+     1.4
+    ],
+    [
+     "C'est d'y aller quand même, parce que quelqu'un a besoin de toi.",
+     1.2
+    ],
+    [
+     "Et après, de ne pas en faire une *histoire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j016_pere",
+   "perso": "pere",
+   "episode": 17,
+   "fin": "Envoie-la à ton père, le roi des bricolages ratés.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je n’avais jamais rien construit.",
+   "legende": "Les enfants ne veulent pas un père parfait. Ils veulent un père qui essaie. #papa #pere #cabane #famille",
+   "phrases": [
+    [
+     "L'été de tes huit ans, on a construit une *cabane* dans le chêne du jardin.",
+     1.3
+    ],
+    [
+     "Elle était de travers. Le toit fuyait. Il y avait des clous partout.",
+     1.2
+    ],
+    [
+     "Ta mère disait qu'elle allait s'écrouler. Elle n'avait pas tort.",
+     1.4
+    ],
+    [
+     "Mais tu y as dormi tous les week-ends pendant trois ans.",
+     1.4
+    ],
+    [
+     "Ce que tu ne sais pas, c'est que je n'avais jamais construit quoi que ce soit.",
+     1.6
+    ],
+    [
+     "Je ne savais pas me servir d'une scie. J'ai appris sur des vidéos, la nuit, en cachette.",
+     1.6
+    ],
+    [
+     "Je voulais que tu croies que ton père savait tout faire.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, la cabane est toujours là. Plus de travers que jamais.",
+     1.4
+    ],
+    [
+     "Et la semaine dernière, je t'ai vu y monter avec ton *fils*.",
+     1.8
+    ],
+    [
+     "Tu lui as dit : c'est papi qui l'a construite. Il sait tout faire.",
+     1.8
+    ],
+    [
+     "Les enfants ne veulent pas un père parfait. Ils veulent un père qui essaie.",
+     1.4
+    ],
+    [
+     "Le toit peut fuir. Les planches peuvent être de travers.",
+     1.2
+    ],
+    [
+     "Ce qu'ils retiendront, c'est que tu étais là, un marteau à la *main*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j016_mere",
+   "perso": "mere",
+   "episode": 17,
+   "fin": "Envoie-la à ta mère. Elle t’attend toujours à la sortie.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Tu ne m’as même pas dit au revoir.",
+   "legende": "Un enfant qui court sans se retourner sait qu'on sera là au retour. #maman #mere #ecole #confiance #amour",
+   "phrases": [
+    [
+     "Le jour de ta rentrée en maternelle, tu ne m'as même pas dit au *revoir*.",
+     1.3
+    ],
+    [
+     "Tu as lâché ma main, tu as couru vers les jouets. Tu ne t'es pas retourné.",
+     1.4
+    ],
+    [
+     "Toutes les autres mamans consolaient des enfants qui pleuraient.",
+     1.2
+    ],
+    [
+     "Moi, j'étais la seule mère qui pleurait. Et mon enfant, lui, ne pleurait pas.",
+     1.6
+    ],
+    [
+     "La maîtresse m'a dit : c'est bon signe, madame. Ça veut dire que vous avez bien fait votre travail.",
+     1.6
+    ],
+    [
+     "Je n'ai pas compris tout de suite.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, je comprends.",
+     1.2
+    ],
+    [
+     "Un enfant qui se retourne sans cesse, c'est un enfant qui a peur.",
+     1.4
+    ],
+    [
+     "Un enfant qui court sans se retourner, c'est un enfant qui sait qu'on sera là au *retour*.",
+     1.8
+    ],
+    [
+     "Toute ta vie, tu as couru sans te retourner. L'école. Le travail. Une autre ville.",
+     1.4
+    ],
+    [
+     "Et à chaque fois, j'ai pleuré un peu. Et j'ai été fière.",
+     1.6
+    ],
+    [
+     "Continue de courir.",
+     1.0
+    ],
+    [
+     "Je serai toujours là, à la *grille*, à l'heure de la sortie.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j016_fou",
+   "perso": "fou",
+   "episode": 16,
+   "fin": "Envoie-la à quelqu’un qui vit un coup dur.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Quel malheur. Peut-être.",
+   "legende": "Ce que tu appelles un malheur est peut-être le début de l'histoire. #motivation #sagesse #resilience #mindset",
+   "phrases": [
+    [
+     "Un vieux fermier perd son seul *cheval*. Les voisins disent : quel malheur.",
+     1.3
+    ],
+    [
+     "Le fermier répond : peut-être.",
+     1.6
+    ],
+    [
+     "Une semaine plus tard, le cheval revient. Avec trois chevaux sauvages.",
+     1.2
+    ],
+    [
+     "Les voisins disent : quelle chance. Le fermier répond : peut-être.",
+     1.6
+    ],
+    [
+     "Son fils essaie de dompter un des chevaux. Il tombe. Il se casse la jambe.",
+     1.2
+    ],
+    [
+     "Les voisins disent : quel malheur. Le fermier répond : peut-être.",
+     1.6
+    ],
+    [
+     "Quelques jours plus tard, l'armée passe dans le village. Elle emmène tous les jeunes hommes à la guerre.",
+     1.4
+    ],
+    [
+     "Le fils, avec sa jambe cassée, reste à la *maison*.",
+     1.8
+    ],
+    [
+     "Ce qui t'arrive aujourd'hui, tu l'appelles un malheur. Ou une chance.",
+     1.2
+    ],
+    [
+     "Tu n'en sais rien. Personne n'en sait rien.",
+     1.4
+    ],
+    [
+     "Ce licenciement. Cette rupture. Ce refus. Ce n'est peut-être pas la fin que tu crois.",
+     1.6
+    ],
+    [
+     "Ce n'est peut-être que le début de l'histoire.",
+     1.4
+    ],
+    [
+     "Alors avant de juger ce qui t'arrive, attends un peu.",
+     1.2
+    ],
+    [
+     "Le temps raconte toujours la *fin*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

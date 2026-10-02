@@ -1,0 +1,348 @@
+{
+ "nom": "j011",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j011_grandmere",
+   "perso": "grandmere",
+   "episode": 12,
+   "fin": "Envoie-la à quelqu’un qui cuisine avec amour.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je vais enfin te dire le secret.",
+   "legende": "Le secret de sa blanquette ? Du beurre. Et autre chose. #grandmere #cuisine #amour #humour #famille",
+   "phrases": [
+    [
+     "Tout le monde me demande le secret de ma blanquette. Je vais enfin te le *dire*.",
+     1.3
+    ],
+    [
+     "Ma mère me l'a transmis sur son lit d'hôpital. Elle m'a fait jurer de ne le dire à personne.",
+     1.4
+    ],
+    [
+     "Pendant cinquante ans, j'ai gardé ce secret. Les voisines ont tout essayé.",
+     1.2
+    ],
+    [
+     "Ta tante a même fouillé ma cuisine quand j'étais au marché.",
+     1.6
+    ],
+    [
+     "Le secret, c'est du beurre. Beaucoup de *beurre*.",
+     1.8
+    ],
+    [
+     "Ce n'est pas tout.",
+     1.2
+    ],
+    [
+     "Ma mère m'a dit autre chose, ce jour-là. Je ne l'ai compris que bien plus tard.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : ma fille, la recette, ce n'est rien. C'est pour qui tu cuisines qui change le *goût*.",
+     1.8
+    ],
+    [
+     "Quand je cuisinais pour ton grand-père qui rentrait de l'usine, c'était la meilleure du monde.",
+     1.4
+    ],
+    [
+     "Le jour où je l'ai faite pour moi toute seule, après sa mort, elle n'avait aucun goût.",
+     1.6
+    ],
+    [
+     "Même avec tout le beurre de la terre.",
+     1.4
+    ],
+    [
+     "Alors cuisine pour les gens que tu aimes. Le plus souvent possible.",
+     1.2
+    ],
+    [
+     "Et mets du *beurre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j011_grandpere",
+   "perso": "grandpere",
+   "episode": 13,
+   "fin": "Envoie-la à quelqu’un qui sait apprécier les choses simples.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Je ne me souviens que du pain blanc.",
+   "legende": "Quand on a tout, on ne goûte plus rien. #grandpere #gratitude #souvenir #simplicite",
+   "phrases": [
+    [
+     "J'avais quatre ans à la fin de la guerre. Je ne me souviens que d'une chose. Le *pain blanc*.",
+     1.3
+    ],
+    [
+     "Pendant des années, on n'avait mangé que du pain noir. Dur. Amer.",
+     1.2
+    ],
+    [
+     "Et un matin, mon père est rentré avec une baguette blanche, encore chaude.",
+     1.4
+    ],
+    [
+     "Il l'a posée sur la table. Personne n'osait la toucher.",
+     1.6
+    ],
+    [
+     "Ma mère l'a coupée en quatre. Lentement. Comme une fête.",
+     1.4
+    ],
+    [
+     "C'est le meilleur repas de ma vie. Quatre-vingts ans plus tard, je le sens *encore*.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, je vois du pain dans les poubelles. Des baguettes entières.",
+     1.4
+    ],
+    [
+     "Je ne te fais pas la morale. Je sais que les temps ont changé.",
+     1.2
+    ],
+    [
+     "Mais je vais te dire ce que j'ai perdu, et que tu n'as peut-être jamais eu.",
+     1.2
+    ],
+    [
+     "La joie d'une chose simple.",
+     1.6
+    ],
+    [
+     "Quand on a tout, on ne goûte plus rien.",
+     1.4
+    ],
+    [
+     "Alors un jour, mange ton pain lentement. Comme une fête.",
+     1.2
+    ],
+    [
+     "Tu verras. Le *bonheur*, c'est souvent juste une baguette chaude.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j011_pere",
+   "perso": "pere",
+   "episode": 12,
+   "fin": "Envoie-la à un parent qui veut tout donner.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je t’ai donné un râteau.",
+   "legende": "Ce qu'on te donne, tu le perds. Ce que tu gagnes, tu le gardes. #papa #pere #education #argent #valeur",
+   "phrases": [
+    [
+     "À dix ans, tu m'as demandé de l'argent de poche. Je t'ai donné un *râteau*.",
+     1.3
+    ],
+    [
+     "Tu étais furieux. Les autres avaient des billets. Toi, tu avais des feuilles mortes.",
+     1.4
+    ],
+    [
+     "Je t'ai dit : la pelouse du voisin, c'est cinq euros.",
+     1.2
+    ],
+    [
+     "Tu y as passé ton samedi. Tu avais des ampoules. Tu as boudé tout le dimanche.",
+     1.4
+    ],
+    [
+     "Le lundi, tu as acheté un ballon avec tes cinq euros.",
+     1.2
+    ],
+    [
+     "Et tu ne l'as jamais perdu. Jamais oublié sous la pluie. Jamais prêté.",
+     1.6
+    ],
+    [
+     "Les ballons que je t'avais offerts, tu les perdais tous.",
+     1.6
+    ],
+    [
+     "C'est ce jour-là que tu as compris la valeur des choses.",
+     1.2
+    ],
+    [
+     "Ce qu'on te donne, tu le perds. Ce que tu gagnes, tu le *gardes*.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu gagnes bien ta vie. Tu ne gaspilles rien.",
+     1.2
+    ],
+    [
+     "Et je sais que c'est un peu grâce à ce râteau.",
+     1.4
+    ],
+    [
+     "Ne donne pas tout à tes enfants. Ce n'est pas de l'amour, c'est de la facilité.",
+     1.2
+    ],
+    [
+     "Donne-leur un râteau. Et sois fier quand ils *transpirent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j011_mere",
+   "perso": "mere",
+   "episode": 12,
+   "fin": "Envoie-la à ta mère. Ou appelle-la, pour faire quarante-quatre.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Je compte tes appels.",
+   "legende": "Quarante-trois appels cette année. Dont six par erreur. #maman #mere #humour #appelletamere",
+   "phrases": [
+    [
+     "Je vais t'avouer quelque chose. Je *compte* tes appels.",
+     1.3
+    ],
+    [
+     "Cette année, tu m'as appelée quarante-trois fois.",
+     1.4
+    ],
+    [
+     "Dont onze fois pour me demander une recette. Et six fois par erreur.",
+     1.6
+    ],
+    [
+     "Ne ris pas. Pour moi, même les erreurs comptent.",
+     1.4
+    ],
+    [
+     "Quand ton nom s'affiche, j'arrête tout. Même la casserole sur le feu.",
+     1.2
+    ],
+    [
+     "Ton père dit que je suis ridicule. Il compte aussi. Il me demande tous les soirs.",
+     1.6
+    ],
+    [
+     "Tu crois que tu n'as rien à me raconter. Que ta vie n'est pas intéressante.",
+     1.2
+    ],
+    [
+     "Tu te trompes.",
+     1.2
+    ],
+    [
+     "Je veux savoir ce que tu as mangé à midi. Si ton collègue t'énerve encore.",
+     1.2
+    ],
+    [
+     "Si tu as froid. Si tu dors bien.",
+     1.4
+    ],
+    [
+     "Ce ne sont pas des questions. C'est ma façon de te serrer dans mes *bras*, de loin.",
+     1.8
+    ],
+    [
+     "Quarante-trois, c'est bien. Mais tu sais ce qui serait mieux ?",
+     1.0
+    ],
+    [
+     "Quarante-*quatre*. Ce soir, par exemple.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j011_fou",
+   "perso": "fou",
+   "episode": 11,
+   "fin": "Envoie-la à quelqu’un qui traverse une épreuve.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il a voulu l’aider. Il l’a condamné.",
+   "legende": "Ne demande pas une vie facile. Demande des ailes solides. #motivation #epreuve #mindset #resilience",
+   "phrases": [
+    [
+     "Un enfant voit un papillon qui se débat pour sortir de son *cocon*.",
+     1.3
+    ],
+    [
+     "Il se tortille. Il force. Ça dure des heures.",
+     1.2
+    ],
+    [
+     "L'enfant a pitié. Il prend des ciseaux, et il coupe le cocon pour l'aider.",
+     1.4
+    ],
+    [
+     "Le papillon sort facilement. Mais ses ailes sont fripées. Son corps est gonflé.",
+     1.4
+    ],
+    [
+     "Il ne volera jamais.",
+     1.8
+    ],
+    [
+     "Ce que l'enfant ne savait pas, c'est que la lutte était nécessaire.",
+     1.2
+    ],
+    [
+     "C'est en forçant pour sortir que le papillon envoie la force dans ses *ailes*.",
+     1.6
+    ],
+    [
+     "Sans l'effort, pas d'ailes.",
+     1.6
+    ],
+    [
+     "Toi, tu cherches peut-être quelqu'un pour couper ton cocon.",
+     1.2
+    ],
+    [
+     "Un raccourci. Une solution facile. Quelqu'un qui fasse le travail à ta place.",
+     1.4
+    ],
+    [
+     "Et tu maudis la difficulté. Tu crois qu'elle t'empêche d'avancer.",
+     1.2
+    ],
+    [
+     "Elle ne t'empêche pas. Elle te *construit*.",
+     1.6
+    ],
+    [
+     "Chaque jour où tu luttes, tu prépares tes ailes.",
+     1.2
+    ],
+    [
+     "Alors ne demande pas une vie facile. Demande des ailes *solides*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

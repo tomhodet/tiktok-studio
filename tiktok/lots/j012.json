@@ -1,0 +1,348 @@
+{
+ "nom": "j012",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j012_grandmere",
+   "perso": "grandmere",
+   "episode": 13,
+   "fin": "Envoie-la à quelqu’un qui défend les autres.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je riais avec les autres.",
+   "legende": "Ceux qui rient et ceux qui regardent sans rien dire aident aussi. #grandmere #harcelement #courage #regret",
+   "phrases": [
+    [
+     "Sur ma photo de classe, il y a une petite fille au *premier* rang.",
+     1.3
+    ],
+    [
+     "Elle s'appelait Odette. Elle avait des chaussures trop grandes et un manteau d'homme.",
+     1.2
+    ],
+    [
+     "Tous les jours, les autres se moquaient d'elle. Ils lui jetaient des cailloux.",
+     1.4
+    ],
+    [
+     "Moi, je ne jetais pas de cailloux. Mais je riais avec les autres.",
+     1.6
+    ],
+    [
+     "Je riais pour qu'on ne se moque pas de moi.",
+     1.4
+    ],
+    [
+     "Un jour, Odette n'est plus venue à l'école. Sa famille avait déménagé.",
+     1.2
+    ],
+    [
+     "Je ne lui ai jamais dit *pardon*.",
+     1.8
+    ],
+    [
+     "Soixante-dix ans plus tard, je pense encore à elle. Presque tous les jours.",
+     1.4
+    ],
+    [
+     "On croit que ceux qui font le mal, ce sont ceux qui jettent les cailloux.",
+     1.2
+    ],
+    [
+     "Mais ceux qui rient, et ceux qui regardent sans rien dire, aident aussi.",
+     1.6
+    ],
+    [
+     "Si un jour tu vois quelqu'un qu'on écrase, ne ris pas.",
+     1.2
+    ],
+    [
+     "Va t'asseoir à côté de lui. Même si les autres se moquent de toi aussi.",
+     1.4
+    ],
+    [
+     "C'est ça, le vrai *courage*. Je ne l'ai pas eu. Toi, aie-le.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j012_grandpere",
+   "perso": "grandpere",
+   "episode": 14,
+   "fin": "Envoie-la à quelqu’un avec qui tu veux voir la mer.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "L’avion pour la première fois, à soixante-quinze ans.",
+   "legende": "Une semaine, contre cinquante ans d'excuses. #grandpere #regrets #amour #peur #voyage",
+   "phrases": [
+    [
+     "J'ai pris l'*avion* pour la première fois à soixante-quinze ans.",
+     1.3
+    ],
+    [
+     "Toute ma vie, j'avais trouvé des excuses. Trop cher. Trop loin. Pas le temps.",
+     1.2
+    ],
+    [
+     "La vérité, c'est que j'avais peur. Une peur bleue.",
+     1.4
+    ],
+    [
+     "Ta grand-mère rêvait de voir la mer en Grèce. Elle en parlait depuis cinquante ans.",
+     1.4
+    ],
+    [
+     "Et moi, je disais toujours : l'année prochaine.",
+     1.6
+    ],
+    [
+     "Quand elle est tombée malade, j'ai acheté les billets le soir même.",
+     1.4
+    ],
+    [
+     "Dans l'avion, je lui ai écrasé la main pendant trois heures.",
+     1.4
+    ],
+    [
+     "On a vu la mer. Elle était encore plus *bleue* que dans ses rêves.",
+     1.6
+    ],
+    [
+     "Ta grand-mère a pleuré. Moi aussi, mais j'ai dit que c'était le soleil.",
+     1.4
+    ],
+    [
+     "On a eu une semaine. Une seule. Elle est partie l'hiver suivant.",
+     1.8
+    ],
+    [
+     "Une semaine, contre cinquante ans d'excuses.",
+     1.6
+    ],
+    [
+     "Ce dont tu as peur, fais-le pendant que les gens que tu aimes sont encore là.",
+     1.2
+    ],
+    [
+     "La peur passe. Les *regrets*, eux, restent.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j012_pere",
+   "perso": "pere",
+   "episode": 13,
+   "fin": "Envoie-la à quelqu’un qui a le cœur brisé.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Tu mangeais de la glace dans le noir.",
+   "legende": "Un cœur brisé, ça se répare. #papa #pere #chagrindamour #amour #conseil",
+   "phrases": [
+    [
+     "La nuit de ton premier chagrin d'*amour*, tu ne savais pas que j'étais réveillé.",
+     1.3
+    ],
+    [
+     "Tu avais seize ans. Tu étais rentré sans dire bonsoir.",
+     1.2
+    ],
+    [
+     "À deux heures du matin, j'ai entendu la porte du frigo. Tu mangeais de la glace, dans le noir.",
+     1.6
+    ],
+    [
+     "Je suis descendu. J'ai pris une cuillère. Je me suis assis en face de toi.",
+     1.4
+    ],
+    [
+     "On n'a rien dit. Pendant vingt minutes, on a juste mangé de la glace.",
+     1.6
+    ],
+    [
+     "Puis tu as dit : ça fait *mal*, papa.",
+     1.8
+    ],
+    [
+     "J'ai répondu : je sais. Ça va faire mal encore un moment.",
+     1.4
+    ],
+    [
+     "Je ne t'ai pas dit qu'elle ne te méritait pas. Je ne t'ai pas dit qu'il y en aurait d'autres.",
+     1.4
+    ],
+    [
+     "Je t'ai juste dit que la douleur, c'est la preuve que tu as aimé pour de vrai.",
+     1.6
+    ],
+    [
+     "Et que c'était une bonne nouvelle.",
+     1.4
+    ],
+    [
+     "Tu as souri. Pour la première fois de la soirée.",
+     1.2
+    ],
+    [
+     "Un cœur brisé, ça se répare. Un cœur qui n'a jamais aimé, ça ne sert à rien.",
+     1.4
+    ],
+    [
+     "Alors aime encore. Et garde toujours de la *glace* au congélateur.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j012_mere",
+   "perso": "mere",
+   "episode": 13,
+   "fin": "Envoie-la à ta mère. Demande-lui quel était son rêve.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je voulais être danseuse.",
+   "legende": "Avant d'être ta mère, elle avait un rêve. #maman #mere #reve #sacrifice #emotion",
+   "phrases": [
+    [
+     "Avant d'être ta mère, je voulais être *danseuse*.",
+     1.3
+    ],
+    [
+     "J'avais un professeur à Paris. Une audition. Une petite valise prête dans le couloir.",
+     1.4
+    ],
+    [
+     "Et puis je suis tombée enceinte. De toi.",
+     1.6
+    ],
+    [
+     "J'ai défait la valise. J'ai rangé les chaussons dans une boîte.",
+     1.4
+    ],
+    [
+     "Je ne te l'ai jamais dit, parce que je ne voulais pas que tu croies que tu m'as volé quelque chose.",
+     1.6
+    ],
+    [
+     "Tu ne m'as rien volé.",
+     1.4
+    ],
+    [
+     "Le jour de ton spectacle de fin d'année, tu avais six ans. Tu as dansé, n'importe comment.",
+     1.4
+    ],
+    [
+     "Tu t'es trompé de côté. Tu as perdu ta chaussure. Tu riais.",
+     1.4
+    ],
+    [
+     "Et moi, dans la salle, j'ai compris que j'avais quand même eu mon *audition*.",
+     1.8
+    ],
+    [
+     "La vie ne te donne pas toujours le rêve que tu avais prévu.",
+     1.2
+    ],
+    [
+     "Elle t'en donne parfois un autre. Plus petit. Plus bruyant. Qui perd ses chaussures.",
+     1.6
+    ],
+    [
+     "Mais si tu as encore un rêve, toi, ne range pas tes chaussons trop vite.",
+     1.2
+    ],
+    [
+     "Moi, je danse encore. Dans la cuisine. Quand personne ne *regarde*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j012_fou",
+   "perso": "fou",
+   "episode": 12,
+   "fin": "Envoie-la à quelqu’un qui aide les autres.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Pour celle-là, ça change tout.",
+   "legende": "Le monde change une étoile à la fois. #motivation #entraide #sens #mindset",
+   "phrases": [
+    [
+     "Après une tempête, des milliers d'étoiles de mer se retrouvent échouées sur une *plage*.",
+     1.3
+    ],
+    [
+     "Elles sèchent au soleil. Elles vont mourir.",
+     1.2
+    ],
+    [
+     "Un enfant les ramasse une par une, et les rejette à la mer.",
+     1.2
+    ],
+    [
+     "Un homme s'approche et se moque. Tu perds ton temps. Il y en a des milliers.",
+     1.4
+    ],
+    [
+     "Ça ne changera rien.",
+     1.6
+    ],
+    [
+     "L'enfant ramasse une étoile. La rejette à l'eau. Et répond : pour celle-là, ça change *tout*.",
+     1.8
+    ],
+    [
+     "On te dira que tu es trop petit pour changer le monde. Que ça ne sert à rien.",
+     1.2
+    ],
+    [
+     "Que les problèmes sont trop grands. Que tu n'y peux rien.",
+     1.4
+    ],
+    [
+     "Ils ont raison. Tu ne sauveras pas tout le monde.",
+     1.2
+    ],
+    [
+     "Mais pour la personne que tu aides aujourd'hui, tu es le *monde* entier.",
+     1.6
+    ],
+    [
+     "Un sourire. Un appel. Une main tendue.",
+     1.2
+    ],
+    [
+     "Ne laisse jamais quelqu'un te convaincre que ça ne compte pas.",
+     1.2
+    ],
+    [
+     "Ramasse une étoile. Puis une autre.",
+     1.0
+    ],
+    [
+     "Le monde change *une* étoile à la fois.",
+     0
+    ]
+   ]
+  }
+ ]
+}

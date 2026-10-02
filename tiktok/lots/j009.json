@@ -1,0 +1,344 @@
+{
+ "nom": "j009",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j009_grandmere",
+   "perso": "grandmere",
+   "episode": 10,
+   "fin": "Envoie-la à quelqu’un qui attend une permission.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "À quatre-vingts ans, je me suis fait tatouer.",
+   "legende": "Elle a attendu 60 ans une permission que personne n'allait lui donner. #grandmere #oser #humour #liberte",
+   "phrases": [
+    [
+     "Pour mes quatre-vingts ans, je me suis fait faire un *tatouage*.",
+     1.3
+    ],
+    [
+     "Ta mère a failli s'évanouir. Ton oncle a dit que j'étais devenue folle.",
+     1.4
+    ],
+    [
+     "Le tatoueur avait des anneaux partout. Il m'a demandé : vous êtes sûre, madame ?",
+     1.2
+    ],
+    [
+     "Je lui ai dit : jeune homme, à mon âge, on n'a plus le temps de ne pas être sûre.",
+     1.8
+    ],
+    [
+     "J'ai choisi une petite hirondelle, sur le poignet.",
+     1.2
+    ],
+    [
+     "Toute ma vie, j'en avais voulu une. Mais ça ne se faisait pas.",
+     1.2
+    ],
+    [
+     "Les filles bien n'avaient pas de tatouage. Les filles bien ne disaient pas non.",
+     1.4
+    ],
+    [
+     "Les filles bien attendaient qu'on leur donne la permission.",
+     1.6
+    ],
+    [
+     "J'ai attendu soixante ans une *permission* que personne n'allait me donner.",
+     1.6
+    ],
+    [
+     "Alors je me la suis donnée.",
+     1.4
+    ],
+    [
+     "Ça m'a fait mal. Presque autant que soixante ans d'attente.",
+     1.4
+    ],
+    [
+     "Toi, n'attends pas d'avoir quatre-vingts ans.",
+     1.0
+    ],
+    [
+     "La seule permission dont tu as besoin, c'est la *tienne*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j009_grandpere",
+   "perso": "grandpere",
+   "episode": 11,
+   "fin": "Envoie-la à quelqu’un qui t’a toujours protégé.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Cette dent cassée, je l’ai depuis mes douze ans.",
+   "legende": "Celui qui se relève finit souvent par faire peur. #grandpere #frere #courage #famille",
+   "phrases": [
+    [
+     "Tu vois cette dent cassée ? Je l'ai depuis l'âge de *douze* ans.",
+     1.3
+    ],
+    [
+     "À l'école, trois grands frappaient mon petit frère tous les jours.",
+     1.2
+    ],
+    [
+     "Il ne disait rien. Il rentrait avec les genoux écorchés et il mentait.",
+     1.4
+    ],
+    [
+     "Un matin, je les ai attendus derrière la cour.",
+     1.0
+    ],
+    [
+     "J'étais tout seul. Ils étaient trois. Je n'ai pas gagné.",
+     1.6
+    ],
+    [
+     "Mais je me suis relevé. Trois fois. Quatre fois.",
+     1.4
+    ],
+    [
+     "À la cinquième, ils sont partis. Ils ne comprenaient pas pourquoi je me *relevais*.",
+     1.6
+    ],
+    [
+     "Ils n'ont plus jamais touché à mon frère.",
+     1.6
+    ],
+    [
+     "J'ai perdu une dent ce jour-là. Je n'ai jamais voulu la faire réparer.",
+     1.4
+    ],
+    [
+     "Chaque matin, dans le miroir, elle me rappelle quelque chose.",
+     1.2
+    ],
+    [
+     "On ne gagne pas toujours. Mais celui qui se relève finit souvent par faire peur.",
+     1.6
+    ],
+    [
+     "Et quand quelqu'un s'attaque à ceux que tu aimes, tu n'as pas besoin d'être le plus fort.",
+     1.2
+    ],
+    [
+     "Tu as juste besoin de te *relever*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j009_pere",
+   "perso": "pere",
+   "episode": 10,
+   "fin": "Envoie-la à un parent qui travaille trop.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J’ai annulé ma réunion.",
+   "legende": "Ton enfant ne se souviendra pas de ce que tu as gagné. #papa #pere #presence #famille #football",
+   "phrases": [
+    [
+     "Ton premier match de foot, j'avais une réunion importante. Je l'ai *annulée*.",
+     1.3
+    ],
+    [
+     "Mon patron n'était pas content. Il m'a dit : c'est ta carrière, ou un match d'enfant.",
+     1.4
+    ],
+    [
+     "J'ai pris ma veste et je suis parti.",
+     1.2
+    ],
+    [
+     "Il pleuvait. Tu étais remplaçant. Tu as joué quatre minutes.",
+     1.4
+    ],
+    [
+     "Tu n'as pas touché le ballon une seule fois.",
+     1.6
+    ],
+    [
+     "Mais à chaque fois que tu courais, tu regardais vers la tribune. Pour vérifier que j'étais là.",
+     1.8
+    ],
+    [
+     "Mon père ne venait jamais à mes matchs. Il avait toujours du travail.",
+     1.4
+    ],
+    [
+     "Je ne me souviens d'aucun de mes buts. Je me souviens de la tribune *vide*.",
+     1.8
+    ],
+    [
+     "Je n'ai pas fait une grande carrière. J'ai eu une promotion de moins que les autres.",
+     1.2
+    ],
+    [
+     "Et je n'échangerais pas ces quatre minutes contre toutes les promotions du monde.",
+     1.6
+    ],
+    [
+     "Ton enfant ne se souviendra pas de ce que tu as gagné.",
+     1.2
+    ],
+    [
+     "Il se souviendra si tu étais dans la *tribune*.",
+     1.4
+    ],
+    [
+     "Alors sois-y. Même pour quatre minutes.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j009_mere",
+   "perso": "mere",
+   "episode": 10,
+   "fin": "Envoie-la à quelqu’un qui se bat depuis le premier jour.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu pesais un kilo deux.",
+   "legende": "Encore un jour. Juste encore un jour. #maman #mere #premature #battant #emotion",
+   "phrases": [
+    [
+     "Tu es né deux mois trop tôt. Tu pesais un kilo *deux*.",
+     1.3
+    ],
+    [
+     "Je n'avais pas le droit de te prendre dans mes bras. Juste de passer la main dans la couveuse.",
+     1.4
+    ],
+    [
+     "Tu as attrapé mon doigt. Ta main entière n'en faisait pas le tour.",
+     1.6
+    ],
+    [
+     "Les médecins ne promettaient rien. Ils disaient : on verra demain.",
+     1.4
+    ],
+    [
+     "Alors chaque jour, je venais te dire la même chose.",
+     1.0
+    ],
+    [
+     "Encore un jour. Juste encore un jour.",
+     1.6
+    ],
+    [
+     "Tu as tenu un jour. Puis un autre. Puis *soixante-trois*.",
+     1.6
+    ],
+    [
+     "Le jour où on est sortis de l'hôpital, il neigeait.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, tu mesures un mètre quatre-vingts. Tu te plains de tes journées.",
+     1.4
+    ],
+    [
+     "Et moi, je souris. Parce que tu ne sais pas d'où tu viens.",
+     1.4
+    ],
+    [
+     "Tu es un *battant*. Depuis le premier jour.",
+     1.4
+    ],
+    [
+     "Quand tu as l'impression de ne pas y arriver, souviens-toi de la couveuse.",
+     1.2
+    ],
+    [
+     "Encore un jour. Juste encore un *jour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j009_fou",
+   "perso": "fou",
+   "episode": 9,
+   "fin": "Envoie-la à quelqu’un qui nourrit le bon loup.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Celui que tu nourris.",
+   "legende": "Deux loups se battent en toi. Lequel gagne ? #motivation #discipline #mindset #habitudes",
+   "phrases": [
+    [
+     "Un vieil homme raconte à son petit-fils qu'une bataille a lieu en lui. Entre deux *loups*.",
+     1.3
+    ],
+    [
+     "Le premier, c'est la peur. La jalousie. La colère. La paresse.",
+     1.4
+    ],
+    [
+     "Le second, c'est le courage. La patience. La gratitude. La discipline.",
+     1.4
+    ],
+    [
+     "L'enfant demande : lequel va gagner ?",
+     1.6
+    ],
+    [
+     "Le vieil homme répond : celui que tu *nourris*.",
+     1.8
+    ],
+    [
+     "Cette histoire, tu l'as sûrement déjà entendue. Mais l'as-tu vraiment comprise ?",
+     1.2
+    ],
+    [
+     "Chaque matin où tu restes au lit, tu nourris le premier.",
+     1.2
+    ],
+    [
+     "Chaque fois que tu regardes la vie des autres en les enviant, tu le nourris encore.",
+     1.4
+    ],
+    [
+     "Et chaque fois que tu fais ce que tu as promis, même sans envie, tu nourris le second.",
+     1.4
+    ],
+    [
+     "Le loup de la peur ne meurt jamais. Il attend juste que tu oublies de nourrir l'autre.",
+     1.6
+    ],
+    [
+     "Alors regarde ta journée d'hier.",
+     1.0
+    ],
+    [
+     "Quel loup as-tu nourri ?",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu as encore le choix. Donne le bon *morceau*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "nom": "j008",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j008_grandmere",
+   "perso": "grandmere",
+   "episode": 9,
+   "fin": "Envoie-la à quelqu’un qui a choisi sa famille.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Je ne l’ai pas portée. Je l’ai choisie.",
+   "legende": "La famille, c'est qui se lève la nuit quand tu pleures. #grandmere #adoption #famille #amour #emotion",
+   "phrases": [
+    [
+     "À vingt-cinq ans, un médecin m'a dit que je ne pourrais jamais avoir d'*enfant*.",
+     1.3
+    ],
+    [
+     "Je suis rentrée à pied. Six kilomètres. Je ne sentais plus mes jambes.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, je n'ai plus voulu voir un landau dans la rue.",
+     1.2
+    ],
+    [
+     "Et puis un jour, on nous a appelés. Une petite fille de trois mois attendait quelque part.",
+     1.4
+    ],
+    [
+     "Quand je l'ai prise dans mes bras, elle a attrapé mon doigt. Et elle ne l'a plus lâché.",
+     1.8
+    ],
+    [
+     "Cette petite fille, c'est ta *mère*.",
+     1.8
+    ],
+    [
+     "Les gens me demandaient : ça ne te fait rien, qu'elle ne soit pas de toi ?",
+     1.2
+    ],
+    [
+     "Je répondais : elle est de moi. Je ne l'ai pas portée. Je l'ai *choisie*.",
+     1.6
+    ],
+    [
+     "Je l'ai bercée, soignée, attendue devant l'école, grondée aussi.",
+     1.2
+    ],
+    [
+     "Le sang, c'est ce qui coule dans tes veines.",
+     1.2
+    ],
+    [
+     "La famille, c'est qui se lève la nuit quand tu pleures.",
+     1.6
+    ],
+    [
+     "Toi, tu as mes yeux, d'après les gens. C'est impossible. Et pourtant, c'est vrai.",
+     1.4
+    ],
+    [
+     "L'amour finit toujours par se *ressembler*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j008_grandpere",
+   "perso": "grandpere",
+   "episode": 10,
+   "fin": "Envoie-la à quelqu’un qui vient de toucher son premier salaire.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je l’ai donné à ma mère.",
+   "legende": "Son premier salaire, il ne l'a jamais dépensé. #grandpere #famille #travail #mere #emotion",
+   "phrases": [
+    [
+     "Mon premier salaire, je ne l'ai jamais dépensé. Je l'ai donné à ma *mère*.",
+     1.3
+    ],
+    [
+     "J'avais quatorze ans. Je travaillais à la scierie, douze heures par jour.",
+     1.2
+    ],
+    [
+     "À la fin du mois, le patron m'a donné une enveloppe. Je l'ai serrée contre moi tout le chemin.",
+     1.4
+    ],
+    [
+     "Je l'ai posée sur la table de la cuisine. Ma mère l'a regardée longtemps.",
+     1.4
+    ],
+    [
+     "Puis elle est partie dans sa chambre. Je l'ai entendue pleurer.",
+     1.6
+    ],
+    [
+     "Je croyais que j'avais fait quelque chose de mal.",
+     1.2
+    ],
+    [
+     "Le lendemain, il y avait un gâteau sur la table. Le premier depuis la mort de mon père.",
+     1.8
+    ],
+    [
+     "Elle n'a jamais dépensé le reste. Je l'ai retrouvé, cinquante ans plus tard.",
+     1.4
+    ],
+    [
+     "Dans l'enveloppe. Dans sa table de nuit. Avec un mot : mon fils est un *homme*.",
+     1.8
+    ],
+    [
+     "On croit que l'argent sert à acheter des choses.",
+     1.2
+    ],
+    [
+     "Parfois, il sert juste à dire : je suis là, je vais t'aider.",
+     1.4
+    ],
+    [
+     "Ton premier salaire, fais-en ce que tu veux.",
+     1.0
+    ],
+    [
+     "Mais garde un peu de place pour un *gâteau*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j008_pere",
+   "perso": "pere",
+   "episode": 9,
+   "fin": "Envoie-la à un parent qui a déjà eu peur.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "La pire nuit de ma vie.",
+   "legende": "Quatre heures sur une chaise orange. #papa #pere #peur #enfant #emotion",
+   "phrases": [
+    [
+     "La pire nuit de ma vie, c'était un mardi. Tu avais quatre ans.",
+     1.3
+    ],
+    [
+     "Tu avais quarante de fièvre, et tu ne répondais plus.",
+     1.4
+    ],
+    [
+     "J'ai pris la voiture en pyjama. J'ai grillé tous les feux de la ville.",
+     1.2
+    ],
+    [
+     "Aux urgences, ils t'ont emmené derrière une porte. On m'a dit d'attendre.",
+     1.4
+    ],
+    [
+     "J'ai attendu quatre heures, sur une chaise orange.",
+     1.6
+    ],
+    [
+     "Pendant ces quatre heures, j'ai fait toutes les promesses du monde.",
+     1.2
+    ],
+    [
+     "Je serai plus patient. Je travaillerai moins. Je jouerai avec toi tous les soirs.",
+     1.4
+    ],
+    [
+     "À six heures du matin, une infirmière est sortie. Elle a *souri*.",
+     1.8
+    ],
+    [
+     "Tu dormais. Tu allais bien.",
+     1.6
+    ],
+    [
+     "Je ne les ai pas toutes tenues, ces promesses. Je te demande pardon.",
+     1.4
+    ],
+    [
+     "Mais il y en a une que je tiens encore.",
+     1.2
+    ],
+    [
+     "Chaque soir, avant de dormir, je remercie la vie pour cette infirmière qui a souri.",
+     1.4
+    ],
+    [
+     "Rien n'est plus *précieux* qu'un enfant qui dort.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j008_mere",
+   "perso": "mere",
+   "episode": 9,
+   "fin": "Envoie-la à ta mère. Et regarde-la vraiment, la prochaine fois.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "J’ai acheté les chaussures.",
+   "legende": "La dernière fois qu'elle a pensé à elle. #maman #mere #sacrifice #amour #famille",
+   "phrases": [
+    [
+     "Il y a trente ans, j'ai vu une *robe* dans une vitrine. Bleue. Magnifique.",
+     1.3
+    ],
+    [
+     "Je suis passée devant tous les jours pendant un mois.",
+     1.2
+    ],
+    [
+     "Le jour où j'ai enfin eu l'argent, tu es rentré de l'école avec des chaussures trouées.",
+     1.6
+    ],
+    [
+     "J'ai acheté les chaussures.",
+     1.6
+    ],
+    [
+     "Je ne regrette pas. Une mère ne regrette pas ce genre de chose.",
+     1.2
+    ],
+    [
+     "Mais je vais te dire un secret. Je pense encore à cette robe.",
+     1.4
+    ],
+    [
+     "Pas parce qu'elle était belle. Parce que c'était la dernière fois que j'ai pensé à *moi*.",
+     1.8
+    ],
+    [
+     "Après, il y a eu tes livres. Ton vélo. Tes études.",
+     1.2
+    ],
+    [
+     "Et moi, je suis devenue celle qui passe après.",
+     1.6
+    ],
+    [
+     "Je ne te dis pas ça pour que tu culpabilises.",
+     1.0
+    ],
+    [
+     "Je te dis ça pour que tu comprennes une chose.",
+     1.2
+    ],
+    [
+     "Les mères ne demandent jamais rien. Alors parfois, offre-leur ce qu'elles ne demandent pas.",
+     1.4
+    ],
+    [
+     "Même une robe *bleue*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j008_fou",
+   "perso": "fou",
+   "episode": 8,
+   "fin": "Envoie-la à quelqu’un qui doit tout recommencer.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Son usine a brûlé. Il a souri.",
+   "legende": "Dieu merci, on peut recommencer à zéro. #motivation #resilience #edison #echec #reussite",
+   "phrases": [
+    [
+     "Une nuit de décembre, une usine prend *feu*. Celle d'un inventeur de soixante-sept ans.",
+     1.3
+    ],
+    [
+     "Des années de travail. Des prototypes. Des archives. Tout brûle.",
+     1.2
+    ],
+    [
+     "Son fils le cherche partout, paniqué. Il le trouve devant les flammes. Calme.",
+     1.4
+    ],
+    [
+     "Le vieil homme lui dit : va chercher ta mère. Elle ne reverra jamais un feu pareil.",
+     1.8
+    ],
+    [
+     "Le lendemain, devant les cendres, il dit une phrase.",
+     1.2
+    ],
+    [
+     "Toutes nos erreurs viennent de brûler. Dieu merci, on peut *recommencer* à zéro.",
+     1.8
+    ],
+    [
+     "Trois semaines plus tard, l'usine tournait de nouveau.",
+     1.2
+    ],
+    [
+     "Cet homme s'appelait Thomas Edison.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, quelque chose va brûler.",
+     1.2
+    ],
+    [
+     "Un projet. Un couple. Un rêve que tu portais depuis des années.",
+     1.2
+    ],
+    [
+     "Tu auras deux choix. Pleurer devant les cendres. Ou regarder ce que le feu a emporté.",
+     1.4
+    ],
+    [
+     "Tes erreurs. Tes mauvaises habitudes. Tout ce qui ne marchait pas.",
+     1.2
+    ],
+    [
+     "Parfois, la vie ne détruit pas ce que tu as construit.",
+     1.2
+    ],
+    [
+     "Elle te rend une page *blanche*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

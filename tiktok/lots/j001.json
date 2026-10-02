@@ -1,0 +1,348 @@
+{
+ "nom": "j001",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j001_grandmere",
+   "perso": "grandmere",
+   "episode": 2,
+   "fin": "Envoie-la à quelqu’un que tu n’as pas appelé depuis trop longtemps.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je ne l’ai jamais envoyée.",
+   "legende": "Trente ans. Deux lettres. Pas un seul coup de téléphone. #grandmere #fierte #famille #regrets #conseildevie",
+   "phrases": [
+    [
+     "Pendant trente ans, j'ai gardé une *lettre* dans mon tiroir. Je ne l'ai jamais envoyée.",
+     1.3
+    ],
+    [
+     "Elle était pour ma sœur.",
+     1.0
+    ],
+    [
+     "On s'était disputées pour une bague. Une simple *bague*.",
+     1.2
+    ],
+    [
+     "Chaque Noël, je me disais : cette année, je l'appelle.",
+     0.9
+    ],
+    [
+     "Et chaque Noël, ma *fierté* répondait à ma place.",
+     1.4
+    ],
+    [
+     "Un matin, le téléphone a sonné. Ce n'était pas elle. C'était son fils.",
+     1.0
+    ],
+    [
+     "Elle était partie dans la nuit.",
+     1.6
+    ],
+    [
+     "À l'enterrement, il m'a tendu une petite boîte.",
+     1.0
+    ],
+    [
+     "Dedans, il y avait la bague. Et une *lettre*.",
+     1.2
+    ],
+    [
+     "Elle non plus, elle ne l'avait jamais envoyée.",
+     1.6
+    ],
+    [
+     "Trente ans. Deux lettres. Et pas un seul coup de téléphone.",
+     1.4
+    ],
+    [
+     "Alors si tu attends que l'autre fasse le premier pas, fais-le, toi.",
+     1.1
+    ],
+    [
+     "Ta fierté ne viendra pas te tenir la *main*, à la fin.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j001_grandpere",
+   "perso": "grandpere",
+   "episode": 3,
+   "fin": "Envoie-la à quelqu’un qui abandonne trop vite.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Elle ne marchait pas.",
+   "legende": "La discipline, ce n'est pas un grand effort. C'est un petit geste, tous les jours. #grandpere #discipline #motivation #conseildevie",
+   "phrases": [
+    [
+     "Le jour de mes quinze ans, mon père m'a offert une *montre*. Elle ne marchait pas.",
+     1.3
+    ],
+    [
+     "Je lui ai dit : elle est cassée.",
+     0.8
+    ],
+    [
+     "Il m'a répondu : non. Elle attend que tu la *remontes*.",
+     1.2
+    ],
+    [
+     "Tous les matins. Personne ne le fera à ta place.",
+     1.4
+    ],
+    [
+     "Alors je l'ai remontée. Les matins de pluie. Les matins de deuil.",
+     1.0
+    ],
+    [
+     "Les matins où je n'avais envie de rien.",
+     1.3
+    ],
+    [
+     "Soixante ans. Chaque matin. Le même petit geste.",
+     1.2
+    ],
+    [
+     "Elle n'a jamais pris une minute de retard. Moi non plus.",
+     1.4
+    ],
+    [
+     "C'est elle qui m'a appris ce qu'on n'apprend pas à l'école.",
+     1.0
+    ],
+    [
+     "La *discipline*, ce n'est pas un grand effort. C'est un petit geste, tous les jours.",
+     1.2
+    ],
+    [
+     "Surtout les jours où personne ne regarde.",
+     1.5
+    ],
+    [
+     "Elle est dans le tiroir de ma table de nuit. Quand je ne serai plus là, prends-la.",
+     1.2
+    ],
+    [
+     "Et *remonte-la*. Chaque matin.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j001_pere",
+   "perso": "pere",
+   "episode": 2,
+   "fin": "Envoie-la à quelqu’un qui doit tenir bon en ce moment.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je n’avais plus de travail.",
+   "legende": "Il partait travailler tous les matins. Il n'avait plus de travail. #papa #pere #famille #resilience #emotion",
+   "phrases": [
+    [
+     "Pendant trois mois, je suis parti travailler tous les matins. Je n'avais plus de *travail*.",
+     1.4
+    ],
+    [
+     "Tu avais neuf ans. Je ne voulais pas que tu aies peur.",
+     1.1
+    ],
+    [
+     "Alors je mettais mon costume, je t'embrassais, et je passais la journée sur un banc.",
+     1.2
+    ],
+    [
+     "J'envoyais des lettres. Les réponses ne venaient pas.",
+     1.3
+    ],
+    [
+     "Un jour, il pleuvait. Je me suis abrité sous un arrêt de bus.",
+     0.9
+    ],
+    [
+     "Et je t'ai vu, de l'autre côté de la rue, avec ta classe.",
+     1.0
+    ],
+    [
+     "Tu m'as regardé. Tu n'as rien dit.",
+     1.6
+    ],
+    [
+     "Le soir, dans ma mallette, il y avait un dessin.",
+     1.0
+    ],
+    [
+     "Un homme en costume. Et en dessous, écrit au feutre : mon papa, il ne lâche *jamais*.",
+     1.6
+    ],
+    [
+     "Un mois plus tard, j'avais un nouveau travail.",
+     1.0
+    ],
+    [
+     "Ce dessin est toujours dans mon portefeuille.",
+     1.4
+    ],
+    [
+     "Tu crois que c'est moi qui t'ai appris à ne pas lâcher.",
+     1.2
+    ],
+    [
+     "C'est *toi*. Tu avais neuf ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j001_mere",
+   "perso": "mere",
+   "episode": 2,
+   "fin": "Envoie-la à ta mère. Ou mieux, appelle-la.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Même ceux de trois secondes.",
+   "legende": "Un jour, c'est toi qui chercheras sa voix dans ton téléphone. #maman #mere #famille #emotion #appelletamere",
+   "phrases": [
+    [
+     "J'ai gardé tous tes *messages vocaux*. Même ceux de trois secondes.",
+     1.3
+    ],
+    [
+     "Maman, je suis bien arrivé. Maman, je te rappelle. Maman, rien, je voulais juste te dire bonne nuit.",
+     1.3
+    ],
+    [
+     "Le soir, quand la maison est trop calme, je les écoute.",
+     1.0
+    ],
+    [
+     "Je les connais par cœur.",
+     1.2
+    ],
+    [
+     "Il y en a un où tu ris pour rien. Tu ne t'en souviens pas. Moi, si.",
+     1.5
+    ],
+    [
+     "Tu trouves que je t'appelle trop souvent.",
+     0.8
+    ],
+    [
+     "Que je pose trop de questions. Que je m'inquiète pour rien.",
+     1.3
+    ],
+    [
+     "Mais un jour, c'est toi qui écouteras les *miens*.",
+     1.6
+    ],
+    [
+     "Tu chercheras ma voix dans ton téléphone.",
+     1.2
+    ],
+    [
+     "Et tu donnerais tout pour un message de trois secondes.",
+     1.6
+    ],
+    [
+     "Alors aujourd'hui, ne me réponds pas en deux mots.",
+     1.0
+    ],
+    [
+     "Raconte-moi ta journée. Même si elle était banale.",
+     1.2
+    ],
+    [
+     "Pour moi, rien de ce que tu dis n'est *banal*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j001_fou",
+   "perso": "fou",
+   "episode": 1,
+   "fin": "Envoie-la à quelqu’un qui a l’impression que rien ne pousse.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Pendant cinq ans, il ne s’est rien passé.",
+   "legende": "Pendant cinq ans, il ne s'est rien passé. Puis tout a changé. #motivation #discipline #reussite #patience #mindset",
+   "phrases": [
+    [
+     "Pendant cinq ans, un homme a arrosé une graine. Il ne s'est *rien* passé.",
+     1.4
+    ],
+    [
+     "Pas une pousse. Pas une feuille. Rien.",
+     1.3
+    ],
+    [
+     "Ses voisins se moquaient de lui. Tu perds ton temps.",
+     1.0
+    ],
+    [
+     "Mais chaque matin, il revenait avec son seau.",
+     1.0
+    ],
+    [
+     "Les jours de pluie. Les jours de doute. Les jours où même lui n'y croyait plus.",
+     1.4
+    ],
+    [
+     "La cinquième année, la terre s'est fendue.",
+     1.2
+    ],
+    [
+     "Et en quelques semaines, le bambou a dépassé tous les arbres du village.",
+     1.6
+    ],
+    [
+     "Les voisins ont crié au miracle.",
+     1.0
+    ],
+    [
+     "Ce n'était pas un *miracle*.",
+     1.4
+    ],
+    [
+     "Pendant cinq ans, sous la terre, il construisait ses *racines*.",
+     1.2
+    ],
+    [
+     "Des racines si profondes que plus rien ne pourrait le faire tomber.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as l'impression que rien ne pousse. Que tu te bats pour rien.",
+     1.2
+    ],
+    [
+     "Tu ne vois rien, parce que tout se passe sous la terre.",
+     1.4
+    ],
+    [
+     "Alors ne t'arrête pas maintenant. Continue d'*arroser*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

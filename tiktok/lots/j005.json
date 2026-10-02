@@ -1,0 +1,348 @@
+{
+ "nom": "j005",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j005_grandmere",
+   "perso": "grandmere",
+   "episode": 6,
+   "fin": "Envoie-la à quelqu’un avec qui tu ne passes plus assez de temps.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J’ai coupé le chauffage dans les chambres.",
+   "legende": "Ils sont devenus riches. Ils ne se voyaient plus. #grandmere #famille #argent #bonheur #humour",
+   "phrases": [
+    [
+     "J'ai été très pauvre. Puis j'ai été riche. Je vais te dire ce qui change *vraiment*.",
+     1.4
+    ],
+    [
+     "Quand on était pauvres, on avait une seule pièce chauffée.",
+     1.2
+    ],
+    [
+     "Alors le soir, tout le monde était dans la cuisine. Les devoirs, la radio, les disputes.",
+     1.2
+    ],
+    [
+     "On ne pouvait pas s'éviter. Il fallait se parler.",
+     1.4
+    ],
+    [
+     "Quand on est devenus riches, on a acheté une grande maison.",
+     1.0
+    ],
+    [
+     "Chacun avait sa chambre. Puis chacun a eu sa télévision.",
+     1.2
+    ],
+    [
+     "Et un soir, j'ai réalisé que je n'avais pas parlé à ta mère depuis trois jours.",
+     1.6
+    ],
+    [
+     "On vivait sous le même toit, et on ne se voyait plus.",
+     1.6
+    ],
+    [
+     "L'argent n'a pas acheté mon bonheur. Il a acheté des *murs*.",
+     1.4
+    ],
+    [
+     "Le lendemain, j'ai coupé le chauffage dans toutes les chambres.",
+     1.4
+    ],
+    [
+     "Ton grand-père a crié. Ta mère a boudé. Et tout le monde est revenu dans la cuisine.",
+     1.4
+    ],
+    [
+     "Tu n'as pas besoin d'une plus grande maison.",
+     1.0
+    ],
+    [
+     "Tu as besoin d'une plus *petite* cuisine.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j005_grandpere",
+   "perso": "grandpere",
+   "episode": 7,
+   "fin": "Envoie-la à quelqu’un à qui on a dit qu’il n’y arriverait pas.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Tu n’es pas fait pour les études.",
+   "legende": "Il a eu son diplôme à 67 ans. #grandpere #jamaistroptard #etudes #courage #motivation",
+   "phrases": [
+    [
+     "À quatorze ans, mon instituteur m'a dit : toi, tu n'es pas fait pour les *études*.",
+     1.4
+    ],
+    [
+     "Alors j'ai quitté l'école. Je suis allé travailler à la ferme de mon oncle.",
+     1.2
+    ],
+    [
+     "Toute ma vie, j'ai eu honte. Je signais les papiers sans les lire en entier.",
+     1.4
+    ],
+    [
+     "Quand ton père faisait ses devoirs, je disais : demande à ta mère.",
+     1.6
+    ],
+    [
+     "À la retraite, ta grand-mère m'a inscrit aux cours du soir. Sans me demander.",
+     1.2
+    ],
+    [
+     "J'avais soixante-trois ans. Les autres en avaient vingt.",
+     1.2
+    ],
+    [
+     "Le premier soir, j'ai failli repartir. J'avais les mains qui tremblaient.",
+     1.4
+    ],
+    [
+     "Quatre ans plus tard, j'ai eu mon *diplôme*. À soixante-sept ans.",
+     1.6
+    ],
+    [
+     "Ton père était dans la salle. Il pleurait plus que moi.",
+     1.4
+    ],
+    [
+     "Mon instituteur avait tort. Mais le pire, c'est que je l'ai cru pendant cinquante ans.",
+     1.6
+    ],
+    [
+     "Ce qu'on te dit à quatorze ans n'est pas une prophétie.",
+     1.2
+    ],
+    [
+     "C'est juste l'avis de quelqu'un qui ne te connaissait pas encore.",
+     1.2
+    ],
+    [
+     "Toi, tu as le droit de *recommencer*. À n'importe quel âge.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j005_pere",
+   "perso": "pere",
+   "episode": 6,
+   "fin": "Envoie-la à quelqu’un qui a perdu un proche.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je n’ai pas pleuré à l’enterrement de mon père.",
+   "legende": "Il n'a pas pleuré à l'enterrement. Il a pleuré devant une boîte à outils. #papa #pere #deuil #emotion",
+   "phrases": [
+    [
+     "Je n'ai pas pleuré à l'enterrement de mon père. Pas une *larme*.",
+     1.3
+    ],
+    [
+     "Tout le monde pensait que j'étais fort. Moi aussi, je le pensais.",
+     1.2
+    ],
+    [
+     "Six mois plus tard, ma voiture est tombée en panne.",
+     1.0
+    ],
+    [
+     "Je suis allé chercher sa vieille boîte à outils dans le garage.",
+     1.2
+    ],
+    [
+     "Je l'ai ouverte. Et tout était rangé comme il m'avait appris.",
+     1.4
+    ],
+    [
+     "Les clés par taille. Les tournevis à gauche. Un chiffon plié en quatre.",
+     1.4
+    ],
+    [
+     "Et là, assis par terre dans le garage, j'ai pleuré pendant une *heure*.",
+     1.8
+    ],
+    [
+     "Ce n'est pas l'enterrement qui m'a brisé. C'est un chiffon plié en quatre.",
+     1.6
+    ],
+    [
+     "Le chagrin ne prévient pas. Il attend que tu baisses la garde.",
+     1.4
+    ],
+    [
+     "Si tu as perdu quelqu'un, et que tu n'as pas encore pleuré, ce n'est pas grave.",
+     1.2
+    ],
+    [
+     "Ça viendra. Dans un garage, dans une cuisine, devant une chanson.",
+     1.4
+    ],
+    [
+     "Et quand ça viendra, ne te retiens pas.",
+     1.2
+    ],
+    [
+     "Pleurer quelqu'un, c'est la dernière façon de lui dire qu'on l'*aime*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j005_mere",
+   "perso": "mere",
+   "episode": 6,
+   "fin": "Envoie-la à ta mère. Elle a sûrement une boîte, elle aussi.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J’ai gardé ta première dent.",
+   "legende": "Dans cette petite boîte, il y a toute ton enfance. #maman #mere #souvenirs #amour #famille",
+   "phrases": [
+    [
+     "J'ai gardé ta première *dent* dans une petite boîte. Ne me demande pas pourquoi.",
+     1.3
+    ],
+    [
+     "J'ai aussi gardé ta première mèche de cheveux. Et ton bracelet de la maternité.",
+     1.2
+    ],
+    [
+     "Ton père dit que je suis folle. Il a sans doute raison.",
+     1.6
+    ],
+    [
+     "Mais je vais te dire ce qu'il y a vraiment dans cette boîte.",
+     1.0
+    ],
+    [
+     "Il y a le jour où tu as souri pour la première fois. À moi.",
+     1.4
+    ],
+    [
+     "Il y a tes premiers pas, jusqu'au canapé. Tu étais si fier.",
+     1.2
+    ],
+    [
+     "Il y a la nuit où tu as eu de la fièvre, et où je n'ai pas dormi.",
+     1.2
+    ],
+    [
+     "Il y a tout ce que tu as oublié. Et que moi, je n'oublierai *jamais*.",
+     1.8
+    ],
+    [
+     "Un jour, quand je ne serai plus là, tu trouveras cette boîte.",
+     1.4
+    ],
+    [
+     "Tu vas rire. Une dent, des cheveux, un bracelet en plastique.",
+     1.2
+    ],
+    [
+     "Et puis tu vas comprendre.",
+     1.4
+    ],
+    [
+     "Que pendant toutes ces années, quelqu'un gardait chaque petit morceau de toi.",
+     1.4
+    ],
+    [
+     "Comme un *trésor*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j005_fou",
+   "perso": "fou",
+   "episode": 5,
+   "fin": "Envoie-la à quelqu’un qui croit en toi.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il a jeté son roman à la poubelle.",
+   "legende": "Il a jeté son premier roman. Sa femme l'a ramassé. #motivation #ecriture #confiance #reussite",
+   "phrases": [
+    [
+     "Un jeune professeur a écrit un roman. Il l'a trouvé si mauvais qu'il l'a jeté à la *poubelle*.",
+     1.4
+    ],
+    [
+     "Il vivait dans une caravane. Il n'avait pas d'argent. Il n'y croyait plus.",
+     1.2
+    ],
+    [
+     "Le soir, sa femme a vidé la poubelle.",
+     1.0
+    ],
+    [
+     "Elle a trouvé les pages. Elle les a défroissées une par une.",
+     1.4
+    ],
+    [
+     "Elle les a lues. Et elle lui a dit : continue. Tu tiens quelque chose.",
+     1.6
+    ],
+    [
+     "Il a continué. Pour elle.",
+     1.2
+    ],
+    [
+     "Ce roman s'appelait Carrie. Cet homme s'appelait Stephen *King*.",
+     1.6
+    ],
+    [
+     "Il est devenu l'un des écrivains les plus lus au monde.",
+     1.4
+    ],
+    [
+     "Écoute bien ce que cette histoire veut dire.",
+     1.0
+    ],
+    [
+     "Parfois, tu es le plus mauvais juge de ton propre travail.",
+     1.4
+    ],
+    [
+     "Tu vois tous tes défauts. Tu ne vois pas ce que les autres vont aimer.",
+     1.2
+    ],
+    [
+     "Alors avant de tout jeter, montre-le à quelqu'un qui croit en toi.",
+     1.2
+    ],
+    [
+     "Et si personne ne croit en toi aujourd'hui, garde les pages.",
+     1.2
+    ],
+    [
+     "Ne jette *rien*. Pas encore.",
+     0
+    ]
+   ]
+  }
+ ]
+}

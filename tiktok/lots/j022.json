@@ -1,0 +1,344 @@
+{
+ "nom": "j022",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j022_grandmere",
+   "perso": "grandmere",
+   "episode": 23,
+   "fin": "Envoie-la à quelqu’un qui ne se trouve pas beau.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Je n’ai jamais acheté une crème de ma vie.",
+   "legende": "Les rides du rire sont les seules qui embellissent un visage. #grandmere #beaute #confiance #humour",
+   "phrases": [
+    [
+     "Tout le monde me demande comment j'ai fait pour garder une si belle *peau*. Je vais te le dire.",
+     1.3
+    ],
+    [
+     "Je n'ai jamais acheté une crème de ma vie. Pas une.",
+     1.4
+    ],
+    [
+     "Premier secret : dormir. Huit heures. Même quand ton mari ronfle comme un tracteur.",
+     1.6
+    ],
+    [
+     "Deuxième secret : rire. Tous les jours. Surtout de soi-même.",
+     1.4
+    ],
+    [
+     "Les rides du rire, ce sont les seules qui *embellissent* un visage.",
+     1.6
+    ],
+    [
+     "Troisième secret : ne jamais aller se coucher fâchée.",
+     1.4
+    ],
+    [
+     "La colère, ça se voit sur un visage. Ça creuse. Ça durcit. Ça vieillit plus vite que le soleil.",
+     1.6
+    ],
+    [
+     "Et le dernier secret, le plus important.",
+     1.0
+    ],
+    [
+     "Arrête de te regarder dans le miroir pour chercher ce qui ne va pas.",
+     1.6
+    ],
+    [
+     "J'ai passé mes trente ans à détester mon nez. Aujourd'hui, je donnerais tout pour retrouver ce nez.",
+     1.6
+    ],
+    [
+     "Tu ne seras jamais aussi jeune qu'aujourd'hui. Jamais.",
+     1.4
+    ],
+    [
+     "Alors regarde-toi avec les yeux que tu auras à quatre-vingts ans.",
+     1.4
+    ],
+    [
+     "Tu verras quelqu'un de *magnifique*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j022_grandpere",
+   "perso": "grandpere",
+   "episode": 24,
+   "fin": "Envoie-la à quelqu’un qui t’a transmis quelque chose.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Ses pommes viennent d’un arbre de cent ans.",
+   "legende": "Le jeune arbre donne sa force. Le vieux donne son goût. #grandpere #transmission #sagesse #generations",
+   "phrases": [
+    [
+     "Le pommier du jardin a soixante ans. Mais ses pommes viennent d'un arbre qui en a *cent*.",
+     1.3
+    ],
+    [
+     "Mon grand-père m'a appris à faire une greffe. J'avais dix ans.",
+     1.2
+    ],
+    [
+     "Tu prends une branche d'un vieil arbre qui donne de bonnes pommes.",
+     1.2
+    ],
+    [
+     "Tu la fixes sur un jeune arbre. Et tu attends.",
+     1.4
+    ],
+    [
+     "Le jeune arbre donne sa force. Le vieux donne son *goût*.",
+     1.8
+    ],
+    [
+     "Et ensemble, ils font des pommes que ni l'un ni l'autre n'aurait faites seul.",
+     1.6
+    ],
+    [
+     "Ce pommier, c'est l'arbre de mon grand-père, sur les racines de ma jeunesse.",
+     1.6
+    ],
+    [
+     "Les gens croient qu'il faut tout réinventer. Que les vieux ne savent rien.",
+     1.2
+    ],
+    [
+     "Et les vieux croient que les jeunes ne valent rien.",
+     1.4
+    ],
+    [
+     "Les deux ont tort. Il faut les deux.",
+     1.6
+    ],
+    [
+     "Toi, tu as la force. Moi, j'ai le goût. Ce que j'ai appris en quatre-vingts ans.",
+     1.4
+    ],
+    [
+     "Prends une branche de ceux qui sont passés avant toi.",
+     1.2
+    ],
+    [
+     "Et fais pousser quelque chose de *nouveau*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j022_pere",
+   "perso": "pere",
+   "episode": 23,
+   "fin": "Envoie-la à un père qui s’inquiète trop.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je t’ai perdu pendant dix minutes.",
+   "legende": "Les dix minutes les plus longues de sa vie. #papa #pere #peur #plage #emotion",
+   "phrases": [
+    [
+     "Un jour, à la plage, je t'ai perdu pendant dix *minutes*.",
+     1.3
+    ],
+    [
+     "Tu avais cinq ans. Je me suis retourné pour ouvrir le parasol. Tu n'étais plus là.",
+     1.4
+    ],
+    [
+     "J'ai couru dans tous les sens. J'ai crié ton prénom. Des inconnus cherchaient avec moi.",
+     1.4
+    ],
+    [
+     "J'ai regardé la mer. Je n'oublierai jamais ce que j'ai pensé en regardant la mer.",
+     1.8
+    ],
+    [
+     "Dix minutes. Les plus longues de ma vie.",
+     1.6
+    ],
+    [
+     "Et puis je t'ai vu. Devant le marchand de glaces. Tranquille. Tu regardais les parfums.",
+     1.6
+    ],
+    [
+     "Je t'ai serré si fort que tu as fait tomber ton seau.",
+     1.4
+    ],
+    [
+     "Tu m'as demandé : papa, pourquoi tu *pleures* ?",
+     1.8
+    ],
+    [
+     "Je t'ai acheté deux glaces. Ta mère n'a jamais compris pourquoi.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai compris que mon cœur ne m'appartenait plus.",
+     1.6
+    ],
+    [
+     "Il marchait à côté de moi, sur deux petites jambes. Il allait où il voulait.",
+     1.4
+    ],
+    [
+     "Les parents vivent toute leur vie avec ces dix minutes au fond de la poitrine.",
+     1.4
+    ],
+    [
+     "Alors si ton père s'inquiète trop, pardonne-lui. Il cherche encore le *marchand de glaces*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j022_mere",
+   "perso": "mere",
+   "episode": 23,
+   "fin": "Envoie-la à la personne que tu as choisie.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Sur la photo, il a l’air terrifié.",
+   "legende": "L'amour, au début, c'est un sentiment. Après, c'est une décision. #maman #mere #couple #amour #mariage",
+   "phrases": [
+    [
+     "Sur notre photo de mariage, ton père ne sourit pas. Il a l'air *terrifié*.",
+     1.3
+    ],
+    [
+     "Il avait vingt-trois ans. Il avait emprunté un costume. Il tremblait tellement qu'il a fait tomber l'alliance.",
+     1.6
+    ],
+    [
+     "Moi, je riais. Je pensais : ce garçon est fou de m'épouser.",
+     1.4
+    ],
+    [
+     "Trente-cinq ans plus tard, la photo est toujours dans l'entrée.",
+     1.2
+    ],
+    [
+     "On a eu des années difficiles. Très difficiles. Je ne te les ai pas toutes racontées.",
+     1.6
+    ],
+    [
+     "Il y a eu des soirs où j'ai regardé cette photo en me demandant si on y arriverait.",
+     1.6
+    ],
+    [
+     "On y est arrivés. Pas parce que c'était facile. Parce qu'on a décidé de rester.",
+     1.8
+    ],
+    [
+     "Les gens croient que l'amour, c'est un sentiment. Ça l'est, au début.",
+     1.2
+    ],
+    [
+     "Après, c'est une *décision*. Que tu reprends chaque matin.",
+     1.6
+    ],
+    [
+     "Même les matins où tu n'as pas envie. Surtout ceux-là.",
+     1.4
+    ],
+    [
+     "Ton père sourit sur toutes les photos, maintenant.",
+     1.4
+    ],
+    [
+     "Il n'a plus peur. Il sait que je reste.",
+     1.6
+    ],
+    [
+     "Si tu aimes quelqu'un, ne te demande pas s'il est le bon. Décidez de le *devenir* ensemble.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j022_fou",
+   "perso": "fou",
+   "episode": 22,
+   "fin": "Envoie-la à quelqu’un qui va au bout des choses.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Le marathon était fini depuis une heure.",
+   "legende": "Mon pays ne m'a pas envoyé pour commencer la course. Mais pour la finir. #motivation #sport #courage #jeuxolympiques",
+   "phrases": [
+    [
+     "Aux Jeux olympiques de mille neuf cent soixante-huit, le marathon est terminé depuis une *heure*.",
+     1.3
+    ],
+    [
+     "Le stade se vide. Les caméras s'éteignent. La nuit tombe.",
+     1.2
+    ],
+    [
+     "Et soudain, un dernier coureur entre dans le stade. Il boite.",
+     1.4
+    ],
+    [
+     "Sa jambe est bandée. Il est tombé pendant la course. Il saigne.",
+     1.4
+    ],
+    [
+     "Il fait le dernier tour, seul, en grimaçant. Les quelques spectateurs restés se lèvent.",
+     1.6
+    ],
+    [
+     "Il franchit la ligne. Dernier. Loin, très loin derrière tout le monde.",
+     1.6
+    ],
+    [
+     "Un journaliste lui demande : pourquoi n'avez-vous pas abandonné ?",
+     1.4
+    ],
+    [
+     "Il répond : mon pays ne m'a pas envoyé ici pour commencer la course. Il m'a envoyé pour la *finir*.",
+     1.8
+    ],
+    [
+     "Il s'appelait John Stephen Akhwari. Il n'a jamais gagné de médaille.",
+     1.4
+    ],
+    [
+     "Mais on se souvient de lui plus que de beaucoup de champions.",
+     1.4
+    ],
+    [
+     "Toi, tu ne seras peut-être pas le premier. Pas cette fois.",
+     1.2
+    ],
+    [
+     "Ce n'est pas grave. Le monde est plein de gens qui ont abandonné en tête.",
+     1.6
+    ],
+    [
+     "Finis ta course. Même en boitant. Même dans un stade *vide*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "nom": "j004",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j004_grandmere",
+   "perso": "grandmere",
+   "episode": 5,
+   "fin": "Envoie-la à quelqu’un qui pense qu’il est trop tard.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J’ai appris à nager à soixante-dix ans.",
+   "legende": "À 70 ans, elle a appris à nager. #grandmere #courage #jamaistroptard #peur #motivation",
+   "phrases": [
+    [
+     "À soixante-dix ans, j'ai appris à *nager*.",
+     1.3
+    ],
+    [
+     "Toute ma vie, j'avais eu peur de l'eau. Depuis mes six ans, depuis la rivière.",
+     1.2
+    ],
+    [
+     "Je disais que je n'aimais pas la plage. Ce n'était pas vrai. J'avais peur.",
+     1.4
+    ],
+    [
+     "Après la mort de ton grand-père, je me suis inscrite à la piscine.",
+     1.0
+    ],
+    [
+     "Le maître-nageur avait dix-neuf ans. Il m'appelait jeune fille.",
+     1.4
+    ],
+    [
+     "La première semaine, je ne lâchais pas le bord.",
+     1.0
+    ],
+    [
+     "La deuxième, j'ai mis la tête sous l'eau. J'ai cru mourir.",
+     1.4
+    ],
+    [
+     "Le dernier jour, j'ai traversé le bassin. Toute *seule*.",
+     1.6
+    ],
+    [
+     "Les gens applaudissaient. J'avais le bonnet de travers. Je m'en fichais.",
+     1.4
+    ],
+    [
+     "J'ai perdu soixante-quatre ans à avoir peur.",
+     1.4
+    ],
+    [
+     "Ce n'est jamais trop tard. C'est juste un peu plus froid.",
+     1.2
+    ],
+    [
+     "Alors, cette peur que tu traînes depuis toujours, va la regarder en face.",
+     1.2
+    ],
+    [
+     "Rester accroché au bord ne t'emmènera *nulle part*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j004_grandpere",
+   "perso": "grandpere",
+   "episode": 6,
+   "fin": "Envoie-la à quelqu’un qui traverse une période difficile.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J’ai tout perdu à cinquante ans.",
+   "legende": "Il a tout perdu à 50 ans. Ce qu'il a retrouvé vaut plus. #grandpere #resilience #famille #argent",
+   "phrases": [
+    [
+     "À cinquante ans, j'ai *tout* perdu. L'entreprise, la maison, les économies.",
+     1.4
+    ],
+    [
+     "Trente ans de travail, partis en six mois.",
+     1.2
+    ],
+    [
+     "Je me suis retrouvé dans un deux-pièces, avec ta grand-mère et deux cartons.",
+     1.3
+    ],
+    [
+     "Le premier soir, j'ai cru que ma vie était finie.",
+     1.4
+    ],
+    [
+     "Ta grand-mère a sorti un jeu de cartes. Elle a dit : on n'a plus de télévision, alors joue.",
+     1.4
+    ],
+    [
+     "On a joué jusqu'à deux heures du matin. Et on a ri.",
+     1.6
+    ],
+    [
+     "Ça faisait des années qu'on n'avait pas ri comme ça.",
+     1.4
+    ],
+    [
+     "Dans ma grande maison, je travaillais tout le temps. Je ne la voyais jamais.",
+     1.2
+    ],
+    [
+     "Dans ce petit appartement, je l'ai *retrouvée*.",
+     1.6
+    ],
+    [
+     "J'ai remonté une petite affaire. Plus modeste. Je n'ai plus jamais été riche.",
+     1.2
+    ],
+    [
+     "Mais je n'ai plus jamais été pauvre de ce qui compte.",
+     1.6
+    ],
+    [
+     "Si un jour tu perds tout, regarde bien qui est resté à côté de toi.",
+     1.2
+    ],
+    [
+     "C'est ça, ta vraie *fortune*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j004_pere",
+   "perso": "pere",
+   "episode": 5,
+   "fin": "Envoie-la à quelqu’un qui vient d’échouer.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "J’ai raté mon permis quatre fois.",
+   "legende": "Il a raté son permis quatre fois. #papa #pere #echec #humour #motivation",
+   "phrases": [
+    [
+     "J'ai raté mon permis de conduire *quatre* fois.",
+     1.2
+    ],
+    [
+     "La première fois, j'ai calé six fois. La deuxième, j'ai pleuré. La troisième, j'ai monté un trottoir.",
+     1.6
+    ],
+    [
+     "La quatrième, j'ai grillé un feu rouge. Devant l'inspecteur.",
+     1.4
+    ],
+    [
+     "Mon père m'a dit : tu n'es pas fait pour conduire.",
+     1.4
+    ],
+    [
+     "Je l'ai cru pendant deux ans.",
+     1.2
+    ],
+    [
+     "Puis j'ai rencontré ta mère. Elle habitait à quarante kilomètres.",
+     1.6
+    ],
+    [
+     "Je l'ai eu à la cinquième.",
+     1.2
+    ],
+    [
+     "Le jour où je t'ai appris à conduire, tu as calé, et tu as dit : je suis nul.",
+     1.2
+    ],
+    [
+     "Je t'ai raconté mes quatre échecs. Tu ne m'as pas cru.",
+     1.4
+    ],
+    [
+     "C'est normal. Les gens ne voient que la fin de l'histoire.",
+     1.2
+    ],
+    [
+     "Ils ne voient pas les quatre fois d'avant.",
+     1.4
+    ],
+    [
+     "Alors ne compare jamais ton début à la fin de quelqu'un d'autre.",
+     1.2
+    ],
+    [
+     "Rate autant de fois qu'il faut. On ne se souvient que de la *dernière*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j004_mere",
+   "perso": "mere",
+   "episode": 5,
+   "fin": "Envoie-la à ta mère, ou à quelqu’un qui passe des nuits difficiles.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Je dormais par terre à côté de ton lit.",
+   "legende": "Elle dormait par terre pour qu'il n'ait pas peur. #maman #mere #amour #famille #emotion",
+   "phrases": [
+    [
+     "Quand tu étais petit, tu avais peur du *noir*.",
+     1.2
+    ],
+    [
+     "Chaque nuit, tu venais dans notre chambre. Ton père grognait.",
+     1.2
+    ],
+    [
+     "Alors un soir, j'ai pris un coussin. Et je me suis allongée par terre, à côté de ton lit.",
+     1.4
+    ],
+    [
+     "Tu m'as tenu la main à travers les barreaux. Tu t'es endormi en deux minutes.",
+     1.4
+    ],
+    [
+     "Je suis restée là. Le carrelage était froid. Je ne bougeais pas.",
+     1.4
+    ],
+    [
+     "J'ai fait ça pendant presque un an.",
+     1.6
+    ],
+    [
+     "Tu ne t'en souviens pas. Tu étais trop petit.",
+     1.2
+    ],
+    [
+     "Mais mon dos, lui, s'en souvient encore.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, c'est toi qui as des nuits difficiles. Je le sais.",
+     1.0
+    ],
+    [
+     "Tu ne m'appelles pas. Tu ne veux pas m'inquiéter.",
+     1.2
+    ],
+    [
+     "Mais tu sais quoi ? Je suis toujours par terre, à côté de ton *lit*.",
+     1.6
+    ],
+    [
+     "Je ne dors pas beaucoup, de toute façon.",
+     1.0
+    ],
+    [
+     "Tends la main. Je suis *là*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j004_fou",
+   "perso": "fou",
+   "episode": 4,
+   "fin": "Envoie-la à quelqu’un qui doute de lui.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il pourrait arracher un arbre. Il ne bouge pas.",
+   "legende": "Ce n'est pas la corde qui le retient. #motivation #confiance #mindset #croyances #reussite",
+   "phrases": [
+    [
+     "Quand un éléphant est petit, on l'attache à un *piquet* avec une simple corde.",
+     1.4
+    ],
+    [
+     "Il tire. Il tire de toutes ses forces. Il n'y arrive pas.",
+     1.2
+    ],
+    [
+     "Au bout de quelques semaines, il arrête d'essayer.",
+     1.4
+    ],
+    [
+     "Des années plus tard, il pèse cinq tonnes. Il pourrait arracher un arbre.",
+     1.2
+    ],
+    [
+     "On l'attache toujours au même piquet. Avec la même corde.",
+     1.2
+    ],
+    [
+     "Et il ne bouge pas.",
+     1.6
+    ],
+    [
+     "Ce n'est pas la corde qui le retient. C'est un *souvenir*.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as une corde.",
+     1.0
+    ],
+    [
+     "Quelqu'un t'a dit que tu n'étais pas doué. Pas assez intelligent. Pas fait pour ça.",
+     1.4
+    ],
+    [
+     "Tu avais dix ans. Tu as essayé une fois. Ça n'a pas marché.",
+     1.2
+    ],
+    [
+     "Et tu es resté attaché depuis.",
+     1.6
+    ],
+    [
+     "Tu n'es plus ce petit éléphant. Tu es beaucoup plus fort que tu ne le crois.",
+     1.2
+    ],
+    [
+     "Tire un bon coup sur cette corde.",
+     1.0
+    ],
+    [
+     "Tu vas voir comme elle est *fragile*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

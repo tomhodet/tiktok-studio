@@ -1,0 +1,344 @@
+{
+ "nom": "j019",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j019_grandmere",
+   "perso": "grandmere",
+   "episode": 20,
+   "fin": "Envoie-la à quelqu’un avec qui tu veux voir la mer.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "La mer pour la première fois, à cinquante ans.",
+   "legende": "Combien de choses magnifiques sont à six heures de toi ? #grandmere #voyage #amour #vivre",
+   "phrases": [
+    [
+     "J'ai vu la *mer* pour la première fois à cinquante ans.",
+     1.3
+    ],
+    [
+     "On n'avait jamais eu les moyens. Et puis il y avait toujours quelque chose de plus urgent.",
+     1.2
+    ],
+    [
+     "Les enfants. La maison. La toiture. La voiture.",
+     1.4
+    ],
+    [
+     "Pour nos trente ans de mariage, ton grand-père m'a dit : monte dans la voiture.",
+     1.4
+    ],
+    [
+     "On a roulé toute la nuit. Il ne voulait pas me dire où on allait.",
+     1.2
+    ],
+    [
+     "Au lever du soleil, il s'est arrêté. Il m'a dit : ferme les yeux.",
+     1.6
+    ],
+    [
+     "J'ai entendu un bruit que je ne connaissais pas. Énorme. Doux. Partout.",
+     1.6
+    ],
+    [
+     "Quand j'ai ouvert les yeux, j'ai pleuré comme une *enfant*.",
+     1.8
+    ],
+    [
+     "Cinquante ans sans avoir vu ça. À six heures de route de chez moi.",
+     1.6
+    ],
+    [
+     "Combien de choses magnifiques sont à six heures de toi, et tu ne les as jamais vues ?",
+     1.4
+    ],
+    [
+     "Parce que tu attends d'avoir le temps. L'argent. Le bon moment.",
+     1.2
+    ],
+    [
+     "Il ne viendra pas tout seul. Il faut monter dans la voiture.",
+     1.2
+    ],
+    [
+     "Va voir ta *mer*, quelle qu'elle soit.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j019_grandpere",
+   "perso": "grandpere",
+   "episode": 21,
+   "fin": "Envoie-la à quelqu’un qui a peur de son premier rendez-vous.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "J’ai tout raté.",
+   "legende": "Les gens tombent amoureux de tes maladresses. #grandpere #amour #humour #rencontre #couple",
+   "phrases": [
+    [
+     "Pour mon premier rendez-vous avec ta grand-mère, j'ai tout *raté*.",
+     1.3
+    ],
+    [
+     "J'avais emprunté la veste de mon frère. Elle était trop grande de deux tailles.",
+     1.4
+    ],
+    [
+     "J'ai renversé mon verre de vin sur sa robe blanche.",
+     1.4
+    ],
+    [
+     "J'ai voulu payer, et je me suis rendu compte que j'avais oublié mon portefeuille.",
+     1.6
+    ],
+    [
+     "C'est elle qui a payé. En mille neuf cent soixante-deux. Le scandale.",
+     1.6
+    ],
+    [
+     "En la raccompagnant, je me suis dit : c'est fini, elle ne voudra plus jamais me voir.",
+     1.4
+    ],
+    [
+     "Devant sa porte, elle s'est retournée. Elle a dit : jeudi prochain, même *heure* ?",
+     1.8
+    ],
+    [
+     "Je lui ai demandé pourquoi, bien plus tard. Après cinquante ans de mariage.",
+     1.2
+    ],
+    [
+     "Elle m'a répondu : tu as raté tout ce qui ne comptait pas.",
+     1.6
+    ],
+    [
+     "Tu as été drôle. Tu as été gentil avec le serveur. Et tu n'as pas fait semblant.",
+     1.6
+    ],
+    [
+     "On croit qu'il faut être parfait pour plaire.",
+     1.2
+    ],
+    [
+     "C'est faux. Il faut être *vrai*.",
+     1.6
+    ],
+    [
+     "Les gens tombent amoureux de tes maladresses. Pas de ton costume.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j019_pere",
+   "perso": "pere",
+   "episode": 20,
+   "fin": "Envoie-la à quelqu’un qui répare au lieu de jeter.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J’ai dit non.",
+   "legende": "Avant de jeter quelque chose, ou quelqu'un, ouvre le capot. #papa #pere #reparer #patience #famille",
+   "phrases": [
+    [
+     "Quand la tondeuse est tombée en panne, tu voulais en acheter une neuve. J'ai dit *non*.",
+     1.3
+    ],
+    [
+     "Tu avais quinze ans. Tu as soupiré si fort que les voisins ont dû t'entendre.",
+     1.2
+    ],
+    [
+     "On a passé tout le samedi dans le garage. Le moteur en pièces sur un carton.",
+     1.4
+    ],
+    [
+     "Tu t'es coupé le doigt. Tu t'es mis de l'huile jusqu'aux coudes. Tu râlais.",
+     1.4
+    ],
+    [
+     "À six heures du soir, tu as tiré sur le cordon. Et le moteur a démarré.",
+     1.8
+    ],
+    [
+     "Tu as crié comme si tu avais gagné un match.",
+     1.6
+    ],
+    [
+     "Ce n'était pas pour économiser de l'argent. Une tondeuse, ça ne coûte pas si cher.",
+     1.2
+    ],
+    [
+     "C'était pour que tu saches que les choses cassées peuvent se *réparer*.",
+     1.6
+    ],
+    [
+     "Avec de la patience. Avec les mains sales. Avec quelqu'un à côté de toi.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, on jette tout. Les objets. Les amitiés. Les couples.",
+     1.4
+    ],
+    [
+     "Au premier bruit bizarre, on en achète un neuf.",
+     1.4
+    ],
+    [
+     "Avant de jeter quelque chose, ou quelqu'un, ouvre le capot.",
+     1.2
+    ],
+    [
+     "Regarde ce qui ne va pas. Et salis-toi les *mains*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j019_mere",
+   "perso": "mere",
+   "episode": 20,
+   "fin": "Envoie-la à ton frère ou à ta sœur.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Je ne prenais jamais parti.",
+   "legende": "Les seuls qui ont connu la même enfance que toi. #maman #mere #fratrie #famille #emotion",
+   "phrases": [
+    [
+     "Quand ta sœur et toi, vous vous disputiez, je ne prenais jamais parti. Ça vous rendait *fous*.",
+     1.3
+    ],
+    [
+     "Vous veniez chacun me raconter votre version. Je disais : réglez ça entre vous.",
+     1.2
+    ],
+    [
+     "Une fois, vous ne vous êtes pas parlé pendant une semaine. Pour une télécommande.",
+     1.6
+    ],
+    [
+     "Je vous ai envoyés tous les deux faire les courses. Ensemble. À pied.",
+     1.4
+    ],
+    [
+     "Vous êtes revenus deux heures plus tard. Avec les courses. Et en riant.",
+     1.6
+    ],
+    [
+     "Je ne sais toujours pas ce qui s'est passé sur le chemin. Je ne veux pas savoir.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, vous vivez loin l'un de l'autre. Vous vous appelez moins.",
+     1.2
+    ],
+    [
+     "Et moi, j'ai peur d'une chose.",
+     1.4
+    ],
+    [
+     "Le jour où je ne serai plus là, qui vous enverra faire les *courses* ensemble ?",
+     1.8
+    ],
+    [
+     "Les frères et sœurs, ce sont les seuls qui ont connu la même enfance que toi.",
+     1.4
+    ],
+    [
+     "Les seuls qui se souviendront de moi comme tu te souviens de moi.",
+     1.6
+    ],
+    [
+     "Alors appelle-la. Même pour rien. Même pour une télécommande.",
+     1.2
+    ],
+    [
+     "Je ne serai pas toujours là pour vous *réconcilier*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j019_fou",
+   "perso": "fou",
+   "episode": 19,
+   "fin": "Envoie-la à quelqu’un qui sait vivre simplement.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Pousse-toi. Tu me caches le soleil.",
+   "legende": "Plus tu as besoin de choses, plus tu as de maîtres. #motivation #liberte #diogene #philosophie",
+   "phrases": [
+    [
+     "Le plus grand roi du monde est venu voir un homme qui vivait dans un *tonneau*.",
+     1.3
+    ],
+    [
+     "Cet homme s'appelait Diogène. Il ne possédait rien. Un manteau. Un bol.",
+     1.2
+    ],
+    [
+     "Le roi s'appelait Alexandre le Grand. Il avait conquis la moitié du monde.",
+     1.4
+    ],
+    [
+     "Il lui a dit : demande-moi ce que tu veux. Je te le donnerai.",
+     1.6
+    ],
+    [
+     "Diogène a levé les yeux. Il a dit : pousse-toi. Tu me caches le *soleil*.",
+     1.8
+    ],
+    [
+     "Les soldats ont ri. Alexandre, lui, n'a pas ri.",
+     1.4
+    ],
+    [
+     "En partant, il aurait dit : si je n'étais pas Alexandre, je voudrais être Diogène.",
+     1.6
+    ],
+    [
+     "L'homme qui avait tout enviait l'homme qui n'avait besoin de rien.",
+     1.8
+    ],
+    [
+     "On te vend la liberté avec des choses à acheter. Une voiture. Un téléphone. Un statut.",
+     1.2
+    ],
+    [
+     "Mais plus tu as besoin de choses, plus tu as de maîtres.",
+     1.6
+    ],
+    [
+     "Chaque besoin, c'est une chaîne.",
+     1.4
+    ],
+    [
+     "Je ne te dis pas de vivre dans un tonneau. Je te dis de savoir ce dont tu as vraiment besoin.",
+     1.2
+    ],
+    [
+     "Et de dire au reste du monde : pousse-toi. Tu me caches le *soleil*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

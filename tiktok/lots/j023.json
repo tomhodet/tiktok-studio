@@ -1,0 +1,344 @@
+{
+ "nom": "j023",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j023_grandmere",
+   "perso": "grandmere",
+   "episode": 24,
+   "fin": "Envoie-la à quelqu’un qui donne sans compter.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Toute la ville avait des dettes chez elle.",
+   "legende": "Certaines choses ne s'écrivent dans aucun carnet. #grandmere #generosite #solidarite #emotion",
+   "phrases": [
+    [
+     "L'épicière de mon village avait un petit carnet noir. Toute la ville y avait des *dettes*.",
+     1.3
+    ],
+    [
+     "Quand on n'avait pas de quoi payer, elle écrivait le nom, et la somme.",
+     1.2
+    ],
+    [
+     "Ma mère y était souvent. Le lait. Le pain. Les sardines.",
+     1.4
+    ],
+    [
+     "On payait quand on pouvait. Parfois des mois plus tard.",
+     1.2
+    ],
+    [
+     "Quand l'épicière est morte, ses enfants ont trouvé le carnet.",
+     1.4
+    ],
+    [
+     "Des centaines de noms. Des milliers de francs. Ils ont voulu récupérer l'argent.",
+     1.4
+    ],
+    [
+     "À la dernière page, il y avait une phrase, de la main de l'épicière.",
+     1.4
+    ],
+    [
+     "Tout est payé. Ils ne me doivent rien. Ils m'ont donné leur *amitié*.",
+     1.8
+    ],
+    [
+     "Le jour de son enterrement, l'église était pleine. Même ceux qui n'allaient jamais à la messe.",
+     1.6
+    ],
+    [
+     "Elle n'est jamais devenue riche. Mais elle est partie la plus aimée du village.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tout le monde compte. Tout se paie. Tout se rembourse.",
+     1.2
+    ],
+    [
+     "Mais certaines choses ne s'écrivent dans aucun carnet.",
+     1.4
+    ],
+    [
+     "Sois la personne qui *efface* les dettes.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j023_grandpere",
+   "perso": "grandpere",
+   "episode": 25,
+   "fin": "Envoie-la à quelqu’un qui se sent seul.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Un nouvel ami, à quatre-vingt-deux ans.",
+   "legende": "Il faut juste qu'un des deux traverse l'allée. #grandpere #amitie #solitude #vieillesse #humour",
+   "phrases": [
+    [
+     "À quatre-vingt-deux ans, je me suis fait un nouvel *ami*. Sur un banc.",
+     1.3
+    ],
+    [
+     "Depuis la mort de ta grand-mère, j'allais au parc tous les matins. Pour ne pas rester seul.",
+     1.4
+    ],
+    [
+     "Il y avait un vieux monsieur sur le banc d'en face. Tous les jours, à la même heure.",
+     1.2
+    ],
+    [
+     "Pendant six mois, on s'est regardés sans rien dire. Deux vieux têtus.",
+     1.6
+    ],
+    [
+     "Un matin, il pleuvait. Il n'avait pas de parapluie. Je me suis assis à côté de lui.",
+     1.4
+    ],
+    [
+     "Il m'a dit : vous en avez mis du *temps*.",
+     1.8
+    ],
+    [
+     "Il avait perdu sa femme la même année que moi.",
+     1.6
+    ],
+    [
+     "Depuis, on se retrouve tous les matins. On parle de nos femmes. On se dispute sur le football.",
+     1.4
+    ],
+    [
+     "Le mardi, on mange ensemble. Il cuisine très mal. Je ne lui ai jamais dit.",
+     1.4
+    ],
+    [
+     "On croit qu'à un certain âge, on ne se fait plus d'amis. Que c'est trop tard.",
+     1.2
+    ],
+    [
+     "C'est faux. Il faut juste qu'un des deux traverse l'allée.",
+     1.6
+    ],
+    [
+     "Il y a peut-être quelqu'un sur un banc, en face de toi, depuis des mois.",
+     1.2
+    ],
+    [
+     "Va t'asseoir à côté. N'attends pas qu'il *pleuve*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j023_pere",
+   "perso": "pere",
+   "episode": 24,
+   "fin": "Envoie-la à quelqu’un qui pleure encore son animal.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu m’as vu pleurer pour la première fois.",
+   "legende": "On peut pleurer et être fort en même temps. #papa #pere #chien #deuil #emotion",
+   "phrases": [
+    [
+     "Quand on a enterré le chien, tu m'as vu *pleurer* pour la première fois.",
+     1.3
+    ],
+    [
+     "Tu avais onze ans. Tu croyais que les pères ne pleuraient pas.",
+     1.4
+    ],
+    [
+     "On l'a enterré sous le cerisier. Tu tenais la pelle. Je tenais sa couverture.",
+     1.4
+    ],
+    [
+     "Il avait dormi au pied de ton lit pendant onze ans. Il avait ton âge.",
+     1.6
+    ],
+    [
+     "J'ai essayé de me retenir. Pour toi. Pour te montrer comment on est fort.",
+     1.4
+    ],
+    [
+     "Je n'ai pas réussi.",
+     1.6
+    ],
+    [
+     "Tu m'as regardé. Et tu as pris ma main. C'est *toi* qui m'as consolé.",
+     1.8
+    ],
+    [
+     "Ce jour-là, je t'ai appris quelque chose sans le vouloir.",
+     1.2
+    ],
+    [
+     "Qu'on peut pleurer et être fort en même temps.",
+     1.6
+    ],
+    [
+     "Que les hommes aussi ont le droit d'avoir le cœur brisé.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, tu n'as pas peur de pleurer devant tes enfants. J'en suis fier.",
+     1.4
+    ],
+    [
+     "C'est peut-être la chose la plus importante que je t'aie apprise.",
+     1.4
+    ],
+    [
+     "Et c'est un *chien* qui me l'a fait faire.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j023_mere",
+   "perso": "mere",
+   "episode": 24,
+   "fin": "Envoie-la à ta mère. Ou à quelqu’un qui va se marier.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "La veille de ton mariage.",
+   "legende": "Construis ta maison. Une maison où on t'attend. #maman #mere #mariage #amour #emotion",
+   "phrases": [
+    [
+     "La veille de ton mariage, je ne t'ai pas dit ce que je voulais te dire. Alors je te le dis *maintenant*.",
+     1.3
+    ],
+    [
+     "Je t'ai regardé essayer ton costume. Tu te trouvais ridicule. Tu étais magnifique.",
+     1.4
+    ],
+    [
+     "J'ai revu le petit garçon qui se déguisait avec les cravates de son père.",
+     1.6
+    ],
+    [
+     "Je voulais te dire que je t'aimais. Que j'étais fière. Que j'avais peur aussi.",
+     1.4
+    ],
+    [
+     "Peur que tu n'aies plus besoin de moi. Peur de ne plus être la première personne que tu appelles.",
+     1.6
+    ],
+    [
+     "C'est égoïste, je sais. Les mères sont égoïstes, parfois.",
+     1.4
+    ],
+    [
+     "Alors je vais te dire la seule chose qui compte.",
+     1.0
+    ],
+    [
+     "Aime-la plus que tu ne m'as *aimée*.",
+     1.8
+    ],
+    [
+     "Choisis-la, tous les jours. Même les jours de dispute.",
+     1.4
+    ],
+    [
+     "Et si un soir tu as besoin de parler, la clé est toujours sous le paillasson.",
+     1.6
+    ],
+    [
+     "Mais ne viens pas trop souvent. Rentre chez toi. Construis ta maison.",
+     1.4
+    ],
+    [
+     "C'est ce que j'ai toujours voulu pour toi.",
+     1.4
+    ],
+    [
+     "Une maison où on t'*attend*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j023_fou",
+   "perso": "fou",
+   "episode": 23,
+   "fin": "Envoie-la à quelqu’un qui croit qu’il est trop tard.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Elle a commencé à soixante-dix-huit ans.",
+   "legende": "Elle a commencé à peindre à 78 ans. Elle a exposé à New York. #motivation #jamaistroptard #grandmamoses #reussite",
+   "phrases": [
+    [
+     "À soixante-dix-huit ans, une fermière américaine a commencé à *peindre*.",
+     1.3
+    ],
+    [
+     "Ses mains étaient abîmées par l'arthrite. Elle ne pouvait plus broder.",
+     1.2
+    ],
+    [
+     "Alors elle a pris un pinceau. Les gens riaient. À son âge ? Pour quoi faire ?",
+     1.4
+    ],
+    [
+     "Elle peignait la ferme. Les saisons. Les gens de son village.",
+     1.2
+    ],
+    [
+     "Un collectionneur a vu ses tableaux dans la vitrine d'une pharmacie.",
+     1.4
+    ],
+    [
+     "Deux ans plus tard, elle exposait à New *York*.",
+     1.6
+    ],
+    [
+     "Elle a peint jusqu'à plus de cent ans. Plus d'un millier de tableaux.",
+     1.4
+    ],
+    [
+     "On l'appelait Grandma Moses. Grand-mère Moses.",
+     1.6
+    ],
+    [
+     "Toi, tu crois qu'il est trop tard. Pour reprendre tes études. Pour changer de métier.",
+     1.2
+    ],
+    [
+     "Pour commencer le sport. Pour écrire. Pour aimer à nouveau.",
+     1.4
+    ],
+    [
+     "Elle a commencé à soixante-dix-huit ans. Et elle a eu plus de vingt ans de carrière.",
+     1.6
+    ],
+    [
+     "La seule chose qui est vraiment trop tard, c'est ce que tu ne commences jamais.",
+     1.4
+    ],
+    [
+     "Alors prends ton *pinceau*. Quel qu'il soit.",
+     0
+    ]
+   ]
+  }
+ ]
+}
