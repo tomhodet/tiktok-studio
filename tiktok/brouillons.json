@@ -1,0 +1,20 @@
+{
+ "actif": false,
+ "premier_lot": "j002",
+ "debut": "2026-10-03",
+ "ordre": [
+  "fou",
+  "grandmere",
+  "pere",
+  "mere",
+  "grandpere"
+ ],
+ "legendes": {
+  "grandmere": "Ce que ta grand-mère ne te dira jamais. Et toi, qu'est-ce que ta grand-mère t'a appris ? #grandmere #famille #conseildevie #emotion #pourtoi",
+  "grandpere": "Ce que ton grand-père ne te dira jamais. Quelle leçon ton grand-père t'a laissée, toi ? #grandpere #sagesse #famille #conseildevie #pourtoi",
+  "pere": "Ce que ton père ne te dira jamais. Tu lui as déjà dit merci, toi ? #papa #pere #famille #emotion #pourtoi",
+  "mere": "Ce que ta mère ne te dira jamais. Tu l'as appelée quand, la dernière fois ? #maman #mere #famille #emotion #pourtoi",
+  "fou": "Une histoire qui va te faire réfléchir. Tu en retiens quoi, toi ? #motivation #discipline #reussite #mindset #pourtoi"
+ },
+ "envoyes": []
+}
