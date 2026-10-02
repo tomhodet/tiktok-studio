@@ -1,0 +1,14 @@
+{
+ "actif": false,
+ "premier_lot": "j002",
+ "debut": "2026-10-03",
+ "ordre": [
+  "fou",
+  "grandmere",
+  "pere",
+  "mere",
+  "grandpere"
+ ],
+ "ntfy": "marczoff-4fa89d2ea40d",
+ "envoyes": []
+}

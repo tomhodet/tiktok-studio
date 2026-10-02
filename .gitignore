@@ -9,3 +9,5 @@
 *.mkv
 __pycache__/
 tiktok/*/_travail*/
+tiktok/tiktok_jeton.json
+tiktok/tiktok_code.txt
