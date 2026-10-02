@@ -47,7 +47,7 @@ def toutes_releases() -> list[dict]:
 
 def lots_commandes() -> list[str]:
     c = json.loads(Path("tiktok/commande.json").read_text(encoding="utf-8"))
-    lots = c["lots"]
+    lots = os.environ.get("LOTS") or c["lots"]      # LOTS : lancement enchaîné (workflow_dispatch)
     if isinstance(lots, str):           # « j002-j030 »
         a, b = (int(x) for x in re.findall(r"\d+", lots))
         lots = [f"j{k:03d}" for k in range(a, b + 1)]
@@ -79,6 +79,9 @@ def plan() -> None:
     persos = {e["perso"] for e in episodes}
     print("episodes=" + json.dumps(episodes))
     print("persos=" + json.dumps(sorted(persos)))
+    dernier = max(int(l[1:]) for l in lots_commandes()) if lots_commandes() else 0
+    print(f"suite=j{dernier + 1:03d}-j{min(dernier + 48, 999):03d}" if Path(f"tiktok/lots/j{dernier + 1:03d}.json").exists()
+          else "suite=")
     print(f"{len(episodes)} épisodes à fabriquer", file=sys.stderr)
 
 

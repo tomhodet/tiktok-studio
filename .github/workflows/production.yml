@@ -8,14 +8,20 @@ on:
     branches: [main]
     paths: ["tiktok/commande.json"]
   workflow_dispatch:
+    inputs:
+      lots:
+        description: "Lots à fabriquer (ex. j079-j126) ; vide = tiktok/commande.json"
+        required: false
 permissions:
   contents: write
+  actions: write
 concurrency: production
 jobs:
   plan:
     runs-on: ubuntu-latest
     outputs:
       episodes: ${{ steps.p.outputs.episodes }}
+      suite: ${{ steps.p.outputs.suite }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,6 +35,7 @@ jobs:
       - id: p
         env:
           GH_TOKEN: ${{ github.token }}
+          LOTS: ${{ github.event.inputs.lots }}
         run: python3 tiktok/outils/releases.py plan >> "$GITHUB_OUTPUT"
 
   episode:
@@ -39,7 +46,7 @@ jobs:
     timeout-minutes: 330
     strategy:
       fail-fast: false
-      max-parallel: 18
+      max-parallel: 19
       matrix:
         include: ${{ fromJSON(needs.plan.outputs.episodes) }}
     steps:
@@ -109,3 +116,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 tiktok/outils/releases.py envoyer "${{ matrix.release }}" "$RUNNER_TEMP"/livraison/*
+
+  suite:
+    # Commande suivante lancée d'elle-même : les 180 jours se fabriquent sans intervention
+    needs: [plan, episode]
+    if: always() && needs.plan.outputs.suite != ''
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run production.yml --repo "${{ github.repository }}" -f lots="${{ needs.plan.outputs.suite }}"
