@@ -54,6 +54,8 @@ jobs:
           rm -f tiktok/tiktok_jeton.json tiktok/tiktok_code.txt
           git config user.name "tiktok-studio"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A tiktok/brouillons.json tiktok/tiktok_jeton.json.enc tiktok/tiktok_code.enc 2>/dev/null
+          for f in tiktok/brouillons.json tiktok/tiktok_jeton.json.enc; do
+            [ -f "$f" ] && git add --sparse "$f" || true
+          done
           git commit -q -m "Brouillons TikTok : suivi du $(date -u +%F)" || exit 0
           for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && exit 0; sleep 7; done

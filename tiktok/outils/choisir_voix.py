@@ -319,6 +319,16 @@ def main() -> None:
             cands = sorted([r for r in prises if r["n"] == n and (r["ref"] == conf[0] if PAR_REF else (r["ref"], r["exag"], r["cfg"]) == conf)],
                            key=lambda r: len(r["defauts"]))
             print(f"  s{n:02d} ✗ aucune prise valable : " + (" ; ".join(cands[0]["defauts"]) if cands else "pas de prise"))
+            print(f"      texte   « {textes[n]} »")
+            vus = set()
+            for r in cands:                   # ce que Whisper a entendu : pour réécrire la phrase à coup sûr
+                if r["entendu"] in vus:
+                    continue
+                vus.add(r["entendu"])
+                faible = [f"{w['mot']} {w['proba']:.2f}" for w in r["mots"] if w.get("proba", 1) < 0.3]
+                print(f"      entendu « {r['entendu']} »  [{' ; '.join(r['defauts'])}]" + (f"  faibles : {faible}" if faible else ""))
+                if len(vus) >= 4:
+                    break
     (EP / "voix_cb" / "choix.json").write_text(json.dumps(
         {"config": list(conf), "manquantes": manquantes,
          "choix": {str(n): Path(x["fichier"]).stem for n, x in choix.items()}}, ensure_ascii=False, indent=1))

@@ -1,0 +1,49 @@
+name: diagnostic
+# Ce que Whisper a entendu sur les prises d'épisodes en échec (prises reprises du cache chiffré, sans
+# nouvelle génération) : pour réécrire précisément les phrases fautives.
+on:
+  workflow_dispatch:
+    inputs:
+      episodes:
+        description: 'Épisodes, en JSON (ex. ["j004_fou", "j009_mere"])'
+        required: true
+permissions:
+  contents: read
+jobs:
+  diagnostic:
+    name: ${{ matrix.ep }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        ep: ${{ fromJSON(github.event.inputs.episodes) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/lots/
+            /tiktok/personnages.json
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/cache/restore@v4
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-aucune
+          restore-keys: prises-${{ matrix.ep }}-
+      - name: Ce que Whisper a entendu
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          [ -f prises.tar.enc ] || { echo "pas de prises en cache"; exit 0; }
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in prises.tar.enc -pass env:COFFRE_CLE | tar -x
+          pip install -q numpy soundfile num2words librosa > /dev/null 2>&1
+          ep="${{ matrix.ep }}"
+          python3 tiktok/outils/episodes.py "tiktok/lots/${ep%%_*}.json" > /dev/null
+          ref=$(python3 -c "import json; p=json.load(open('tiktok/personnages.json'))['${ep#*_}']; print(p.get('configs_production', p['configs'])[0][0])")
+          python3 tiktok/outils/choisir_voix.py "tiktok/$ep" --par-ref --expressif "--config=$ref,0,0" | sed -n '/Réglage retenu/,$p' | grep -A12 "✗" || echo "toutes les phrases ont une prise valable avec les règles actuelles"
