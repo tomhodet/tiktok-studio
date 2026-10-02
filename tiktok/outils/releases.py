@@ -11,6 +11,7 @@ import mimetypes
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -93,8 +94,52 @@ def envoyer(rid: str, fichiers: list[str]) -> None:
         print("envoyé", f.name, f"{f.stat().st_size // 1000} ko")
 
 
+class _SansSuivre(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, *a, **k):
+        return None
+
+
+def lire_asset(url: str) -> bytes:
+    """Contenu d'un fichier de brouillon : l'API renvoie vers une adresse signée, lue sans le jeton."""
+    ouvreur = urllib.request.build_opener(_SansSuivre)
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+                                               "Accept": "application/octet-stream"})
+    try:
+        with ouvreur.open(req, timeout=60) as r:
+            return r.read()
+    except urllib.error.HTTPError as e:
+        if e.code not in (301, 302, 303, 307, 308):
+            raise
+        with urllib.request.urlopen(e.headers["Location"], timeout=120) as r:
+            return r.read()
+
+
+def legendes() -> None:
+    """Met à jour la légende de chaque vidéo déjà livrée quand celle du lot a changé."""
+    lots = {}
+    for f in Path("tiktok/lots").glob("j*.json"):
+        for e in json.loads(f.read_text(encoding="utf-8"))["episodes"]:
+            lots[e["id"]] = e.get("legende", "")
+    for rel in toutes_releases():
+        for a in rel.get("assets", []):
+            if not a["name"].endswith("_legende.txt"):
+                continue
+            ep = a["name"].replace("_A_VERIFIER", "").replace("_legende.txt", "")
+            nouvelle = lots.get(ep)
+            if nouvelle is None:
+                continue
+            actuelle = lire_asset(a["url"]).decode("utf-8").strip()
+            if actuelle == nouvelle.strip():
+                continue
+            f = Path("/tmp") / a["name"]
+            f.write_text(nouvelle + "\n", encoding="utf-8")
+            envoyer(str(rel["id"]), [str(f)])
+
+
 if __name__ == "__main__":
     if sys.argv[1] == "plan":
         plan()
     elif sys.argv[1] == "envoyer":
         envoyer(sys.argv[2], sys.argv[3:])
+    elif sys.argv[1] == "legendes":
+        legendes()

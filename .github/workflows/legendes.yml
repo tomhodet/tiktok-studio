@@ -1,0 +1,24 @@
+name: legendes
+# Quand les histoires changent, la légende de chaque vidéo déjà livrée est remise à jour dans son brouillon.
+on:
+  push:
+    branches: [main]
+    paths: ["tiktok/lots/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: legendes
+jobs:
+  legendes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/lots/
+          sparse-checkout-cone-mode: false
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tiktok/outils/releases.py legendes
