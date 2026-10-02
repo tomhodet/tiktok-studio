@@ -8,54 +8,12 @@ Sortie : <episode>/verif/rapport.json
 import json
 import re
 import sys
-import unicodedata
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+from texte_oral import canon, norm  # noqa: E402
+
 EP = Path(sys.argv[1])
-
-
-def nombres_en_lettres(t: str) -> str:
-    """« 80 » (transcription) = « quatre-vingts » (texte)."""
-    try:
-        from num2words import num2words
-    except ImportError:
-        return t
-    t = re.sub(r"(\d{1,2})\s*h\s*(\d{2})\b", r"\1 heures \2", t)      # « 6h12 » = six heures douze
-    t = re.sub(r"(\d{1,2})\s*h\b", r"\1 heures", t)
-    t = re.sub(r"(?<=\d)[\s\u202f\u00a0.](?=\d{3}\b)", "", t)          # « 10 000 » = dix mille
-    return re.sub(r"\d+", lambda m: " " + num2words(int(m.group()), lang="fr") + " ", t)
-
-
-HOMOPHONES = [{"ses", "ces", "c'est", "s'est", "sait"}, {"a", "à", "as"}, {"et", "est", "es"}, {"ou", "où"},
-              {"on", "ont"}, {"son", "sont"}, {"mais", "mes", "met", "mets"}, {"peu", "peut", "peux"},
-              {"la", "là", "l'a"}, {"quand", "qu'en", "quant"}, {"leur", "leurs"}, {"ce", "se"}, {"ma", "m'a"},
-              {"ta", "t'a"}, {"sa", "ça"}, {"dit", "dis"}, {"fait", "fais"}, {"vie", "vit"}, {"fin", "faim"},
-              {"pere", "père", "paire"}, {"par", "pars", "part"}, {"mère", "mer", "maire"}, {"cœur", "choeur", "chœur"},
-              {"ceux", "ce"}, {"traitera", "traîtra", "traitra"}, {"prends", "prend"},
-              {"pousse", "pouce", "pousses", "pouces"}, {"cou", "coup", "coût", "coups"}, {"verre", "vers", "vert", "ver"},
-              {"sans", "sang", "cent", "s'en"}, {"tant", "temps", "t'en"}, {"voix", "voie", "vois", "voit"},
-              {"courrait", "courait"}, {"mourrait", "mourait"}, {"mile", "mille", "miles"}]
-
-
-def canon(m: str) -> str:
-    """Forme de comparaison : sans accents, homophones ramenés à une seule forme (même son, autre orthographe)."""
-    if m.startswith("n'") and len(m) > 3:     # « on n'apprend » = « on apprend » à l'oreille (liaison)
-        m = m[2:]
-    for g in HOMOPHONES:
-        if m in g:
-            m = sorted(g)[0]
-            break
-    m = "".join(c for c in unicodedata.normalize("NFD", m) if not unicodedata.combining(c))
-    # terminaisons muettes : serai = serais, question = questions, ils demandent = il demande
-    if m.endswith("ent") and len(m) > 4:
-        m = m[:-2]
-    return m.rstrip("stex") if len(m.rstrip("stex")) >= 2 else m
-
-
-def norm(t: str) -> list[str]:
-    t = unicodedata.normalize("NFC", nombres_en_lettres(t).lower()).replace("’", "'").replace("*", "")
-    t = re.sub(r"\s+'", "'", t)      # la transcription détache « j » de « 'avais »
-    return re.sub(r"[^\w' ]+", " ", t).split()
 
 
 def main() -> None:
@@ -83,7 +41,7 @@ def main() -> None:
                      for i in range(i1, i2)]
         en_trop = [entendu[j] for op, _, _, j1, j2 in sm.get_opcodes() if op in ("insert", "replace")
                    for j in range(j1, j2)]
-        faibles = [m["mot"] for m in dans if m["proba"] < 0.3]
+        faibles = [m["mot"] for m in dans if m["proba"] < 0.3 and re.search(r"\w", m["mot"])]
         bon = not manquants and not en_trop
         ok &= bon
         rapport.append({"n": c["n"], "ok": bon, "attendu": c["texte"], "entendu": re.sub(r"\s+'", "'", " ".join(m["mot"] for m in dans)),

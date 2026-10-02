@@ -17,64 +17,19 @@ Les phrases sans prise valable sont listées : elles repartent en génération (
 import json
 import re
 import sys
-import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
 import numpy as np
+
+sys.path.insert(0, str(Path(__file__).parent))
+from texte_oral import mots_proches, norm  # noqa: E402
 
 EP = Path(sys.argv[1])
 ASSEMBLER = "--assembler" in sys.argv
 FORCE = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--config=")), None)
 PAR_REF = "--par-ref" in sys.argv            # regroupe par référence seulement (exagération et cfg mélangées)
 EXPRESSIF = "--expressif" in sys.argv        # note qui favorise les prises les plus vivantes
-
-
-def nombres_en_lettres(t: str) -> str:
-    """« 80 » (transcription) = « quatre-vingts » (texte)."""
-    try:
-        from num2words import num2words
-    except ImportError:
-        return t
-    t = re.sub(r"(\d{1,2})\s*h\s*(\d{2})\b", r"\1 heures \2", t)      # « 6h12 » = six heures douze
-    t = re.sub(r"(\d{1,2})\s*h\b", r"\1 heures", t)
-    t = re.sub(r"(?<=\d)[\s\u202f\u00a0.](?=\d{3}\b)", "", t)          # « 10 000 » = dix mille
-    return re.sub(r"\d+", lambda m: " " + num2words(int(m.group()), lang="fr") + " ", t)
-
-
-def norm(t: str) -> list[str]:
-    t = unicodedata.normalize("NFC", nombres_en_lettres(t).lower()).replace("’", "'").replace("*", "")
-    return re.sub(r"[^\w' ]+", " ", t).split()
-
-
-HOMOPHONES = [{"ses", "ces", "c'est", "s'est", "sait"}, {"a", "à", "as"}, {"et", "est", "es"}, {"ou", "où"},
-              {"on", "ont"}, {"son", "sont"}, {"mais", "mes", "met", "mets"}, {"peu", "peut", "peux"},
-              {"la", "là", "l'a"}, {"quand", "qu'en", "quant"}, {"leur", "leurs"}, {"ce", "se"}, {"ma", "m'a"},
-              {"ta", "t'a"}, {"sa", "ça"}, {"dit", "dis"}, {"fait", "fais"}, {"vie", "vit"}, {"fin", "faim"},
-              {"pere", "père", "paire"}, {"par", "pars", "part"}, {"mère", "mer", "maire"}, {"cœur", "choeur", "chœur"},
-              {"ceux", "ce"}, {"traitera", "traîtra", "traitra"}, {"prends", "prend"},
-              {"pousse", "pouce", "pousses", "pouces"}, {"cou", "coup", "coût", "coups"}, {"verre", "vers", "vert", "ver"},
-              {"sans", "sang", "cent", "s'en"}, {"tant", "temps", "t'en"}, {"voix", "voie", "vois", "voit"},
-              {"courrait", "courait"}, {"mourrait", "mourait"}, {"mile", "mille", "miles"}]
-
-
-def mots_proches(a: str, b: str) -> bool:
-    """Seules différences tolérées : homophones et accords qui se prononcent pareil (grandi/grandit, aimé/aimée).
-    Tout autre mot différent compte comme une erreur de lecture."""
-    if a == b:
-        return True
-    # négation avalée à l'oral : « on n'apprend pas » se dit et s'entend « on apprend pas »
-    if a.startswith("n'") and a[2:] == b or b.startswith("n'") and b[2:] == a:
-        return True
-    if any(a in g and b in g for g in HOMOPHONES):
-        return True
-    # terminaisons muettes : -ent des verbes au pluriel (ils demandent = il demande), s, t, e, x finaux
-    def muet(w: str) -> str:
-        if w.endswith("ent") and len(w) > 4:
-            w = w[:-2]
-        return w.rstrip("stex")
-    a2, b2 = muet(a), muet(b)
-    return a2 == b2 and len(a2) >= 2
 
 
 def ecart_texte(ref: str, hyp: str) -> tuple[int, int]:
@@ -154,8 +109,10 @@ def controle(r: dict) -> list[str]:
     for k, g in enumerate(trous):
         if g > (1.3 if k in ponct else 0.7):
             defauts.append(f"silence de {g:.1f} s après « {m[k]['mot']} »")
-    if r["proba_min"] < 0.25:
-        defauts.append(f"mot douteux (proba {r['proba_min']})")
+    # mot douteux : seulement les vrais mots (Whisper donne aussi des guillemets et des « ! » peu sûrs)
+    pm = min((w["proba"] for w in r["mots"] if re.search(r"\w", w["mot"])), default=r["proba_min"])
+    if pm < 0.25:
+        defauts.append(f"mot douteux (proba {pm})")
     if m and m[0]["debut"] > 0.6:
         defauts.append("attaque tardive")
     if not defauts:

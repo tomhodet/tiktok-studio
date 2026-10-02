@@ -61,7 +61,7 @@ def lots_commandes() -> list[str]:
 def empreinte(e: dict) -> str:
     """Texte de l'épisode et règles de voix : un échec n'est retenté que si l'un des deux a changé."""
     h = hashlib.sha1(json.dumps(e["phrases"], ensure_ascii=False).encode())
-    for f in ("choisir_voix.py", "verif_voix.py"):
+    for f in ("choisir_voix.py", "verif_voix.py", "texte_oral.py"):
         h.update((Path(__file__).parent / f).read_bytes())
     return h.hexdigest()[:10]
 
