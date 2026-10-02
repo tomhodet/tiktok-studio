@@ -1,0 +1,42 @@
+name: publier
+# Chaque matin : programme sur TikTok (via Upload-Post) les vidéos livrées des 7 prochains jours.
+# Réglages et suivi : tiktok/publication.json. Secret requis : UPLOAD_POST_KEY.
+on:
+  schedule:
+    - cron: "13 4 * * *"
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "programmer (défaut) ou essai (une vidéo en privé)"
+        required: false
+        default: programmer
+permissions:
+  contents: write
+concurrency: publier
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/publication.json
+          sparse-checkout-cone-mode: false
+      - name: Programmation
+        env:
+          GH_TOKEN: ${{ github.token }}
+          UPLOAD_POST_KEY: ${{ secrets.UPLOAD_POST_KEY }}
+        run: |
+          if [ -z "$UPLOAD_POST_KEY" ]; then echo "secret UPLOAD_POST_KEY absent : rien à faire"; exit 0; fi
+          if [ "${{ github.event.inputs.action }}" = "essai" ]; then python3 tiktok/outils/publier.py essai; else python3 tiktok/outils/publier.py; fi
+      - name: Suivi enregistré
+        if: always()
+        run: |
+          git config user.name "tiktok-studio"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tiktok/publication.json
+          git commit -q -m "Publication : programmation du $(date -u +%F)" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && exit 0; sleep 7; done

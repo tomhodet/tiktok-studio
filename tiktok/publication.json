@@ -1,0 +1,19 @@
+{
+ "actif": false,
+ "profil": "marczoff",
+ "mode": "DIRECT_POST",
+ "visibilite": "PUBLIC_TO_EVERYONE",
+ "fuseau": "Europe/Paris",
+ "premier_lot": "j002",
+ "debut": "2026-10-03",
+ "horizon_jours": 7,
+ "heures": {
+  "fou": "07:30",
+  "grandmere": "12:00",
+  "pere": "17:00",
+  "mere": "19:00",
+  "grandpere": "21:00"
+ },
+ "publier_a_verifier": false,
+ "programmes": []
+}
