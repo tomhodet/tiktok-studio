@@ -1,0 +1,368 @@
+{
+ "nom": "j162",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j162_grandmere",
+   "perso": "grandmere",
+   "episode": 163,
+   "fin": "Envoie-la à quelqu'un qui réapprend à vivre.",
+   "lueurs": [
+    1,
+    8,
+    15
+   ],
+   "accroche": "Toutes les pendules se sont arrêtées.",
+   "legende": "Le temps ne s'arrête pas tout seul quand on perd quelqu'un. Il attend qu'on le remonte. Qu'est-ce que tu as dû apprendre après le départ de quelqu'un ? #grandmere #deuil #humour #resilience #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour de l'enterrement de ton grand-père, toutes les *pendules* de la maison se sont arrêtées.",
+     1.3
+    ],
+    [
+     "La cuisine, le salon, la chambre. À quelques minutes d'écart.",
+     1.2
+    ],
+    [
+     "Ta tante a dit que c'était un signe.",
+     1.4
+    ],
+    [
+     "Moi aussi, j'y ai cru. Pendant deux jours.",
+     1.2
+    ],
+    [
+     "Et puis je me suis souvenue. Tous les dimanches, ton grand-père remontait les pendules.",
+     1.4
+    ],
+    [
+     "Avec une petite clé, après le café. Je ne l'avais jamais fait.",
+     1.4
+    ],
+    [
+     "Cinquante ans de mariage, et je ne savais pas remonter une pendule.",
+     1.6
+    ],
+    [
+     "Ce n'était pas un signe. C'était juste lundi.",
+     1.6
+    ],
+    [
+     "J'ai ri, toute seule dans la cuisine. Pour la première fois depuis sa mort.",
+     1.6
+    ],
+    [
+     "Puis j'ai trouvé la petite clé, dans sa veste. Avec un bonbon à la menthe.",
+     1.4
+    ],
+    [
+     "J'ai mis une heure à comprendre le mécanisme. Je me suis pincé deux doigts.",
+     1.4
+    ],
+    [
+     "Mais à midi, la cuisine faisait de nouveau tic-tac.",
+     1.8
+    ],
+    [
+     "Le temps ne s'arrête pas tout seul quand on perd quelqu'un. Il attend qu'on le remonte.",
+     1.4
+    ],
+    [
+     "Depuis, c'est moi qui le fais. Tous les dimanches, après le café.",
+     1.2
+    ],
+    [
+     "Le chagrin aussi, ça se *remonte*. Avec une petite clé, et un peu de patience.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j162_grandpere",
+   "perso": "grandpere",
+   "episode": 164,
+   "fin": "Envoie-la à quelqu'un dont le village a changé.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon village est au fond d'un lac.",
+   "legende": "On croit que les lieux de notre enfance disparaissent. Ils attendent. Où est le village de ton enfance aujourd'hui ? #grandpere #souvenirs #enfance #village #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le village où je suis né est au fond d'un *lac*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent cinquante-huit, on a construit un barrage. J'avais douze ans.",
+     1.2
+    ],
+    [
+     "On nous a donné une maison neuve, plus haut, dans la vallée d'à côté.",
+     1.2
+    ],
+    [
+     "Mon père a refusé de partir jusqu'au dernier jour.",
+     1.4
+    ],
+    [
+     "L'eau a monté pendant des semaines. Le pont, puis l'école, puis notre toit.",
+     1.4
+    ],
+    [
+     "Après, plus rien. Un lac bleu, et des touristes.",
+     1.2
+    ],
+    [
+     "Mais tous les dix ans, on vide le lac pour vérifier le barrage.",
+     1.4
+    ],
+    [
+     "Alors je descends. Je marche dans la boue, entre les murs de mon enfance.",
+     1.6
+    ],
+    [
+     "Il reste l'église, sans clocher. La fontaine. Et le seuil de notre maison.",
+     1.6
+    ],
+    [
+     "Il y a six ans, tu es venu avec moi. Avec des bottes trop grandes.",
+     1.4
+    ],
+    [
+     "Je me suis assis sur notre seuil. Tu t'es assis à côté de moi. Sans rien dire.",
+     1.8
+    ],
+    [
+     "Quelques semaines après, l'eau est remontée. Tout a disparu de nouveau.",
+     1.4
+    ],
+    [
+     "On croit que les lieux de notre enfance disparaissent. Ils attendent.",
+     1.4
+    ],
+    [
+     "Dans quatre ans, ils videront le lac. Viens avec moi. Je te montrerai où j'ai appris à *marcher*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j162_pere",
+   "perso": "pere",
+   "episode": 163,
+   "fin": "Envoie-la à quelqu'un qui klaxonne pour un rien.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je klaxonne devant ta maternité.",
+   "legende": "Il y a des endroits où on a été trop heureux pour passer sans rien dire. Quel endroit te fait encore quelque chose quand tu passes devant ? #papa #pere #naissance #souvenirs #humour #pourtoi",
+   "phrases": [
+    [
+     "Chaque fois que je passe devant la maternité où tu es né, je *klaxonne*.",
+     1.3
+    ],
+    [
+     "Deux petits coups. Depuis trente ans.",
+     1.2
+    ],
+    [
+     "La première fois, c'était le jour où on t'a ramené. Je roulais à trente à l'heure.",
+     1.4
+    ],
+    [
+     "J'ai klaxonné pour dire merci. Je ne savais pas à qui. Aux murs, peut-être.",
+     1.4
+    ],
+    [
+     "Après, c'est devenu une habitude.",
+     1.2
+    ],
+    [
+     "Ta mère a honte. Elle se baisse sur son siège.",
+     1.4
+    ],
+    [
+     "Il y a cinq ans, la maternité a fermé. Ils en ont fait des appartements.",
+     1.4
+    ],
+    [
+     "Je klaxonne quand même.",
+     1.6
+    ],
+    [
+     "Un matin, une vieille dame à sa fenêtre m'a fait signe de la main. Au troisième étage.",
+     1.6
+    ],
+    [
+     "Juste là où était la salle d'accouchement.",
+     1.8
+    ],
+    [
+     "Depuis, on se salue tous les matins. Je ne connais même pas son nom.",
+     1.4
+    ],
+    [
+     "Il y a des endroits où on a été trop heureux pour passer sans rien dire.",
+     1.4
+    ],
+    [
+     "Même quand ils ont changé.",
+     1.2
+    ],
+    [
+     "Le jour où tu passes devant, klaxonne. Deux petits coups. Pour *moi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j162_mere",
+   "perso": "mere",
+   "episode": 163,
+   "fin": "Envoie-la à quelqu'un qui rentre dormir chez ses parents.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je ne change pas tes draps.",
+   "legende": "Les parents ne s'habituent jamais au départ. Ils font juste semblant de ranger. Tes parents ont gardé ta chambre comme avant ? #maman #mere #papa #famille #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Quand tu viens dormir à la maison, je ne change pas tes *draps* tout de suite.",
+     1.3
+    ],
+    [
+     "J'attends trois jours. Parfois une semaine.",
+     1.2
+    ],
+    [
+     "Ce n'est pas de la paresse, même si ton père le croit.",
+     1.2
+    ],
+    [
+     "C'est l'odeur. Ton odeur d'enfant n'existe plus, mais il en reste quelque chose.",
+     1.4
+    ],
+    [
+     "Le soir, je vais m'asseoir sur ton lit. Juste cinq minutes. Avec la lumière éteinte.",
+     1.4
+    ],
+    [
+     "Je me disais que j'étais une vieille mère ridicule. Je ne l'ai jamais dit à personne.",
+     1.4
+    ],
+    [
+     "Et puis, en juin, je suis montée plus tôt que d'habitude.",
+     1.4
+    ],
+    [
+     "Ton père était déjà assis sur ton lit. Dans le noir.",
+     1.8
+    ],
+    [
+     "Il a sursauté. Il a dit : je cherchais mes lunettes.",
+     1.6
+    ],
+    [
+     "Il les avait sur le nez.",
+     1.6
+    ],
+    [
+     "On n'a rien dit. Je me suis assise à côté de lui. On est restés là, tous les deux.",
+     1.6
+    ],
+    [
+     "Depuis, on se relaie. Lui le soir, moi le matin. On ne s'en parle jamais.",
+     1.4
+    ],
+    [
+     "Les parents ne s'habituent jamais au départ. Ils font juste semblant de *ranger*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j162_fou",
+   "perso": "fou",
+   "episode": 162,
+   "fin": "Envoie-la à quelqu'un qui a une idée dans un tiroir.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Une idée notée en pleine nuit.",
+   "legende": "Une idée griffonnée la nuit, par un médecin sans patients. Elle a sauvé des millions de vies. Et toi, quelle idée dort dans ton tiroir ? #motivation #histoire #medecine #diabete #courage #pourtoi",
+   "phrases": [
+    [
+     "Une nuit de mille neuf cent vingt, un jeune médecin sans patients note une idée sur un *papier*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Frederick Banting. Son cabinet, au Canada, est presque vide.",
+     1.2
+    ],
+    [
+     "À l'époque, un enfant diabétique est condamné.",
+     1.2
+    ],
+    [
+     "Banting n'est pas un chercheur.",
+     1.4
+    ],
+    [
+     "Il va voir un grand professeur de Toronto. Celui-ci est sceptique.",
+     1.2
+    ],
+    [
+     "Il lui prête quand même un petit laboratoire pour l'été. Et un étudiant, Charles Best.",
+     1.4
+    ],
+    [
+     "Ils travaillent tout l'été, sans argent, d'échec en échec.",
+     1.4
+    ],
+    [
+     "En janvier mille neuf cent vingt-deux, un garçon de quatorze ans est mourant à Toronto.",
+     1.4
+    ],
+    [
+     "On lui injecte leur extrait. Il réagit mal. On purifie, on recommence.",
+     1.6
+    ],
+    [
+     "Cette fois, il reprend des forces. L'insuline vient de sauver sa première vie.",
+     1.8
+    ],
+    [
+     "L'année suivante, Banting reçoit le prix Nobel. Il partage sa récompense avec Best.",
+     1.6
+    ],
+    [
+     "Le brevet est cédé à l'université pour un dollar. Pour que l'insuline soit à tout le monde.",
+     1.6
+    ],
+    [
+     "Une idée griffonnée la nuit, par un médecin sans patients.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as peut-être une idée notée sur un coin de papier.",
+     1.4
+    ],
+    [
+     "Ne la laisse pas dans le tiroir. Va frapper à une *porte*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

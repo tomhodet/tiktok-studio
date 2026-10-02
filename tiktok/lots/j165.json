@@ -1,0 +1,356 @@
+{
+ "nom": "j165",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j165_grandmere",
+   "perso": "grandmere",
+   "episode": 166,
+   "fin": "Envoie-la à quelqu'un qui a une tradition bizarre.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Soixante-dix ans de tradition. Pour un rôti.",
+   "legende": "Une tradition, ce n'est pas une vérité. C'est une bêtise qu'on a aimée longtemps, ensemble. C'est quoi, la tradition bizarre de ta famille ? #grandmere #tradition #famille #humour #nouvelan #pourtoi",
+   "phrases": [
+    [
+     "Dans notre famille, à minuit le trente et un décembre, on ouvre la *fenêtre*. Depuis soixante-dix ans.",
+     1.3
+    ],
+    [
+     "Même s'il gèle. Tout le monde se tait, et on ouvre.",
+     1.2
+    ],
+    [
+     "Ma grand-mère disait : c'est pour laisser sortir la vieille année.",
+     1.2
+    ],
+    [
+     "Je l'ai fait toute ma vie. Ta mère aussi. Et toi, l'an dernier, chez tes amis.",
+     1.4
+    ],
+    [
+     "Je trouvais ça beau. Une tradition, transmise de mère en fille.",
+     1.4
+    ],
+    [
+     "Cet été, ma cousine Yvette m'a raconté la vraie histoire.",
+     1.2
+    ],
+    [
+     "Le premier réveillon de ma grand-mère, le poêle fumait. Son mari avait brûlé le rôti.",
+     1.4
+    ],
+    [
+     "À minuit, la cuisine était pleine de fumée. Elle a ouvert la fenêtre en catastrophe.",
+     1.6
+    ],
+    [
+     "Et pour ne pas vexer son mari, elle a dit : c'est pour laisser sortir la vieille année.",
+     1.8
+    ],
+    [
+     "Soixante-dix ans de tradition. Pour un rôti brûlé.",
+     1.6
+    ],
+    [
+     "J'ai ri toute la soirée. Puis j'ai trouvé ça encore plus beau.",
+     1.4
+    ],
+    [
+     "Une tradition, ce n'est pas une vérité. C'est une bêtise qu'on a aimée longtemps, ensemble.",
+     1.4
+    ],
+    [
+     "Alors à minuit, ouvre la fenêtre. Pense à ta lointaine grand-mère et à son rôti.",
+     1.2
+    ],
+    [
+     "Les familles tiennent par leurs bêtises. Garde les *nôtres*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j165_grandpere",
+   "perso": "grandpere",
+   "episode": 167,
+   "fin": "Envoie-la à quelqu'un dont le métier est devenu un musée.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon usine est devenue un musée.",
+   "legende": "Le temps transforme ta vie en histoire. Mais le bruit, l'odeur, les copains, il n'y a que toi pour les raconter. Tu as déjà demandé à ton grand-père de te raconter son travail ? #grandpere #usine #souvenirs #travail #humour #pourtoi",
+   "phrases": [
+    [
+     "L'usine où j'ai travaillé quarante ans est devenue un *musée*. Je suis allé la visiter.",
+     1.3
+    ],
+    [
+     "Douze euros l'entrée. Pour un endroit où on me payait pour venir.",
+     1.2
+    ],
+    [
+     "La guide avait vingt-cinq ans. Elle connaissait toutes les dates.",
+     1.2
+    ],
+    [
+     "Devant ma machine, elle a dit : les ouvriers travaillaient ici dans des conditions difficiles.",
+     1.4
+    ],
+    [
+     "J'ai levé la main. J'ai dit : j'y étais. Poste numéro quatorze, pendant quarante ans.",
+     1.6
+    ],
+    [
+     "Tout le groupe s'est retourné. Comme si une statue s'était mise à parler.",
+     1.6
+    ],
+    [
+     "La guide m'a demandé de raconter. Alors j'ai raconté.",
+     1.4
+    ],
+    [
+     "Le bruit qui rendait sourd. Le casse-croûte à neuf heures. Jojo qui chantait faux.",
+     1.4
+    ],
+    [
+     "Le jour de la grande grève, et le jour de la dernière paie.",
+     1.4
+    ],
+    [
+     "Ils m'ont écouté une heure. Un gamin m'a demandé un autographe.",
+     1.6
+    ],
+    [
+     "En sortant, je me suis dit : je suis devenu une pièce de musée.",
+     1.8
+    ],
+    [
+     "Le temps transforme ta vie en histoire. Les dates, d'autres les apprendront par cœur.",
+     1.4
+    ],
+    [
+     "Mais le bruit, l'odeur, les copains, il n'y a que toi pour les raconter.",
+     1.2
+    ],
+    [
+     "Viens avec moi au musée. Je te ferai la *vraie* visite.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j165_pere",
+   "perso": "pere",
+   "episode": 166,
+   "fin": "Envoie-la à quelqu'un qui a cassé quelque chose en jouant.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Je ne réparerai jamais ce trou.",
+   "legende": "Garde quelques dégâts. Ce sont les preuves que quelqu'un a grandi là. Quel dégât de ton enfance est encore visible chez tes parents ? #papa #pere #enfance #souvenirs #humour #foot #pourtoi",
+   "phrases": [
+    [
+     "Dans le mur du garage, il y a un *trou*. Je ne le réparerai jamais.",
+     1.3
+    ],
+    [
+     "Tu avais neuf ans. Tu t'entraînais à tirer au but contre la porte.",
+     1.2
+    ],
+    [
+     "Un samedi, tu as frappé de toutes tes forces. Le ballon est passé à côté.",
+     1.2
+    ],
+    [
+     "Il a traversé la cloison. Un trou rond, juste au-dessus de mon établi.",
+     1.4
+    ],
+    [
+     "Tu es resté figé. Tu attendais la colère. Je l'ai sentie monter, je ne vais pas mentir.",
+     1.4
+    ],
+    [
+     "Et puis j'ai vu ta tête. Tu étais terrorisé, et un tout petit peu fier.",
+     1.6
+    ],
+    [
+     "J'ai dit : joli tir. Mauvaise cible.",
+     1.6
+    ],
+    [
+     "Depuis, j'ai tout réparé dans cette maison. Les fuites, le toit, la rampe, les volets.",
+     1.2
+    ],
+    [
+     "Sauf ce trou. Ta mère m'en parle chaque printemps.",
+     1.4
+    ],
+    [
+     "Il y a cinq ans, j'ai fait un cadre autour. Avec une petite plaque.",
+     1.6
+    ],
+    [
+     "Premier but. Neuf ans. Le gardien n'a rien pu faire.",
+     1.8
+    ],
+    [
+     "Les murs, ça se répare en une heure. Les souvenirs, ça ne se rebouche pas.",
+     1.4
+    ],
+    [
+     "Garde quelques dégâts. Ce sont les preuves que quelqu'un a grandi *là*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j165_mere",
+   "perso": "mere",
+   "episode": 166,
+   "fin": "Envoie-la à quelqu'un qui réclamait toujours une histoire.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Encore une histoire. J'ai souvent dit non.",
+   "legende": "La vaisselle attendait. Le linge attendait. C'est l'enfant qui n'a pas attendu. Tu te souviens de la dernière histoire que ta mère t'a lue ? #maman #mere #enfance #regrets #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Tous les soirs, tu me demandais : encore une *histoire*. Et souvent, j'ai dit non.",
+     1.3
+    ],
+    [
+     "J'étais fatiguée. Il restait la vaisselle, les cartables, le linge.",
+     1.2
+    ],
+    [
+     "Je disais : demain. Tu te retournais contre le mur, avec un gros soupir.",
+     1.4
+    ],
+    [
+     "Un soir, vers huit ans, tu n'as plus rien demandé. Tu lisais tout seul.",
+     1.6
+    ],
+    [
+     "J'étais soulagée. J'ai mis des mois à comprendre ce que j'avais perdu.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, c'est moi qui te réclame des histoires. Au téléphone, le dimanche.",
+     1.4
+    ],
+    [
+     "Raconte-moi ton travail. Ton nouvel appartement. Ta collègue qui parle trop fort.",
+     1.2
+    ],
+    [
+     "Et souvent, tu dis : maman, je suis fatigué. On s'appelle demain.",
+     1.6
+    ],
+    [
+     "Je ris toute seule après avoir raccroché. Tu me rends la monnaie. Et tu as bien raison.",
+     1.6
+    ],
+    [
+     "Mais je vais te dire ce que j'aurais voulu savoir à l'époque.",
+     1.2
+    ],
+    [
+     "La vaisselle attendait. Le linge attendait. C'est l'enfant qui n'a pas attendu.",
+     1.8
+    ],
+    [
+     "Alors je ne te demande pas de grandes histoires. Juste ta journée. Même la partie ennuyeuse.",
+     1.4
+    ],
+    [
+     "Encore une histoire. Juste une. Je te promets de m'*endormir* après.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j165_fou",
+   "perso": "fou",
+   "episode": 165,
+   "fin": "Envoie-la à un pompier que tu connais.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Un bal, une bougie, un rideau.",
+   "legende": "Leur force est née d'un échec. D'une nuit où personne n'était prêt. Et toi, qu'est-ce que ta pire nuit t'a appris ? #motivation #histoire #pompiers #paris #discipline #pourtoi",
+   "phrases": [
+    [
+     "Le premier juillet mille huit cent dix, l'ambassade d'Autriche donne un immense *bal*, à Paris.",
+     1.3
+    ],
+    [
+     "On fête le mariage de Napoléon avec une princesse autrichienne. Des centaines d'invités. Des bougies partout.",
+     1.2
+    ],
+    [
+     "La salle de danse a été construite en bois pour l'occasion. Avec des tentures partout.",
+     1.2
+    ],
+    [
+     "Au milieu de la fête, une bougie touche une tenture.",
+     1.4
+    ],
+    [
+     "En quelques minutes, la salle entière est en feu.",
+     1.6
+    ],
+    [
+     "Panique. Les invités se piétinent. La belle-sœur de l'ambassadeur meurt en cherchant sa fille.",
+     1.4
+    ],
+    [
+     "Les pompiers de la ville arrivent mal équipés, mal organisés. Ils ne peuvent presque rien.",
+     1.4
+    ],
+    [
+     "Napoléon lui-même aide à évacuer les invités. Il est furieux.",
+     1.4
+    ],
+    [
+     "L'année suivante, il crée un bataillon de sapeurs-pompiers. Des militaires. Entraînés tous les jours.",
+     1.6
+    ],
+    [
+     "Plus de deux siècles plus tard, les pompiers de Paris sont toujours des militaires.",
+     1.6
+    ],
+    [
+     "Ils s'entraînent chaque jour, avant que le feu ne prenne.",
+     1.4
+    ],
+    [
+     "Leur force est née d'un *échec*. D'une nuit où personne n'était prêt.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu as peut-être connu ta nuit de catastrophe.",
+     1.4
+    ],
+    [
+     "Ne la laisse pas brûler pour rien. *Entraîne-toi* pour la prochaine.",
+     0
+    ]
+   ]
+  }
+ ]
+}

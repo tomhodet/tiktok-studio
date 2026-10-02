@@ -1,0 +1,360 @@
+{
+ "nom": "j110",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j110_grandmere",
+   "perso": "grandmere",
+   "episode": 111,
+   "fin": "Envoie-la à quelqu'un qui a un gendre en or.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Il m'a coupé les ongles des pieds.",
+   "legende": "Ne juge jamais quelqu'un le jour de son mariage. Juge-le le jour où tu ne peux plus te baisser. Et toi, qui t'a surpris dans ta belle-famille ? #grandmere #gendre #famille #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le seul homme qui m'ait jamais coupé les ongles des pieds, c'est ton *père*.",
+     1.3
+    ],
+    [
+     "Et pourtant, je ne voulais pas qu'il épouse ma fille.",
+     1.2
+    ],
+    [
+     "Il avait une moto, une boucle d'oreille et pas de situation.",
+     1.2
+    ],
+    [
+     "Le jour du mariage, je ne lui ai pas adressé la parole. Pas un mot. Même pour la photo.",
+     1.4
+    ],
+    [
+     "Pendant des années, j'ai attendu qu'elle le quitte. J'étais patiente.",
+     1.4
+    ],
+    [
+     "Il y a cinq ans, je me suis cassé la hanche. Ta mère était en voyage pour son travail.",
+     1.2
+    ],
+    [
+     "C'est lui qui est venu. Tous les jours. Avec le journal et des croissants.",
+     1.4
+    ],
+    [
+     "Un matin, il a vu mes pieds. Je ne pouvais plus me baisser depuis des semaines.",
+     1.4
+    ],
+    [
+     "Il n'a rien dit. Il est allé chercher une bassine d'eau chaude et des ciseaux.",
+     1.6
+    ],
+    [
+     "Le garçon à la moto m'a coupé les ongles des pieds. En *sifflotant*.",
+     1.8
+    ],
+    [
+     "J'ai pleuré. Il a cru que je pleurais à cause des ciseaux.",
+     1.4
+    ],
+    [
+     "Ne juge jamais quelqu'un le jour de son mariage.",
+     1.2
+    ],
+    [
+     "Juge-le le jour où tu ne peux plus te *baisser*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j110_grandpere",
+   "perso": "grandpere",
+   "episode": 112,
+   "fin": "Envoie-la à quelqu'un qui rentre trop tard pour le dîner.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Jusqu'à quatre ans, elle m'a appelé monsieur.",
+   "legende": "Personne ne naît papa. On le devient le jour où on cesse d'être monsieur. Et toi, à quel moment ton père est-il devenu ton papa ? #grandpere #papa #famille #marin #emotion #pourtoi",
+   "phrases": [
+    [
+     "Jusqu'à quatre ans, ta tante m'a appelé *monsieur*.",
+     1.3
+    ],
+    [
+     "J'étais marin. Je partais neuf mois sur douze.",
+     1.2
+    ],
+    [
+     "Quand je rentrais, elle se cachait derrière sa mère. Elle me regardait comme un inconnu.",
+     1.2
+    ],
+    [
+     "Un soir, je l'ai bordée. Elle m'a dit poliment : bonne nuit, monsieur.",
+     1.6
+    ],
+    [
+     "Je suis sorti de la chambre. Je suis allé pleurer dans la cour, comme un gamin.",
+     1.4
+    ],
+    [
+     "Le lendemain, je suis allé voir l'armateur. J'ai rendu mon sac.",
+     1.4
+    ],
+    [
+     "Je chargeais les bateaux au lieu de monter dessus.",
+     1.2
+    ],
+    [
+     "Ta grand-mère a dû compter chaque franc. Elle ne s'est jamais plainte.",
+     1.4
+    ],
+    [
+     "Chaque soir, j'étais là pour le dîner. Ta tante me surveillait du coin de l'œil.",
+     1.2
+    ],
+    [
+     "Il lui a fallu trois mois. Un soir, en se couchant, elle a dit : bonne nuit, *papa*.",
+     1.8
+    ],
+    [
+     "Comme si de rien n'était. Moi, je n'ai pas dormi de la nuit.",
+     1.4
+    ],
+    [
+     "On croit qu'un père, c'est un titre. C'est faux. C'est une présence.",
+     1.4
+    ],
+    [
+     "Ça se gagne soir après soir. Au dîner, au coucher, aux devoirs.",
+     1.2
+    ],
+    [
+     "Personne ne naît papa. On le devient le jour où on cesse d'être *monsieur*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j110_pere",
+   "perso": "pere",
+   "episode": 111,
+   "fin": "Envoie-la à quelqu'un qui garde un pardon dans la gorge.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Elle m'appelait par le prénom de mon père.",
+   "legende": "Demande pardon tant que la personne est là. Sinon, un jour, ce sont tes enfants qui le feront à ta place. Et toi, quel pardon attends-tu encore pour le dire ? #papa #pere #famille #pardon #emotion #pourtoi",
+   "phrases": [
+    [
+     "Les derniers mois, ta grand-mère m'appelait *Jacques*. C'était le prénom de mon père.",
+     1.3
+    ],
+    [
+     "Sa mémoire partait par morceaux. Moi, je devenais son mari.",
+     1.2
+    ],
+    [
+     "Mes parents se sont disputés pendant quarante ans. Rarement main dans la main.",
+     1.4
+    ],
+    [
+     "Mon père est mort fâché. Elle n'était même pas à l'hôpital, ce soir-là.",
+     1.4
+    ],
+    [
+     "Un dimanche, elle m'a pris la main. Elle a dit : Jacques, il faut qu'on parle.",
+     1.4
+    ],
+    [
+     "Et elle m'a tout dit. Ce qu'elle n'avait jamais pu lui dire.",
+     1.4
+    ],
+    [
+     "Qu'elle l'avait aimé jusqu'au bout. Qu'elle regrettait ce soir-là, à l'hôpital.",
+     1.4
+    ],
+    [
+     "Qu'elle avait eu trop peur de le voir partir. Alors elle était restée dans la voiture.",
+     1.6
+    ],
+    [
+     "Puis elle m'a demandé : tu me pardonnes ?",
+     1.6
+    ],
+    [
+     "Je n'étais pas mon père. Je n'avais pas le droit de répondre.",
+     1.4
+    ],
+    [
+     "J'ai répondu quand même. J'ai dit : oui. Je te *pardonne*.",
+     1.8
+    ],
+    [
+     "Elle a souri. Elle s'est endormie en me tenant la main.",
+     1.4
+    ],
+    [
+     "Je crois qu'il aurait dit la même chose. Il l'aimait aussi, à sa façon.",
+     1.4
+    ],
+    [
+     "Demande pardon tant que la personne est là.",
+     1.2
+    ],
+    [
+     "Sinon, un jour, ce sont tes enfants qui le feront à ta *place*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j110_mere",
+   "perso": "mere",
+   "episode": 111,
+   "fin": "Envoie-la à quelqu'un qui claquait les portes à quatorze ans.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'ai préféré ta sœur pendant un an.",
+   "legende": "Une mère n'a pas de préféré. Elle a celui qui n'a pas quatorze ans. Et toi, tu étais comment à quatorze ans ? #maman #mere #adolescence #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "J'ai préféré ta sœur pendant un an. L'année de tes *quatorze* ans.",
+     1.3
+    ],
+    [
+     "Tu claquais les portes. Tu répondais à tout. Tu soupirais quand je respirais.",
+     1.2
+    ],
+    [
+     "Ta sœur, elle, avait dix ans. Elle me faisait des crêpes et des dessins.",
+     1.2
+    ],
+    [
+     "Le soir, je me couchais en pensant : au moins, il m'en reste une gentille.",
+     1.4
+    ],
+    [
+     "J'avais honte de penser ça. Une mère n'a pas le droit d'avoir une préférée.",
+     1.4
+    ],
+    [
+     "J'en ai parlé à ma propre mère. J'étais sûre qu'elle allait me gronder.",
+     1.2
+    ],
+    [
+     "Elle a ri pendant cinq minutes. Puis elle a dit : attends quatre ans.",
+     1.6
+    ],
+    [
+     "Quatre ans plus tard, ta sœur a eu quatorze ans.",
+     1.4
+    ],
+    [
+     "Et c'est toi qui m'as fait des crêpes. Tu étais redevenu adorable.",
+     1.6
+    ],
+    [
+     "Ta sœur claquait les portes. Toi, tu venais me consoler dans la cuisine.",
+     1.8
+    ],
+    [
+     "Une mère n'a pas de préféré. Elle a celui qui n'a pas quatorze ans.",
+     1.4
+    ],
+    [
+     "Si un jour ton enfant claque les portes, ne t'inquiète pas. Ce n'est qu'une *saison*.",
+     1.4
+    ],
+    [
+     "Garde la pâte à crêpes au frais. Les gentils finissent toujours par *revenir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j110_fou",
+   "perso": "fou",
+   "episode": 110,
+   "fin": "Envoie-la à quelqu'un qui est encore sur le chemin.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Simorgh veut dire trente oiseaux.",
+   "legende": "Le roi qu'ils cherchaient, c'était eux. Mais il fallait faire le voyage pour le devenir. Et toi, qu'est-ce que tu cherches au bout de ton chemin ? #motivation #conte #perse #sagesse #perseverance #pourtoi",
+   "phrases": [
+    [
+     "Dans un poème persan de plus de huit siècles, des milliers d'oiseaux partent chercher leur *roi*.",
+     1.3
+    ],
+    [
+     "Il s'appelle le Simorgh. Il vit derrière sept vallées, au bout du monde.",
+     1.2
+    ],
+    [
+     "C'est une huppe qui les guide. Le voyage sera long. Très long.",
+     1.2
+    ],
+    [
+     "Dès le départ, les excuses pleuvent. Le rossignol ne veut pas quitter sa rose.",
+     1.4
+    ],
+    [
+     "Le faucon préfère le poing de son roi. Le canard ne veut pas quitter son eau.",
+     1.4
+    ],
+    [
+     "Ceux qui partent traversent des déserts, des tempêtes, des nuits sans fin.",
+     1.2
+    ],
+    [
+     "Beaucoup meurent en chemin. D'autres renoncent et rentrent chez eux.",
+     1.4
+    ],
+    [
+     "À la fin, ils ne sont plus que trente. Épuisés, sans plumes, presque morts.",
+     1.6
+    ],
+    [
+     "Ils arrivent enfin devant le palais du roi. Ils regardent. Et ils ne voient qu'eux-mêmes.",
+     1.6
+    ],
+    [
+     "En persan, Simorgh veut dire : trente *oiseaux*.",
+     1.8
+    ],
+    [
+     "Le roi qu'ils cherchaient, c'était eux. Mais il fallait faire le voyage pour le devenir.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu cherches peut-être quelque chose de grand, loin de toi.",
+     1.4
+    ],
+    [
+     "Le chemin te coûtera des plumes. Beaucoup abandonneront autour de toi.",
+     1.2
+    ],
+    [
+     "Mais à la fin, ce que tu trouveras, c'est celui que tu es *devenu*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

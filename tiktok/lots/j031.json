@@ -1,0 +1,364 @@
+{
+ "nom": "j031",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j031_grandmere",
+   "perso": "grandmere",
+   "episode": 32,
+   "fin": "Envoie-la à quelqu'un qui travaille toujours debout.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai fait grève pour une chaise.",
+   "legende": "Une seule qui se plaint, c'est une gêne. Trente qui s'assoient, c'est une force. Et toi, pour quoi tu t'es déjà battu au travail ? #grandmere #travail #solidarite #humour #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "J'ai fait grève une seule fois dans ma vie. Pour une *chaise*.",
+     1.3
+    ],
+    [
+     "J'avais dix-neuf ans. J'emballais des savons à la chaîne, avec une trentaine de femmes.",
+     1.2
+    ],
+    [
+     "Neuf heures par jour, debout. Le patron disait qu'assises, on irait moins vite.",
+     1.2
+    ],
+    [
+     "Le soir, mes chevilles avaient gonflé comme des brioches.",
+     1.4
+    ],
+    [
+     "Un matin, la vieille Simone s'est évanouie devant le tapis roulant.",
+     1.4
+    ],
+    [
+     "Le lendemain, à dix heures pile, sans un mot, on s'est toutes assises. Par terre.",
+     1.6
+    ],
+    [
+     "Trente femmes en blouse, sur le carrelage, les bras croisés.",
+     1.4
+    ],
+    [
+     "Le patron est arrivé, tout rouge. Il a crié. Personne n'a bougé.",
+     1.8
+    ],
+    [
+     "Le jour suivant, il y avait trente chaises dans l'atelier.",
+     1.6
+    ],
+    [
+     "Des chaises de cuisine, toutes différentes. Il avait vidé sa maison, et celle de sa sœur.",
+     1.4
+    ],
+    [
+     "Il y avait même un fauteuil en velours. On l'a donné à Simone.",
+     1.6
+    ],
+    [
+     "Une seule qui se plaint, c'est une gêne. Trente qui s'assoient, c'est une *force*.",
+     1.6
+    ],
+    [
+     "Si un jour ton travail te fait mal, ne reste pas seul dans ton coin.",
+     1.2
+    ],
+    [
+     "Assieds-toi avec les autres. Et le fauteuil, laisse-le toujours au plus *fatigué*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j031_grandpere",
+   "perso": "grandpere",
+   "episode": 33,
+   "fin": "Envoie-la à quelqu'un qui construit des choses solides.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Le préau a tenu. Tu étais dessous.",
+   "legende": "Le travail bien fait, personne ne le voit. Jusqu'au jour où il protège quelqu'un. Qui t'a appris à faire les choses bien, toi ? #grandpere #travail #metier #fierte #emotion #pourtoi",
+   "phrases": [
+    [
+     "Il y a dix ans, un arbre est tombé sur le *préau* de ton école. Tu étais dessous.",
+     1.3
+    ],
+    [
+     "Une tempête, en pleine récréation. Un vieux platane. Trente enfants à l'abri.",
+     1.2
+    ],
+    [
+     "Le préau a tenu. Pas une égratignure.",
+     1.4
+    ],
+    [
+     "Le soir, tu me l'as raconté en riant. Moi, je suis allé m'asseoir seul dans le garage.",
+     1.6
+    ],
+    [
+     "En mille neuf cent soixante-huit, j'étais maçon. On construisait une école neuve.",
+     1.2
+    ],
+    [
+     "Pour le préau, j'ai voulu mettre deux fois plus de fer dans le béton.",
+     1.2
+    ],
+    [
+     "Les gars se moquaient. Ils disaient : tu construis un abri antiatomique ?",
+     1.4
+    ],
+    [
+     "Le chef a refusé de payer le fer en trop. Alors je l'ai acheté avec ma paie.",
+     1.4
+    ],
+    [
+     "Ta grand-mère m'a demandé pourquoi. J'ai répondu : c'est pour des *enfants*.",
+     1.8
+    ],
+    [
+     "Près de cinquante ans plus tard, les enfants dessous, c'était ta classe.",
+     1.8
+    ],
+    [
+     "Le travail bien fait, personne ne le voit. Jusqu'au jour où il protège quelqu'un.",
+     1.4
+    ],
+    [
+     "Alors fais toujours ton travail comme si quelqu'un que tu aimes allait s'abriter dessous.",
+     1.4
+    ],
+    [
+     "Moi, en coulant ce béton, je croyais travailler pour des inconnus.",
+     1.2
+    ],
+    [
+     "Je travaillais déjà pour *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j031_pere",
+   "perso": "pere",
+   "episode": 32,
+   "fin": "Envoie-la à quelqu'un qui t'a protégé sans rien dire.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je n'ai retardé qu'une seule lettre. La tienne.",
+   "legende": "On ne peut pas empêcher les mauvaises nouvelles d'arriver. Mais parfois, on peut leur faire attendre un jour. Et toi, tu as déjà gardé une mauvaise nouvelle pour protéger quelqu'un ? #papa #pere #facteur #travail #emotion #pourtoi",
+   "phrases": [
+    [
+     "J'ai été facteur pendant trente ans. Je n'ai retardé qu'une seule *lettre*. La tienne.",
+     1.3
+    ],
+    [
+     "Tu avais dix-huit ans. Tu attendais la réponse de l'école dont tu rêvais.",
+     1.2
+    ],
+    [
+     "Ce matin-là, en triant ma tournée, j'ai reconnu l'enveloppe. Mince. Beaucoup trop mince.",
+     1.4
+    ],
+    [
+     "Les bonnes nouvelles sont épaisses. Les refus tiennent sur une seule feuille.",
+     1.4
+    ],
+    [
+     "Et ce jour-là, c'était ton anniversaire.",
+     1.6
+    ],
+    [
+     "J'ai glissé l'enveloppe au fond de ma sacoche. Pour un facteur, c'est la pire des fautes.",
+     1.6
+    ],
+    [
+     "Le soir, tu as soufflé tes bougies en parlant de ta future école.",
+     1.4
+    ],
+    [
+     "Le lendemain, j'ai déposé la lettre dans notre boîte, avec le reste du courrier.",
+     1.4
+    ],
+    [
+     "Tu as pleuré toute la journée. J'ai fait semblant de ne rien savoir.",
+     1.6
+    ],
+    [
+     "Tu n'as jamais remarqué la date sur le cachet. Elle avait un jour de *trop*.",
+     1.8
+    ],
+    [
+     "L'année suivante, l'enveloppe était épaisse. Je te l'ai apportée en courant.",
+     1.4
+    ],
+    [
+     "On ne peut pas empêcher les mauvaises nouvelles d'arriver.",
+     1.2
+    ],
+    [
+     "Mais parfois, on peut leur faire attendre un jour. Le temps d'une dernière fête.",
+     1.4
+    ],
+    [
+     "Trente ans sans une erreur. Et une seule faute, dont je suis *fier*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j031_mere",
+   "perso": "mere",
+   "episode": 32,
+   "fin": "Envoie-la à quelqu'un qui te chantait une berceuse.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ta berceuse, je l'ai chantée à des inconnus.",
+   "legende": "On arrive dans la vie en ayant besoin qu'on nous chante quelque chose. On en repart exactement pareil. Quelle chanson ta mère te chantait, à toi ? #maman #mere #soignant #berceuse #emotion #pourtoi",
+   "phrases": [
+    [
+     "La *berceuse* que je te chantais, je l'ai chantée à des centaines d'inconnus. Pour leur dernière nuit.",
+     1.3
+    ],
+    [
+     "Pendant vingt ans, j'ai été aide-soignante de nuit en soins palliatifs.",
+     1.2
+    ],
+    [
+     "La nuit, les gens ont peur. Même ceux qui n'ont jamais eu peur.",
+     1.4
+    ],
+    [
+     "Un soir, un vieux monsieur m'a tenu la main. Il tremblait. Il ne pouvait plus parler.",
+     1.4
+    ],
+    [
+     "Je ne savais pas quoi faire. Alors j'ai fait ce que je faisais avec toi.",
+     1.6
+    ],
+    [
+     "Je lui ai chanté ta berceuse. Tout bas. Celle des petits bateaux.",
+     1.6
+    ],
+    [
+     "Il s'est calmé. Il a fermé les yeux. Il est parti avant le matin, en souriant.",
+     1.8
+    ],
+    [
+     "Après, je l'ai chantée à d'autres. Des dizaines. Des centaines.",
+     1.4
+    ],
+    [
+     "Des hommes durs, des patrons, des grands-mères. Tous se calmaient.",
+     1.4
+    ],
+    [
+     "On arrive dans la vie en ayant besoin qu'on nous chante quelque chose.",
+     1.4
+    ],
+    [
+     "On en repart exactement *pareil*.",
+     1.8
+    ],
+    [
+     "Entre les deux, on fait les fiers. On croit qu'on n'a besoin de personne.",
+     1.4
+    ],
+    [
+     "Tu as grandi. Tu lèves les yeux au ciel quand je la fredonne dans la cuisine.",
+     1.4
+    ],
+    [
+     "Mais le jour où je partirai, chante-la-moi. Tout bas. Je saurai que c'est *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j031_fou",
+   "perso": "fou",
+   "episode": 31,
+   "fin": "Envoie-la à quelqu'un qui veut tout, tout de suite.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "L'homme le plus rapide est parti trop tôt.",
+   "legende": "Tu peux avoir tout le talent du monde. Si tu pars avant le signal, tu ne cours même pas. Et toi, quel départ tu as voulu précipiter ? #motivation #sport #athletisme #patience #usainbolt #pourtoi",
+   "phrases": [
+    [
+     "L'homme le plus rapide du monde a perdu une course. Parce qu'il est parti trop *tôt*.",
+     1.3
+    ],
+    [
+     "Corée du Sud, deux mille onze. La finale du cent mètres des championnats du monde.",
+     1.2
+    ],
+    [
+     "Usain Bolt est le grand favori. Il détient le record du monde.",
+     1.2
+    ],
+    [
+     "Mais depuis l'année d'avant, la règle a changé. Un seul faux départ, et tu es éliminé.",
+     1.4
+    ],
+    [
+     "Les coureurs se placent dans les blocs. Le stade retient son souffle.",
+     1.6
+    ],
+    [
+     "Et Bolt part. Avant le coup de *pistolet*.",
+     1.8
+    ],
+    [
+     "Disqualifié. Sa course est finie avant d'avoir commencé.",
+     1.6
+    ],
+    [
+     "C'est son partenaire d'entraînement qui devient champion du monde.",
+     1.4
+    ],
+    [
+     "Pour une fois dans sa vie, il a été trop rapide.",
+     1.6
+    ],
+    [
+     "Quelques jours plus tard, il gagne le deux cents mètres.",
+     1.2
+    ],
+    [
+     "Et l'année suivante, à Londres, il redevient champion olympique du cent mètres.",
+     1.4
+    ],
+    [
+     "Tu peux avoir tout le talent du monde. Si tu pars avant le signal, tu ne cours même pas.",
+     1.4
+    ],
+    [
+     "Ton moment va venir. Ne pars pas avant lui.",
+     1.2
+    ],
+    [
+     "Attends le coup de *feu*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

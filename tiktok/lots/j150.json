@@ -1,0 +1,364 @@
+{
+ "nom": "j150",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j150_grandmere",
+   "perso": "grandmere",
+   "episode": 151,
+   "fin": "Envoie-la à quelqu'un qui a une grand-mère à appeler.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Le téléphone dormait dans un tiroir.",
+   "legende": "Ce n'était pas elle qui était trop vieille. C'est juste que personne n'avait pris le temps. Tu as appris quoi à ta grand-mère, toi ? #grandmere #patience #voisins #gentillesse #humour #pourtoi",
+   "phrases": [
+    [
+     "À soixante-quinze ans, j'ai appris à une dame de quatre-vingt-quinze ans à envoyer un *message*.",
+     1.3
+    ],
+    [
+     "Ma voisine avait reçu un téléphone de son petit-fils. Il dormait dans un tiroir.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : il ne m'appelle jamais. Et moi, je ne sais pas me servir de cette machine.",
+     1.4
+    ],
+    [
+     "Alors tous les jeudis, on s'est assises dans sa cuisine.",
+     1.2
+    ],
+    [
+     "Elle appuyait trop fort. Moi aussi. Écrire bonjour nous a pris une heure.",
+     1.4
+    ],
+    [
+     "Le premier message, c'était : bonjour mon grand, c'est mamie. Il a fallu trois jeudis.",
+     1.4
+    ],
+    [
+     "Le soir même, le téléphone a sonné dans le tiroir.",
+     1.6
+    ],
+    [
+     "C'était une photo. Un bébé tout rouge. Son arrière-petit-fils, né la veille.",
+     1.6
+    ],
+    [
+     "Personne n'avait pensé à le lui dire. Ils croyaient qu'elle ne saurait pas regarder.",
+     1.8
+    ],
+    [
+     "Elle a pleuré sur l'écran. On a dû l'essuyer avec un torchon.",
+     1.4
+    ],
+    [
+     "Depuis, elle envoie dix messages par jour. Son petit-fils répond à tous.",
+     1.4
+    ],
+    [
+     "Ce n'était pas elle qui était trop vieille. C'est juste que personne n'avait pris le *temps*.",
+     1.6
+    ],
+    [
+     "Moi aussi, j'ai un tiroir.",
+     1.2
+    ],
+    [
+     "Viens t'asseoir dans ma cuisine. Apprends-moi un truc. Je t'en apprendrai *dix*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j150_grandpere",
+   "perso": "grandpere",
+   "episode": 152,
+   "fin": "Envoie-la à quelqu'un qui n'oublie jamais personne.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Un colis à son prénom.",
+   "legende": "Il n'a pas touché au saucisson. Il regardait l'étiquette. Tu te souviens du premier colis à ton nom ? #grandpere #servicemilitaire #gentillesse #mere #amitie #pourtoi",
+   "phrases": [
+    [
+     "Au service militaire, ma mère a envoyé des *colis* à un garçon qu'elle n'avait jamais vu.",
+     1.3
+    ],
+    [
+     "En Allemagne, en mille neuf cent soixante-six. Un hiver glacial.",
+     1.2
+    ],
+    [
+     "Chaque mois, je recevais un paquet. Du saucisson, du chocolat, une lettre de ma mère.",
+     1.2
+    ],
+    [
+     "Dans la chambrée, il y avait Michel. Pas de famille. Il ne recevait jamais rien.",
+     1.4
+    ],
+    [
+     "Quand on ouvrait nos colis, il sortait. Dans la neige.",
+     1.4
+    ],
+    [
+     "Alors je partageais avec lui. Il disait merci, sans me regarder.",
+     1.2
+    ],
+    [
+     "J'en ai parlé à ma mère dans une lettre. Une phrase, pas plus.",
+     1.2
+    ],
+    [
+     "Le mois suivant, il y avait deux colis au courrier. Un pour moi. Et un pour Michel.",
+     1.6
+    ],
+    [
+     "Son prénom, écrit en grosses lettres, de la main de ma mère.",
+     1.6
+    ],
+    [
+     "Assis sur son lit, il n'a pas touché au saucisson. Il regardait l'*étiquette*.",
+     1.8
+    ],
+    [
+     "Ma mère lui a envoyé un colis chaque mois, jusqu'à la fin du service.",
+     1.4
+    ],
+    [
+     "Ils ne se sont jamais vus. Il lui a écrit jusqu'à sa mort.",
+     1.4
+    ],
+    [
+     "Ce qu'on donne à quelqu'un qui n'a personne, ce n'est jamais le saucisson.",
+     1.2
+    ],
+    [
+     "C'est son *prénom*, écrit par quelqu'un qui pense à lui.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j150_pere",
+   "perso": "pere",
+   "episode": 151,
+   "fin": "Envoie-la à quelqu'un qui t'a appris le travail.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "La vitrine du boulanger.",
+   "legende": "Le boulanger ne voulait pas ton argent. Il voulait ton réveil à cinq heures. Qui t'a appris le travail, toi ? #papa #pere #enfance #travail #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais douze ans, tu as cassé la vitrine du *boulanger* avec un ballon.",
+     1.3
+    ],
+    [
+     "Tu es rentré blanc comme un linge. Tu as dit : ce n'est pas moi. Puis : c'est moi.",
+     1.2
+    ],
+    [
+     "Le soir même, je suis allé voir le boulanger.",
+     1.2
+    ],
+    [
+     "Je lui ai tendu mon chéquier. Il l'a repoussé.",
+     1.4
+    ],
+    [
+     "Il a dit : la vitrine, l'assurance s'en occupe. Le gamin, c'est nous.",
+     1.6
+    ],
+    [
+     "Le lendemain, il t'a convoqué. Tu paierais en travaillant. Douze samedis, à cinq heures.",
+     1.4
+    ],
+    [
+     "Tu as pleuré, tu as râlé, tu as dit que c'était de l'esclavage.",
+     1.2
+    ],
+    [
+     "Tous les samedis, tu étais là. De la farine jusque dans les oreilles.",
+     1.4
+    ],
+    [
+     "Après les douze samedis, tu as continué. Pendant deux ans.",
+     1.6
+    ],
+    [
+     "Tu crois avoir payé cette vitrine. Elle était *payée* depuis le premier jour.",
+     1.8
+    ],
+    [
+     "Le boulanger ne voulait pas ton argent. Il voulait ton réveil à cinq heures.",
+     1.6
+    ],
+    [
+     "Deux hommes s'étaient mis d'accord pour te réparer. Sans te le dire.",
+     1.6
+    ],
+    [
+     "Quand un enfant casse quelque chose, on peut le faire payer. Ou lui apprendre.",
+     1.2
+    ],
+    [
+     "Le boulanger a choisi la deuxième. Il t'a rendu plus *solide* que sa vitrine.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j150_mere",
+   "perso": "mere",
+   "episode": 151,
+   "fin": "Envoie-la à quelqu'un qui vient de perdre son travail.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Une carte : félicitations.",
+   "legende": "On fête les débuts, jamais les fins. Une fin, c'est un début qui se cache. Qui t'a aidé à voir le début dans une fin ? #maman #mere #travail #rebond #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Le jour où j'ai été licenciée, ma voisine m'a offert des fleurs. Avec une carte : *félicitations*.",
+     1.3
+    ],
+    [
+     "Quarante-deux ans. Vingt ans dans la même entreprise. Un carton dans les bras.",
+     1.2
+    ],
+    [
+     "Je suis rentrée par l'escalier pour ne croiser personne. Raté.",
+     1.2
+    ],
+    [
+     "Elle m'a vue, elle a vu le carton, elle a tout compris.",
+     1.2
+    ],
+    [
+     "Une heure plus tard, elle a sonné. Un bouquet de tulipes. Et cette carte.",
+     1.4
+    ],
+    [
+     "J'ai cru qu'elle se moquait. J'ai failli lui claquer la porte au nez.",
+     1.4
+    ],
+    [
+     "Elle a dit : on fête les débuts, jamais les fins. Une fin, c'est un *début* qui se cache.",
+     1.8
+    ],
+    [
+     "Ce soir-là, j'ai mis les tulipes sur la table. Et la carte contre le vase.",
+     1.4
+    ],
+    [
+     "Pendant six mois, je l'ai vue tous les matins, avec mon café.",
+     1.4
+    ],
+    [
+     "Félicitations. Ça me faisait rire. Puis ça m'a fait réfléchir.",
+     1.4
+    ],
+    [
+     "J'ai repris des études. Puis j'ai ouvert mon petit atelier de couture.",
+     1.6
+    ],
+    [
+     "Le jour de l'ouverture, la première cliente, c'était elle. Avec une carte : félicitations, encore.",
+     1.6
+    ],
+    [
+     "Quand quelqu'un tombe, ne lui dis pas que c'est grave. Il le sait déjà.",
+     1.2
+    ],
+    [
+     "Dis-lui que c'est un *début*. Et apporte des tulipes.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j150_fou",
+   "perso": "fou",
+   "episode": 150,
+   "fin": "Envoie-la à quelqu'un qui n'oublie pas d'où il vient.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Un apiculteur au sommet du monde.",
+   "legende": "Au sommet, il est resté quelques minutes. À ses écoles, il a donné sa vie. Qui sont les Sherpas de ta vie, toi ? #motivation #everest #hillary #gratitude #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent cinquante-trois, un *apiculteur* néo-zélandais devient célèbre dans le monde entier.",
+     1.3
+    ],
+    [
+     "Avec le Sherpa Tenzing Norgay, il est le premier à atteindre le sommet de l'Everest.",
+     1.2
+    ],
+    [
+     "Il s'appelle Edmund Hillary. La reine le fait chevalier.",
+     1.2
+    ],
+    [
+     "Il pourrait passer sa vie à raconter ces quelques minutes au sommet.",
+     1.4
+    ],
+    [
+     "Mais il n'oublie pas une chose. Sans les Sherpas, il ne serait jamais arrivé là-haut.",
+     1.6
+    ],
+    [
+     "Alors il revient dans leurs montagnes. Pas pour grimper. Pour *construire*.",
+     1.6
+    ],
+    [
+     "Une école. Puis une autre. Puis des dispensaires, et des hôpitaux.",
+     1.4
+    ],
+    [
+     "Il cherche l'argent. Il revient, année après année.",
+     1.4
+    ],
+    [
+     "Jusqu'à la fin de sa vie.",
+     1.6
+    ],
+    [
+     "Des milliers d'enfants apprennent à lire là où il n'y avait rien.",
+     1.6
+    ],
+    [
+     "Au sommet de l'Everest, il est resté quelques minutes. À ses écoles, il a donné sa vie.",
+     1.8
+    ],
+    [
+     "Toi aussi, un jour, tu atteindras un sommet. Un diplôme, un poste, un rêve.",
+     1.2
+    ],
+    [
+     "Ce jour-là, n'oublie pas les Sherpas de ta vie.",
+     1.4
+    ],
+    [
+     "Le vrai sommet, c'est de redescendre pour ceux qui t'ont *porté*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

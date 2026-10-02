@@ -1,0 +1,364 @@
+{
+ "nom": "j166",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j166_grandmere",
+   "perso": "grandmere",
+   "episode": 167,
+   "fin": "Envoie-la à quelqu'un qui t'a tenu la main.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Mon plus vieux souvenir, c'est une main.",
+   "legende": "Ça n'a aucune importance, de savoir à qui elle était. Quelqu'un m'a tenue. C'est quoi, ton plus vieux souvenir ? #grandmere #souvenirs #enfance #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon plus vieux souvenir, c'est une *main*. Je ne sais pas à qui elle était.",
+     1.3
+    ],
+    [
+     "J'ai peut-être trois ans. On traverse une rue, sous la pluie.",
+     1.2
+    ],
+    [
+     "Une grande main serre la mienne. Chaude. Un peu rugueuse.",
+     1.4
+    ],
+    [
+     "Je ne vois pas le visage. Seulement la main, et la manche d'un manteau sombre.",
+     1.2
+    ],
+    [
+     "Ma mère ? Mon père ? Ma tante Louise, qui nous gardait souvent ? Je n'ai jamais su.",
+     1.4
+    ],
+    [
+     "J'aurais pu demander. Je ne l'ai pas fait. Et maintenant, il n'y a plus personne.",
+     1.6
+    ],
+    [
+     "Pendant des années, ça m'a rendue triste. Une main sans nom.",
+     1.4
+    ],
+    [
+     "Et puis, l'autre jour, je t'ai regardé traverser la rue avec ton fils.",
+     1.4
+    ],
+    [
+     "Il ne regardait pas ton visage. Il regardait les voitures, les pigeons, la pluie.",
+     1.4
+    ],
+    [
+     "Il ne se souviendra que de ta main. Pas de toi. Juste d'une main chaude.",
+     1.8
+    ],
+    [
+     "Alors j'ai compris. Ça n'a aucune importance, de savoir à qui elle était.",
+     1.6
+    ],
+    [
+     "Quelqu'un m'a tenue. C'est ça, mon premier souvenir. Être tenue.",
+     1.6
+    ],
+    [
+     "Tiens bien la main de ton fils. Il ne saura pas que c'était toi.",
+     1.2
+    ],
+    [
+     "Mais toute sa vie, il saura qu'on l'a *tenu*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j166_grandpere",
+   "perso": "grandpere",
+   "episode": 168,
+   "fin": "Envoie-la à quelqu'un qui dort encore chez ses grands-parents.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Je fais le tour des chambres vides.",
+   "legende": "Les pères ne prennent jamais leur retraite de la nuit. Tes parents viennent encore te couvrir quand tu dors chez eux ? #grandpere #papa #famille #tendresse #humour #pourtoi",
+   "phrases": [
+    [
+     "Tous les soirs, je fais le tour des *chambres*. Elles sont vides depuis trente ans.",
+     1.3
+    ],
+    [
+     "Ton père, ta tante, ton oncle. Trois portes au fond du couloir.",
+     1.2
+    ],
+    [
+     "Quand ils étaient petits, je passais avant d'aller me coucher. Je remontais les couvertures.",
+     1.2
+    ],
+    [
+     "Je fermais les volets que ton oncle ouvrait toujours. Je ramassais les chaussettes.",
+     1.2
+    ],
+    [
+     "Ils sont partis l'un après l'autre. Moi, j'ai continué.",
+     1.4
+    ],
+    [
+     "Ta grand-mère se moque de moi. Elle dit que je surveille des fantômes.",
+     1.4
+    ],
+    [
+     "Je ne sais pas m'arrêter. Quarante ans de tour du soir, ça ne se perd pas.",
+     1.4
+    ],
+    [
+     "À Noël, tu as dormi dans l'ancienne chambre de ton père.",
+     1.2
+    ],
+    [
+     "Vers deux heures du matin, je suis passé. Ta couverture était tombée par terre.",
+     1.6
+    ],
+    [
+     "Je l'ai remontée sur toi. Tu fais deux têtes de plus que moi. Tant pis.",
+     1.6
+    ],
+    [
+     "Au petit déjeuner, tu m'as dit : merci pour la couverture, papi.",
+     1.8
+    ],
+    [
+     "Tu faisais semblant de dormir. Comme ton père le faisait, petit.",
+     1.6
+    ],
+    [
+     "Les pères ne prennent jamais leur retraite de la nuit.",
+     1.4
+    ],
+    [
+     "La prochaine fois, fais semblant de dormir. Laisse-moi faire mon *tour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j166_pere",
+   "perso": "pere",
+   "episode": 167,
+   "fin": "Envoie-la à quelqu'un qui fleurit des tombes à la Toussaint.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Une tombe qu'il nettoyait en secret.",
+   "legende": "Il ne venait pas seulement pour nos morts. Il venait pour que personne ne soit oublié. Tu vas au cimetière à la Toussaint, toi ? #papa #pere #toussaint #tradition #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, mon père m'a demandé de venir à la *Toussaint*. J'ai toujours dit non.",
+     1.3
+    ],
+    [
+     "J'avais mieux à faire. Mes arrière-grands-parents, c'étaient juste des noms sur une pierre.",
+     1.2
+    ],
+    [
+     "Il y allait seul, avec ses chrysanthèmes.",
+     1.2
+    ],
+    [
+     "Il est parti il y a quatre ans. Alors, à la Toussaint, j'y suis allé.",
+     1.4
+    ],
+    [
+     "J'ai nettoyé la tombe de la famille. Puis j'ai vu quelque chose de bizarre.",
+     1.4
+    ],
+    [
+     "Trois tombes plus loin, il y avait une petite tombe propre. Avec des fleurs fraîches.",
+     1.4
+    ],
+    [
+     "Le gardien m'a expliqué. Un jeune soldat mort en quarante-quatre. Sans famille.",
+     1.6
+    ],
+    [
+     "Depuis cinquante ans, ton grand-père la nettoyait aussi. Sans le dire à personne.",
+     1.8
+    ],
+    [
+     "Il disait au gardien : si je ne viens pas, personne ne viendra.",
+     1.6
+    ],
+    [
+     "Il ne venait pas seulement pour nos morts. Il venait pour que personne ne soit oublié.",
+     1.6
+    ],
+    [
+     "Cette année, j'ai acheté deux pots de chrysanthèmes.",
+     1.4
+    ],
+    [
+     "Les traditions qu'on méprise à vingt ans, on les comprend trop tard.",
+     1.4
+    ],
+    [
+     "Si un jour je te demande de m'accompagner quelque part, ne refuse pas tout de suite.",
+     1.2
+    ],
+    [
+     "Il y a peut-être une tombe que je ne t'ai jamais *montrée*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j166_mere",
+   "perso": "mere",
+   "episode": 167,
+   "fin": "Envoie-la à quelqu'un dont la chambre est devenue un bureau.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Ta chambre n'existe plus.",
+   "legende": "J'avais peur de t'effacer. En fait, tu me rendais une pièce. Qu'est devenue ta chambre d'enfant chez tes parents ? #maman #mere #famille #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Ta *chambre* n'existe plus. Je ne savais pas comment te le dire.",
+     1.3
+    ],
+    [
+     "Pendant dix ans, je n'ai touché à rien. Tes affiches, ton lit, tes coupes de judo.",
+     1.2
+    ],
+    [
+     "J'y entrais pour faire la poussière. Je ressortais une heure après, les yeux rouges.",
+     1.4
+    ],
+    [
+     "Et puis, en janvier, j'ai tout mis dans des cartons. J'ai repeint les murs en jaune.",
+     1.4
+    ],
+    [
+     "J'ai installé une machine à coudre, une table, un fauteuil. Une pièce à moi.",
+     1.4
+    ],
+    [
+     "La première pièce à moi en trente ans.",
+     1.6
+    ],
+    [
+     "J'ai passé l'hiver à me sentir coupable. Comme si je t'avais mis à la porte.",
+     1.6
+    ],
+    [
+     "Quand tu es venu à Pâques, j'ai ouvert la porte en tremblant.",
+     1.4
+    ],
+    [
+     "Tu as regardé les murs jaunes, la machine, le fauteuil.",
+     1.4
+    ],
+    [
+     "Et tu as dit : enfin, maman. Enfin quelque chose pour toi.",
+     1.8
+    ],
+    [
+     "Tu as même essayé le fauteuil. Tu as dit qu'il était mieux que ton ancien lit.",
+     1.4
+    ],
+    [
+     "J'avais peur de t'effacer. En fait, tu me rendais une pièce.",
+     1.6
+    ],
+    [
+     "Les enfants qui partent ne prennent pas la place. Ils la *rendent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j166_fou",
+   "perso": "fou",
+   "episode": 166,
+   "fin": "Envoie-la à quelqu'un qu'on n'a pas pris au sérieux.",
+   "lueurs": [
+    1,
+    7,
+    15
+   ],
+   "accroche": "Ils ont voté oui pour rire.",
+   "legende": "On l'avait acceptée pour rire. Elle a ouvert la porte à des milliers d'autres. Et toi, qui t'a déjà pris pour une blague ? #motivation #histoire #medecine #femmes #courage #pourtoi",
+   "phrases": [
+    [
+     "En mille huit cent quarante-sept, une école de médecine américaine reçoit la candidature d'une *femme*.",
+     1.3
+    ],
+    [
+     "Elle s'appelle Elizabeth Blackwell. Plusieurs écoles l'ont déjà refusée.",
+     1.2
+    ],
+    [
+     "La direction ne sait pas quoi faire. Elle laisse les étudiants voter.",
+     1.2
+    ],
+    [
+     "Les étudiants croient à une blague. Ils votent oui, en riant. À l'unanimité.",
+     1.4
+    ],
+    [
+     "Quand elle arrive, ils comprennent que ce n'était pas une blague.",
+     1.6
+    ],
+    [
+     "On la regarde de travers. En ville, des gens refusent de lui adresser la parole.",
+     1.4
+    ],
+    [
+     "Deux ans plus tard, elle sort première de sa promotion.",
+     1.8
+    ],
+    [
+     "Elle devient la première femme diplômée de médecine aux États-Unis.",
+     1.6
+    ],
+    [
+     "Peu après, en soignant un bébé à Paris, elle attrape une infection. Elle perd un œil.",
+     1.6
+    ],
+    [
+     "Son rêve de devenir chirurgienne s'arrête là.",
+     1.8
+    ],
+    [
+     "Alors elle change de rêve. Elle ouvre un hôpital à New York, pour les femmes et les enfants.",
+     1.4
+    ],
+    [
+     "Puis une école de médecine pour les femmes.",
+     1.4
+    ],
+    [
+     "On l'avait acceptée pour rire. Elle a ouvert la porte à des milliers d'autres.",
+     1.6
+    ],
+    [
+     "Toi aussi, on te prendra peut-être pour une blague.",
+     1.4
+    ],
+    [
+     "Laisse-les rire. Puis sors *première*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

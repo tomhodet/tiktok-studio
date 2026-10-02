@@ -1,0 +1,348 @@
+{
+ "nom": "j126",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j126_grandmere",
+   "perso": "grandmere",
+   "episode": 127,
+   "fin": "Envoie-la à quelqu'un qui protège ses enfants.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Un taureau. Et mon parapluie du marché.",
+   "legende": "Tu n'as pas besoin d'être plus fort que ce qui te fait peur. Et toi, quelle est la chose la plus courageuse que ta grand-mère ait faite ? #grandmere #courage #humour #ferme #famille #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-treize, j'ai fait reculer un taureau de huit cents kilos. Avec un *parapluie*.",
+     1.3
+    ],
+    [
+     "Ton père avait trois ans. Il jouait dans le pré, derrière la maison.",
+     1.2
+    ],
+    [
+     "Le taureau du voisin avait cassé sa clôture. Il avançait droit vers lui.",
+     1.2
+    ],
+    [
+     "Ton grand-père était aux champs. J'étais seule, avec mon parapluie du marché.",
+     1.4
+    ],
+    [
+     "J'avais une peur bleue des vaches. Alors un taureau, tu imagines.",
+     1.4
+    ],
+    [
+     "J'ai couru. Je me suis mise entre eux. Mes jambes ne me tenaient plus.",
+     1.6
+    ],
+    [
+     "Le taureau s'est arrêté à dix mètres. Il soufflait par les naseaux.",
+     1.4
+    ],
+    [
+     "Je n'avais aucun plan. J'ai ouvert le parapluie d'un coup, en hurlant.",
+     1.6
+    ],
+    [
+     "Le taureau a fait un bond en arrière. Puis il est reparti au galop.",
+     1.8
+    ],
+    [
+     "Ton père, lui, n'avait rien vu. Il cueillait des pâquerettes.",
+     1.4
+    ],
+    [
+     "Le soir, le voisin m'a dit : les bêtes ont peur de ce qui s'ouvre d'un coup.",
+     1.4
+    ],
+    [
+     "Tu n'as pas besoin d'être plus fort que ce qui te fait peur.",
+     1.2
+    ],
+    [
+     "Parfois, il suffit d'ouvrir ton parapluie en *grand*. Au bon moment.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j126_grandpere",
+   "perso": "grandpere",
+   "episode": 128,
+   "fin": "Envoie-la à quelqu'un qui porte une vieille rancune.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "J'ai refusé de loger un Allemand.",
+   "legende": "La haine, on te la transmet comme un héritage. Tu as le droit de la refuser. Et toi, quelle rancune familiale as-tu refusé de porter ? #grandpere #paix #famille #pardon #histoire #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-cinq, j'ai refusé de loger un *Allemand*.",
+     1.3
+    ],
+    [
+     "Notre ville venait de se jumeler avec une ville allemande. Des jeunes ouvriers venaient travailler chez nous.",
+     1.2
+    ],
+    [
+     "Le maire m'a demandé d'en loger un. J'ai dit non.",
+     1.2
+    ],
+    [
+     "Mon père avait passé cinq ans prisonnier en Allemagne. Il n'en parlait jamais.",
+     1.4
+    ],
+    [
+     "Le soir, il m'a appelé dans la cuisine. Il a posé sa pipe.",
+     1.4
+    ],
+    [
+     "Il m'a dit : ce garçon est né après la guerre. Comme toi.",
+     1.6
+    ],
+    [
+     "Puis il a ajouté : la guerre, c'était nous. Ne la recommence pas pour nous.",
+     1.8
+    ],
+    [
+     "Le lendemain, Klaus est arrivé avec une valise et trois mots de français.",
+     1.4
+    ],
+    [
+     "La première semaine, on mangeait en silence.",
+     1.2
+    ],
+    [
+     "Puis un soir, il a sorti un harmonica. Il jouait faux. J'ai ri. Lui aussi.",
+     1.6
+    ],
+    [
+     "On s'écrit depuis soixante ans. Chaque Noël, il m'envoie des biscuits immangeables.",
+     1.4
+    ],
+    [
+     "À l'enterrement de mon père, Klaus était au premier rang. Il avait fait mille kilomètres.",
+     1.6
+    ],
+    [
+     "La haine, on te la transmet comme un héritage. Tu as le droit de la *refuser*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j126_pere",
+   "perso": "pere",
+   "episode": 127,
+   "fin": "Envoie-la à quelqu'un qui a dû partir loin des siens.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu ne me reconnaissais pas.",
+   "legende": "Partir demande du courage. Revenir aussi. Et toi, quel retour t'a le plus ému ? #papa #pere #militaire #retour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais deux ans, je suis parti six mois en Bosnie. Avec les casques *bleus*.",
+     1.3
+    ],
+    [
+     "J'étais militaire. On ne choisit pas ses départs.",
+     1.2
+    ],
+    [
+     "Le matin du départ, tu dormais. Je n'ai pas osé te réveiller.",
+     1.2
+    ],
+    [
+     "Chaque soir, là-bas, je regardais ta photo à la lampe de poche. Je te parlais tout bas.",
+     1.4
+    ],
+    [
+     "Ta mère m'envoyait des cassettes. Tu disais : papa, avion. C'était ton seul mot pour moi.",
+     1.4
+    ],
+    [
+     "Six mois plus tard, je suis rentré. Tu étais dans les bras de ta mère, devant la caserne.",
+     1.4
+    ],
+    [
+     "Tu m'as regardé. Et tu t'es mis à pleurer. Tu ne me reconnaissais pas.",
+     1.8
+    ],
+    [
+     "J'avais tenu six mois là-bas. Ce jour-là, devant la caserne, j'ai failli craquer.",
+     1.6
+    ],
+    [
+     "À la maison, je me suis assis par terre avec ton camion en plastique. Je n'ai rien dit.",
+     1.4
+    ],
+    [
+     "Au bout d'une heure, tu t'es approché. Tu as pris l'autre camion.",
+     1.6
+    ],
+    [
+     "On a joué jusqu'au soir. Le lendemain, tu m'appelais papa avion.",
+     1.4
+    ],
+    [
+     "Partir demande du courage. Revenir aussi. Il faut accepter qu'on ne nous reconnaisse pas tout de suite.",
+     1.2
+    ],
+    [
+     "Alors assieds-toi par terre. Et attends que l'autre vienne *jouer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j126_mere",
+   "perso": "mere",
+   "episode": 127,
+   "fin": "Envoie-la à quelqu'un qui dit oui par peur.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Ce serveur, c'est ton père.",
+   "legende": "Un oui par peur peut te coûter toute une vie. Un non courageux peut t'en offrir une. Et toi, quel non a changé ta vie ? #maman #mere #amour #direnon #humour #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-quinze, j'ai dit non à une demande en *mariage*. Devant tout un restaurant.",
+     1.3
+    ],
+    [
+     "Il s'appelait Pascal. Gentil, sérieux, une belle situation. Ma mère l'adorait.",
+     1.2
+    ],
+    [
+     "Au dessert, la musique s'est arrêtée. Il s'est mis à genoux, avec une bague.",
+     1.2
+    ],
+    [
+     "Tout le restaurant s'est tourné vers nous. Les gens souriaient déjà.",
+     1.4
+    ],
+    [
+     "Je savais que je ne l'aimais pas assez. Mais dire non devant cinquante personnes ?",
+     1.4
+    ],
+    [
+     "J'ai senti le oui arriver dans ma bouche. Par politesse. Par peur.",
+     1.6
+    ],
+    [
+     "Et j'ai dit : non. Pardon. Je ne peux pas.",
+     1.6
+    ],
+    [
+     "Le silence. Pascal est parti. Ma mère ne m'a pas parlé pendant un mois.",
+     1.4
+    ],
+    [
+     "Moi, je suis restée seule à table, rouge comme une tomate.",
+     1.4
+    ],
+    [
+     "Et là, un serveur s'est approché. Il a posé un café devant moi. Il a murmuré : c'était courageux.",
+     1.6
+    ],
+    [
+     "Puis il a ajouté : je finis à minuit, si vous voulez en parler.",
+     1.6
+    ],
+    [
+     "Ce serveur, c'est ton *père*.",
+     1.8
+    ],
+    [
+     "Un oui par peur peut te coûter toute une vie. Un non courageux peut t'en offrir une.",
+     1.2
+    ],
+    [
+     "Et parfois, il t'apporte même le *café*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j126_fou",
+   "perso": "fou",
+   "episode": 126,
+   "fin": "Envoie-la à quelqu'un qui croit qu'il est trop tard.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Cent tours de jardin avant ses cent ans.",
+   "legende": "Il voulait mille livres. Il en a récolté trente mille fois plus. Et toi, quel petit tour peux-tu faire aujourd'hui ? #motivation #histoirevraie #perseverance #jamaistroptard #inspiration #pourtoi",
+   "phrases": [
+    [
+     "En avril deux mille vingt, un vieil homme de quatre-vingt-dix-neuf ans fait le tour de son *jardin*. Avec son déambulateur.",
+     1.3
+    ],
+    [
+     "Il s'appelle Tom Moore. Ancien officier, vétéran de la Seconde Guerre mondiale. Il vit en Angleterre.",
+     1.2
+    ],
+    [
+     "Le pays est confiné. Les hôpitaux débordent. Lui ne peut rien faire, à part marcher.",
+     1.2
+    ],
+    [
+     "Alors il se lance un défi. Cent tours de jardin avant ses cent ans. Pour les soignants.",
+     1.4
+    ],
+    [
+     "Son jardin fait vingt-cinq mètres. Il espère récolter mille livres.",
+     1.4
+    ],
+    [
+     "Chaque jour, il fait ses tours. Lentement. Bien droit. En veste, avec ses médailles.",
+     1.4
+    ],
+    [
+     "Sa famille publie une vidéo. Puis les journaux en parlent. Puis le monde entier.",
+     1.4
+    ],
+    [
+     "Le jour de ses cent ans, la cagnotte dépasse trente millions de livres.",
+     1.8
+    ],
+    [
+     "Il reçoit des dizaines de milliers de cartes d'anniversaire. La reine le fait chevalier.",
+     1.6
+    ],
+    [
+     "Il voulait mille livres. Il en a récolté trente mille fois plus.",
+     1.6
+    ],
+    [
+     "Toi, tu crois peut-être qu'il est trop tard. Ou que ce que tu peux faire est trop petit.",
+     1.2
+    ],
+    [
+     "Il avait quatre-vingt-dix-neuf ans, un déambulateur, et vingt-cinq mètres de pelouse.",
+     1.4
+    ],
+    [
+     "Il a juste fait un tour. Puis un *autre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

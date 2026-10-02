@@ -1,0 +1,360 @@
+{
+ "nom": "j086",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j086_grandmere",
+   "perso": "grandmere",
+   "episode": 87,
+   "fin": "Envoie-la à quelqu'un qui garde trop de rancunes.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Tu vas hériter d'une passoire.",
+   "legende": "Une bonne passoire, c'est comme une bonne mémoire. Elle garde ce qui nourrit et laisse filer l'eau. Et toi, qu'est-ce que tu aimerais hériter de ta grand-mère ? #grandmere #heritage #sagesse #humour #famille #pourtoi",
+   "phrases": [
+    [
+     "Tu sais ce que tu vas hériter de moi ? Une *passoire*.",
+     1.3
+    ],
+    [
+     "Ne fais pas cette tête. C'est la passoire de ma grand-mère. Elle a plus de cent ans.",
+     1.2
+    ],
+    [
+     "Elle est cabossée, un peu rouillée sur le bord. Il manque une poignée.",
+     1.2
+    ],
+    [
+     "Ta mère voulait la jeter. Elle voulait m'en acheter une neuve, en plastique.",
+     1.4
+    ],
+    [
+     "J'ai failli la mettre à la porte.",
+     1.2
+    ],
+    [
+     "Ma grand-mère disait : une bonne passoire, c'est comme une bonne mémoire.",
+     1.4
+    ],
+    [
+     "Elle garde ce qui nourrit. Elle laisse filer l'eau.",
+     1.6
+    ],
+    [
+     "J'ai mis soixante ans à comprendre ce qu'elle voulait dire.",
+     1.4
+    ],
+    [
+     "J'ai gardé longtemps des choses qui ne nourrissent pas. Les vexations, les rancunes, les mots de travers.",
+     1.4
+    ],
+    [
+     "Ça pèse lourd, une passoire *bouchée*.",
+     1.6
+    ],
+    [
+     "Maintenant, je garde les rires, les recettes, les dimanches. Le reste, je le laisse couler.",
+     1.4
+    ],
+    [
+     "Alors oui, tu hériteras d'une vieille passoire cabossée. Ce n'est pas un trésor.",
+     1.4
+    ],
+    [
+     "Mais chaque fois que tu égoutteras tes pâtes, pense à elle. Et à moi.",
+     1.4
+    ],
+    [
+     "Garde ce qui *nourrit*. Laisse filer le reste.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j086_grandpere",
+   "perso": "grandpere",
+   "episode": 88,
+   "fin": "Envoie-la à quelqu'un qui mérite d'entendre ses éloges maintenant.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai organisé mon enterrement. De mon vivant.",
+   "legende": "On garde les plus beaux mots pour les cercueils. Les vivants, eux, entendent tout. Et toi, qu'est-ce que tu n'as jamais dit en face ? #grandpere #famille #vieillesse #emotion #humour #pourtoi",
+   "phrases": [
+    [
+     "Pour mes quatre-vingts ans, j'ai organisé mon *enterrement*. De mon vivant.",
+     1.3
+    ],
+    [
+     "Chaque mois, j'allais à l'enterrement d'un copain. J'entendais des choses magnifiques.",
+     1.2
+    ],
+    [
+     "Des choses qu'on ne leur avait jamais dites en face. Trop tard.",
+     1.4
+    ],
+    [
+     "Alors j'ai loué la salle des fêtes. Avec une règle.",
+     1.2
+    ],
+    [
+     "Chacun devait se lever et dire ce qu'il dirait sur ma tombe. Mais devant moi.",
+     1.4
+    ],
+    [
+     "Ta grand-mère a refusé de venir. Puis elle s'est assise au premier rang.",
+     1.2
+    ],
+    [
+     "Mon frère a raconté la fois où je l'ai sorti de la rivière. Je l'avais oublié.",
+     1.4
+    ],
+    [
+     "Et puis ton père s'est levé. Il ne parle jamais, ton père.",
+     1.6
+    ],
+    [
+     "Il a dit : mon père, c'est l'homme que j'essaie de *devenir*. Et il s'est rassis.",
+     1.8
+    ],
+    [
+     "Cinquante ans que j'attendais une phrase comme ça. Il a fallu un faux enterrement.",
+     1.4
+    ],
+    [
+     "On garde les plus beaux mots pour les cercueils. C'est idiot. Les morts n'entendent rien.",
+     1.4
+    ],
+    [
+     "Dis-les maintenant. À tes parents, à tes amis, à ceux qui sont encore assis au premier rang.",
+     1.4
+    ],
+    [
+     "Les vivants, eux, entendent *tout*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j086_pere",
+   "perso": "pere",
+   "episode": 87,
+   "fin": "Envoie-la à quelqu'un qui rend visite aux personnes âgées.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Mon père m'a laissé un voisin.",
+   "legende": "Je croyais avoir hérité d'une corvée. J'ai hérité de ce qui restait de mon père. Et toi, qui garde un morceau de quelqu'un que tu as perdu ? #papa #pere #deuil #heritage #amitie #pourtoi",
+   "phrases": [
+    [
+     "Mon père m'a laissé une maison, une vieille voiture et un *voisin*. Fernand, quatre-vingt-onze ans.",
+     1.3
+    ],
+    [
+     "Tous les jours à dix-sept heures, mon père allait chez lui. Café et partie de dames.",
+     1.2
+    ],
+    [
+     "Je n'en savais rien.",
+     1.4
+    ],
+    [
+     "Le lendemain de l'enterrement, je vidais la maison. À dix-sept heures, on a frappé.",
+     1.4
+    ],
+    [
+     "C'était Fernand, avec son damier sous le bras. Il m'a dit : c'est l'heure.",
+     1.6
+    ],
+    [
+     "Je n'avais pas le temps. J'avais des cartons et du chagrin.",
+     1.2
+    ],
+    [
+     "Je me suis assis quand même. Il m'a battu en dix minutes.",
+     1.4
+    ],
+    [
+     "Depuis deux ans, j'y vais le mardi. Il me bat toujours. Et il me raconte mon père.",
+     1.4
+    ],
+    [
+     "Celui qui chantait faux en italien. Celui qui pleurait devant les films.",
+     1.4
+    ],
+    [
+     "Celui qui parlait de moi, tous les jours, à un vieux voisin. Avec *fierté*.",
+     1.8
+    ],
+    [
+     "Je croyais avoir hérité d'une corvée. J'ai hérité de ce qui restait de mon père.",
+     1.6
+    ],
+    [
+     "Quand quelqu'un s'en va, regarde qui il visitait.",
+     1.4
+    ],
+    [
+     "Va les voir. Ils gardent des morceaux de lui que tu n'as *jamais* vus.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j086_mere",
+   "perso": "mere",
+   "episode": 87,
+   "fin": "Envoie-la à quelqu'un qui va bientôt avoir un bébé.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Trois petits pulls pour des bébés pas nés.",
+   "legende": "Ce qu'on fait avec ses mains nous survit longtemps. Et toi, qu'est-ce qu'une grand-mère t'a tricoté ? #maman #mere #grandmere #transmission #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans mon armoire, il y a trois petits *pulls*. Pour des bébés qui ne sont pas encore nés.",
+     1.3
+    ],
+    [
+     "C'est ta grand-mère qui les a tricotés. La dernière année de sa vie.",
+     1.2
+    ],
+    [
+     "Elle tricotait près de la fenêtre. Je lui demandais pour qui.",
+     1.2
+    ],
+    [
+     "Elle répondait : pour mes arrière-petits-enfants. Il n'y en avait pas encore.",
+     1.4
+    ],
+    [
+     "Elle disait : justement, je ne serai pas là pour les accueillir.",
+     1.6
+    ],
+    [
+     "Un bleu, un jaune, un vert. Sans prénom, sans date.",
+     1.2
+    ],
+    [
+     "Quand elle est partie, je les ai rangés avec de la lavande.",
+     1.4
+    ],
+    [
+     "Et la semaine dernière, tu m'as appelée. Tu as dit : maman, assieds-toi.",
+     1.6
+    ],
+    [
+     "Tu attends un enfant.",
+     1.6
+    ],
+    [
+     "Après le téléphone, j'ai ouvert l'armoire. J'ai pris le pull jaune. J'ai pleuré dessus.",
+     1.4
+    ],
+    [
+     "Ta grand-mère ne connaîtra jamais ce bébé. Mais elle avait deviné la *taille*.",
+     1.8
+    ],
+    [
+     "Ce qu'on fait avec ses mains nous survit longtemps.",
+     1.4
+    ],
+    [
+     "Ce bébé portera quelque chose d'elle. Il ne le saura pas.",
+     1.4
+    ],
+    [
+     "Et il reste *deux* pulls. Je dis ça, je ne dis rien.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j086_fou",
+   "perso": "fou",
+   "episode": 86,
+   "fin": "Envoie-la à quelqu'un qui a transformé sa blessure en force.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Sur son épée, un numéro.",
+   "legende": "Ce qu'on avait gravé sur elle pour l'effacer, elle l'a gravé dans l'acier pour qu'on s'en souvienne. Et toi, quelle blessure est devenue ta force ? #motivation #histoire #simoneveil #courage #memoire #pourtoi",
+   "phrases": [
+    [
+     "Sur son épée d'académicienne, une femme a fait graver un *numéro*.",
+     1.3
+    ],
+    [
+     "Celui qu'on avait tatoué sur son bras à seize ans, à Auschwitz.",
+     1.6
+    ],
+    [
+     "Elle s'appelle Simone Veil. Elle est déportée avec sa mère et sa sœur.",
+     1.2
+    ],
+    [
+     "Son père et son frère partent dans un autre convoi. On ne les reverra jamais.",
+     1.4
+    ],
+    [
+     "Sa mère meurt quelques semaines avant la libération du camp.",
+     1.4
+    ],
+    [
+     "Simone revient. Elle a dix-sept ans.",
+     1.4
+    ],
+    [
+     "Elle devient magistrate. Puis ministre. À l'Assemblée, elle défend une loi sous les insultes.",
+     1.2
+    ],
+    [
+     "Elle tient bon. La loi passe.",
+     1.4
+    ],
+    [
+     "Plus tard, elle est la première femme à présider le Parlement européen.",
+     1.2
+    ],
+    [
+     "En deux mille huit, elle est élue à l'Académie française.",
+     1.4
+    ],
+    [
+     "Pour son épée, elle choisit ce numéro. Elle a toujours gardé son tatouage.",
+     1.6
+    ],
+    [
+     "Ce qu'on avait gravé sur elle pour l'effacer, elle l'a gravé dans l'acier pour qu'on s'en *souvienne*.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, elle repose au Panthéon.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu portes peut-être une marque qu'on t'a faite. Une blessure dont tu as honte.",
+     1.2
+    ],
+    [
+     "Tu n'es pas obligé de la cacher. Fais-en ton *épée*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

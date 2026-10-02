@@ -1,0 +1,360 @@
+{
+ "nom": "j173",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j173_grandmere",
+   "perso": "grandmere",
+   "episode": 174,
+   "fin": "Envoie-la à quelqu'un qui t'a toujours encouragé.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon pain était dur comme une pierre.",
+   "legende": "Un enfant n'apprend pas parce qu'on le corrige. Il apprend parce qu'on revient goûter. Qui revenait goûter tes ratés, toi ? #grandmere #transmission #patience #tendresse #famille #pourtoi",
+   "phrases": [
+    [
+     "À douze ans, j'ai fait mon premier *pain*. Il était dur comme une pierre.",
+     1.3
+    ],
+    [
+     "Ma mère était malade, couchée pour tout l'hiver. Il fallait nourrir six enfants.",
+     1.2
+    ],
+    [
+     "Le premier pain, il a fallu le casser au marteau. Mes frères se sont moqués de moi.",
+     1.2
+    ],
+    [
+     "Mon père, lui, en a mangé un morceau. Lentement. Puis il a dit : demain, il sera meilleur.",
+     1.4
+    ],
+    [
+     "Le lendemain, il était brûlé. Mon père a gratté le dessus avec son couteau.",
+     1.2
+    ],
+    [
+     "Il a dit : meilleur qu'hier.",
+     1.4
+    ],
+    [
+     "Tout l'hiver, il a répété la même phrase. Tous les soirs. Même quand c'était faux.",
+     1.4
+    ],
+    [
+     "Au printemps, mon pain était bon. Les voisins venaient en demander.",
+     1.4
+    ],
+    [
+     "Bien plus tard, ma mère m'a avoué une chose.",
+     1.6
+    ],
+    [
+     "Mon père n'aimait pas le pain. Il n'en mangeait jamais.",
+     1.6
+    ],
+    [
+     "Cet hiver-là, il en a mangé tous les soirs. Le mien. Sans *rien* dire.",
+     1.8
+    ],
+    [
+     "Un enfant n'apprend pas parce qu'on le corrige. Il apprend parce qu'on revient goûter.",
+     1.4
+    ],
+    [
+     "Quand tu me montres quelque chose de raté, je te dis toujours la même chose.",
+     1.2
+    ],
+    [
+     "Ce n'est pas de la politesse. C'est mon père qui parle. Meilleur qu'*hier*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j173_grandpere",
+   "perso": "grandpere",
+   "episode": 175,
+   "fin": "Envoie-la à quelqu'un qui perd depuis des années.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Cinquante ans de défaites. Puis la coupe.",
+   "legende": "Le talent gagne des parties. La patience finit par gagner le concours. Et toi, tu en es à combien d'années de défaites ? #grandpere #humour #patience #perseverance #petanque #pourtoi",
+   "phrases": [
+    [
+     "À soixante-seize ans, j'ai gagné mon premier concours de *pétanque*. Après cinquante ans de défaites.",
+     1.3
+    ],
+    [
+     "Tous les soirs, dans la cour, je lançais trente boules sur une pièce de dix centimes.",
+     1.2
+    ],
+    [
+     "Ta grand-mère disait que je labourais la cour. Elle n'avait pas tort.",
+     1.4
+    ],
+    [
+     "Au club, il y avait les trois frères Morel. Des artistes. Ils gagnaient tout depuis toujours.",
+     1.2
+    ],
+    [
+     "Moi, j'arrivais quatrième. Ou cinquième. Chaque année.",
+     1.2
+    ],
+    [
+     "Je n'ai jamais sauté mes trente boules. Même sous la pluie. Même le soir de mes noces.",
+     1.4
+    ],
+    [
+     "Et puis, l'an dernier, j'ai gagné. La coupe, le bouquet, la photo dans le journal.",
+     1.4
+    ],
+    [
+     "Le maire a fait un discours. Tout le village m'a serré la main.",
+     1.2
+    ],
+    [
+     "Le soir, ta grand-mère m'a dit : tu sais pourquoi tu as gagné ?",
+     1.6
+    ],
+    [
+     "Les frères Morel sont morts. Tous les trois. Il ne restait plus que toi.",
+     1.8
+    ],
+    [
+     "Elle avait raison. Mais moi, je n'avais jamais arrêté mes trente *boules*.",
+     1.6
+    ],
+    [
+     "Le talent gagne des parties. La *patience*, elle, finit par gagner le concours.",
+     1.4
+    ],
+    [
+     "Et parfois, il suffit d'être encore là.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j173_pere",
+   "perso": "pere",
+   "episode": 174,
+   "fin": "Envoie-la à quelqu'un qui a appris un geste par amour.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Des tresses sur un manche à balai.",
+   "legende": "Un geste appris par amour, on ne l'oublie pas. Il dort, c'est tout. Qui t'a coiffé quand tu étais petit ? #papa #pere #tendresse #emotion #mariage #pourtoi",
+   "phrases": [
+    [
+     "J'ai appris à faire des tresses sur un *balai*. Avec de la laine.",
+     1.3
+    ],
+    [
+     "Tu avais six ans. Ta mère venait d'accepter un travail loin, pour un an.",
+     1.2
+    ],
+    [
+     "Le premier matin, je t'ai fait une queue de cheval. Elle était sur le côté.",
+     1.2
+    ],
+    [
+     "Toi, tu voulais des tresses. Comme ta mère les faisait.",
+     1.2
+    ],
+    [
+     "Le deuxième matin, tu as pleuré devant l'école. La maîtresse m'a regardé de haut.",
+     1.4
+    ],
+    [
+     "Le soir, j'ai attaché de la laine au manche du balai. Trois mèches.",
+     1.2
+    ],
+    [
+     "Tous les soirs, après ton coucher, je tressais. Je défaisais. Je recommençais.",
+     1.4
+    ],
+    [
+     "Au bout de deux mois, une maman m'a demandé : qui coiffe la petite ?",
+     1.2
+    ],
+    [
+     "J'ai dit : moi. Elle ne m'a pas cru.",
+     1.4
+    ],
+    [
+     "L'été dernier, le matin de ton mariage, la coiffeuse attendait dans le salon.",
+     1.2
+    ],
+    [
+     "Tu es venue me voir avec ta brosse. Tu as dit : papa, tu me fais une tresse ?",
+     1.6
+    ],
+    [
+     "Mes mains tremblaient. Elles se sont souvenues toutes *seules*.",
+     1.8
+    ],
+    [
+     "Un geste appris par amour, on ne l'oublie pas. Il dort, c'est tout.",
+     1.4
+    ],
+    [
+     "Et un jour, il se réveille dans tes *cheveux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j173_mere",
+   "perso": "mere",
+   "episode": 174,
+   "fin": "Envoie-la à quelqu'un qui se lève tôt pour son rêve.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je ne faisais pas les comptes.",
+   "legende": "Une page par matin, ce n'est rien. Vingt ans de matins, c'est un livre. Qu'est-ce que tu fais tous les jours, en cachette ? #maman #mere #ecriture #discipline #jamaistroptard #pourtoi",
+   "phrases": [
+    [
+     "Quand tu étais petit, tu te levais parfois la nuit. La *cuisine* était allumée.",
+     1.3
+    ],
+    [
+     "Tu me trouvais à table, à cinq heures du matin. Je te disais : je fais les comptes.",
+     1.2
+    ],
+    [
+     "Je ne faisais pas les comptes. J'écrivais un roman.",
+     1.6
+    ],
+    [
+     "Une page par matin, avant ton réveil.",
+     1.2
+    ],
+    [
+     "Ça a duré vingt ans. Même ton père n'était pas au courant, au début.",
+     1.2
+    ],
+    [
+     "J'ai jeté le premier roman. Trop mauvais. Puis le deuxième.",
+     1.4
+    ],
+    [
+     "Le troisième, je l'ai envoyé à des éditeurs. Personne n'en a voulu.",
+     1.4
+    ],
+    [
+     "J'ai continué. Une page par matin. Je ne savais plus faire autrement.",
+     1.2
+    ],
+    [
+     "Le mois dernier, mon livre est sorti. J'avais cinquante-quatre ans.",
+     1.4
+    ],
+    [
+     "Je t'ai offert le premier exemplaire. Sans rien dire.",
+     1.6
+    ],
+    [
+     "Tu as lu la dédicace : à mon fils, qui croyait que je faisais les *comptes*.",
+     1.8
+    ],
+    [
+     "Tu m'as appelée. Tu riais et tu pleurais.",
+     1.4
+    ],
+    [
+     "Une page par matin, ce n'est rien. Vingt ans de matins, c'est un livre.",
+     1.4
+    ],
+    [
+     "Ce que tu fais tous les jours, en cachette, finira par porter ton *nom*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j173_fou",
+   "perso": "fou",
+   "episode": 173,
+   "fin": "Envoie-la à quelqu'un qui s'en veut trop le soir.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Chaque soir, il fait son propre procès.",
+   "legende": "Quel défaut as-tu soigné aujourd'hui ? En quoi es-tu meilleur ? Ce soir, tu réponds quoi à la troisième question ? #motivation #stoicisme #seneque #habitudes #philosophie #pourtoi",
+   "phrases": [
+    [
+     "Chaque soir, quand la lampe est éteinte, un homme fait le *procès* de sa journée.",
+     1.3
+    ],
+    [
+     "Sa femme connaît l'habitude. Elle se tait, dans le noir.",
+     1.2
+    ],
+    [
+     "Lui repasse tout. Chaque parole, chaque geste.",
+     1.2
+    ],
+    [
+     "Il l'a écrit lui-même : je ne me cache rien. Je ne laisse rien passer.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelle Sénèque. Un philosophe parmi les plus célèbres de Rome.",
+     1.2
+    ],
+    [
+     "Il tient cette habitude d'un philosophe plus ancien, qui se posait trois questions avant de dormir.",
+     1.4
+    ],
+    [
+     "Quel défaut as-tu soigné aujourd'hui ? Quelle faiblesse as-tu combattue ? En quoi es-tu *meilleur* ?",
+     1.8
+    ],
+    [
+     "Sénèque ne cherche pas à se punir. Il se parle comme à un ami.",
+     1.4
+    ],
+    [
+     "Quand il trouve une faute, il se dit : fais attention à ne pas recommencer. Cette fois, je te pardonne.",
+     1.4
+    ],
+    [
+     "Puis il dort. Et il dit que ce sommeil-là est le plus doux.",
+     1.4
+    ],
+    [
+     "Il a décrit ce petit tribunal il y a près de deux mille ans.",
+     1.2
+    ],
+    [
+     "Toi, ce soir, tu feras défiler quoi ? Tes écrans, ou ta journée ?",
+     1.4
+    ],
+    [
+     "Essaie, juste ce soir. Trois questions. Et finis comme lui.",
+     1.6
+    ],
+    [
+     "Cette fois, je te *pardonne*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

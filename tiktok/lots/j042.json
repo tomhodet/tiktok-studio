@@ -1,0 +1,364 @@
+{
+ "nom": "j042",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j042_grandmere",
+   "perso": "grandmere",
+   "episode": 43,
+   "fin": "Envoie-la à quelqu'un qui reste trop souvent à la fenêtre.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Il est rentré sur une moto rouge.",
+   "legende": "Quand l'autre change, tu peux le regarder partir. Ou monter derrière. Et toi, tu montes derrière ou tu restes à la fenêtre ? #grandmere #couple #amour #moto #humour #pourtoi",
+   "phrases": [
+    [
+     "À cinquante ans, ton grand-père est rentré à la maison sur une *moto*. Rouge.",
+     1.3
+    ],
+    [
+     "Il avait vidé son livret d'épargne. Et acheté un blouson en cuir trop petit.",
+     1.2
+    ],
+    [
+     "J'ai vu un homme qui avait peur de vieillir. J'ai eu honte.",
+     1.4
+    ],
+    [
+     "Le dimanche, il partait seul. Je restais à la fenêtre.",
+     1.2
+    ],
+    [
+     "Pendant un an, j'ai refusé de monter derrière. Par principe.",
+     1.4
+    ],
+    [
+     "Un soir, il m'a dit : la route, c'est beau. Mais tout seul, ça ne sert à rien.",
+     1.6
+    ],
+    [
+     "Le dimanche suivant, j'ai mis son vieux casque. Et je suis montée.",
+     1.8
+    ],
+    [
+     "J'ai hurlé pendant dix kilomètres. Puis je me suis tue. Et j'ai ouvert les yeux.",
+     1.4
+    ],
+    [
+     "Les champs, la mer, le vent dans la figure. À cinquante ans, je découvrais tout.",
+     1.4
+    ],
+    [
+     "À cinquante-deux ans, j'ai passé mon permis moto. Du premier coup. Lui, il l'avait raté deux fois.",
+     1.6
+    ],
+    [
+     "Pendant vingt ans, c'est moi qui ai conduit. Lui, il se tenait à ma taille.",
+     1.4
+    ],
+    [
+     "Quand l'autre change, tu peux le regarder partir. Ou monter *derrière*.",
+     1.4
+    ],
+    [
+     "Et un jour, peut-être, prendre le *guidon*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j042_grandpere",
+   "perso": "grandpere",
+   "episode": 44,
+   "fin": "Envoie-la à quelqu'un qui ferait vingt-cinq kilomètres pour toi.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une seule nuit loin d'elle en soixante ans.",
+   "legende": "Certaines promesses, personne ne t'oblige à les tenir. Ce sont celles qui comptent. Et toi, jusqu'où marcherais-tu pour rentrer auprès de quelqu'un ? #grandpere #amour #couple #promesse #emotion #pourtoi",
+   "phrases": [
+    [
+     "En soixante ans de mariage, je n'ai dormi loin de ta grand-mère qu'une seule *nuit*.",
+     1.3
+    ],
+    [
+     "Je travaillais à l'usine, à vingt-cinq kilomètres. J'y allais en car.",
+     1.2
+    ],
+    [
+     "Un soir de février, la neige est tombée d'un coup. Plus de car, plus de train, routes fermées.",
+     1.4
+    ],
+    [
+     "Le contremaître a dit : vous dormez tous ici, sur des cartons.",
+     1.4
+    ],
+    [
+     "Les autres se sont installés. Moi, j'ai remonté mon col, et je suis parti à pied.",
+     1.4
+    ],
+    [
+     "Vingt-cinq kilomètres. De la neige jusqu'aux genoux. Pas une voiture.",
+     1.4
+    ],
+    [
+     "Le jour de nos noces, je lui avais promis : jamais une nuit sans toi.",
+     1.2
+    ],
+    [
+     "Elle avait ri. Moi, je ne plaisantais pas.",
+     1.4
+    ],
+    [
+     "Je suis arrivé à l'aube. Les sourcils gelés, les pieds en bois.",
+     1.6
+    ],
+    [
+     "Ta grand-mère a ouvert la porte. Elle a dit : tu es bête. J'aurais très bien survécu une nuit.",
+     1.6
+    ],
+    [
+     "Je lui ai répondu : toi, *oui*.",
+     1.8
+    ],
+    [
+     "Elle m'a frotté les pieds pendant une heure, en me traitant d'idiot.",
+     1.4
+    ],
+    [
+     "Certaines promesses, personne ne t'oblige à les tenir. Ce sont celles qui comptent.",
+     1.4
+    ],
+    [
+     "Soixante ans, une seule nuit dehors. Et je l'ai passée à *rentrer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j042_pere",
+   "perso": "pere",
+   "episode": 43,
+   "fin": "Envoie-la à quelqu'un qui connaît tous tes défauts.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Elle m'a donné la liste de ses défauts.",
+   "legende": "Quand quelqu'un te donne la liste de ses défauts, lis bien. Souvent, ce sont ses qualités. Et toi, quel défaut mettrais-tu en premier sur ta liste ? #papa #pere #amour #couple #humour #pourtoi",
+   "phrases": [
+    [
+     "Le premier soir, ta mère m'a donné la liste de ses *défauts*. Il y en avait onze.",
+     1.3
+    ],
+    [
+     "Elle l'avait écrite sur une serviette en papier, pendant que j'étais parti payer.",
+     1.2
+    ],
+    [
+     "Elle a dit : comme ça, tu ne pourras pas dire que tu ne savais pas.",
+     1.4
+    ],
+    [
+     "Je parle trop fort. Je pleure au cinéma. Je dis toujours ce que je pense.",
+     1.2
+    ],
+    [
+     "Je ne sais pas mentir. Je donne mon dernier billet à n'importe qui.",
+     1.4
+    ],
+    [
+     "J'ai écrit les miens en dessous. Trois. J'en avais oublié une vingtaine.",
+     1.4
+    ],
+    [
+     "La serviette est dans mon portefeuille depuis trente ans.",
+     1.4
+    ],
+    [
+     "Et je peux te dire une chose. La liste était fausse.",
+     1.6
+    ],
+    [
+     "Pas un seul défaut, là-dedans. Elle m'avait donné son mode d'*emploi*.",
+     1.8
+    ],
+    [
+     "Ses vrais défauts, elle les avait oubliés. Elle triche aux cartes. Elle boude en silence.",
+     1.4
+    ],
+    [
+     "Ceux-là, je les ai découverts tout seul. Je les aime aussi.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un te donne la liste de ses défauts, lis bien. Souvent, ce sont ses qualités.",
+     1.4
+    ],
+    [
+     "Et ajoute les tiens en bas. C'est comme ça qu'on *signe*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j042_mere",
+   "perso": "mere",
+   "episode": 43,
+   "fin": "Envoie-la à quelqu'un qui a ouvert la porte par amour.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "C'est moi qui ai fait sa valise.",
+   "legende": "Tu as le droit d'être heureux. Ailleurs, s'il le faut. Et toi, as-tu déjà dû laisser partir quelqu'un que tu aimais ? #maman #mere #amour #separation #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour où ton père est parti, c'est moi qui ai fait sa *valise*.",
+     1.4
+    ],
+    [
+     "Tu avais douze ans. Tu as cru qu'il nous abandonnait.",
+     1.2
+    ],
+    [
+     "Depuis, tu lui en veux.",
+     1.4
+    ],
+    [
+     "Ton père ne voulait pas partir.",
+     1.2
+    ],
+    [
+     "Il serait resté jusqu'au bout. Par devoir. Pour toi. Pour moi.",
+     1.4
+    ],
+    [
+     "Mais on ne s'aimait plus. On se croisait dans la cuisine comme deux employés.",
+     1.4
+    ],
+    [
+     "Je le voyais s'éteindre un peu plus chaque soir.",
+     1.4
+    ],
+    [
+     "Un dimanche, pendant qu'il était chez sa mère, j'ai sorti la grosse valise.",
+     1.4
+    ],
+    [
+     "J'ai plié ses chemises, ses livres. Et ta photo, sur le dessus.",
+     1.6
+    ],
+    [
+     "Quand il est rentré, il a vu la valise dans l'entrée. Il s'est assis par terre.",
+     1.6
+    ],
+    [
+     "Je lui ai dit : tu as le droit d'être *heureux*. Ailleurs, s'il le faut.",
+     1.8
+    ],
+    [
+     "Il a pleuré. Moi, j'ai attendu qu'il soit dans l'escalier pour pleurer.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, il vit au bord de la mer. Il sourit. Moi aussi.",
+     1.4
+    ],
+    [
+     "Alors arrête de lui en vouloir. Il n'a rien fui.",
+     1.2
+    ],
+    [
+     "Si tu dois en vouloir à quelqu'un, la valise, c'est moi qui l'ai *fermée*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j042_fou",
+   "perso": "fou",
+   "episode": 42,
+   "fin": "Envoie-la à quelqu'un qui traverse une année immobile.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "Seul à la ferme, pendant la peste.",
+   "legende": "Un jour, le monde s'arrêtera autour de toi. Ce sera peut-être ta meilleure année. Et toi, qu'as-tu construit pendant ton année la plus dure ? #motivation #science #newton #histoire #discipline #pourtoi",
+   "phrases": [
+    [
+     "En mille six cent soixante-cinq, la peste ferme son université. Un étudiant rentre à la *ferme*.",
+     1.4
+    ],
+    [
+     "Il a vingt-deux ans. Il ne sait pas quand il pourra revenir.",
+     1.2
+    ],
+    [
+     "Ce garçon n'a jamais connu son père, mort avant sa naissance.",
+     1.2
+    ],
+    [
+     "À trois ans, sa mère se remarie et le laisse chez sa grand-mère.",
+     1.4
+    ],
+    [
+     "Adolescent, on le retire de l'école pour tenir la ferme. Il lit au lieu de garder les bêtes.",
+     1.4
+    ],
+    [
+     "Son professeur convainc sa mère de le renvoyer à l'école.",
+     1.2
+    ],
+    [
+     "À l'université, il paie ses études en servant des étudiants plus riches.",
+     1.4
+    ],
+    [
+     "Et maintenant, la peste. Seul, sans professeur, il travaille.",
+     1.4
+    ],
+    [
+     "En moins de deux ans, il invente une nouvelle branche des mathématiques.",
+     1.4
+    ],
+    [
+     "Il montre que la lumière blanche contient toutes les *couleurs*.",
+     1.4
+    ],
+    [
+     "Et il commence à comprendre pourquoi la Lune tourne autour de la Terre.",
+     1.6
+    ],
+    [
+     "Plus tard, il dira qu'une pomme tombée d'un arbre l'avait fait réfléchir.",
+     1.6
+    ],
+    [
+     "À vingt-six ans, il devient professeur. Il s'appelle Isaac Newton.",
+     1.8
+    ],
+    [
+     "Un jour, toi aussi, le monde s'arrêtera autour de toi.",
+     1.2
+    ],
+    [
+     "Ce ne sera peut-être pas la fin. Ce sera peut-être ta meilleure *année*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

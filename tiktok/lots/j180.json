@@ -1,0 +1,364 @@
+{
+ "nom": "j180",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j180_grandmere",
+   "perso": "grandmere",
+   "episode": 181,
+   "fin": "Envoie-la à quelqu'un qui donne sans savoir à qui.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Sur sa tête, un bonnet jaune.",
+   "legende": "Fais ton travail, même si tu ne vois jamais à qui il sert. Un jour, il te revient. Qu'est-ce que tu fais pour des inconnus, toi ? #grandmere #tricot #emotion #generosite #famille #pourtoi",
+   "phrases": [
+    [
+     "Depuis vingt ans, je tricote un *bonnet* tous les soirs. Grand comme une orange.",
+     1.3
+    ],
+    [
+     "Je les donne à l'hôpital, pour les bébés nés trop tôt. Je ne sais jamais qui les porte.",
+     1.2
+    ],
+    [
+     "Une infirmière vient les chercher chaque mois. Elle dit merci, c'est tout.",
+     1.2
+    ],
+    [
+     "Ton grand-père a calculé un jour. Plus de sept mille bonnets.",
+     1.4
+    ],
+    [
+     "Il a dit : tu sais que tu n'en verras jamais un seul sur une tête ?",
+     1.4
+    ],
+    [
+     "Je savais. Ça ne m'a jamais empêchée de tricoter.",
+     1.4
+    ],
+    [
+     "Il y a un an, ton fils est né deux mois trop tôt.",
+     1.4
+    ],
+    [
+     "Le lendemain, je suis venue. Il était minuscule, dans sa couveuse.",
+     1.4
+    ],
+    [
+     "Sur sa tête, il y avait un bonnet jaune. Avec une petite torsade sur le côté.",
+     1.6
+    ],
+    [
+     "La torsade, c'est ma façon de finir. Personne d'autre ne la *fait*.",
+     1.8
+    ],
+    [
+     "Je n'ai rien dit. J'ai pleuré dans le couloir, comme une idiote.",
+     1.4
+    ],
+    [
+     "Pendant vingt ans, j'ai tricoté pour des inconnus. Un de ces bonnets attendait mon arrière-petit-fils.",
+     1.6
+    ],
+    [
+     "Fais ton travail, même si tu ne vois jamais à qui il sert.",
+     1.2
+    ],
+    [
+     "Un jour, il te *revient*. Sur une toute petite tête.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j180_grandpere",
+   "perso": "grandpere",
+   "episode": 182,
+   "fin": "Envoie-la à celui ou celle qui fait ta soupe.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Trente-six mille repas. Jamais un merci.",
+   "legende": "Ce qu'on ne voit pas tous les jours, c'est souvent ce qui nous nourrit. À qui tu n'as jamais dit merci pour tes repas ? #grandpere #couple #gratitude #humour #amour #pourtoi",
+   "phrases": [
+    [
+     "Pour nos cinquante ans de mariage, j'ai fait la *cuisine*. Pour la première fois de ma vie.",
+     1.3
+    ],
+    [
+     "Avant, je ne savais pas faire cuire un œuf. Ta grand-mère s'occupait de tout.",
+     1.2
+    ],
+    [
+     "Pendant trois mois, j'ai pris des cours en cachette. Le seul homme, au milieu de douze dames.",
+     1.2
+    ],
+    [
+     "Je disais que j'allais au café.",
+     1.4
+    ],
+    [
+     "Le grand jour, j'ai fait un pot-au-feu. J'ai commencé à huit heures du matin.",
+     1.2
+    ],
+    [
+     "À midi, les légumes n'étaient pas cuits. J'avais coupé mon pouce.",
+     1.4
+    ],
+    [
+     "À une heure, j'ai servi. Elle a goûté. Elle a dit : c'est bon.",
+     1.4
+    ],
+    [
+     "Puis j'ai fait la vaisselle. Ça m'a pris une heure.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai fait un calcul. Cinquante ans, deux repas par jour. Plus de trente-six mille repas.",
+     1.6
+    ],
+    [
+     "Elle les avait tous faits. Sans un jour de congé.",
+     1.6
+    ],
+    [
+     "Et moi, je n'avais jamais dit *merci*. Pas une fois.",
+     1.8
+    ],
+    [
+     "Je l'ai dit ce soir-là. Elle a répondu : il était temps.",
+     1.4
+    ],
+    [
+     "Ce qu'on ne voit pas tous les jours, c'est souvent ce qui nous nourrit.",
+     1.2
+    ],
+    [
+     "Va dire merci à celui qui fait ta *soupe*. Ce soir.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j180_pere",
+   "perso": "pere",
+   "episode": 181,
+   "fin": "Envoie-la à quelqu'un qui a envie de revenir à ses racines.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Merci, patron. C'était mon père.",
+   "legende": "Ce qu'on refuse à vingt ans, on le demande parfois à quarante-cinq. Ce n'est pas un échec. C'est un retour. Toi, qu'est-ce que tu as refusé trop tôt ? #papa #pere #transmission #reconversion #emotion #pourtoi",
+   "phrases": [
+    [
+     "À vingt ans, j'ai juré que je ne serais jamais *paysan*. À quarante-cinq, je suis retourné à la ferme.",
+     1.3
+    ],
+    [
+     "J'avais fui mon père, ses vaches et ses cinq heures du matin. Pour un bureau en ville.",
+     1.2
+    ],
+    [
+     "Vingt-cinq ans plus tard, ce bureau m'étouffait. Et mon père vieillissait.",
+     1.2
+    ],
+    [
+     "Je lui ai demandé de m'apprendre. Il m'a regardé longtemps.",
+     1.4
+    ],
+    [
+     "Il a dit seulement : cinq heures. Pas cinq heures dix.",
+     1.4
+    ],
+    [
+     "La première année, j'étais nul. Les vaches ne m'obéissaient pas. Le tracteur non plus.",
+     1.2
+    ],
+    [
+     "Tu avais quinze ans. Tu as détesté la campagne.",
+     1.2
+    ],
+    [
+     "Mon père corrigeait tout. Mes clôtures, mes semis, ma façon de tenir un veau.",
+     1.2
+    ],
+    [
+     "Cinq ans comme ça. J'étais redevenu un apprenti.",
+     1.4
+    ],
+    [
+     "Le jour où il m'a laissé la ferme, il n'a pas fait de discours.",
+     1.4
+    ],
+    [
+     "Le samedi suivant, il est venu à mon stand, au marché. Comme un client.",
+     1.6
+    ],
+    [
+     "Il a acheté un fromage. Il a payé. Il a dit : merci, *patron*.",
+     1.8
+    ],
+    [
+     "Ce qu'on refuse à vingt ans, on le demande parfois à quarante-cinq.",
+     1.4
+    ],
+    [
+     "Ce n'est pas un échec. C'est un *retour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j180_mere",
+   "perso": "mere",
+   "episode": 181,
+   "fin": "Envoie-la à quelqu'un qui a compté pour toi le dimanche soir.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Tu n'as jamais su qu'on était pauvres.",
+   "legende": "Ce n'est pas de la chance. C'est une femme qui compte, le dimanche soir, à la cuisine. Qui a compté pour toi, sans que tu le voies ? #maman #mere #sacrifice #emotion #enfance #pourtoi",
+   "phrases": [
+    [
+     "Tous les dimanches soir, pendant quinze ans, j'ai rempli des *enveloppes*. Sur la table de la cuisine.",
+     1.3
+    ],
+    [
+     "Loyer. Courses. Électricité. Imprévus. Et une toute petite, marquée vacances.",
+     1.2
+    ],
+    [
+     "Ton père avait perdu son travail. On vivait avec presque rien.",
+     1.2
+    ],
+    [
+     "Alors chaque billet avait sa place. Une enveloppe vide, c'était fini.",
+     1.2
+    ],
+    [
+     "Je comptais les pièces pour le pain. Je reprisais tes pantalons la nuit.",
+     1.4
+    ],
+    [
+     "Toi, tu ne voyais rien. C'était le but.",
+     1.4
+    ],
+    [
+     "Dans l'enveloppe vacances, quelques pièces par semaine. Un an d'économies pour une semaine.",
+     1.2
+    ],
+    [
+     "L'été de tes neuf ans, on est partis une semaine sous la tente.",
+     1.2
+    ],
+    [
+     "Tu dis encore que c'étaient les plus belles vacances de ta vie.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu as dit à ta compagne : on n'était pas riches, mais on n'a manqué de rien.",
+     1.6
+    ],
+    [
+     "J'ai souri. Je n'ai rien dit. On a manqué de beaucoup de choses. Mais pas *toi*.",
+     1.8
+    ],
+    [
+     "Il y a des pauvretés qu'un enfant ne voit jamais.",
+     1.4
+    ],
+    [
+     "Ce n'est pas de la *chance*.",
+     1.2
+    ],
+    [
+     "C'est une femme qui compte, le dimanche soir, à la cuisine.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j180_fou",
+   "perso": "fou",
+   "episode": 180,
+   "fin": "Envoie-la à quelqu'un qui court après toujours plus.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Son festin : un pot de fromage.",
+   "legende": "N'ajoute pas à ce que tu possèdes. Retire à ce que tu désires. C'est quoi, ton pot de fromage à toi ? #motivation #philosophie #epicure #simplicite #sagesse #pourtoi",
+   "phrases": [
+    [
+     "Aujourd'hui, un épicurien, c'est quelqu'un qui aime la bonne chère. Le vrai Épicure mangeait du *pain*.",
+     1.3
+    ],
+    [
+     "Du pain, de l'eau. Presque rien d'autre.",
+     1.2
+    ],
+    [
+     "Il vivait à Athènes, dans un jardin où il enseignait à ses amis.",
+     1.2
+    ],
+    [
+     "Un jour, il écrit à un ami. Une demande très sérieuse.",
+     1.4
+    ],
+    [
+     "Envoie-moi un petit pot de fromage. Pour faire un festin quand j'en aurai envie.",
+     1.6
+    ],
+    [
+     "Un pot de fromage. Pour lui, c'était un *festin*.",
+     1.6
+    ],
+    [
+     "Il disait que le plaisir, c'est surtout de ne pas souffrir. Ne pas avoir faim, ne pas avoir peur.",
+     1.4
+    ],
+    [
+     "Et il donnait un conseil étrange pour devenir riche.",
+     1.6
+    ],
+    [
+     "N'ajoute pas à ce que tu possèdes. Retire à ce que tu désires.",
+     1.8
+    ],
+    [
+     "Le dernier jour de sa vie, malade, il souffrait beaucoup. Il a écrit une dernière lettre.",
+     1.4
+    ],
+    [
+     "Il y parle de sa douleur. Et de la joie de se souvenir de leurs conversations.",
+     1.4
+    ],
+    [
+     "Toi, tu cours peut-être après toujours plus. Plus d'argent, plus de choses.",
+     1.2
+    ],
+    [
+     "Essaie l'inverse, juste une semaine. Désire un peu moins.",
+     1.4
+    ],
+    [
+     "Tu verras. Un simple pot de fromage peut redevenir une *fête*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

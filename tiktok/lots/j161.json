@@ -1,0 +1,368 @@
+{
+ "nom": "j161",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j161_grandmere",
+   "perso": "grandmere",
+   "episode": 162,
+   "fin": "Envoie-la à quelqu'un qui garde une vieille clé.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "La clé tournait encore.",
+   "legende": "Le passé, on n'a pas besoin d'y retourner. Il suffit de savoir qu'il ferme bien. Tu as gardé la clé d'une maison où tu ne vas plus ? #grandmere #souvenirs #maison #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "L'été dernier, j'ai essayé la *clé* de la maison de mes parents. Elle tournait encore.",
+     1.3
+    ],
+    [
+     "Ils sont morts il y a trente ans. La maison a été vendue l'hiver d'après.",
+     1.2
+    ],
+    [
+     "La clé, je ne l'ai jamais rendue. Elle est restée sur mon trousseau.",
+     1.2
+    ],
+    [
+     "Trente ans à la sentir dans ma poche. Sans jamais m'en servir.",
+     1.4
+    ],
+    [
+     "Cet été, ta cousine m'a emmenée au village. La maison était fermée, les volets bleus repeints en gris.",
+     1.2
+    ],
+    [
+     "Personne. J'ai monté les trois marches. J'ai mis la clé dans la serrure.",
+     1.4
+    ],
+    [
+     "Ils n'avaient jamais changé la serrure. Elle a tourné. Le même petit bruit qu'en mille neuf cent cinquante.",
+     1.8
+    ],
+    [
+     "J'ai entendu ma mère crier : essuie tes pieds !",
+     1.6
+    ],
+    [
+     "Je n'ai pas ouvert la porte.",
+     1.6
+    ],
+    [
+     "J'ai refermé à double tour. Et j'ai remis la clé dans ma poche.",
+     1.4
+    ],
+    [
+     "Je n'avais pas besoin d'entrer. Je voulais seulement savoir que ça tenait encore.",
+     1.4
+    ],
+    [
+     "Le passé, c'est comme cette serrure. On n'a pas besoin d'y retourner.",
+     1.4
+    ],
+    [
+     "Il suffit de savoir qu'il ferme bien, et qu'il nous garde quelque chose.",
+     1.2
+    ],
+    [
+     "Puis je suis rentrée chez moi. Là où on m'attend *maintenant*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j161_grandpere",
+   "perso": "grandpere",
+   "episode": 163,
+   "fin": "Envoie-la à quelqu'un à qui tu dois une réponse.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je ne lui ai répondu qu'une fois.",
+   "legende": "Trois lignes. Vingt-cinq ans au mur. À qui dois-tu une réponse depuis trop longtemps ? #grandpere #amitie #regrets #lettre #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant cinquante ans, mon ami Roger m'a écrit à chaque Noël. Je ne lui ai répondu qu'une *fois*.",
+     1.3
+    ],
+    [
+     "On s'était connus au service militaire. Deux ans dans la même chambrée.",
+     1.2
+    ],
+    [
+     "Après, il est parti dans le Sud.",
+     1.2
+    ],
+    [
+     "Chaque décembre, une carte. Son écriture penchée. Des nouvelles de ses enfants, puis de ses petits-enfants.",
+     1.4
+    ],
+    [
+     "Et toujours la même phrase à la fin : et toi, comment tu vas ?",
+     1.4
+    ],
+    [
+     "Moi, je n'écris pas. Je me disais : l'année prochaine. Je lui réponds l'année prochaine.",
+     1.4
+    ],
+    [
+     "Une seule fois, en quatre-vingt-dix-huit, j'ai écrit. Trois lignes. Que j'allais bien, que je pensais à lui.",
+     1.4
+    ],
+    [
+     "Il y a deux ans, la carte n'est pas arrivée. C'est sa fille qui a écrit.",
+     1.6
+    ],
+    [
+     "Dans l'enveloppe, il y avait ma lettre. Mes trois lignes.",
+     1.6
+    ],
+    [
+     "Elle a écrit : papa l'avait encadrée. Elle était au-dessus de son bureau depuis vingt-cinq ans.",
+     1.8
+    ],
+    [
+     "Trois lignes. Vingt-cinq ans au mur.",
+     1.6
+    ],
+    [
+     "J'ai compté toutes les lettres que je ne lui ai pas écrites.",
+     1.4
+    ],
+    [
+     "Si quelqu'un t'écrit, réponds. Même trois lignes.",
+     1.2
+    ],
+    [
+     "Tu ne sais pas sur quel mur elles finiront *accrochées*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j161_pere",
+   "perso": "pere",
+   "episode": 162,
+   "fin": "Envoie-la à quelqu'un qui écrivait dans la buée.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Le mot papa sur ma vitre.",
+   "legende": "Ce qu'on écrit avec le doigt, sur une vitre ou sur un cœur, revient quand il fait froid. Qu'est-ce que tu as écrit un jour qui revient encore ? #papa #pere #souvenirs #enfance #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Pendant huit ans, le mot *papa* est apparu sur ma vitre arrière. Tous les matins d'hiver.",
+     1.3
+    ],
+    [
+     "Tu avais cinq ans. Un matin de janvier, tu l'as écrit avec ton doigt, dans la buée.",
+     1.2
+    ],
+    [
+     "Les lettres étaient de travers. Tu étais très fier.",
+     1.2
+    ],
+    [
+     "Le soir, la buée avait disparu. Je n'y ai plus pensé.",
+     1.2
+    ],
+    [
+     "Et le lendemain, avec le froid, le mot est revenu. Exactement pareil.",
+     1.6
+    ],
+    [
+     "Ton doigt avait laissé une trace invisible. Il suffisait d'un peu de buée pour la faire réapparaître.",
+     1.4
+    ],
+    [
+     "Ta mère voulait nettoyer la vitre. J'ai interdit. Formellement.",
+     1.4
+    ],
+    [
+     "Pendant huit hivers, j'ai démarré la voiture avec mon prénom de père écrit derrière moi.",
+     1.6
+    ],
+    [
+     "Les jours difficiles au travail, je regardais dans le rétroviseur. Ça suffisait.",
+     1.6
+    ],
+    [
+     "Quand j'ai vendu la voiture, j'ai prévenu l'acheteur. Il a ri.",
+     1.4
+    ],
+    [
+     "Puis il a vu ma tête. Il a promis de ne jamais laver cette vitre.",
+     1.8
+    ],
+    [
+     "Je ne sais pas s'il a tenu parole. J'aime penser que oui.",
+     1.4
+    ],
+    [
+     "Ce qu'on écrit avec le doigt, sur une vitre ou sur un cœur, revient quand il fait froid.",
+     1.4
+    ],
+    [
+     "Alors écris des choses *douces*. L'hiver finit toujours par venir.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j161_mere",
+   "perso": "mere",
+   "episode": 162,
+   "fin": "Envoie-la à quelqu'un qui note les phrases de ses enfants.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Le cheval est en train de pleuvoir.",
+   "legende": "Les enfants inventent une langue. Elle ne dure que quelques années. Quelle phrase de ton enfance ta mère répète-t-elle encore ? #maman #mere #enfance #souvenirs #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "J'ai un *carnet* rempli de phrases que tu as dites avant tes six ans.",
+     1.3
+    ],
+    [
+     "Je l'ai commencé le jour où tu m'as demandé si les nuages avaient des parents.",
+     1.2
+    ],
+    [
+     "Après, j'ai tout noté. La date, l'endroit, et ta phrase exacte.",
+     1.2
+    ],
+    [
+     "Le cheval est en train de pleuvoir. Pour un cheval qui faisait pipi.",
+     1.4
+    ],
+    [
+     "Maman, quand je serai grand, tu seras petite ? À quatre ans, dans la baignoire.",
+     1.4
+    ],
+    [
+     "Le ciel est en panne. Un jour de brouillard.",
+     1.2
+    ],
+    [
+     "Et puis, vers sept ans, tu as commencé à parler comme tout le monde. Correctement.",
+     1.6
+    ],
+    [
+     "J'étais fière de toi. Et un peu triste. Le carnet s'est arrêté.",
+     1.6
+    ],
+    [
+     "Les enfants inventent une langue. Elle ne dure que quelques années.",
+     1.6
+    ],
+    [
+     "La semaine dernière, ton fils m'a dit que la lune nous suivait. Parce qu'elle avait peur du noir.",
+     1.8
+    ],
+    [
+     "J'ai ressorti le carnet. J'ai écrit la date. Page quarante-trois.",
+     1.6
+    ],
+    [
+     "La langue continue. Elle a juste changé de petite bouche.",
+     1.4
+    ],
+    [
+     "Note les phrases de tes enfants. Tu crois que tu t'en souviendras. Tu les oublieras.",
+     1.2
+    ],
+    [
+     "Et quand je serai petite, c'est toi qui me les *liras*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j161_fou",
+   "perso": "fou",
+   "episode": 161,
+   "fin": "Envoie-la à quelqu'un qui recommence sans se décourager.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Le même geste, deux cent trente fois.",
+   "legende": "Deux cent trente fois le même geste. Toutes les trois semaines. Pendant treize ans. Quel geste répètes-tu sans voir de résultat ? #motivation #histoire #medecine #patience #discipline #pourtoi",
+   "phrases": [
+    [
+     "Pendant treize ans, deux hommes ont répété le même *geste*. Toutes les trois semaines.",
+     1.3
+    ],
+    [
+     "Lille, mille neuf cent huit. La tuberculose tue des milliers de personnes chaque année.",
+     1.2
+    ],
+    [
+     "Albert Calmette est médecin. Camille Guérin est vétérinaire. Ils veulent un vaccin.",
+     1.2
+    ],
+    [
+     "Leur idée : prendre le bacille de la tuberculose des bovins, et l'affaiblir. Très lentement.",
+     1.2
+    ],
+    [
+     "Ils le cultivent sur des pommes de terre cuites dans de la bile de bœuf.",
+     1.4
+    ],
+    [
+     "Puis ils le transfèrent sur une nouvelle culture. Et ils recommencent.",
+     1.2
+    ],
+    [
+     "Toutes les trois semaines. Pendant treize ans.",
+     1.4
+    ],
+    [
+     "La guerre éclate. Lille est occupée. Ils continuent.",
+     1.6
+    ],
+    [
+     "Au total, deux cent trente repiquages. Le même geste, deux cent trente fois.",
+     1.6
+    ],
+    [
+     "En mille neuf cent vingt et un, le bacille est devenu inoffensif. Un premier bébé est vacciné.",
+     1.8
+    ],
+    [
+     "Ce vaccin porte leurs noms : bacille de Calmette et Guérin.",
+     1.6
+    ],
+    [
+     "Depuis, des centaines de millions d'enfants l'ont reçu. Peut-être toi.",
+     1.4
+    ],
+    [
+     "On rêve tous d'un coup de génie. Eux ont surtout eu de la patience.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as un geste à répéter. Sans applaudissements. Sans résultat visible.",
+     1.4
+    ],
+    [
+     "Répète-le. La deux cent trentième fois, tout peut *changer*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

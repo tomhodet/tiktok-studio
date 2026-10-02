@@ -1,0 +1,352 @@
+{
+ "nom": "j140",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j140_grandmere",
+   "perso": "grandmere",
+   "episode": 141,
+   "fin": "Envoie-la à quelqu'un avec qui tu as raté un projet.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Vingt-trois paires de chaussures, gardées quarante ans.",
+   "legende": "Un rêve raté à quarante, ça ne s'oublie pas. Ça se porte encore, quarante ans après. Et toi, quel échec as-tu vécu avec d'autres ? #grandmere #pourtoi #usine #echec #solidarite #emotion",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-quinze, notre usine de chaussures a fermé. Avec les filles, on a voulu la *reprendre*.",
+     1.6
+    ],
+    [
+     "Quarante ouvrières. Pas un patron. Pas un sou. Juste nos machines et nos mains.",
+     1.2
+    ],
+    [
+     "C'est moi qui avais eu l'idée. Et qui avais convaincu les autres d'y mettre leurs économies.",
+     1.2
+    ],
+    [
+     "La première année, on a vendu nos chaussures sur les marchés. On chantait en travaillant.",
+     1.4
+    ],
+    [
+     "La deuxième, les commandes ne sont pas venues. On a fermé un vendredi d'octobre.",
+     1.6
+    ],
+    [
+     "Certaines avaient perdu tout ce qu'elles avaient. À cause de moi.",
+     1.6
+    ],
+    [
+     "Pendant des années, j'ai changé de trottoir quand j'en croisais une.",
+     1.4
+    ],
+    [
+     "Pour mes soixante-quinze ans, ta mère a organisé une fête surprise.",
+     1.4
+    ],
+    [
+     "Elles étaient toutes là. Celles qui restaient. Vingt-trois vieilles dames.",
+     1.6
+    ],
+    [
+     "Chacune portait une paire de chaussures. Nos chaussures. Gardées depuis quarante ans.",
+     1.6
+    ],
+    [
+     "La plus vieille m'a dit : on a perdu de l'argent. On a gagné deux ans de *fierté*.",
+     1.8
+    ],
+    [
+     "J'avais honte d'un échec. Elles, elles gardaient un souvenir.",
+     1.4
+    ],
+    [
+     "Un rêve raté à quarante, ça ne s'oublie pas. Ça se *porte* encore, quarante ans après.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j140_grandpere",
+   "perso": "grandpere",
+   "episode": 142,
+   "fin": "Envoie-la à quelqu'un qui devrait enregistrer ses grands-parents.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Dix ans pour écrire trois lignes.",
+   "legende": "Je n'ai jamais su écrire ma vie. Toi, tu as su l'écouter. Et toi, quelle histoire de tes grands-parents voudrais-tu garder ? #grandpere #pourtoi #souvenirs #transmission #tendresse #emotion",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai essayé d'écrire mes mémoires. J'ai écrit trois *lignes*.",
+     1.4
+    ],
+    [
+     "Je suis né en mille neuf cent quarante-six. Mon père était forgeron. J'avais peur du noir.",
+     1.4
+    ],
+    [
+     "Après ça, plus rien. La page restait blanche. Et moi, je restais devant.",
+     1.4
+    ],
+    [
+     "Ta grand-mère disait : tu racontes très bien au café. Pourquoi pas sur le papier ?",
+     1.4
+    ],
+    [
+     "Au café, personne ne corrige tes fautes.",
+     1.6
+    ],
+    [
+     "J'avais honte de mon écriture. De mes fautes. De ma vie trop ordinaire pour un livre.",
+     1.6
+    ],
+    [
+     "L'été dernier, tu es venu avec ton téléphone. Tu l'as posé sur la table.",
+     1.2
+    ],
+    [
+     "Tu as dit : raconte-moi juste l'histoire du forgeron.",
+     1.6
+    ],
+    [
+     "J'ai parlé une heure. Puis une autre. Tous les dimanches, pendant six mois.",
+     1.4
+    ],
+    [
+     "La grève, la mer, le bal où j'ai rencontré ta grand-mère. Les bêtises aussi.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu m'as offert un livre. Avec mon nom sur la couverture.",
+     1.6
+    ],
+    [
+     "Tu avais tout recopié. Sans corriger une seule de mes *phrases*.",
+     1.8
+    ],
+    [
+     "Je n'ai jamais su écrire ma vie. Toi, tu as su l'écouter.",
+     1.4
+    ],
+    [
+     "Ce n'est pas la plume qui fait un livre. C'est quelqu'un qui *écoute*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j140_pere",
+   "perso": "pere",
+   "episode": 141,
+   "fin": "Envoie-la à quelqu'un qui a raté devant tout le monde.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "J'ai perdu à la première question.",
+   "legende": "Personne ne se souvient longtemps de ta chute. Sauf toi. Et toi, quelle honte est devenue une histoire drôle ? #papa #pere #pourtoi #humour #honte #famille",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-seize, je suis passé dans un jeu télévisé. J'ai perdu à la première *question*.",
+     1.4
+    ],
+    [
+     "Toute la famille était devant le poste. Les voisins aussi.",
+     1.2
+    ],
+    [
+     "Le présentateur m'a demandé dans quel département se trouve une petite ville de France.",
+     1.2
+    ],
+    [
+     "C'était la ville où je suis né.",
+     1.6
+    ],
+    [
+     "J'ai répondu le mauvais numéro. Devant six millions de personnes.",
+     1.6
+    ],
+    [
+     "Le lendemain, quelqu'un avait accroché une carte de France sur mon bureau.",
+     1.4
+    ],
+    [
+     "Pendant des années, à chaque repas de famille, quelqu'un remettait la cassette.",
+     1.2
+    ],
+    [
+     "J'avais honte. Je quittais la pièce.",
+     1.4
+    ],
+    [
+     "Toi, tu es né trois ans plus tard. Et cette cassette, c'est devenu ton film préféré.",
+     1.6
+    ],
+    [
+     "Tu la regardais en boucle. Tu riais aux éclats, à chaque fois, au même moment.",
+     1.4
+    ],
+    [
+     "Un jour, tu m'as dit : papa, tu es le seul père de l'école qui est passé à la télévision.",
+     1.6
+    ],
+    [
+     "Ce que je cachais comme une honte, tu le racontais comme un *exploit*.",
+     1.8
+    ],
+    [
+     "Personne ne se souvient longtemps de ta chute. Sauf toi.",
+     1.4
+    ],
+    [
+     "Et parfois un enfant, qui en fera ta plus belle *histoire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j140_mere",
+   "perso": "mere",
+   "episode": 141,
+   "fin": "Envoie-la à quelqu'un qui travaille la nuit.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je me suis endormie. Et j'ai ronflé.",
+   "legende": "Il y a des fatigues qui sont des preuves d'amour. Les enfants les voient toujours. Et toi, tu voyais la fatigue de tes parents ? #maman #mere #pourtoi #humour #travail #tendresse",
+   "phrases": [
+    [
+     "À ta réunion de parents d'élèves, je me suis endormie. Et j'ai *ronflé*.",
+     1.4
+    ],
+    [
+     "Tu étais en sixième. Je travaillais de nuit, à la blanchisserie de l'hôpital.",
+     1.2
+    ],
+    [
+     "Je sortais d'une nuit de dix heures. Je m'étais assise au fond, sur une petite chaise.",
+     1.2
+    ],
+    [
+     "Ton professeur principal parlait des notes, des sorties, du règlement.",
+     1.2
+    ],
+    [
+     "À un moment, j'ai entendu des rires. C'était moi. Je ronflais.",
+     1.6
+    ],
+    [
+     "Tous les parents se sont retournés. J'ai voulu mourir sur ma petite chaise.",
+     1.4
+    ],
+    [
+     "À la fin, ton professeur est venu me voir. J'allais m'excuser.",
+     1.4
+    ],
+    [
+     "Il m'a dit : ne vous inquiétez pas. Votre fils m'avait prévenu.",
+     1.6
+    ],
+    [
+     "Le matin même, tu étais passé le voir. Tu lui avais dit : ma mère travaille la nuit.",
+     1.6
+    ],
+    [
+     "Si elle s'endort, ne la réveillez pas. Elle est très *fatiguée*.",
+     1.8
+    ],
+    [
+     "Je ne savais pas que tu savais. Que tu voyais mes cernes. Que tu comptais mes nuits.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai eu honte de m'être endormie. Et fière d'avoir un fils pareil.",
+     1.4
+    ],
+    [
+     "Il y a des fatigues qui sont des preuves d'*amour*. Les enfants les voient toujours.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j140_fou",
+   "perso": "fou",
+   "episode": 140,
+   "fin": "Envoie-la à quelqu'un qui reconstruit en ce moment.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Le lendemain matin, c'est réparé.",
+   "legende": "Les barrages ne tiennent pas parce qu'ils ne cassent jamais. Ils tiennent parce que quelqu'un les répare. Et toi, quelle brèche as-tu besoin de réparer ? #motivation #pourtoi #nature #castor #discipline #resilience",
+   "phrases": [
+    [
+     "Ouvre une brèche dans le barrage d'un castor. Le lendemain matin, elle est souvent déjà *réparée*.",
+     1.4
+    ],
+    [
+     "Il construit avec des branches, de la boue et des pierres. Surtout la nuit.",
+     1.2
+    ],
+    [
+     "Si l'eau trouve un passage, il le bouche. Sans attendre, sans se plaindre.",
+     1.4
+    ],
+    [
+     "Des chercheurs ont voulu savoir ce qui le pousse à reconstruire si vite.",
+     1.2
+    ],
+    [
+     "La réponse est étonnante. C'est le bruit de l'eau qui coule.",
+     1.4
+    ],
+    [
+     "Ils ont caché un haut-parleur qui diffusait un bruit de ruisseau.",
+     1.4
+    ],
+    [
+     "Les castors l'ont recouvert de branches et de boue. Alors qu'il n'y avait aucune fuite.",
+     1.6
+    ],
+    [
+     "Le castor ne reconstruit pas parce qu'il est courageux. Il reconstruit parce qu'il entend la *fuite*.",
+     1.8
+    ],
+    [
+     "Toi aussi, ta vie a peut-être une brèche. Un échec, une perte, un projet écroulé.",
+     1.2
+    ],
+    [
+     "Et tu passes tes nuits à te demander pourquoi. À qui la faute. Si c'était juste.",
+     1.4
+    ],
+    [
+     "Le castor, lui, ne se pose pas la question. Il prend une branche.",
+     1.4
+    ],
+    [
+     "Écoute où ça fuit. Et bouche la brèche, une branche à la fois.",
+     1.6
+    ],
+    [
+     "Les barrages ne tiennent pas parce qu'ils ne cassent jamais. Ils tiennent parce que quelqu'un les *répare*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

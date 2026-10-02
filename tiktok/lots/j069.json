@@ -1,0 +1,356 @@
+{
+ "nom": "j069",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j069_grandmere",
+   "perso": "grandmere",
+   "episode": 70,
+   "fin": "Envoie-la à quelqu'un qui te faisait du pain perdu.",
+   "lueurs": [
+    1,
+    12,
+    13
+   ],
+   "accroche": "Mon enfance, à quatorze euros.",
+   "legende": "La recette des pauvres finit toujours sur la carte des riches. Et toi, c'était quoi le plat de ton enfance ? #grandmere #humour #cuisine #souvenirs #argent #pourtoi",
+   "phrases": [
+    [
+     "Le mois dernier, dans un restaurant chic, j'ai trouvé mon enfance sur la carte. À quatorze *euros*.",
+     1.3
+    ],
+    [
+     "Entre deux desserts au nom compliqué, il y avait écrit : pain perdu.",
+     1.2
+    ],
+    [
+     "Quand j'étais petite, chez nous, on ne jetait jamais le pain. Jamais.",
+     1.2
+    ],
+    [
+     "Le pain dur, ma mère le trempait dans du lait, puis dans un œuf battu.",
+     1.2
+    ],
+    [
+     "Un peu de sucre, un fond de poêle. Et le dîner du jeudi était servi.",
+     1.2
+    ],
+    [
+     "On l'appelait pain perdu. Mais justement, chez nous, rien n'était perdu.",
+     1.4
+    ],
+    [
+     "Les enfants des voisins venaient sentir la cuisine. Ils croyaient qu'on était riches.",
+     1.4
+    ],
+    [
+     "Toi, je t'en ai fait tous les mercredis. Tu disais que c'était le meilleur gâteau du monde.",
+     1.4
+    ],
+    [
+     "Au restaurant, le serveur a posé l'assiette. Trois tranches, une feuille de menthe, et un trait de sauce.",
+     1.4
+    ],
+    [
+     "J'ai goûté. C'était bon. Mais moins bon que le mien.",
+     1.6
+    ],
+    [
+     "Et j'ai ri si fort que la table d'à côté s'est retournée.",
+     1.6
+    ],
+    [
+     "La recette des pauvres finit toujours sur la carte des *riches*.",
+     1.8
+    ],
+    [
+     "Alors ne jette jamais rien trop vite. Surtout pas ce qui a l'air *perdu*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j069_grandpere",
+   "perso": "grandpere",
+   "episode": 71,
+   "fin": "Envoie-la à quelqu'un qui te fait rire tous les jours.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Une pièce chaque fois qu'elle me fait rire.",
+   "legende": "Soixante ans à compter ce qu'elle me donnait. Jamais ce que je lui rendais. Et toi, qui te fait rire tous les jours ? #grandpere #amour #couple #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Depuis soixante ans, chaque fois que ta grand-mère me fait rire, je mets une pièce dans une *boîte*.",
+     1.3
+    ],
+    [
+     "Une vieille boîte à sucre en fer, cachée derrière les pots de confiture.",
+     1.2
+    ],
+    [
+     "Des pièces de dix centimes, puis d'un franc, puis d'un euro.",
+     1.2
+    ],
+    [
+     "Elle imite le curé, elle se trompe de mots exprès, elle rit avant la fin de ses blagues.",
+     1.2
+    ],
+    [
+     "Pour nos soixante ans de mariage, au printemps, j'ai vidé la boîte sur la table.",
+     1.4
+    ],
+    [
+     "Il y en avait pour une semaine à la mer. Je lui ai tout raconté.",
+     1.2
+    ],
+    [
+     "Elle a ri, évidemment. J'ai dû remettre une pièce.",
+     1.6
+    ],
+    [
+     "Puis elle a demandé : et la boîte pour moi, elle est où ?",
+     1.4
+    ],
+    [
+     "Soixante ans à compter ce qu'elle me donnait. Jamais ce que je lui *rendais*.",
+     1.8
+    ],
+    [
+     "Depuis, il y a une deuxième boîte sur l'étagère. Pour ses rires à elle.",
+     1.4
+    ],
+    [
+     "Elle est presque vide. Hier, j'ai enfin réussi à mettre une pièce.",
+     1.4
+    ],
+    [
+     "Compte toujours ce qu'on te donne. Mais garde une boîte pour ce que tu rends.",
+     1.4
+    ],
+    [
+     "J'ai quatre-vingts ans, et je n'ai jamais travaillé aussi *dur*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j069_pere",
+   "perso": "pere",
+   "episode": 70,
+   "fin": "Envoie-la à quelqu'un qui t'a appris à être honnête.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Elle m'a rendu cinquante euros de trop.",
+   "legende": "Je ne l'ai pas rendu parce que je suis honnête. Je l'ai rendu parce que tu regardais. Et toi, tu aurais rendu l'argent ? #papa #pere #honnetete #argent #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Un jour, la boulangère m'a rendu cinquante euros de *trop*.",
+     1.3
+    ],
+    [
+     "J'avais payé avec un billet de vingt. Elle a cru que c'était un billet de cent.",
+     1.2
+    ],
+    [
+     "C'était la fin du mois. Le frigo était presque vide. Je suis remonté dans la voiture.",
+     1.2
+    ],
+    [
+     "Cinquante euros, c'était une semaine de courses. Personne ne l'aurait jamais su.",
+     1.2
+    ],
+    [
+     "J'ai mis le contact. Et puis j'ai regardé dans le rétroviseur.",
+     1.4
+    ],
+    [
+     "Tu étais assis à l'arrière, avec ta baguette. Tu avais sept ans. Tu me regardais.",
+     1.4
+    ],
+    [
+     "Tu n'avais rien vu de l'erreur. Mais tu me regardais.",
+     1.6
+    ],
+    [
+     "J'ai coupé le moteur. Je suis retourné dans la boutique.",
+     1.2
+    ],
+    [
+     "La boulangère avait les yeux rouges. Elle venait de compter sa caisse. Il lui manquait cinquante euros.",
+     1.4
+    ],
+    [
+     "Elle m'a dit qu'elle aurait dû les rembourser de sa paie.",
+     1.4
+    ],
+    [
+     "Je ne l'ai pas fait parce que je suis honnête. Je l'ai fait parce que tu *regardais*.",
+     1.8
+    ],
+    [
+     "Tu crois que je t'ai appris l'honnêteté. C'est toi qui me l'as apprise, depuis la banquette arrière.",
+     1.6
+    ],
+    [
+     "Un jour, quelqu'un te regardera dans le rétroviseur. Fais en sorte qu'il voie quelqu'un de *bien*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j069_mere",
+   "perso": "mere",
+   "episode": 70,
+   "fin": "Envoie-la à quelqu'un qui s'occupait des prix pour toi.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ta lettre au Père Noël avait les prix.",
+   "legende": "Les enfants ne nous écoutent pas. Ils nous copient. Et toi, qu'est-ce que tu as copié chez tes parents ? #maman #mere #noel #enfance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Il y a vingt ans, tu as écrit ta lettre au Père Noël avec les *prix*.",
+     1.3
+    ],
+    [
+     "Tu les avais recopiés du catalogue, au crayon, à côté de chaque jouet.",
+     1.2
+    ],
+    [
+     "Le vélo rouge. Le château fort. La boîte de feutres.",
+     1.2
+    ],
+    [
+     "Le vélo et le château étaient barrés. À côté, tu avais écrit : pas grave.",
+     1.4
+    ],
+    [
+     "Et en bas : le Père Noël a beaucoup d'enfants, il ne faut pas exagérer.",
+     1.6
+    ],
+    [
+     "Tu avais six ans. Tu savais déjà lire les prix.",
+     1.6
+    ],
+    [
+     "Cette année-là, on comptait chaque euro. Je croyais que tu n'avais rien remarqué.",
+     1.2
+    ],
+    [
+     "Mais tous les soirs, tu m'entendais dire : c'est trop cher. Tu avais bien appris.",
+     1.6
+    ],
+    [
+     "J'ai pleuré dans la salle de bains, ta lettre à la main.",
+     1.4
+    ],
+    [
+     "Le soir de Noël, il y avait les feutres. Et un mot du Père Noël.",
+     1.4
+    ],
+    [
+     "Ne barre jamais tes rêves pour moi. Je m'occupe des prix. Toi, tu rêves.",
+     1.8
+    ],
+    [
+     "Le vélo est arrivé à Pâques. D'occasion, repeint en rouge par ton père.",
+     1.4
+    ],
+    [
+     "Les enfants ne nous écoutent pas. Ils nous *copient*.",
+     1.4
+    ],
+    [
+     "Alors devant les tiens, parle moins des prix. Et beaucoup plus des *rêves*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j069_fou",
+   "perso": "fou",
+   "episode": 69,
+   "fin": "Envoie-la à quelqu'un dont on se moque du projet.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Ils la trouvaient inutile et monstrueuse.",
+   "legende": "Ceux qui se moquent de ton projet ne changeront pas d'avis grâce à tes discours. Rends-le utile. Et toi, quel projet fait sourire autour de toi ? #motivation #histoirevraie #paris #perseverance #critique #pourtoi",
+   "phrases": [
+    [
+     "En mille huit cent quatre-vingt-sept, les plus grands artistes de France signent une lettre contre un *projet*.",
+     1.3
+    ],
+    [
+     "Des écrivains, des peintres, des architectes. Même Guy de Maupassant.",
+     1.2
+    ],
+    [
+     "Ils parlent d'une tour inutile et monstrueuse.",
+     1.2
+    ],
+    [
+     "Elle doit mesurer trois cents mètres, tout en fer. Pour eux, elle va enlaidir Paris.",
+     1.4
+    ],
+    [
+     "L'ingénieur répond calmement. Et il continue de construire.",
+     1.4
+    ],
+    [
+     "Deux ans plus tard, la tour est debout. À temps pour l'Exposition universelle.",
+     1.4
+    ],
+    [
+     "Mais elle n'a le droit de rester que vingt ans. Après, on pourra la démonter.",
+     1.6
+    ],
+    [
+     "Alors il la rend utile. Des expériences sur le vent, sur la météo.",
+     1.2
+    ],
+    [
+     "Et surtout, il y installe une antenne de radio.",
+     1.2
+    ],
+    [
+     "Pour l'armée, la tour devient précieuse. On ne la démonte plus.",
+     1.4
+    ],
+    [
+     "Pendant plus de quarante ans, elle sera la plus haute construction du *monde*.",
+     1.6
+    ],
+    [
+     "Cet homme s'appelait Gustave Eiffel. La tour porte son nom.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, des millions de gens viennent photographier ce qu'on trouvait si laid.",
+     1.4
+    ],
+    [
+     "Ceux qui se moquent de ton projet ne changeront pas d'avis grâce à tes discours.",
+     1.4
+    ],
+    [
+     "Rends-le utile. Ils finiront par venir le prendre en *photo*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

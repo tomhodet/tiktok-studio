@@ -1,0 +1,364 @@
+{
+ "nom": "j142",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j142_grandmere",
+   "perso": "grandmere",
+   "episode": 143,
+   "fin": "Envoie-la à quelqu'un qui porte un prénom avec une histoire.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Le deuxième prénom de ton père.",
+   "legende": "Chaque fois que ton père signe un papier officiel, elle signe avec lui. Et toi, d'où vient ton deuxième prénom ? #grandmere #naissance #gentillesse #famille #prenom #pourtoi",
+   "phrases": [
+    [
+     "Le deuxième prénom de ton père, c'est celui d'une *inconnue*.",
+     1.3
+    ],
+    [
+     "Il croit qu'on l'a pris dans un calendrier. Je ne lui ai jamais dit la vérité.",
+     1.2
+    ],
+    [
+     "Il est né une nuit de neige, en mille neuf cent soixante-dix. Tout allait mal.",
+     1.2
+    ],
+    [
+     "Le médecin n'arrivait pas. La route était bloquée.",
+     1.2
+    ],
+    [
+     "Il y avait juste une sage-femme. Une petite dame aux mains rouges, qui finissait sa garde.",
+     1.4
+    ],
+    [
+     "Elle aurait dû rentrer chez elle à minuit. Elle est restée jusqu'au matin.",
+     1.4
+    ],
+    [
+     "Elle me répétait : regardez-moi, pas la porte. Regardez-moi.",
+     1.6
+    ],
+    [
+     "À six heures, ton père a crié. Elle a pleuré avant moi.",
+     1.6
+    ],
+    [
+     "Je lui ai demandé son prénom. Elle a dit : Claude.",
+     1.4
+    ],
+    [
+     "Alors ton père s'appelle Jean. Et Claude, juste derrière, pour qu'elle ne parte jamais.",
+     1.6
+    ],
+    [
+     "Je ne l'ai jamais revue. Je n'ai jamais su son nom de famille.",
+     1.4
+    ],
+    [
+     "Mais chaque fois que ton père signe un papier officiel, elle *signe* avec lui.",
+     1.6
+    ],
+    [
+     "Quand quelqu'un te sauve, retiens au moins son prénom.",
+     1.2
+    ],
+    [
+     "Les gens comme elle ne laissent jamais de nom. Il faut leur en garder *un*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j142_grandpere",
+   "perso": "grandpere",
+   "episode": 144,
+   "fin": "Envoie-la à un collègue dont tu ne connais pas le prénom.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il a mis deux secondes à me porter.",
+   "legende": "J'ai mis deux ans à lui dire bonjour. Il a mis deux secondes à me porter. Tu connais le prénom de tous tes collègues, toi ? #grandpere #usine #gentillesse #prejuges #amitie #pourtoi",
+   "phrases": [
+    [
+     "Pendant deux ans, je n'ai jamais dit *bonjour* à mon voisin de machine.",
+     1.3
+    ],
+    [
+     "Il venait du Portugal. Il parlait mal le français. Il souriait tout le temps.",
+     1.2
+    ],
+    [
+     "À l'usine, on l'appelait Jo. Personne ne connaissait son vrai prénom. Moi non plus.",
+     1.2
+    ],
+    [
+     "Je n'avais rien contre lui. Je ne le voyais pas, c'est tout.",
+     1.4
+    ],
+    [
+     "Un matin de mille neuf cent soixante-dix, une barre d'acier m'est tombée sur la jambe.",
+     1.4
+    ],
+    [
+     "Je hurlais. Les autres regardaient, figés.",
+     1.4
+    ],
+    [
+     "Lui a soulevé la barre. Il m'a chargé sur son dos. Et il a *couru* jusqu'à l'infirmerie.",
+     1.6
+    ],
+    [
+     "Quatre cents mètres, avec quatre-vingts kilos sur le dos.",
+     1.4
+    ],
+    [
+     "Pendant mon mois d'hôpital, il est venu tous les soirs. Avec des gâteaux de sa femme.",
+     1.4
+    ],
+    [
+     "Un soir, j'ai enfin demandé son prénom. Il a dit : Joaquim.",
+     1.6
+    ],
+    [
+     "Il a ajouté en riant : tu es le premier à demander.",
+     1.8
+    ],
+    [
+     "Il est mort l'an dernier. J'ai porté son cercueil. C'était mon tour.",
+     1.6
+    ],
+    [
+     "Apprends le prénom des gens. N'attends pas d'avoir besoin d'eux.",
+     1.4
+    ],
+    [
+     "J'ai mis deux ans à lui dire bonjour. Lui a mis deux secondes à me *porter*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j142_pere",
+   "perso": "pere",
+   "episode": 143,
+   "fin": "Envoie-la à quelqu'un qui juge un peu trop vite.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai verrouillé les portières.",
+   "legende": "Il a vu. Il n'a rien dit. Il est allé chercher son cric. Tu t'es déjà trompé sur quelqu'un, toi ? #papa #pere #prejuges #gentillesse #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Le jour où un inconnu nous a sauvés sur l'autoroute, j'ai *verrouillé* les portières.",
+     1.3
+    ],
+    [
+     "Tu avais quatre ans. Tu dormais à l'arrière. Il pleuvait à verse.",
+     1.2
+    ],
+    [
+     "Un pneu a éclaté. Je me suis arrêté sur la bande d'arrêt d'urgence.",
+     1.2
+    ],
+    [
+     "Le cric était cassé. Les camions passaient à un mètre. La voiture tremblait.",
+     1.4
+    ],
+    [
+     "Pendant vingt minutes, personne ne s'est arrêté. Pas une voiture.",
+     1.2
+    ],
+    [
+     "Puis une vieille camionnette s'est garée derrière nous.",
+     1.2
+    ],
+    [
+     "Un grand type est descendu. Tatoué jusqu'au cou. Un anneau dans le nez.",
+     1.4
+    ],
+    [
+     "Quand il s'est approché, j'ai appuyé sur le bouton. Clac. Les quatre portières.",
+     1.6
+    ],
+    [
+     "Il a vu. Il n'a rien dit. Il est allé chercher son *cric*.",
+     1.6
+    ],
+    [
+     "Il a changé la roue sous la pluie. Il a refusé mon argent.",
+     1.4
+    ],
+    [
+     "Il a juste dit : vous auriez fait pareil.",
+     1.8
+    ],
+    [
+     "Non. Moi, je ne m'étais jamais arrêté pour personne. Jamais.",
+     1.6
+    ],
+    [
+     "Depuis, je m'arrête. Toujours. Et je n'ai plus jamais touché à ce bouton.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai verrouillé mes portières. C'est mon cœur qui était *fermé*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j142_mere",
+   "perso": "mere",
+   "episode": 143,
+   "fin": "Envoie-la à une jeune maman qui ne dort plus.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une fille de quinze ans m'a sauvée.",
+   "legende": "Trois heures de sommeil, ça ne se rembourse pas. Ça se rend. Qui t'a aidé quand tu n'en pouvais plus ? #maman #mere #gentillesse #bebe #entraide #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais deux ans, une fille de quinze ans m'a *sauvée*. Elle ne l'a jamais su.",
+     1.3
+    ],
+    [
+     "La fille des voisins du dessous. Des bagues partout, un casque sur les oreilles.",
+     1.2
+    ],
+    [
+     "Je ne dormais plus. Tu te réveillais six fois par nuit.",
+     1.4
+    ],
+    [
+     "Un mercredi, dans l'escalier, j'ai fondu en larmes devant elle. Avec toi dans les bras.",
+     1.4
+    ],
+    [
+     "Elle t'a pris. Elle a dit : allez dormir. Je le garde jusqu'à six heures.",
+     1.6
+    ],
+    [
+     "Je n'avais pas de quoi la payer.",
+     1.2
+    ],
+    [
+     "Elle a haussé les épaules : je révise mieux avec un bébé qui crie.",
+     1.4
+    ],
+    [
+     "Pendant un an, chaque mercredi, j'ai dormi trois heures. Le paradis.",
+     1.4
+    ],
+    [
+     "Elle a eu son bac. Elle a déménagé. On s'est perdues de vue.",
+     1.2
+    ],
+    [
+     "Il y a deux ans, je l'ai croisée au marché. Une poussette, et des cernes jusqu'au menton.",
+     1.6
+    ],
+    [
+     "Je n'ai pas réfléchi. J'ai dit : donne-la-moi. Va *dormir*.",
+     1.8
+    ],
+    [
+     "Depuis, tous les mercredis, je garde sa fille. Elle proteste à chaque fois.",
+     1.4
+    ],
+    [
+     "Je lui réponds que je révise mieux avec un bébé qui crie.",
+     1.6
+    ],
+    [
+     "Trois heures de sommeil, ça ne se rembourse pas. Ça se *rend*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j142_fou",
+   "perso": "fou",
+   "episode": 142,
+   "fin": "Envoie-la à quelqu'un dont un conseil t'a sauvé.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une jeune fille tombe du ciel.",
+   "legende": "Une rivière mène aux hommes. Une leçon de son père lui a sauvé la vie. Quel conseil de tes parents t'a sauvé, toi ? #motivation #survie #amazonie #histoirevraie #pere #pourtoi",
+   "phrases": [
+    [
+     "Le vingt-quatre décembre mille neuf cent soixante et onze, une jeune fille *tombe* du ciel.",
+     1.3
+    ],
+    [
+     "Elle a dix-sept ans. Son avion vient d'être frappé par la foudre, au-dessus de l'Amazonie.",
+     1.2
+    ],
+    [
+     "Elle tombe de plusieurs kilomètres, encore attachée à son siège.",
+     1.4
+    ],
+    [
+     "Elle se réveille au milieu de la jungle. Seule. La clavicule cassée.",
+     1.4
+    ],
+    [
+     "Autour d'elle, des arbres immenses. Et personne.",
+     1.4
+    ],
+    [
+     "Elle s'appelle Juliane Koepcke. Ses parents sont biologistes. Elle a vécu dans cette forêt avec eux.",
+     1.2
+    ],
+    [
+     "Et son père lui a appris une chose. Si tu te perds, trouve de l'eau. Et suis-la.",
+     1.6
+    ],
+    [
+     "Un ruisseau mène à une rivière. Une rivière mène aux hommes.",
+     1.4
+    ],
+    [
+     "Alors elle marche dans l'eau. Elle nage. Elle avance. Jour après jour.",
+     1.4
+    ],
+    [
+     "Enfin, elle trouve une cabane au bord de la rivière. Elle s'allonge, et elle attend.",
+     1.4
+    ],
+    [
+     "Le lendemain, des bûcherons la découvrent. Elle est la seule *survivante* de l'avion.",
+     1.8
+    ],
+    [
+     "Une simple leçon de son père lui a sauvé la vie.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as reçu des leçons. Des phrases qui t'agaçaient, que tu écoutais à moitié.",
+     1.2
+    ],
+    [
+     "Garde-les. Un jour, tu seras perdu. Et tu sauras quoi *suivre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

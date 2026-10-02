@@ -1,0 +1,368 @@
+{
+ "nom": "j035",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j035_grandmere",
+   "perso": "grandmere",
+   "episode": 36,
+   "fin": "Envoie-la à une patronne qui laisse partir les mamans.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Elle avait six ans. Elle voulait être patronne.",
+   "legende": "Les enfants regardent tout. Surtout ce qu'on croit qu'ils ne voient pas. Et toi, qu'est-ce que tu as vu à la porte du travail de tes parents ? #grandmere #travail #maman #usine #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Ta mère avait six ans quand elle a dit au patron de l'usine qu'elle prendrait sa *place*.",
+     1.3
+    ],
+    [
+     "Je finissais à dix-huit heures. Elle m'attendait devant la grille, avec la voisine.",
+     1.2
+    ],
+    [
+     "Elle voyait sortir des femmes grises de fatigue. Moi la première.",
+     1.4
+    ],
+    [
+     "Un soir, le patron est sorti en même temps que nous.",
+     1.2
+    ],
+    [
+     "Il a demandé à ta mère ce qu'elle voulait faire plus tard.",
+     1.4
+    ],
+    [
+     "Elle a répondu : patronne. Comme ça, je laisserai sortir les mamans à quatre heures.",
+     1.8
+    ],
+    [
+     "Tout le monde a ri. Moi, je voulais disparaître sous les pavés.",
+     1.4
+    ],
+    [
+     "Ta mère a grandi. Elle a fait des études. Elle a monté son entreprise.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, elle a quarante employés. Beaucoup de mamans.",
+     1.4
+    ],
+    [
+     "L'an dernier, je suis passée à son bureau. À seize heures, les mères partaient chercher leurs enfants.",
+     1.6
+    ],
+    [
+     "Je lui ai demandé pourquoi. Elle m'a regardée comme si j'étais bête.",
+     1.6
+    ],
+    [
+     "Elle m'a dit : je l'avais *promis* à ton patron.",
+     1.8
+    ],
+    [
+     "Les enfants regardent tout. Surtout ce qu'on croit qu'ils ne voient pas.",
+     1.4
+    ],
+    [
+     "Ce qu'ils voient à la porte de ton travail, un jour, ils le *changeront*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j035_grandpere",
+   "perso": "grandpere",
+   "episode": 37,
+   "fin": "Envoie-la à quelqu'un qui t'aime même en tenue de travail.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Elle ne m'a pas reconnu propre.",
+   "legende": "Méfie-toi de ceux qui ne t'aiment que bien habillé. Le dimanche, tout le monde est beau. Et toi, qui t'aime même les jours de semaine ? #grandpere #amour #travail #humour #couple #pourtoi",
+   "phrases": [
+    [
+     "La première fois que ta grand-mère m'a vu *propre*, elle ne m'a pas reconnu.",
+     1.3
+    ],
+    [
+     "J'avais dix-huit ans. J'étais ramoneur. Noir de suie, des cheveux jusqu'aux chaussures.",
+     1.2
+    ],
+    [
+     "Un matin d'octobre, j'ai ramoné la cheminée de ses parents. Elle m'a apporté un verre d'eau.",
+     1.4
+    ],
+    [
+     "On a parlé une heure, moi sur l'échelle, elle en bas. Elle riait de mes blagues.",
+     1.4
+    ],
+    [
+     "Le dimanche suivant, à la sortie de la messe, je l'ai attendue.",
+     1.4
+    ],
+    [
+     "Rasé, lavé, peigné, dans le costume de mon frère. Elle est passée devant moi sans me voir.",
+     1.6
+    ],
+    [
+     "Je l'ai appelée. Elle m'a regardé poliment. Comme un inconnu.",
+     1.6
+    ],
+    [
+     "Alors j'ai couru jusqu'à ma bicyclette. J'ai frotté mon nez avec mon chiffon plein de suie.",
+     1.6
+    ],
+    [
+     "Je suis revenu. Elle a éclaté de rire. Elle m'avait *reconnu*.",
+     1.8
+    ],
+    [
+     "Ça fait soixante ans. Elle dit encore que j'étais plus beau sale.",
+     1.4
+    ],
+    [
+     "Elle n'est pas tombée amoureuse du garçon du dimanche. Elle est tombée amoureuse de celui de l'échelle.",
+     1.4
+    ],
+    [
+     "Méfie-toi de ceux qui ne t'aiment que bien habillé.",
+     1.4
+    ],
+    [
+     "Le dimanche, tout le monde est beau.",
+     1.2
+    ],
+    [
+     "Trouve quelqu'un qui t'aime en *semaine*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j035_pere",
+   "perso": "pere",
+   "episode": 36,
+   "fin": "Envoie-la à quelqu'un qui apprend tout la veille.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai passé la nuit à faire des nœuds.",
+   "legende": "Les pères n'ont pas toutes les réponses. Ils font semblant, et ils apprennent en cachette. Qui t'a appris à faire ton nœud de cravate, toi ? #papa #pere #premieremploi #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "La veille de ton premier entretien d'embauche, j'ai passé la nuit à faire des nœuds de *cravate*.",
+     1.3
+    ],
+    [
+     "Tu m'avais demandé de t'apprendre le nœud. J'ai dit : bien sûr.",
+     1.2
+    ],
+    [
+     "Je ne savais pas. Trente ans d'atelier. Je n'avais jamais porté de cravate de ma vie.",
+     1.6
+    ],
+    [
+     "Même à mon mariage, c'est ton grand-père qui me l'avait nouée.",
+     1.4
+    ],
+    [
+     "Cette nuit-là, je me suis entraîné au garage, sur le pied d'une lampe.",
+     1.4
+    ],
+    [
+     "J'ai regardé des vidéos jusqu'à trois heures du matin. Quarante essais.",
+     1.4
+    ],
+    [
+     "Ta mère est descendue. Elle m'a trouvé en train de parler à une lampe.",
+     1.6
+    ],
+    [
+     "Le lendemain matin, je t'ai fait le nœud en trois secondes. Sans réfléchir.",
+     1.6
+    ],
+    [
+     "Tu as dit : tu fais ça depuis toujours, toi.",
+     1.4
+    ],
+    [
+     "J'ai répondu : depuis *toujours*.",
+     1.8
+    ],
+    [
+     "Tu as eu le poste. Tu portes encore ce nœud-là, je l'ai vu sur tes photos.",
+     1.4
+    ],
+    [
+     "Les pères n'ont pas toutes les réponses. Ils font semblant, et ils apprennent en cachette.",
+     1.4
+    ],
+    [
+     "Le jour où tu seras parent, tu verras. On ne sait presque rien. On apprend la veille.",
+     1.4
+    ],
+    [
+     "Mais ne le dis pas à tes enfants. Laisse-les croire que tu sais *tout*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j035_mere",
+   "perso": "mere",
+   "episode": 36,
+   "fin": "Envoie-la à quelqu'un que tu connais depuis l'école.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai refait le plan de classe.",
+   "legende": "On croit connaître ses enfants. On ne connaît que celui qui rentre à la maison. Et toi, qui est ton plus vieil ami ? #maman #mere #ecole #amitie #tendresse #pourtoi",
+   "phrases": [
+    [
+     "L'année où j'ai été ta maîtresse, j'ai découvert un enfant que je ne connaissais pas. *Toi*.",
+     1.3
+    ],
+    [
+     "Il n'y avait qu'une école dans le village. Tu es tombé dans ma classe.",
+     1.2
+    ],
+    [
+     "À la maison, tu parlais sans arrêt. Tu chantais, tu racontais, tu imitais tout le monde.",
+     1.2
+    ],
+    [
+     "En classe, tu ne disais pas un mot.",
+     1.4
+    ],
+    [
+     "À la récréation, tu restais contre le mur, à regarder les autres jouer.",
+     1.6
+    ],
+    [
+     "Le soir, je te demandais : ça va, l'école ? Tu répondais : super, maman.",
+     1.6
+    ],
+    [
+     "Je n'avais pas le droit d'être ta mère dans la cour. Alors j'ai été une maîtresse rusée.",
+     1.4
+    ],
+    [
+     "Théo était le plus gentil de l'école. Celui qui partageait toujours son goûter.",
+     1.4
+    ],
+    [
+     "J'ai refait le *plan* de classe. Je l'ai mis à côté de toi.",
+     1.6
+    ],
+    [
+     "Trois semaines plus tard, vous étiez inséparables. Tu levais même la main.",
+     1.4
+    ],
+    [
+     "Trente ans après, Théo a été ton témoin de mariage.",
+     1.6
+    ],
+    [
+     "Il ne sait toujours pas que c'est la maîtresse qui l'avait placé là.",
+     1.6
+    ],
+    [
+     "On croit connaître ses enfants. On ne connaît que celui qui rentre à la maison.",
+     1.4
+    ],
+    [
+     "Ton meilleur ami, c'est mon plus beau plan de *classe*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j035_fou",
+   "perso": "fou",
+   "episode": 35,
+   "fin": "Envoie-la à quelqu'un qui porte le rêve de ses grands-parents.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Jamais un seul jour en maillot jaune.",
+   "legende": "Le maillot que le grand-père n'a jamais porté, le petit-fils l'a sur les épaules. Quel rêve de tes grands-parents aimerais-tu réaliser ? #motivation #cyclisme #tourdefrance #poulidor #famille #pourtoi",
+   "phrases": [
+    [
+     "Huit fois sur le podium du Tour de France. Et pas un seul jour en maillot *jaune*.",
+     1.3
+    ],
+    [
+     "Trois fois deuxième. Cinq fois troisième. Pendant quatorze ans.",
+     1.2
+    ],
+    [
+     "Il s'appelle Raymond Poulidor. Toute la France l'appelle Poupou.",
+     1.4
+    ],
+    [
+     "On le surnomme l'éternel second. Il y a toujours quelqu'un pour passer devant.",
+     1.4
+    ],
+    [
+     "Le public l'adore pourtant. Plus que ceux qui le battent.",
+     1.4
+    ],
+    [
+     "Il arrête sa carrière sans avoir jamais porté le maillot jaune. Pas une seule journée.",
+     1.4
+    ],
+    [
+     "En deux mille dix-neuf, il meurt, à quatre-vingt-trois ans.",
+     1.6
+    ],
+    [
+     "Moins de deux ans plus tard, le Tour part de Bretagne.",
+     1.4
+    ],
+    [
+     "Au deuxième jour, un jeune coureur attaque dans une côte terrible, et gagne seul.",
+     1.4
+    ],
+    [
+     "Sur le podium, on lui passe le maillot jaune.",
+     1.6
+    ],
+    [
+     "Il s'appelle Mathieu van der Poel. C'est le *petit-fils* de Raymond Poulidor.",
+     1.8
+    ],
+    [
+     "Le maillot que le grand-père n'a jamais porté, le petit-fils l'a sur les épaules.",
+     1.6
+    ],
+    [
+     "Quelque part, il y a un rêve que tes anciens n'ont pas pu vivre.",
+     1.4
+    ],
+    [
+     "Tu le portes peut-être sans le savoir. Va le chercher. Pour eux aussi.",
+     1.2
+    ],
+    [
+     "Certains maillots se gagnent en deux *générations*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

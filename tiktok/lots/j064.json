@@ -1,0 +1,364 @@
+{
+ "nom": "j064",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j064_grandmere",
+   "perso": "grandmere",
+   "episode": 65,
+   "fin": "Envoie-la à quelqu'un qui t'aime sans le dire.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il m'a offert une machine à laver.",
+   "legende": "Certains hommes écrivent des poèmes. Le mien a porté une machine à laver sur trois étages. Et toi, qui te dit je t'aime sans jamais le dire ? #grandmere #amour #couple #souvenirs #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ton grand-père ne m'a jamais dit je t'aime. Il m'a offert une machine à *laver*.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-neuf. Ton père avait un an, et des couches en tissu.",
+     1.2
+    ],
+    [
+     "Tous les matins, je descendais au lavoir avec ma bassine. Même en janvier.",
+     1.2
+    ],
+    [
+     "L'eau était si froide que mes mains devenaient violettes.",
+     1.2
+    ],
+    [
+     "Un soir, ton grand-père les a prises dans les siennes. Il n'a rien dit.",
+     1.4
+    ],
+    [
+     "Pendant un an, il est parti travailler le dimanche. Il disait qu'on avait besoin de lui à l'usine.",
+     1.2
+    ],
+    [
+     "Je croyais qu'il me fuyait. J'ai même cru qu'il avait une autre femme.",
+     1.4
+    ],
+    [
+     "Un samedi, une camionnette s'est arrêtée devant notre immeuble.",
+     1.2
+    ],
+    [
+     "Il a monté la machine sur son dos. Trois étages, sans ascenseur.",
+     1.6
+    ],
+    [
+     "En haut, il a juste soufflé : voilà, tes mains ne retourneront plus au lavoir.",
+     1.8
+    ],
+    [
+     "Il l'avait payée comptant. Cinquante-deux *dimanches*.",
+     1.6
+    ],
+    [
+     "Certains hommes écrivent des poèmes. Le mien a porté une machine à laver sur trois étages.",
+     1.4
+    ],
+    [
+     "Alors ne juge jamais l'amour à ce qu'on te dit.",
+     1.2
+    ],
+    [
+     "Regarde ce qu'on porte pour toi. Et sur combien d'*étages*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j064_grandpere",
+   "perso": "grandpere",
+   "episode": 66,
+   "fin": "Envoie-la à quelqu'un qui joue mieux que toi.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai perdu notre vache aux cartes.",
+   "legende": "À minuit, j'avais misé la vache. À trois heures, ta grand-mère l'a ramenée. Chez toi, qui gagne toujours aux cartes ? #grandpere #humour #couple #souvenirs #famille #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, j'ai perdu notre *vache* aux cartes.",
+     1.3
+    ],
+    [
+     "Un dimanche soir, au café du village. Une partie de belote qui a mal tourné.",
+     1.2
+    ],
+    [
+     "Le père Raymond gagnait tout. Moi, je doublais la mise à chaque partie.",
+     1.2
+    ],
+    [
+     "À minuit, je n'avais plus un sou. Alors j'ai misé la Blanchette.",
+     1.4
+    ],
+    [
+     "Je suis rentré à pied. Sans argent, sans vache, et sans courage pour ouvrir la porte.",
+     1.4
+    ],
+    [
+     "Ta grand-mère m'attendait dans la cuisine. Elle a tout compris rien qu'à ma tête.",
+     1.2
+    ],
+    [
+     "Elle n'a pas crié. Elle a mis son manteau.",
+     1.6
+    ],
+    [
+     "Elle a dit : garde la maison. Je vais chercher notre vache.",
+     1.2
+    ],
+    [
+     "À trois heures du matin, elle est revenue. Avec la Blanchette au bout d'une corde.",
+     1.6
+    ],
+    [
+     "Et avec la *casquette* du père Raymond.",
+     1.8
+    ],
+    [
+     "Personne au village ne savait qu'elle jouait aux cartes. Moi non plus.",
+     1.4
+    ],
+    [
+     "Son père lui avait tout appris. Elle refusait de jouer contre moi, pour ne pas m'humilier.",
+     1.4
+    ],
+    [
+     "Ne mise jamais ce que tu ne peux pas perdre.",
+     1.2
+    ],
+    [
+     "Ou alors, épouse quelqu'un qui joue mieux que *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j064_pere",
+   "perso": "pere",
+   "episode": 65,
+   "fin": "Envoie-la à quelqu'un qui t'a invité avec sa première paie.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai lu les menus de droite à gauche.",
+   "legende": "Pour la première fois depuis ta naissance, j'ai lu un menu de gauche à droite. Et toi, tu regardes d'abord les plats ou les prix ? #papa #pere #premierepaie #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "Toute ma vie, j'ai lu les menus de droite à *gauche*.",
+     1.3
+    ],
+    [
+     "D'abord les prix. Ensuite seulement, les plats.",
+     1.2
+    ],
+    [
+     "Au restaurant, ta mère et moi, on prenait le moins cher. Et on disait qu'on n'avait pas très faim.",
+     1.2
+    ],
+    [
+     "Le mois dernier, tu as reçu ta première paie. Tu m'as invité à dîner.",
+     1.2
+    ],
+    [
+     "Un vrai restaurant, avec des nappes blanches et des serveurs en noir.",
+     1.2
+    ],
+    [
+     "J'ai ouvert la carte. Mes yeux sont partis à droite, comme toujours.",
+     1.2
+    ],
+    [
+     "J'ai commandé l'omelette. La moins chère.",
+     1.4
+    ],
+    [
+     "Tu m'as pris la carte des mains. Tu as dit : papa, ce soir, c'est moi.",
+     1.6
+    ],
+    [
+     "Tu as posé ta main sur la colonne des prix. Et tu l'as laissée là.",
+     1.8
+    ],
+    [
+     "Alors, pour la première fois depuis ta naissance, j'ai lu un menu de gauche à droite.",
+     1.6
+    ],
+    [
+     "J'ai pris ce qui me faisait envie. Rien d'autre.",
+     1.4
+    ],
+    [
+     "Je ne me souviens plus du goût. Seulement de ta main posée sur les *prix*.",
+     1.6
+    ],
+    [
+     "Toute ma vie, j'ai travaillé pour une seule chose.",
+     1.2
+    ],
+    [
+     "Que mes enfants lisent les menus dans le bon *sens*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j064_mere",
+   "perso": "mere",
+   "episode": 65,
+   "fin": "Envoie-la à quelqu'un qui a toujours cru à la petite souris.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "La petite souris a fait faillite.",
+   "legende": "Tu avais six ans. Tu venais de prêter de l'argent à une souris ruinée. Et toi, combien elle t'apportait, la petite souris ? #maman #mere #enfance #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "En deux mille six, la petite *souris* a fait faillite.",
+     1.3
+    ],
+    [
+     "Tu perdais tes dents de lait à toute vitesse. Trois en un mois.",
+     1.2
+    ],
+    [
+     "Et ce mois-là, il ne nous restait plus rien. Pas même une pièce d'un euro.",
+     1.4
+    ],
+    [
+     "Le soir de ta troisième dent, j'ai fouillé tous mes sacs. Rien.",
+     1.4
+    ],
+    [
+     "Alors j'ai glissé un mot sous ton oreiller, en écrivant tout petit.",
+     1.2
+    ],
+    [
+     "Désolée, cette nuit, j'ai eu trop de dents à ramasser. Je repasse bientôt. Signé : la souris.",
+     1.6
+    ],
+    [
+     "Le matin, tu as lu le mot. Tu n'as rien dit.",
+     1.2
+    ],
+    [
+     "Le soir, sous ton oreiller, il y avait une réponse. Et une pièce de deux euros.",
+     1.6
+    ],
+    [
+     "La seule que tu avais. Celle de ta tirelire.",
+     1.2
+    ],
+    [
+     "Tu avais écrit : pour la souris, parce qu'elle a l'air *fatiguée*.",
+     1.8
+    ],
+    [
+     "Ce soir-là, je me suis assise dans le couloir. Et j'ai pleuré sans bruit.",
+     1.6
+    ],
+    [
+     "Tu avais six ans. Tu venais de prêter de l'argent à une souris ruinée.",
+     1.4
+    ],
+    [
+     "Je ne sais pas tout ce que tu feras de ta vie.",
+     1.2
+    ],
+    [
+     "Mais je sais que tu aideras toujours ceux qui ont l'air *fatigués*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j064_fou",
+   "perso": "fou",
+   "episode": 64,
+   "fin": "Envoie-la à quelqu'un qui doit tout recommencer.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Il a tout perdu en une réunion.",
+   "legende": "On peut tout te prendre. Sauf la main qui l'a dessiné. Et toi, qu'est-ce que tu reconstruirais si on te prenait tout demain ? #motivation #echec #entrepreneur #perseverance #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent vingt-huit, un dessinateur de vingt-six ans perd *tout* en une réunion.",
+     1.3
+    ],
+    [
+     "Il a créé un personnage qui plaît. Un lapin.",
+     1.2
+    ],
+    [
+     "Il va à New York demander un peu plus d'argent à son distributeur.",
+     1.2
+    ],
+    [
+     "On lui propose moins. Et le lapin, selon le contrat, ne lui appartient pas.",
+     1.4
+    ],
+    [
+     "Pire : presque tous ses dessinateurs ont déjà signé avec le distributeur.",
+     1.6
+    ],
+    [
+     "Cinq ans plus tôt, son premier studio avait déjà fait faillite.",
+     1.4
+    ],
+    [
+     "Il refuse. Il rentre en Californie sans personnage, presque sans équipe.",
+     1.4
+    ],
+    [
+     "Son meilleur dessinateur, lui, est resté. Ensemble, ils inventent une *souris*.",
+     1.6
+    ],
+    [
+     "Ses premiers films muets ne trouvent pas preneur. Alors il ajoute le son.",
+     1.2
+    ],
+    [
+     "La souris siffle et fait de la musique sur un bateau. C'est lui qui fait sa voix.",
+     1.4
+    ],
+    [
+     "En novembre, le film sort à New York. C'est un triomphe.",
+     1.6
+    ],
+    [
+     "Ce jeune homme s'appelait Walt Disney. Sa souris, tu la connais forcément.",
+     1.8
+    ],
+    [
+     "Un jour, on te prendra peut-être ce que tu as construit.",
+     1.4
+    ],
+    [
+     "On peut tout te prendre. Sauf la main qui l'a *dessiné*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

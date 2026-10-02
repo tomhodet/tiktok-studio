@@ -1,0 +1,372 @@
+{
+ "nom": "j172",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j172_grandmere",
+   "perso": "grandmere",
+   "episode": 173,
+   "fin": "Envoie-la à quelqu'un qui fait toujours la moitié du chemin.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Elle m'a répondu en français.",
+   "legende": "Vingt mots par jour, ça paraît rien. En un an, ça fait un pont. Pour qui tu serais prêt à apprendre une langue ? #grandmere #famille #apprendre #tendresse #jamaistroptard #pourtoi",
+   "phrases": [
+    [
+     "À soixante-quinze ans, j'ai appris le *portugais*. Vingt mots par jour.",
+     1.3
+    ],
+    [
+     "C'était pour ton mariage. La famille de ta femme venait de Porto.",
+     1.2
+    ],
+    [
+     "Ta belle-mère ne parlait pas français. Moi, pas un mot de portugais.",
+     1.2
+    ],
+    [
+     "Je ne voulais pas d'un mariage où les deux grands-mères se sourient sans se parler.",
+     1.4
+    ],
+    [
+     "J'ai acheté un dictionnaire et une méthode pour débutants. J'écrivais mes vingt mots sur des papiers.",
+     1.2
+    ],
+    [
+     "Je les collais partout. Sur le frigo, sur le miroir.",
+     1.2
+    ],
+    [
+     "Ton grand-père, lui, n'a retenu qu'un seul mot. Celui qui veut dire sucre.",
+     1.4
+    ],
+    [
+     "Au bout d'un an, j'avais un petit discours. Quatre phrases, répétées mille fois.",
+     1.2
+    ],
+    [
+     "Le jour du mariage, je me suis levée. J'ai parlé à ta belle-mère dans sa langue.",
+     1.6
+    ],
+    [
+     "Elle a pleuré. Puis elle m'a répondu. En *français*.",
+     1.8
+    ],
+    [
+     "Elle avait fait exactement la même chose, de son côté. Pendant un an.",
+     1.4
+    ],
+    [
+     "On a ri comme deux gamines, chacune dans la langue de l'autre.",
+     1.4
+    ],
+    [
+     "Vingt mots par jour, ça paraît rien. En un an, ça fait un pont.",
+     1.4
+    ],
+    [
+     "Et si l'autre construit aussi, vous vous retrouvez au *milieu*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j172_grandpere",
+   "perso": "grandpere",
+   "episode": 174,
+   "fin": "Envoie-la à quelqu'un qui râle quand on lui apprend.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Les yeux fermés. Derrière le dos.",
+   "legende": "Ce que tes yeux savent s'en va un jour. Ce que tes mains savent reste. Qu'est-ce que tes mains savent faire sans toi ? #grandpere #transmission #marin #savoirfaire #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon père m'a appris à faire un *nœud* les yeux fermés. Derrière le dos.",
+     1.3
+    ],
+    [
+     "J'avais dix ans. Sur le quai, avec un bout de corde mouillée.",
+     1.2
+    ],
+    [
+     "Il disait : en mer, la nuit, dans la tempête, tu ne verras jamais tes mains.",
+     1.2
+    ],
+    [
+     "Alors, cent fois par jour. Le nœud de chaise, le nœud plat.",
+     1.2
+    ],
+    [
+     "Je trouvais ça idiot. Les autres garçons jouaient au ballon.",
+     1.4
+    ],
+    [
+     "Quarante ans de pêche. Des nuits noires, des tempêtes. Mes mains n'ont jamais hésité.",
+     1.4
+    ],
+    [
+     "Je t'ai appris la même chose, l'été de tes huit ans. Tu boudais.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, mes yeux ne voient presque plus rien. Je ne lis plus le journal.",
+     1.4
+    ],
+    [
+     "Hier, j'ai pris le bout de corde accroché à la porte du garage.",
+     1.2
+    ],
+    [
+     "Le nœud de chaise. Sans regarder. Parfait du premier coup.",
+     1.6
+    ],
+    [
+     "Mon père croyait me préparer à la tempête. Il m'a préparé à la *vieillesse*.",
+     1.8
+    ],
+    [
+     "Ce que tes yeux savent s'en va un jour. Ce que tes mains savent reste.",
+     1.4
+    ],
+    [
+     "Alors fais tes nœuds, même quand tu boudes. Cent fois.",
+     1.2
+    ],
+    [
+     "Un jour, tu seras dans le noir. Tes mains, elles, *sauront*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j172_pere",
+   "perso": "pere",
+   "episode": 173,
+   "fin": "Envoie-la à quelqu'un qui t'a aidé à faire tes devoirs.",
+   "lueurs": [
+    1,
+    8,
+    15
+   ],
+   "accroche": "J'avais un soir d'avance sur toi.",
+   "legende": "Pour guider quelqu'un, il ne faut pas tout savoir. Il suffit d'un soir d'avance. Qui avait un soir d'avance sur toi ? #papa #pere #emotion #ecole #transmission #pourtoi",
+   "phrases": [
+    [
+     "Quand tu étais au lycée, j'avais un soir d'*avance* sur toi. Pas plus.",
+     1.3
+    ],
+    [
+     "Tu étais en seconde. Tu pleurais sur tes exercices de mathématiques.",
+     1.2
+    ],
+    [
+     "Tu croyais que ton père était fort en mathématiques. J'avais arrêté l'école à seize ans.",
+     1.4
+    ],
+    [
+     "Le soir, quand tu dormais, je prenais ton manuel. Je faisais le chapitre du lendemain.",
+     1.2
+    ],
+    [
+     "Sur la table de la cuisine, jusqu'à une heure du matin. Parfois, je recommençais trois fois.",
+     1.2
+    ],
+    [
+     "Ta mère croyait que je faisais des insomnies.",
+     1.4
+    ],
+    [
+     "Le lendemain, tu me posais une question. Je répondais calmement, comme si c'était évident.",
+     1.2
+    ],
+    [
+     "Tu disais : comment tu fais, papa ? Je disais : l'*habitude*.",
+     1.6
+    ],
+    [
+     "Ça a duré trois ans. Jusqu'au baccalauréat.",
+     1.2
+    ],
+    [
+     "Tu as eu dix-sept en mathématiques. Tu es devenu ingénieur.",
+     1.4
+    ],
+    [
+     "Le jour de ton diplôme, tu as dit à tout le monde : c'est mon père qui m'a appris.",
+     1.6
+    ],
+    [
+     "J'ai souri. Je n'ai jamais avoué que je l'apprenais la veille.",
+     1.6
+    ],
+    [
+     "Pour guider quelqu'un, il ne faut pas tout savoir.",
+     1.2
+    ],
+    [
+     "Il suffit d'un soir d'*avance*.",
+     1.4
+    ],
+    [
+     "Et de ne jamais le dire.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j172_mere",
+   "perso": "mere",
+   "episode": 173,
+   "fin": "Envoie-la à quelqu'un qui croit qu'il est trop tard.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Quarante fournées de choux ratés.",
+   "legende": "Il n'y a pas d'âge pour être débutante. Il y a juste des gens qui arrêtent au trentième. Tu en es à quel essai, toi ? #maman #mere #jamaistroptard #patisserie #humour #pourtoi",
+   "phrases": [
+    [
+     "À cinquante ans, j'ai raté quarante fois la même *pâte* à choux. Vous les avez toutes mangées.",
+     1.3
+    ],
+    [
+     "Des choux plats au petit déjeuner, au goûter, au dîner.",
+     1.2
+    ],
+    [
+     "Je préparais un diplôme de pâtissière, en cachette.",
+     1.2
+    ],
+    [
+     "Dans ma classe, ils avaient tous vingt ans. Ils m'appelaient madame.",
+     1.4
+    ],
+    [
+     "Les choux, c'était l'épreuve qui me faisait peur. Les miens sortaient du four comme des galettes.",
+     1.2
+    ],
+    [
+     "Tous les soirs, j'en refaisais une fournée. Ton père disait que la maison sentait l'échec sucré.",
+     1.4
+    ],
+    [
+     "Au trentième essai, j'ai pleuré dans la cuisine. J'ai dit : je suis trop vieille pour ça.",
+     1.4
+    ],
+    [
+     "Tu as goûté un chou, et tu as dit : celui-là est moins plat.",
+     1.4
+    ],
+    [
+     "C'était faux. Mais je suis retournée au four.",
+     1.6
+    ],
+    [
+     "Au quarantième, ils ont gonflé. Tous. J'ai crié si fort que la voisine a sonné.",
+     1.8
+    ],
+    [
+     "Le jour de l'examen, mes choux étaient les plus beaux de la salle.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, j'ai ma petite boutique.",
+     1.4
+    ],
+    [
+     "Il n'y a pas d'âge pour être débutante. Il y a juste des gens qui arrêtent au trentième.",
+     1.4
+    ],
+    [
+     "Si tu en es au trentième, retourne au *four*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j172_fou",
+   "perso": "fou",
+   "episode": 172,
+   "fin": "Envoie-la à quelqu'un qui se tend jusqu'à casser.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Ses pieds saignaient à force de marcher.",
+   "legende": "La discipline n'est pas de forcer toujours plus. C'est de trouver la note juste. Ta corde à toi, elle est trop tendue ou trop lâche ? #motivation #bouddha #sagesse #discipline #equilibre #pourtoi",
+   "phrases": [
+    [
+     "Un jeune moine marchait tellement que ses pieds *saignaient*.",
+     1.3
+    ],
+    [
+     "Il venait d'une famille très riche. Il avait toujours vécu dans le confort.",
+     1.2
+    ],
+    [
+     "Il faisait plus d'efforts que tous les autres. Il marchait jour et nuit, en méditant.",
+     1.2
+    ],
+    [
+     "Le chemin derrière lui était taché de sang.",
+     1.4
+    ],
+    [
+     "Et rien ne venait. Seulement la fatigue.",
+     1.4
+    ],
+    [
+     "Un soir, découragé, il a pensé tout abandonner et rentrer chez lui.",
+     1.4
+    ],
+    [
+     "Le Bouddha est venu le voir. Il lui a demandé : avant, tu jouais du luth ?",
+     1.2
+    ],
+    [
+     "Le moine a dit oui. Il connaissait bien son instrument.",
+     1.2
+    ],
+    [
+     "Quand les cordes étaient trop tendues, l'instrument sonnait-il juste ? Non.",
+     1.2
+    ],
+    [
+     "Et quand elles étaient trop lâches ? Non plus.",
+     1.6
+    ],
+    [
+     "Alors le Bouddha a dit : l'effort, c'est pareil. Trop tendu, il agite. Trop lâche, il endort.",
+     1.8
+    ],
+    [
+     "Le moine a ralenti. Il a cherché le bon *accord*. Et il a atteint ce qu'il cherchait.",
+     1.4
+    ],
+    [
+     "Cette histoire est écrite dans les plus anciens textes bouddhistes.",
+     1.4
+    ],
+    [
+     "Toi aussi, peut-être, tu te tends comme une corde, jusqu'à saigner.",
+     1.2
+    ],
+    [
+     "La discipline n'est pas de forcer toujours plus. C'est de trouver la note *juste*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

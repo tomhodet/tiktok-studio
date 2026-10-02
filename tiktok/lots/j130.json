@@ -1,0 +1,352 @@
+{
+ "nom": "j130",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j130_grandmere",
+   "perso": "grandmere",
+   "episode": 131,
+   "fin": "Envoie-la à quelqu'un qui a peur de rentrer chez lui.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Sur le quai, il y avait mon père.",
+   "legende": "Ceux qui t'aiment n'attendent pas ta réussite. Ils attendent ton train. Et toi, qui t'attendait sur le quai ? #grandmere #pourtoi #echec #pere #emotion #famille",
+   "phrases": [
+    [
+     "À dix-huit ans, je suis partie à Paris pour devenir *quelqu'un*.",
+     1.4
+    ],
+    [
+     "Un an plus tard, je suis revenue. Avec la même valise, et rien de plus dedans.",
+     1.4
+    ],
+    [
+     "J'avais voulu être vendeuse dans un grand magasin. J'ai fait la plonge dans un restaurant.",
+     1.2
+    ],
+    [
+     "Je dormais dans une chambre de bonne, sous le toit. L'hiver, l'eau gelait dans la cuvette.",
+     1.2
+    ],
+    [
+     "Dans mes lettres, j'écrivais à ma mère que tout allait très bien.",
+     1.4
+    ],
+    [
+     "Un dimanche, j'ai pris le dernier train. Pour arriver de nuit, sans croiser personne.",
+     1.2
+    ],
+    [
+     "Sur le quai, il y avait mon père. Seul, sous la lampe, avec sa casquette.",
+     1.6
+    ],
+    [
+     "Je n'avais prévenu personne. Je ne comprenais pas.",
+     1.4
+    ],
+    [
+     "Il a pris ma valise sans un mot. On est rentrés à pied.",
+     1.4
+    ],
+    [
+     "Des années plus tard, le chef de gare m'a raconté la vérité.",
+     1.4
+    ],
+    [
+     "Pendant un an, mon père était venu attendre ce train. Tous les *dimanches* soir.",
+     1.8
+    ],
+    [
+     "Il savait que je reviendrais. Il voulait juste que quelqu'un soit là.",
+     1.6
+    ],
+    [
+     "Ceux qui t'aiment n'attendent pas ta réussite. Ils attendent ton *train*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j130_grandpere",
+   "perso": "grandpere",
+   "episode": 132,
+   "fin": "Envoie-la à quelqu'un qui a perdu avec panache.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai été boxeur pendant quarante secondes.",
+   "legende": "Une défaite, ça dépend beaucoup de comment tu la racontes. Et toi, c'est quoi ta défaite la plus drôle ? #grandpere #pourtoi #humour #boxe #echec #conseildevie",
+   "phrases": [
+    [
+     "J'ai été boxeur. Pendant quarante *secondes*.",
+     1.4
+    ],
+    [
+     "J'avais dix-neuf ans. Je m'entraînais depuis un an dans la cave du café.",
+     1.2
+    ],
+    [
+     "Pour mon premier combat, tout le village était venu. Ta grand-mère aussi, au troisième rang.",
+     1.2
+    ],
+    [
+     "En face, un petit gars maigre, une tête de moins que moi.",
+     1.2
+    ],
+    [
+     "Je me suis dit : celui-là, je le plie en deux.",
+     1.4
+    ],
+    [
+     "Le premier coup, je ne l'ai même pas vu venir.",
+     1.2
+    ],
+    [
+     "Je me suis relevé. Le deuxième non plus.",
+     1.2
+    ],
+    [
+     "Je me suis relevé encore. Au troisième, l'arbitre a arrêté le combat.",
+     1.4
+    ],
+    [
+     "Quarante secondes. J'ai rangé mes gants le soir même. Pour toujours.",
+     1.6
+    ],
+    [
+     "Deux ans plus tard, ce petit gars maigre est devenu *champion* de France.",
+     1.8
+    ],
+    [
+     "Alors j'ai changé d'histoire. Pendant soixante ans, j'ai raconté que j'avais tenu quarante secondes contre un champion.",
+     1.4
+    ],
+    [
+     "Personne ne demandait qui avait gagné. Ils demandaient comment il frappait.",
+     1.4
+    ],
+    [
+     "Une défaite, ça dépend beaucoup de comment tu la racontes.",
+     1.4
+    ],
+    [
+     "Et n'oublie pas : je me suis relevé deux fois. Ça, personne ne pourra me le *reprendre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j130_pere",
+   "perso": "pere",
+   "episode": 131,
+   "fin": "Envoie-la à quelqu'un qui sera toujours là pour toi.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Je t'ai promis qu'il allait guérir.",
+   "legende": "Je ne te promettrai plus jamais ce qui ne dépend pas de moi. Et toi, quelle promesse t'a-t-on faite qui n'a pas été tenue ? #papa #pere #pourtoi #promesse #deuil #emotion",
+   "phrases": [
+    [
+     "Quand ton grand-père était malade, tu m'as demandé s'il allait guérir. Je t'ai promis que *oui*.",
+     1.6
+    ],
+    [
+     "Tu avais huit ans. Tu me regardais comme si je savais tout.",
+     1.2
+    ],
+    [
+     "Je ne savais rien. Les médecins ne disaient plus rien non plus.",
+     1.2
+    ],
+    [
+     "Mais je ne voulais pas voir la peur dans tes yeux. Alors j'ai promis.",
+     1.4
+    ],
+    [
+     "Il est mort au printemps.",
+     1.8
+    ],
+    [
+     "Tu n'as pas pleuré. Tu m'as regardé, et tu as dit : tu avais promis.",
+     1.6
+    ],
+    [
+     "Pendant des semaines, tu n'as plus cru un mot de ce que je disais.",
+     1.2
+    ],
+    [
+     "Même quand je disais que le dîner était prêt, tu allais vérifier.",
+     1.4
+    ],
+    [
+     "J'avais voulu te protéger d'un chagrin. Je t'en avais donné un *deuxième*.",
+     1.6
+    ],
+    [
+     "Ce jour-là, je me suis fait une nouvelle règle.",
+     1.2
+    ],
+    [
+     "Je ne te promettrai plus jamais ce qui ne dépend pas de moi.",
+     1.4
+    ],
+    [
+     "Je ne peux pas te promettre que les gens que tu aimes ne mourront pas.",
+     1.2
+    ],
+    [
+     "Je ne peux pas te promettre que tout ira bien.",
+     1.2
+    ],
+    [
+     "Je peux seulement te promettre une chose : quoi qu'il arrive, je serai *là*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j130_mere",
+   "perso": "mere",
+   "episode": 131,
+   "fin": "Envoie-la à quelqu'un qui se trompe souvent de jour.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Ta première rentrée. Un dimanche.",
+   "legende": "Je croyais t'avoir raté ta rentrée. Je t'en avais offert deux. Et toi, quelle erreur de tes parents est devenue un bon souvenir ? #maman #mere #pourtoi #humour #ecole #tendresse",
+   "phrases": [
+    [
+     "Pour ta première rentrée, je t'ai emmené à l'école. Un *dimanche*.",
+     1.4
+    ],
+    [
+     "Tu avais trois ans. Cartable neuf, chaussures neuves, et une mère qui n'avait pas dormi.",
+     1.2
+    ],
+    [
+     "J'enchaînais deux travaux. J'avais confondu les jours.",
+     1.4
+    ],
+    [
+     "La grille était fermée. La cour était vide. Tu m'as regardée sans comprendre.",
+     1.4
+    ],
+    [
+     "Moi, j'ai compris. Et j'ai pleuré, là, sur le trottoir, avec ton goûter dans la main.",
+     1.6
+    ],
+    [
+     "La pire mère du quartier. Celle qui rate même la rentrée.",
+     1.6
+    ],
+    [
+     "Le gardien de l'école est sorti de sa maison, en pantoufles.",
+     1.4
+    ],
+    [
+     "Il n'a pas posé de question. Il a pris ses clés. Il nous a ouvert ta classe.",
+     1.4
+    ],
+    [
+     "Il t'a montré ton portemanteau, ton prénom sur la table, la cantine, la cour.",
+     1.2
+    ],
+    [
+     "Tu as dessiné sur le tableau. Tu as fait trois tours de cour en courant.",
+     1.4
+    ],
+    [
+     "Le lendemain, tous les enfants pleuraient à la grille. Toi, tu es entré comme chez toi.",
+     1.6
+    ],
+    [
+     "Tu étais le seul à savoir où étaient les *toilettes*.",
+     1.6
+    ],
+    [
+     "Je croyais t'avoir raté ta rentrée. Je t'en avais offert *deux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j130_fou",
+   "perso": "fou",
+   "episode": 130,
+   "fin": "Envoie-la à quelqu'un dont la vie vient d'être retournée.",
+   "lueurs": [
+    1,
+    4,
+    13
+   ],
+   "accroche": "Des milliers de fleurs dans les trous d'obus.",
+   "legende": "Certaines fleurs ne poussent que dans une terre retournée. Et toi, qu'est-ce qui a poussé après ton pire moment ? #motivation #pourtoi #nature #coquelicot #resilience #histoire",
+   "phrases": [
+    [
+     "Pendant la Grande Guerre, les obus ont retourné des champs entiers. Mètre par mètre.",
+     1.4
+    ],
+    [
+     "Plus un arbre. Plus une maison. De la boue et des trous.",
+     1.4
+    ],
+    [
+     "Au printemps, au milieu des trous d'obus, quelque chose a poussé.",
+     1.4
+    ],
+    [
+     "Des *coquelicots*. Des milliers. Des champs entiers de rouge.",
+     1.6
+    ],
+    [
+     "Personne ne les avait semés. Les graines dormaient déjà sous la terre.",
+     1.2
+    ],
+    [
+     "Une graine de coquelicot peut attendre des années, enfouie dans le noir.",
+     1.2
+    ],
+    [
+     "Elle se réveille quand la terre est retournée et la ramène vers la lumière.",
+     1.4
+    ],
+    [
+     "C'est pour ça qu'on en voit au bord des champs labourés et des chantiers.",
+     1.4
+    ],
+    [
+     "Un médecin canadien les a vus fleurir entre les croix. Son poème en a fait la fleur du souvenir.",
+     1.6
+    ],
+    [
+     "Toi, ta vie a peut-être été retournée. Un échec, une faillite, un départ.",
+     1.2
+    ],
+    [
+     "Tu ne vois que la boue. Tu crois que plus rien ne poussera.",
+     1.4
+    ],
+    [
+     "Mais il y a peut-être en toi des graines qui attendaient la *lumière*.",
+     1.6
+    ],
+    [
+     "Certaines fleurs ne poussent que dans une terre *retournée*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

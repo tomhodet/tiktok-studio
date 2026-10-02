@@ -1,0 +1,352 @@
+{
+ "nom": "j127",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j127_grandmere",
+   "perso": "grandmere",
+   "episode": 128,
+   "fin": "Envoie-la à quelqu'un qui a eu le courage de témoigner.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Six œufs frais devant ma porte.",
+   "legende": "Le silence coûte plus cher que la vérité. Mais ce n'est pas toi qui le paies. Et toi, as-tu déjà été le seul à parler ? #grandmere #verite #courage #village #emotion #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante et onze, j'ai été la seule à *témoigner*. Tout le village m'a tourné le dos.",
+     1.3
+    ],
+    [
+     "Un soir, le fils du maire a renversé le petit Daniel, qui rentrait à vélo. Il avait bu.",
+     1.2
+    ],
+    [
+     "Il ne s'était même pas arrêté. Moi, j'étais à ma fenêtre. J'avais tout vu.",
+     1.2
+    ],
+    [
+     "Daniel a boité toute sa vie.",
+     1.4
+    ],
+    [
+     "Les gendarmes ont fait le tour des maisons. Tout le monde disait : je n'ai rien vu.",
+     1.4
+    ],
+    [
+     "Ton grand-père travaillait à la scierie du maire. Il m'a dit : réfléchis bien.",
+     1.4
+    ],
+    [
+     "J'ai réfléchi toute la nuit. Le matin, je suis allée à la gendarmerie.",
+     1.6
+    ],
+    [
+     "Après ça, plus personne ne m'invitait aux mariages.",
+     1.4
+    ],
+    [
+     "Ton grand-père a perdu ses heures supplémentaires.",
+     1.4
+    ],
+    [
+     "Mais chaque samedi, pendant vingt ans, il y avait six œufs frais devant ma porte.",
+     1.6
+    ],
+    [
+     "C'était la mère du petit Daniel. Elle ne m'a jamais rien dit. Juste les œufs.",
+     1.8
+    ],
+    [
+     "La vérité coûte cher dans un petit village. Le silence coûte plus cher. Mais on ne le paie pas soi-même.",
+     1.2
+    ],
+    [
+     "C'est un petit garçon qui boite qui le paie à ta *place*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j127_grandpere",
+   "perso": "grandpere",
+   "episode": 129,
+   "fin": "Envoie-la à quelqu'un qui a eu le courage de dire la vérité.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Est-ce que je vais mourir ?",
+   "legende": "Mentir à quelqu'un pour le protéger, c'est parfois lui voler ses adieux. Et toi, aurais-tu eu le courage de dire oui ? #grandpere #amitie #verite #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon meilleur ami m'a demandé s'il allait mourir. J'ai été le seul à lui dire *oui*.",
+     1.3
+    ],
+    [
+     "Il s'appelait Jeannot. Cinquante ans de pêche, de belote et de disputes.",
+     1.2
+    ],
+    [
+     "À l'hôpital, tout le monde lui souriait. Sa femme, ses enfants, les médecins.",
+     1.2
+    ],
+    [
+     "Ils lui parlaient de l'été prochain. Du jardin. Du mariage de sa petite-fille.",
+     1.4
+    ],
+    [
+     "Un après-midi, il m'a attrapé le poignet. Il a dit : toi, tu ne m'as jamais menti.",
+     1.6
+    ],
+    [
+     "Il a demandé : est-ce que je vais mourir ?",
+     1.6
+    ],
+    [
+     "J'avais la gorge serrée. J'ai pensé à mentir, comme les autres.",
+     1.4
+    ],
+    [
+     "J'ai dit : oui, mon vieux. Bientôt.",
+     1.8
+    ],
+    [
+     "Il a fermé les yeux. Puis il a dit : merci. Enfin quelqu'un.",
+     1.6
+    ],
+    [
+     "Les trois semaines qui ont suivi, il a appelé sa fille. Ils ne se parlaient plus depuis dix ans.",
+     1.4
+    ],
+    [
+     "Il a écrit à sa femme. Il a donné sa canne à pêche à ton père.",
+     1.4
+    ],
+    [
+     "Il est parti en paix. Il avait eu le temps de dire au revoir.",
+     1.4
+    ],
+    [
+     "Mentir à quelqu'un pour le protéger, c'est parfois lui voler ses *adieux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j127_pere",
+   "perso": "pere",
+   "episode": 128,
+   "fin": "Envoie-la à quelqu'un qui n'arrive pas à dire non.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Merci pour ton non.",
+   "legende": "Dire non à quelqu'un qu'on aime, c'est terrifiant. Parfois, c'est le seul moyen de l'aider. Et toi, à qui devrais-tu dire non ? #papa #pere #famille #direnon #courage #pourtoi",
+   "phrases": [
+    [
+     "Pendant quinze ans, j'ai prêté de l'argent à ton oncle. Puis un jour, j'ai dit *non*.",
+     1.3
+    ],
+    [
+     "Il avait toujours une bonne raison. Une voiture en panne, un loyer en retard, un nouveau projet.",
+     1.2
+    ],
+    [
+     "Il ne remboursait jamais. Je ne demandais jamais. C'était mon petit frère.",
+     1.2
+    ],
+    [
+     "Ta mère serrait les dents. On repoussait nos vacances.",
+     1.4
+    ],
+    [
+     "Un soir, il m'a appelé pour la vingtième fois. Une grosse somme, cette fois. Urgente.",
+     1.4
+    ],
+    [
+     "J'avais le carnet de chèques dans la main. Et pour la première fois, je l'ai reposé.",
+     1.6
+    ],
+    [
+     "Je lui ai dit : non. Je t'aime. Mais non.",
+     1.6
+    ],
+    [
+     "Il a raccroché. Pendant un an, il ne m'a plus parlé.",
+     1.4
+    ],
+    [
+     "Un dimanche, il a sonné à la porte. Il avait une enveloppe à la main.",
+     1.4
+    ],
+    [
+     "Dedans, il y avait le premier remboursement. Et un mot : merci pour ton non.",
+     1.8
+    ],
+    [
+     "Il avait trouvé un vrai travail. Le premier depuis quinze ans.",
+     1.4
+    ],
+    [
+     "Il m'a dit : tant que tu disais oui, je n'avais aucune raison de m'en sortir.",
+     1.6
+    ],
+    [
+     "Dire non à quelqu'un qu'on aime, c'est terrifiant. On a peur de le perdre.",
+     1.2
+    ],
+    [
+     "Parfois, c'est le seul moyen de l'*aider*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j127_mere",
+   "perso": "mere",
+   "episode": 128,
+   "fin": "Envoie-la à quelqu'un qui a le trac.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'ai oublié tout mon texte.",
+   "legende": "Quand tu as peur de rater, dis la vérité. C'est souvent la meilleure réplique. Et toi, quel est ton plus beau trou de mémoire ? #maman #mere #theatre #humour #peur #pourtoi",
+   "phrases": [
+    [
+     "À cinquante ans, je suis montée sur une scène de théâtre. Et j'ai oublié tout mon *texte*.",
+     1.3
+    ],
+    [
+     "Moi qui rougissais quand la boulangère me demandait comment j'allais.",
+     1.2
+    ],
+    [
+     "Tu venais de quitter la maison. Alors je me suis inscrite au théâtre amateur.",
+     1.2
+    ],
+    [
+     "Pendant six mois, j'ai répété devant le chat.",
+     1.4
+    ],
+    [
+     "Le soir de la première, il y avait quatre-vingts personnes. Et toi, au troisième rang.",
+     1.4
+    ],
+    [
+     "Je suis entrée en scène. J'ai ouvert la bouche. Plus rien. Le vide total.",
+     1.6
+    ],
+    [
+     "Dix secondes de silence. Les plus longues de ma vie.",
+     1.6
+    ],
+    [
+     "Alors j'ai dit la vérité : excusez-moi. Normalement, là, je pleure. Mais j'ai oublié pourquoi.",
+     1.6
+    ],
+    [
+     "La salle a éclaté de rire.",
+     1.4
+    ],
+    [
+     "Mon partenaire a improvisé : je vous ai quittée pour une femme qui a de la mémoire.",
+     1.8
+    ],
+    [
+     "Et mon texte est revenu d'un coup. Toi, tu pleurais de rire.",
+     1.4
+    ],
+    [
+     "Ça fait cinq ans que je joue. J'ai toujours le trac.",
+     1.4
+    ],
+    [
+     "Quand tu as peur de rater, dis la *vérité*. C'est souvent la meilleure réplique.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j127_fou",
+   "perso": "fou",
+   "episode": 127,
+   "fin": "Envoie-la à quelqu'un qu'on traite de lâche à tort.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il refuse de toucher une arme.",
+   "legende": "Celui qu'on traitait de lâche était le plus courageux de tous. Et toi, pour quelle conviction as-tu déjà tenu bon ? #motivation #histoirevraie #courage #conviction #desmonddoss #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quarante-deux, un jeune Américain s'engage dans l'armée. Mais il refuse de toucher une *arme*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Desmond Doss. Sa foi lui interdit de tuer. Il veut soigner les blessés.",
+     1.2
+    ],
+    [
+     "À l'entraînement, les autres soldats le traitent de lâche. On veut le renvoyer.",
+     1.2
+    ],
+    [
+     "Il tient bon. Il part à la guerre sans fusil.",
+     1.4
+    ],
+    [
+     "En mai mille neuf cent quarante-cinq, sur l'île d'Okinawa, son unité attaque une falaise.",
+     1.4
+    ],
+    [
+     "Sous le feu ennemi, les soldats doivent redescendre. Des dizaines de blessés restent en haut.",
+     1.4
+    ],
+    [
+     "Lui reste là-haut.",
+     1.6
+    ],
+    [
+     "Il traîne les blessés jusqu'au bord, un par un. Et il les descend avec une corde.",
+     1.6
+    ],
+    [
+     "À chaque homme sauvé, il prie : mon Dieu, aide-moi à en sauver un de plus.",
+     1.8
+    ],
+    [
+     "Ce jour-là, il en sauve environ soixante-quinze.",
+     1.6
+    ],
+    [
+     "Plus tard, il reçoit la plus haute décoration militaire des États-Unis. Des mains du président.",
+     1.4
+    ],
+    [
+     "Celui qu'on traitait de lâche était le plus courageux de tous.",
+     1.4
+    ],
+    [
+     "Toi aussi, on se moquera peut-être de ce en quoi tu crois.",
+     1.2
+    ],
+    [
+     "Quand tout semble perdu, ne pense pas à tout. Pense juste au *suivant*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

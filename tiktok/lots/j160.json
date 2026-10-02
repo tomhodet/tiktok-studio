@@ -1,0 +1,364 @@
+{
+ "nom": "j160",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j160_grandmere",
+   "perso": "grandmere",
+   "episode": 161,
+   "fin": "Envoie-la à quelqu'un qui sait consoler sans parler.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Tu m'as prêté ton ours.",
+   "legende": "Les adultes cherchent des mots. Les enfants, eux, prêtent ce qu'ils ont de plus précieux. Qui t'a consolé sans rien dire, toi ? #grandmere #deuil #enfance #tendresse #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour de l'enterrement de ton grand-père, tu m'as prêté ton *ours*.",
+     1.3
+    ],
+    [
+     "Tu avais six ans. Tu voyais bien que je ne tenais plus debout.",
+     1.2
+    ],
+    [
+     "Tout le monde me disait des phrases. Il est en paix. Il a bien vécu. Courage.",
+     1.4
+    ],
+    [
+     "Je hochais la tête. Je n'entendais rien.",
+     1.2
+    ],
+    [
+     "Toi, tu n'as rien dit. Tu es monté dans ta chambre.",
+     1.2
+    ],
+    [
+     "Tu es redescendu avec ton ours. Celui qui n'avait plus qu'un œil.",
+     1.4
+    ],
+    [
+     "Tu l'as posé sur mes genoux. Tu as dit : il dort mal tout seul. Garde-le cette nuit.",
+     1.6
+    ],
+    [
+     "Je l'ai gardé. Cette nuit-là, et beaucoup d'autres.",
+     1.6
+    ],
+    [
+     "Les adultes cherchent des mots. Les enfants, eux, prêtent ce qu'ils ont de plus précieux.",
+     1.8
+    ],
+    [
+     "Tu as grandi. Tu ne me l'as jamais redemandé.",
+     1.4
+    ],
+    [
+     "Il est toujours sur mon oreiller. Il lui manque toujours un œil. Et maintenant, une oreille.",
+     1.4
+    ],
+    [
+     "Un jour, tu auras un chagrin. Un vrai, de ceux qui coupent les jambes.",
+     1.4
+    ],
+    [
+     "Ce jour-là, je te le rendrai. Il dort mal tout seul, tu sais.",
+     1.2
+    ],
+    [
+     "Et il sait *consoler*. C'est toi qui le lui as appris.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j160_grandpere",
+   "perso": "grandpere",
+   "episode": 162,
+   "fin": "Envoie-la à quelqu'un de trop fier pour demander de l'aide.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon escalier a pris une marche.",
+   "legende": "La fierté, c'est bien. Mais la rampe, c'est mieux. Tu as déjà aidé quelqu'un de trop fier pour demander ? #grandpere #vieillesse #fierte #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Mon escalier a quatorze marches. Depuis deux ans, il en a *quinze*.",
+     1.3
+    ],
+    [
+     "Je les compte tous les soirs. Le compte est bon. Mais mes jambes en sentent une de plus.",
+     1.2
+    ],
+    [
+     "Cet escalier, je l'ai monté quarante mille fois. Avec des sacs de ciment, avec tes cousins sur le dos.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, je m'arrête à la huitième. Je fais semblant de regarder le tableau.",
+     1.4
+    ],
+    [
+     "L'été dernier, tu es venu avec une perceuse. Tu as posé une rampe en bois. Sans me demander.",
+     1.4
+    ],
+    [
+     "J'étais furieux. J'ai dit : je ne suis pas un vieillard.",
+     1.4
+    ],
+    [
+     "Tu as répondu : alors fais-moi plaisir. Fais semblant.",
+     1.6
+    ],
+    [
+     "Je n'y ai pas touché pendant un mois. Par fierté.",
+     1.4
+    ],
+    [
+     "Et puis un soir de novembre, j'ai posé la main dessus. Juste pour voir.",
+     1.6
+    ],
+    [
+     "Elle était exactement à la hauteur de ma main.",
+     1.6
+    ],
+    [
+     "Tu l'avais mesurée sur moi. Pendant que je faisais la sieste.",
+     1.8
+    ],
+    [
+     "La fierté, c'est bien. Mais la rampe, c'est mieux.",
+     1.4
+    ],
+    [
+     "Vieillir, c'est accepter qu'on te tende la main. Même en bois.",
+     1.2
+    ],
+    [
+     "Et ce soir-là, j'ai monté les quinze marches sans *m'arrêter*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j160_pere",
+   "perso": "pere",
+   "episode": 161,
+   "fin": "Envoie-la à quelqu'un qui travaille trop.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Trois mille heures supplémentaires.",
+   "legende": "À la fin, on ne te paiera que tes heures. Ce sont tes absences que tu payeras. Ton père était souvent au travail, lui aussi ? #papa #pere #travail #regrets #famille #pourtoi",
+   "phrases": [
+    [
+     "J'ai fait trois mille heures *supplémentaires* dans ma vie. Je les ai comptées.",
+     1.3
+    ],
+    [
+     "C'est écrit sur mes fiches de paie. Je les ai toutes gardées, dans une boîte.",
+     1.2
+    ],
+    [
+     "À l'époque, j'en étais fier. Je disais : c'est pour la famille.",
+     1.4
+    ],
+    [
+     "Pour la maison, pour tes études, pour les vacances.",
+     1.2
+    ],
+    [
+     "Le mois dernier, j'ai fait le calcul. Trois mille heures, c'est près de quatre cents journées.",
+     1.4
+    ],
+    [
+     "Quatre cents mercredis. Quatre cents matchs, spectacles, après-midi au parc.",
+     1.6
+    ],
+    [
+     "Je ne regrette pas d'avoir travaillé. On en avait besoin.",
+     1.4
+    ],
+    [
+     "Je regrette de ne pas avoir compté autre chose en même temps.",
+     1.4
+    ],
+    [
+     "Les fois où tu as regardé vers les gradins, et où ma place était vide.",
+     1.6
+    ],
+    [
+     "Celles-là, personne ne les a notées. Mais toi, tu t'en souviens peut-être.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu vas travailler dur. C'est bien. Fais-le.",
+     1.2
+    ],
+    [
+     "Mais tiens deux comptes. Celui de tes heures. Et celui de tes absences.",
+     1.4
+    ],
+    [
+     "Parce qu'à la fin, on ne te paiera que le premier.",
+     1.6
+    ],
+    [
+     "Et c'est le second que tu *payeras*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j160_mere",
+   "perso": "mere",
+   "episode": 161,
+   "fin": "Envoie-la à quelqu'un qui chante encore les chansons de sa mère.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Tu chantais le crocodile.",
+   "legende": "On croit que les enfants oublient tout. Ils rangent seulement les choses très loin. Quelle chanson de ton enfance chantes-tu encore ? #maman #mere #enfance #transmission #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Quand tu étais petit, j'ai inventé une *chanson* idiote pour te brosser les dents.",
+     1.3
+    ],
+    [
+     "Deux couplets, pas de rimes, et un refrain sur un crocodile qui avait perdu son dentifrice.",
+     1.2
+    ],
+    [
+     "Tu la réclamais tous les soirs. Sinon, pas de brossage.",
+     1.2
+    ],
+    [
+     "Pendant six ans, je l'ai chantée. Faux, et de plus en plus fort.",
+     1.4
+    ],
+    [
+     "Et puis un soir, tu as dit : maman, je suis trop grand.",
+     1.4
+    ],
+    [
+     "Je n'ai plus jamais chanté le crocodile. J'ai même oublié le deuxième couplet.",
+     1.6
+    ],
+    [
+     "Le mois dernier, je suis venue garder ta fille.",
+     1.2
+    ],
+    [
+     "Le soir, devant le lavabo, elle refusait d'ouvrir la bouche.",
+     1.2
+    ],
+    [
+     "Et je t'ai entendu, dans la salle de bain. Tu chantais le crocodile.",
+     1.8
+    ],
+    [
+     "Les deux couplets. Même celui que j'avais oublié.",
+     1.6
+    ],
+    [
+     "Tu m'as juré que tu ne t'en souvenais pas. Ta bouche s'en souvenait pour toi.",
+     1.6
+    ],
+    [
+     "On croit que les enfants oublient tout. Ils rangent seulement les choses très loin.",
+     1.4
+    ],
+    [
+     "Et un jour, elles ressortent. Pour quelqu'un d'autre.",
+     1.4
+    ],
+    [
+     "Je n'ai jamais rien écrit d'important. Mais j'ai écrit une chanson qui a traversé trois *générations*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j160_fou",
+   "perso": "fou",
+   "episode": 160,
+   "fin": "Envoie-la à une infirmière que tu admires.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "La dame à la lampe.",
+   "legende": "Il faut parfois des années pour qu'une lampe devienne un phare. Qu'est-ce que tu veux faire que ta famille ne comprend pas ? #motivation #histoire #infirmiere #soignants #courage #pourtoi",
+   "phrases": [
+    [
+     "Une jeune femme de bonne famille annonce à ses parents qu'elle veut devenir *infirmière*.",
+     1.3
+    ],
+    [
+     "Un scandale. À l'époque, soigner n'est pas un métier pour une femme de son rang.",
+     1.2
+    ],
+    [
+     "Elle s'appelle Florence Nightingale. Sa famille s'y oppose pendant des années.",
+     1.2
+    ],
+    [
+     "En mille huit cent cinquante-quatre, elle part soigner les soldats anglais de la guerre de Crimée.",
+     1.2
+    ],
+    [
+     "Elle découvre un cauchemar. Des rats, de la saleté, des blessés couchés par terre.",
+     1.4
+    ],
+    [
+     "Les soldats meurent plus de maladies que de leurs blessures.",
+     1.4
+    ],
+    [
+     "Elle fait nettoyer, laver le linge, nourrir les hommes.",
+     1.2
+    ],
+    [
+     "La nuit, elle fait le tour des lits, une lampe à la main.",
+     1.6
+    ],
+    [
+     "Les soldats l'appellent la dame à la *lampe*.",
+     1.6
+    ],
+    [
+     "De retour en Angleterre, elle se bat avec des chiffres et des graphiques.",
+     1.4
+    ],
+    [
+     "Elle fonde une école d'infirmières. Elle fait du soin un vrai métier.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, la journée internationale des infirmières a lieu le jour de son anniversaire.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu veux peut-être faire ce que ta famille ne comprend pas.",
+     1.4
+    ],
+    [
+     "Tiens bon. Il faut parfois des années pour qu'une lampe devienne un *phare*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

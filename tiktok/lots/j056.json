@@ -1,0 +1,360 @@
+{
+ "nom": "j056",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j056_grandmere",
+   "perso": "grandmere",
+   "episode": 57,
+   "fin": "Envoie-la à l'amie bavarde qui n'a jamais trahi tes secrets.",
+   "lueurs": [
+    1,
+    12,
+    13
+   ],
+   "accroche": "Elle n'a jamais su garder un secret.",
+   "legende": "Méfie-toi des gens qui ne disent jamais rien. Fais confiance à ceux qui savent ce qu'il faut taire. Et toi, qui garde ton plus grand secret ? #grandmere #amitie #humour #loyaute #secret #pourtoi",
+   "phrases": [
+    [
+     "Ma meilleure amie Paulette n'a jamais su garder un *secret*. Pas un seul, en soixante-dix ans.",
+     1.3
+    ],
+    [
+     "Quand j'étais enceinte de ta mère, tout le village l'a su avant ton grand-père.",
+     1.2
+    ],
+    [
+     "Elle racontait tout. À la boulangère, au facteur, au curé. Surtout au curé.",
+     1.4
+    ],
+    [
+     "Pourtant, il y a une histoire qu'elle n'a jamais racontée.",
+     1.4
+    ],
+    [
+     "En mille neuf cent cinquante-cinq, les gendarmes sont venus chercher mon père. Il braconnait pour nous nourrir.",
+     1.4
+    ],
+    [
+     "Il a fait trois mois de prison. Dans un village, c'est une honte qui colle aux enfants.",
+     1.4
+    ],
+    [
+     "Paulette était à sa fenêtre ce matin-là. Elle avait tout vu.",
+     1.4
+    ],
+    [
+     "Elle avait neuf ans, comme moi. Elle n'en a jamais parlé. À personne.",
+     1.4
+    ],
+    [
+     "Soixante-dix ans de bavardages. Et pas un mot sur ça.",
+     1.4
+    ],
+    [
+     "Un jour, je lui ai demandé pourquoi. Elle a haussé les épaules.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : tout le reste, c'était à moi de le raconter.",
+     1.0
+    ],
+    [
+     "Ça, c'était à *toi*.",
+     1.8
+    ],
+    [
+     "Méfie-toi des gens qui ne disent jamais rien.",
+     1.2
+    ],
+    [
+     "Fais confiance à ceux qui savent ce qu'il faut *taire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j056_grandpere",
+   "perso": "grandpere",
+   "episode": 58,
+   "fin": "Envoie-la à l'ami qui te dit quand c'est mal fait.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Elle ne tiendra pas la neige.",
+   "legende": "Méfie-toi de ceux qui trouvent tout beau. Ils ne viennent jamais le lendemain matin. Et toi, quel ami t'a dit une vérité qui t'a sauvé ? #grandpere #amitie #travail #charpentier #verite #pourtoi",
+   "phrases": [
+    [
+     "La première charpente de ma vie, je l'ai démontée moi-même. À cause de mon meilleur ami.",
+     1.3
+    ],
+    [
+     "J'avais vingt-deux ans. C'était une grange, chez un paysan du village.",
+     1.2
+    ],
+    [
+     "J'étais fier. Les poutres étaient droites, les assemblages serrés. Le patron m'avait laissé faire seul.",
+     1.4
+    ],
+    [
+     "Le soir, Émile est passé. Mon ami d'apprentissage. Il a regardé longtemps, les mains dans les poches.",
+     1.4
+    ],
+    [
+     "Puis il a dit : elle ne tiendra pas la *neige*.",
+     1.6
+    ],
+    [
+     "Je l'ai traité de jaloux. Et de bien d'autres choses. Il est reparti sans répondre.",
+     1.4
+    ],
+    [
+     "Cette nuit-là, je n'ai pas dormi. Je refaisais les calculs dans ma tête.",
+     1.4
+    ],
+    [
+     "Il avait raison. J'avais mal calculé le poids de la neige.",
+     1.4
+    ],
+    [
+     "À cinq heures du matin, je suis retourné à la grange pour tout démonter.",
+     1.4
+    ],
+    [
+     "Émile était déjà là. Assis sur une poutre, avec deux tasses et du café chaud.",
+     1.8
+    ],
+    [
+     "On a tout refait ensemble. Trois jours. Il n'a jamais demandé un centime.",
+     1.4
+    ],
+    [
+     "La grange est toujours debout. Soixante hivers, et pas une tuile de travers.",
+     1.6
+    ],
+    [
+     "Méfie-toi de ceux qui trouvent tout beau. Ils ne viennent jamais le *lendemain* matin.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j056_pere",
+   "perso": "pere",
+   "episode": 57,
+   "fin": "Envoie-la à quelqu'un qui porte le prénom d'un absent.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ton deuxième prénom appartenait à mon ami.",
+   "legende": "Chaque fois que je dis ton nom en entier, je vous appelle tous les deux. Et toi, d'où vient ton deuxième prénom ? #papa #pere #amitie #deuil #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ton deuxième *prénom*, tu le caches depuis l'école. Il appartenait à mon meilleur ami.",
+     1.3
+    ],
+    [
+     "Ludovic. On s'est connus en maternelle. On a tout fait ensemble, surtout les bêtises.",
+     1.2
+    ],
+    [
+     "À dix-neuf ans, il s'est acheté une vieille moto, toujours en panne.",
+     1.2
+    ],
+    [
+     "Un samedi soir, il m'a proposé une fête à trente kilomètres. J'ai dit non. J'avais un examen.",
+     1.2
+    ],
+    [
+     "Il est parti seul.",
+     1.6
+    ],
+    [
+     "Il n'est jamais arrivé. Un virage, du gravier, un platane.",
+     1.8
+    ],
+    [
+     "Pendant des années, je me suis dit que derrière lui, je l'aurais fait ralentir.",
+     1.4
+    ],
+    [
+     "Ou que je serais mort avec lui. Je ne sais toujours pas quelle pensée est la pire.",
+     1.6
+    ],
+    [
+     "Dix ans plus tard, tu es né. Ta mère a choisi ton premier prénom.",
+     1.4
+    ],
+    [
+     "Moi, je n'ai demandé qu'une chose. Le *deuxième*.",
+     1.8
+    ],
+    [
+     "Quand je l'ai annoncé à sa mère, elle m'a serré dans ses bras sans rien dire.",
+     1.6
+    ],
+    [
+     "Chaque fois que je dis ton nom en entier, je vous appelle tous les deux.",
+     1.4
+    ],
+    [
+     "Tu peux le cacher sur tes papiers. Je comprends.",
+     1.4
+    ],
+    [
+     "Mais porte-le bien. Lui n'a pas eu le temps de le *porter*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j056_mere",
+   "perso": "mere",
+   "episode": 57,
+   "fin": "Envoie-la à l'amie avec qui tu veux casser le bocal.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Six jours à Rome. Six jours de pluie.",
+   "legende": "On croit qu'on part voir un pays. Mais on part voir quelqu'un rire. Et toi, avec quelle amie rêves-tu de partir ? #maman #mere #amitie #voyage #humour #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, mon amie Nathalie et moi, on a mis une pièce par semaine dans un *bocal*.",
+     1.3
+    ],
+    [
+     "Un vieux bocal à cornichons. Pour aller à Rome, toutes les deux. Sans maris, sans enfants.",
+     1.2
+    ],
+    [
+     "Le bocal a survécu à vos rentrées, à deux déménagements et à un dégât des eaux.",
+     1.2
+    ],
+    [
+     "L'an dernier, on l'a enfin cassé. Il y avait de quoi partir six jours.",
+     1.4
+    ],
+    [
+     "On avait tout prévu. Le Colisée, les fontaines, les églises, les musées.",
+     1.2
+    ],
+    [
+     "Il a plu les six jours. Une pluie froide, en biais, qui ne s'arrêtait jamais.",
+     1.4
+    ],
+    [
+     "Au bout de deux jours, on a renoncé. On est restées dans la chambre.",
+     1.4
+    ],
+    [
+     "On a mangé des pizzas sur le lit. On a joué aux cartes. On a parlé.",
+     1.2
+    ],
+    [
+     "De nos mères, de nos peurs, de vous, des garçons qu'on avait aimés à seize ans.",
+     1.4
+    ],
+    [
+     "De Rome, on a vu un bout de toit mouillé. Et l'aéroport.",
+     1.6
+    ],
+    [
+     "C'est le plus beau voyage de ma *vie*.",
+     1.8
+    ],
+    [
+     "On croit qu'on part voir un pays.",
+     1.2
+    ],
+    [
+     "Mais on part voir quelqu'un *rire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j056_fou",
+   "perso": "fou",
+   "episode": 56,
+   "fin": "Envoie-la à quelqu'un qui doute de son talent.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Une seule phrase l'a fait taire trois ans.",
+   "legende": "Une seule phrase méchante l'a fait taire pendant trois ans. Une phrase bienveillante lui a rendu sa musique. Et toi, quelle phrase te répètes-tu chaque matin ? #motivation #musique #rachmaninov #confiance #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "À vingt-trois ans, un jeune compositeur russe entend sa première *symphonie* pour la première fois.",
+     1.3
+    ],
+    [
+     "Ce soir-là, à Saint-Pétersbourg, c'est un désastre.",
+     1.2
+    ],
+    [
+     "Le concert est un échec complet.",
+     1.2
+    ],
+    [
+     "Un critique écrit que cette musique ravirait les habitants de l'*enfer*.",
+     1.6
+    ],
+    [
+     "Le jeune homme s'effondre. Il ne compose presque plus rien pendant trois ans.",
+     1.4
+    ],
+    [
+     "Il est persuadé de n'avoir aucun talent.",
+     1.4
+    ],
+    [
+     "Ses proches finissent par l'envoyer chez un médecin, le docteur Dahl.",
+     1.2
+    ],
+    [
+     "Chaque jour, le médecin lui répète les mêmes phrases.",
+     1.4
+    ],
+    [
+     "Vous allez écrire un concerto. Vous travaillerez avec facilité. Il sera excellent.",
+     1.8
+    ],
+    [
+     "Des semaines durant, il écoute. Puis il se remet au piano.",
+     1.4
+    ],
+    [
+     "Moins de deux ans plus tard, il joue lui-même son deuxième concerto pour piano. Le public est conquis.",
+     1.4
+    ],
+    [
+     "Il le dédie à son médecin. Il s'appelait Sergueï Rachmaninov.",
+     1.6
+    ],
+    [
+     "Une seule phrase méchante l'a fait taire pendant trois ans.",
+     1.2
+    ],
+    [
+     "Une phrase bienveillante, répétée chaque jour, lui a rendu sa *musique*.",
+     1.6
+    ],
+    [
+     "Alors fais attention à la phrase que tu te répètes chaque matin.",
+     0
+    ]
+   ]
+  }
+ ]
+}

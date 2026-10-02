@@ -1,0 +1,352 @@
+{
+ "nom": "j061",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j061_grandmere",
+   "perso": "grandmere",
+   "episode": 62,
+   "fin": "Envoie-la à l'amie avec qui tu te disputes depuis toujours.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "À Jeanne, je laisse le dernier mot.",
+   "legende": "Il pleuvait. Mais elle m'a laissé le soleil. Et toi, sur quelle bêtise te disputes-tu depuis des années avec ta meilleure amie ? #grandmere #amitie #humour #emotion #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "Pendant cinquante ans, ma meilleure amie et moi, on s'est disputées pour une histoire de *pluie*.",
+     1.3
+    ],
+    [
+     "Est-ce qu'il pleuvait, le jour de mon mariage ?",
+     1.2
+    ],
+    [
+     "Moi, je disais qu'il faisait un soleil magnifique. Germaine jurait qu'il tombait des cordes.",
+     1.2
+    ],
+    [
+     "On en parlait à chaque anniversaire, à chaque repas, à chaque baptême.",
+     1.2
+    ],
+    [
+     "Ton grand-père refusait de prendre parti. Il disait qu'il ne regardait que moi ce jour-là.",
+     1.4
+    ],
+    [
+     "Germaine est partie l'hiver dernier. À quatre-vingt-un ans.",
+     1.6
+    ],
+    [
+     "Chez le notaire, on a lu son testament. Sa machine à coudre pour sa fille. Ses bijoux pour ses petites-filles.",
+     1.2
+    ],
+    [
+     "Et puis, à la fin, une ligne pour moi.",
+     1.6
+    ],
+    [
+     "À Jeanne, je laisse le dernier mot. Il faisait *beau*.",
+     1.8
+    ],
+    [
+     "J'ai ri et pleuré en même temps, devant le notaire qui ne comprenait rien.",
+     1.4
+    ],
+    [
+     "En rentrant, j'ai ressorti l'album de mon mariage.",
+     1.4
+    ],
+    [
+     "Sur la photo devant l'église, tout le monde tient un parapluie.",
+     1.8
+    ],
+    [
+     "Elle avait raison. Elle a eu raison pendant cinquante ans.",
+     1.6
+    ],
+    [
+     "Il pleuvait. Mais elle m'a laissé le *soleil*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j061_grandpere",
+   "perso": "grandpere",
+   "episode": 63,
+   "fin": "Envoie-la à l'ami qui t'a toujours laissé passer.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Laissez-le passer. Il a ses raisons.",
+   "legende": "Un vrai ami ne te force jamais. C'est pour ça que tu finis par le suivre. Et toi, quel ami t'a respecté même quand tu n'étais pas d'accord avec lui ? #grandpere #amitie #usine #loyaute #respect #pourtoi",
+   "phrases": [
+    [
+     "En mai soixante-huit, j'ai traversé le piquet de *grève* de mon meilleur ami.",
+     1.3
+    ],
+    [
+     "L'usine était en grève depuis dix jours. Raymond était le plus remonté de tous.",
+     1.2
+    ],
+    [
+     "Moi, je ne pouvais plus tenir. Ta grand-mère attendait ton père, et on n'avait plus un sou.",
+     1.2
+    ],
+    [
+     "Un matin, j'ai pris ma gamelle et je suis allé jusqu'au portail.",
+     1.4
+    ],
+    [
+     "Ils étaient trente devant l'entrée. Les bras croisés. Raymond au milieu.",
+     1.4
+    ],
+    [
+     "Personne ne bougeait. J'entendais mon cœur dans mes oreilles.",
+     1.4
+    ],
+    [
+     "Raymond m'a regardé longtemps. Puis il a fait un pas de côté.",
+     1.6
+    ],
+    [
+     "Il a dit aux autres : laissez-le *passer*. Il a ses raisons.",
+     1.8
+    ],
+    [
+     "Personne ne m'a touché. Personne n'a rien dit.",
+     1.4
+    ],
+    [
+     "J'ai travaillé toute la journée dans une usine vide. Je n'ai jamais eu aussi honte.",
+     1.4
+    ],
+    [
+     "Le lendemain, je suis retourné au portail. Mais cette fois, je me suis mis à côté de lui.",
+     1.6
+    ],
+    [
+     "Il ne m'avait rien demandé. C'est justement pour ça.",
+     1.4
+    ],
+    [
+     "Un vrai ami ne te force jamais. C'est pour ça que tu finis par le *suivre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j061_pere",
+   "perso": "pere",
+   "episode": 62,
+   "fin": "Envoie-la à l'ami qui ose te dire ce que les autres taisent.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu es en train de rater ton gamin.",
+   "legende": "Tout le monde a besoin d'un ami qui ose lui gâcher un dimanche. Et toi, quel ami t'a dit une vérité que tu ne voulais pas entendre ? #papa #pere #amitie #verite #famille #pourtoi",
+   "phrases": [
+    [
+     "L'année de tes dix ans, je me suis mis à rentrer du travail à six *heures*.",
+     1.3
+    ],
+    [
+     "Tu n'as jamais su pourquoi.",
+     1.2
+    ],
+    [
+     "Avant, je rentrais à neuf heures. Tu dormais déjà.",
+     1.2
+    ],
+    [
+     "Un dimanche, chez mon ami Karim, je parlais de mes dossiers et de mes primes.",
+     1.2
+    ],
+    [
+     "Il m'a coupé, devant tout le monde : comment s'appelle sa maîtresse ?",
+     1.6
+    ],
+    [
+     "Je n'ai pas su répondre. Ni le nom de ton meilleur copain. Ni ton plat préféré.",
+     1.4
+    ],
+    [
+     "Il a dit : tu es en train de *rater* ton gamin. Puis il a resservi les merguez.",
+     1.8
+    ],
+    [
+     "Je suis parti avant le dessert. Je ne lui ai pas parlé pendant un mois.",
+     1.4
+    ],
+    [
+     "Mais cette nuit-là, je n'ai pas dormi.",
+     1.4
+    ],
+    [
+     "Le lundi, j'ai demandé à partir à six heures. Mon patron a ri. J'ai insisté.",
+     1.4
+    ],
+    [
+     "C'est cette année-là qu'on a commencé nos parties de cartes du soir.",
+     1.4
+    ],
+    [
+     "Je n'ai jamais dit à Karim qu'il avait raison.",
+     1.4
+    ],
+    [
+     "Tout le monde a besoin d'un ami qui ose lui gâcher un *dimanche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j061_mere",
+   "perso": "mere",
+   "episode": 62,
+   "fin": "Envoie-la à l'amie qui t'a sauvé d'une mauvaise idée.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Ton prénom, c'est mon amie qui l'a choisi.",
+   "legende": "Les vraies amies te sauvent parfois de toi-même. Et parfois, elles sauvent tes enfants. Et toi, qui t'a sauvé d'une très mauvaise idée ? #maman #mere #amitie #humour #prenom #pourtoi",
+   "phrases": [
+    [
+     "Ton prénom, ce n'est pas moi qui l'ai choisi. C'est ma meilleure amie.",
+     1.3
+    ],
+    [
+     "Et crois-moi, tu lui dois une fière *chandelle*.",
+     1.2
+    ],
+    [
+     "Enceinte, j'avais une idée fixe. Un prénom de grand-tante, que plus personne ne portait depuis un siècle.",
+     1.2
+    ],
+    [
+     "Ton père n'osait rien dire. Ta grand-mère faisait semblant de trouver ça original.",
+     1.4
+    ],
+    [
+     "Valérie, elle, a posé sa tasse.",
+     1.2
+    ],
+    [
+     "Elle a dit : si tu l'appelles comme ça, je ne serai pas sa marraine.",
+     1.6
+    ],
+    [
+     "J'ai pleuré. Je l'ai traitée de sans-cœur. Elle n'a pas bougé d'un millimètre.",
+     1.4
+    ],
+    [
+     "Elle a sorti un carnet, et on a cherché toute la nuit.",
+     1.2
+    ],
+    [
+     "À trois heures du matin, elle a proposé ton prénom. J'ai dit oui.",
+     1.4
+    ],
+    [
+     "Tu veux savoir celui que je voulais ? Non. Crois-moi, tu ne veux pas.",
+     1.6
+    ],
+    [
+     "C'était le prénom de ma grand-tante. *Gertrude*. Pour une fille comme pour un garçon.",
+     1.8
+    ],
+    [
+     "Les vraies amies te sauvent parfois de toi-même. Et parfois, elles sauvent tes enfants.",
+     1.4
+    ],
+    [
+     "Chaque fois que tu signes ton nom, pense à remercier *Valérie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j061_fou",
+   "perso": "fou",
+   "episode": 61,
+   "fin": "Envoie-la à quelqu'un qui a essuyé trop de refus.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Refusé trois fois. Puis accusé de tricher.",
+   "legende": "Un jour, on t'accusera peut-être de tricher. Ce jour-là, souris. Et toi, combien de portes fermées avant la bonne ? #motivation #art #sculpture #rodin #perseverance #pourtoi",
+   "phrases": [
+    [
+     "Un jeune homme a été refusé trois fois à l'École des *beaux-arts*.",
+     1.3
+    ],
+    [
+     "Il voulait être sculpteur. On lui a fermé la porte, encore et encore.",
+     1.2
+    ],
+    [
+     "Alors il travaille pour les autres. Pendant près de vingt ans.",
+     1.2
+    ],
+    [
+     "Des ornements, des décors, des visages pour les façades. Son nom n'apparaît nulle part.",
+     1.4
+    ],
+    [
+     "À trente-sept ans, il expose enfin sa première grande statue. Un jeune homme nu, grandeur nature.",
+     1.4
+    ],
+    [
+     "Le corps est si vrai que personne n'y croit.",
+     1.6
+    ],
+    [
+     "On l'accuse d'avoir *triché*. D'avoir moulé la statue directement sur le corps de son modèle.",
+     1.8
+    ],
+    [
+     "Il doit se défendre, preuves à l'appui.",
+     1.4
+    ],
+    [
+     "Quelques années plus tard, l'État lui commande une porte monumentale.",
+     1.2
+    ],
+    [
+     "Au-dessus, il place un homme assis, le menton posé sur la main.",
+     1.4
+    ],
+    [
+     "On l'appelle Le Penseur. Le sculpteur s'appelait Auguste Rodin.",
+     1.6
+    ],
+    [
+     "Toi aussi, on t'a peut-être fermé des portes. Trois fois. Dix fois.",
+     1.2
+    ],
+    [
+     "Continue. Un jour, on t'accusera peut-être de tricher.",
+     1.4
+    ],
+    [
+     "Ce jour-là, souris. C'est que tu es devenu vraiment *bon*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

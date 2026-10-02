@@ -1,0 +1,364 @@
+{
+ "nom": "j145",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j145_grandmere",
+   "perso": "grandmere",
+   "episode": 146,
+   "fin": "Envoie-la à quelqu'un qui en veut encore à quelqu'un.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Un sac devant notre porte.",
+   "legende": "Ce n'était pas lui qui avait décidé. Mais c'est lui qui avait dû le dire. As-tu déjà découvert le vrai visage de quelqu'un ? #grandmere #gentillesse #secret #famille #travail #pourtoi",
+   "phrases": [
+    [
+     "L'hiver où ton grand-père a perdu son travail, quelqu'un a déposé un *sac* devant notre porte.",
+     1.3
+    ],
+    [
+     "Dedans, du lait, des pâtes, du café. Et des sucres d'orge.",
+     1.2
+    ],
+    [
+     "Pas de mot. Pas de nom. Le samedi suivant, un autre sac.",
+     1.2
+    ],
+    [
+     "Pendant six mois, chaque samedi, avant le jour.",
+     1.4
+    ],
+    [
+     "Ton grand-père était furieux. Il disait : on n'est pas des mendiants.",
+     1.2
+    ],
+    [
+     "Moi, je rangeais les pâtes dans le placard. La fierté ne remplit pas les assiettes.",
+     1.4
+    ],
+    [
+     "Il a retrouvé du travail au printemps. Les sacs se sont arrêtés.",
+     1.2
+    ],
+    [
+     "Trente ans plus tard, j'ai croisé la veuve de son ancien contremaître.",
+     1.4
+    ],
+    [
+     "Ce contremaître, c'est lui qui avait annoncé son renvoi à ton grand-père.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : mon mari n'a pas dormi pendant six mois.",
+     1.6
+    ],
+    [
+     "Le vendredi, je préparais un sac. Il le portait chez vous, à pied, avant l'*aube*.",
+     1.8
+    ],
+    [
+     "Ce n'était pas lui qui avait décidé. Mais c'est lui qui avait dû le dire.",
+     1.6
+    ],
+    [
+     "On croit connaître les gens par le mal qu'ils nous ont fait. On ignore ce qu'ils ont fait après.",
+     1.4
+    ],
+    [
+     "Ne juge jamais quelqu'un sur la seule *porte* que tu l'as vu fermer.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j145_grandpere",
+   "perso": "grandpere",
+   "episode": 147,
+   "fin": "Envoie-la à quelqu'un qui donne son sang.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Grâce au sang d'un inconnu.",
+   "legende": "On ne rembourse pas un inconnu. On rembourse tous les autres. Tu as déjà donné ton sang, toi ? #grandpere #dondusang #gentillesse #gratitude #pere #pourtoi",
+   "phrases": [
+    [
+     "Ton père est vivant grâce au *sang* d'un inconnu.",
+     1.3
+    ],
+    [
+     "À sa naissance, il y a eu un problème. Il fallait du sang, tout de suite.",
+     1.2
+    ],
+    [
+     "Je suis resté dans le couloir, ma casquette dans les mains. Je ne pouvais rien faire.",
+     1.4
+    ],
+    [
+     "Le lendemain, le médecin m'a dit : il est sauvé. Grâce à un donneur.",
+     1.4
+    ],
+    [
+     "J'ai demandé qui c'était. Il a dit : on ne sait jamais. C'est anonyme.",
+     1.4
+    ],
+    [
+     "Je n'ai pas pu dire merci. Ça m'est resté en travers.",
+     1.4
+    ],
+    [
+     "Alors un mois plus tard, je suis allé donner mon sang. Pour la première fois.",
+     1.4
+    ],
+    [
+     "Puis j'y suis retourné. Et encore. Pendant quarante ans.",
+     1.2
+    ],
+    [
+     "Dans mon portefeuille, il y a une petite carte. Cent vingt dons.",
+     1.6
+    ],
+    [
+     "Je ne sais pas qui les a reçus. Eux non plus ne savent pas qui je suis.",
+     1.4
+    ],
+    [
+     "Peut-être un ouvrier. Une grand-mère. Un bébé qui venait de naître.",
+     1.6
+    ],
+    [
+     "Celui qui a sauvé ton père ne saura jamais que j'ai essayé de le *remercier*. Cent vingt fois.",
+     1.8
+    ],
+    [
+     "Si un jour tu peux donner ton sang, fais-le.",
+     1.2
+    ],
+    [
+     "On ne rembourse pas un inconnu. On rembourse tous les *autres*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j145_pere",
+   "perso": "pere",
+   "episode": 146,
+   "fin": "Envoie-la à quelqu'un qui t'a offert quelque chose de précieux.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ce n'est pas moi qui l'ai acheté.",
+   "legende": "Il ne te regardait pas, toi. Il regardait le vélo de son fils rouler à nouveau. Tu te souviens de ton premier vélo ? #papa #pere #gentillesse #voisins #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ton premier vélo, ce n'est pas moi qui l'ai acheté. Je l'ai juste *repeint*.",
+     1.3
+    ],
+    [
+     "Cette année-là, j'étais au chômage. Un vélo, c'était impossible.",
+     1.2
+    ],
+    [
+     "Le voisin d'en face, monsieur Garnier, t'avait vu pleurer devant une vitrine.",
+     1.2
+    ],
+    [
+     "Un soir, il a frappé chez nous. Il tenait un vélo bleu, un peu rouillé.",
+     1.4
+    ],
+    [
+     "Il a dit : il ne sert plus à personne. Prenez-le.",
+     1.4
+    ],
+    [
+     "J'ai passé trois nuits dans le garage à le poncer. Je l'ai peint en rouge. Ta couleur.",
+     1.4
+    ],
+    [
+     "À Noël, tu as crié si fort que tout le quartier t'a entendu.",
+     1.2
+    ],
+    [
+     "Tous les soirs, tu faisais le tour du quartier. Monsieur Garnier était à sa fenêtre.",
+     1.4
+    ],
+    [
+     "Des années plus tard, j'ai appris pourquoi.",
+     1.6
+    ],
+    [
+     "Ce vélo était celui de son fils. Il était mort à huit ans, d'une maladie.",
+     1.6
+    ],
+    [
+     "Il ne te regardait pas, toi. Il regardait le vélo de son fils *rouler* à nouveau.",
+     1.8
+    ],
+    [
+     "Il m'avait fait un cadeau. Et sans le savoir, tu lui en faisais un tous les soirs.",
+     1.4
+    ],
+    [
+     "On croit que celui qui reçoit doit tout à celui qui donne.",
+     1.2
+    ],
+    [
+     "Parfois, c'est celui qui *reçoit* qui rend la vie à l'autre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j145_mere",
+   "perso": "mere",
+   "episode": 146,
+   "fin": "Envoie-la à un jeune parent qui doute.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Cinq mots au supermarché.",
+   "legende": "Elle m'a donné ce que personne ne donne aux mères. La permission de ne pas être parfaite. Qui t'a dit que tu faisais du bon travail ? #maman #mere #parents #bienveillance #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Un jour, une inconnue m'a dit cinq *mots* au supermarché. Je ne les ai jamais oubliés.",
+     1.3
+    ],
+    [
+     "Tu avais deux ans. Tu hurlais par terre, au rayon des biscuits.",
+     1.2
+    ],
+    [
+     "J'avais dit non à un paquet. Le monde entier devait le savoir.",
+     1.4
+    ],
+    [
+     "Un monsieur a soupiré. Une dame a dit : il faudrait le tenir, celui-là.",
+     1.4
+    ],
+    [
+     "J'avais les joues en feu. J'avais envie de t'abandonner au rayon céréales.",
+     1.4
+    ],
+    [
+     "Et puis une vieille dame s'est arrêtée. Elle a posé la main sur mon bras.",
+     1.4
+    ],
+    [
+     "J'ai cru qu'elle allait me faire la leçon. Elle a dit : vous faites du bon *travail*.",
+     1.8
+    ],
+    [
+     "Cinq mots. Puis elle est repartie avec son chariot.",
+     1.6
+    ],
+    [
+     "Je me suis assise par terre, à côté de toi. On a pleuré tous les deux.",
+     1.4
+    ],
+    [
+     "Ce jour-là, elle m'a donné ce que personne ne donne aux mères.",
+     1.4
+    ],
+    [
+     "La permission de ne pas être parfaite.",
+     1.6
+    ],
+    [
+     "La semaine dernière, je t'ai vu au parc avec ta fille. Elle hurlait par terre.",
+     1.4
+    ],
+    [
+     "Tu avais les joues en feu. Exactement comme moi.",
+     1.6
+    ],
+    [
+     "Alors aujourd'hui, c'est à toi que je les dis. Tu fais du bon *travail*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j145_fou",
+   "perso": "fou",
+   "episode": 145,
+   "fin": "Envoie-la à un héros discret que tu connais.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Il marche seul pendant dix-huit heures.",
+   "legende": "Il ouvre une auberge. Il l'appelle l'auberge du Pôle Sud. Et il ne raconte presque jamais ses exploits. Tu connais un héros discret, toi ? #motivation #exploration #antarctique #histoirevraie #humilite #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent douze, en Antarctique, un marin irlandais marche *seul* pendant dix-huit heures.",
+     1.3
+    ],
+    [
+     "Il s'appelle Tom Crean. Derrière lui, sous une tente, un officier est en train de mourir.",
+     1.2
+    ],
+    [
+     "Le scorbut. L'officier ne peut plus marcher. Un troisième homme reste à ses côtés.",
+     1.2
+    ],
+    [
+     "Crean, lui, part chercher du secours. À pied. Presque sans nourriture.",
+     1.4
+    ],
+    [
+     "Plus de cinquante kilomètres sur la glace. S'il s'arrête, il gèle.",
+     1.4
+    ],
+    [
+     "Il arrive à la base à bout de forces. L'officier est *sauvé*.",
+     1.6
+    ],
+    [
+     "Quelques années plus tard, il repart. Cette fois avec Shackleton.",
+     1.4
+    ],
+    [
+     "Il est l'un des trois hommes qui traversent des montagnes inconnues pour sauver tout l'équipage.",
+     1.4
+    ],
+    [
+     "Et puis il rentre chez lui, dans son petit village d'Irlande.",
+     1.2
+    ],
+    [
+     "Il ouvre une petite auberge. Il l'appelle l'auberge du Pôle Sud.",
+     1.6
+    ],
+    [
+     "Et il ne raconte presque jamais ses exploits.",
+     1.6
+    ],
+    [
+     "Il sert à boire. Il élève sa famille. Il se tait.",
+     1.6
+    ],
+    [
+     "Toi, tu crois peut-être qu'il faut que les autres sachent ce que tu as fait.",
+     1.2
+    ],
+    [
+     "Le vrai courage n'a pas besoin qu'on l'applaudisse. Il lui suffit d'avoir *marché*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

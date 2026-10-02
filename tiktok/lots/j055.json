@@ -1,0 +1,344 @@
+{
+ "nom": "j055",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j055_grandmere",
+   "perso": "grandmere",
+   "episode": 56,
+   "fin": "Envoie-la à l'amie qui te souffle les mots.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "On ne parlait pas la même langue.",
+   "legende": "Je lui ai donné ma langue. Elle me la rend, mot par mot. Et toi, qu'est-ce qu'une amie t'a appris que tu n'oublieras jamais ? #grandmere #amitie #tendresse #emotion #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "Ma meilleure amie et moi, on ne s'est pas parlé pendant un an. On ne parlait pas la même *langue*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent soixante-cinq, Maria est arrivée du Portugal avec un bébé dans les bras.",
+     1.2
+    ],
+    [
+     "Au lavoir, on frottait notre linge côte à côte. On se souriait, c'est tout.",
+     1.2
+    ],
+    [
+     "Un matin, son bébé brûlait de fièvre. Elle ne savait pas dire médecin.",
+     1.4
+    ],
+    [
+     "Je l'ai prise par le bras et on a couru jusque chez le docteur.",
+     1.2
+    ],
+    [
+     "Après ça, je lui ai appris le français avec les étiquettes du marché.",
+     1.2
+    ],
+    [
+     "Elle, elle m'a appris la morue et à chanter en étendant le linge.",
+     1.4
+    ],
+    [
+     "Son premier mot de français, c'était mon prénom.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, à quatre-vingts ans, c'est moi qui perds les *mots*.",
+     1.4
+    ],
+    [
+     "Ils m'échappent au milieu des phrases. Le nom d'une fleur, d'une rue, d'un voisin.",
+     1.4
+    ],
+    [
+     "Alors Maria me les souffle, tout bas, sans que personne ne le remarque.",
+     1.8
+    ],
+    [
+     "Ce que tu donnes à une amie, elle te le garde. Pour le jour où tu en auras besoin.",
+     1.4
+    ],
+    [
+     "Je lui ai donné ma langue. Elle me la *rend*, mot par mot.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j055_grandpere",
+   "perso": "grandpere",
+   "episode": 57,
+   "fin": "Envoie-la à l'ami avec qui tu es bête depuis toujours.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "La cravate la plus laide de France.",
+   "legende": "Trouve-toi un ami avec qui être bête jusqu'à quatre-vingts ans. Et toi, quelle blague dure depuis des années avec ton meilleur ami ? #grandpere #amitie #humour #anniversaire #pourtoi",
+   "phrases": [
+    [
+     "Depuis cinquante ans, mon ami Marcel et moi, on s'offre la même *cravate* pour nos anniversaires.",
+     1.3
+    ],
+    [
+     "Verte, à pois orange. La plus laide de France.",
+     1.2
+    ],
+    [
+     "Je la lui ai offerte pour ses trente ans, pour rire. Il me l'a rendue l'année d'après.",
+     1.2
+    ],
+    [
+     "Depuis, elle fait l'aller-retour. Et chaque année, il faut la cacher un peu mieux.",
+     1.2
+    ],
+    [
+     "Je l'ai mise dans un pot de rillettes. Il l'a cousue dans la doublure de mon manteau.",
+     1.4
+    ],
+    [
+     "Une fois, il me l'a envoyée dans un colis de six kilos de cailloux.",
+     1.2
+    ],
+    [
+     "Nos enfants trouvaient ça ridicule. Nous, on pleurait de rire.",
+     1.4
+    ],
+    [
+     "Mardi dernier, ta grand-mère a vu la cravate sur la table de la cuisine.",
+     1.4
+    ],
+    [
+     "Elle a pâli. Elle a dit : c'est moi qui te l'avais offerte. Pour tes trente ans.",
+     1.8
+    ],
+    [
+     "Un mois plus tard, je l'avais donnée à Marcel. J'avais complètement oublié d'où elle venait.",
+     1.6
+    ],
+    [
+     "Ça fait une semaine qu'elle ne me parle plus. Marcel, lui, n'a jamais autant ri.",
+     1.4
+    ],
+    [
+     "Trouve-toi un ami avec qui être *bête* jusqu'à quatre-vingts ans.",
+     1.2
+    ],
+    [
+     "Mais vérifie d'abord qui t'a offert la cravate.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j055_pere",
+   "perso": "pere",
+   "episode": 56,
+   "fin": "Envoie-la à l'ami qui a osé te fâcher pour te protéger.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Ce n'était pas un hasard.",
+   "legende": "Un vrai ami préfère que tu le détestes plutôt que de te perdre. Et toi, qui a déjà pris le risque de te fâcher pour te protéger ? #papa #pere #amitie #loyaute #adolescence #pourtoi",
+   "phrases": [
+    [
+     "L'été de tes seize ans, je suis arrivé à la carrière cinq minutes avant ton saut.",
+     1.3
+    ],
+    [
+     "Tu étais au bord de la falaise, en maillot, les orteils dans le vide.",
+     1.2
+    ],
+    [
+     "Quinze mètres plus bas, l'eau noire. Deux garçons s'y étaient blessés l'année d'avant.",
+     1.4
+    ],
+    [
+     "Je t'ai dit de descendre. Devant tous tes copains.",
+     1.2
+    ],
+    [
+     "Tu m'as détesté tout l'été. Tu disais que je t'espionnais.",
+     1.4
+    ],
+    [
+     "Tu as même boudé Lucas, ton meilleur ami, parce qu'il n'était pas venu ce jour-là.",
+     1.4
+    ],
+    [
+     "Je ne t'avais pas espionné. Mais ce n'était pas un *hasard* non plus.",
+     1.6
+    ],
+    [
+     "Ce samedi matin-là, quelqu'un avait sonné à la porte. C'était Lucas.",
+     1.8
+    ],
+    [
+     "Il tremblait. Il m'avait tout raconté en regardant ses chaussures.",
+     1.4
+    ],
+    [
+     "Il m'avait dit : s'il apprend que c'est moi, il ne me parlera plus jamais.",
+     1.4
+    ],
+    [
+     "Tout l'été, il t'a laissé lui en vouloir. Sans un mot.",
+     1.4
+    ],
+    [
+     "Il a été ton témoin de mariage. Il ne sait pas que je te le raconte.",
+     1.4
+    ],
+    [
+     "Un vrai ami préfère que tu le détestes plutôt que de te *perdre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j055_mere",
+   "perso": "mere",
+   "episode": 56,
+   "fin": "Envoie-la à l'amie qui a encore ton plat.",
+   "lueurs": [
+    1,
+    8,
+    12
+   ],
+   "accroche": "Vingt ans fâchées pour un plat à gratin.",
+   "legende": "Il m'a fallu vingt ans de courage et une heure de cuisson. Et toi, avec qui es-tu fâché pour une bêtise ? #maman #mere #amitie #humour #reconciliation #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, ma meilleure amie et moi, on ne s'est pas parlé. À cause d'un *plat* à gratin.",
+     1.3
+    ],
+    [
+     "C'était le plat de ma grand-mère. En fonte, orange, avec un éclat sur le bord.",
+     1.2
+    ],
+    [
+     "Je le lui avais prêté pour un repas de fête. Elle ne me l'a jamais rendu.",
+     1.2
+    ],
+    [
+     "Elle disait que je faisais des histoires pour un plat.",
+     1.2
+    ],
+    [
+     "Pendant vingt ans, on s'est croisées au marché en fixant les poireaux.",
+     1.4
+    ],
+    [
+     "Le mois dernier, on a sonné chez moi. C'était elle. Avec le plat.",
+     1.6
+    ],
+    [
+     "Et dans le plat, il y avait un *gratin*. Encore chaud.",
+     1.6
+    ],
+    [
+     "Elle a dit : il m'a fallu vingt ans de courage et une heure de cuisson.",
+     1.6
+    ],
+    [
+     "On l'a mangé debout dans ma cuisine, à même le plat, en riant comme des idiotes.",
+     1.4
+    ],
+    [
+     "Puis elle m'a avoué : tant que j'avais ton plat, j'avais une raison de revenir.",
+     1.8
+    ],
+    [
+     "Ne laisse jamais une bêtise te voler vingt ans.",
+     1.4
+    ],
+    [
+     "Et si une amie ne te rend pas ton plat, ne lui en veux pas. Elle prépare peut-être son *retour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j055_fou",
+   "perso": "fou",
+   "episode": 55,
+   "fin": "Envoie-la à quelqu'un dont on se moque encore.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Un mot inventé pour les humilier.",
+   "legende": "Le mot qu'on invente pour se moquer de toi peut devenir ton nom. Et toi, quelle moquerie as-tu fini par porter fièrement ? #motivation #art #peinture #monet #impressionnisme #pourtoi",
+   "phrases": [
+    [
+     "En mille huit cent soixante-quatorze, un critique parisien se moque d'un petit *tableau*.",
+     1.3
+    ],
+    [
+     "Un port dans la brume. Un soleil orange. Quelques coups de pinceau rapides.",
+     1.2
+    ],
+    [
+     "Le peintre et ses amis ont été refusés au Salon officiel, encore et encore.",
+     1.2
+    ],
+    [
+     "Alors ils ont organisé leur propre exposition, dans l'ancien atelier d'un photographe.",
+     1.4
+    ],
+    [
+     "Le public ricane. Les critiques s'amusent.",
+     1.2
+    ],
+    [
+     "Le tableau s'appelle Impression, soleil levant.",
+     1.4
+    ],
+    [
+     "Le critique écrit qu'un papier peint à peine commencé est plus achevé que cette toile.",
+     1.4
+    ],
+    [
+     "Et pour les humilier, il les baptise d'un mot inventé : les *impressionnistes*.",
+     1.8
+    ],
+    [
+     "Ce mot devait les enterrer.",
+     1.6
+    ],
+    [
+     "Quelques années plus tard, ils reprennent eux-mêmes ce mot pour leurs expositions.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, ce mot remplit les plus grands musées du monde.",
+     1.4
+    ],
+    [
+     "Le peintre du soleil orange s'appelait Claude Monet. Le port, c'était celui du Havre.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, on inventera peut-être un mot pour se moquer de toi.",
+     1.4
+    ],
+    [
+     "Garde-le. Il deviendra peut-être ton *nom*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

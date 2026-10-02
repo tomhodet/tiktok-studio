@@ -1,0 +1,344 @@
+{
+ "nom": "j060",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j060_grandmere",
+   "perso": "grandmere",
+   "episode": 61,
+   "fin": "Envoie-la à l'amie que tu as toujours un peu enviée.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Toute ma vie, j'ai été jalouse d'elle.",
+   "legende": "Ce que tu envies chez les autres, quelqu'un l'envie chez toi. Et toi, de qui as-tu été jaloux sans jamais le dire ? #grandmere #amitie #jalousie #lucidite #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant soixante ans, j'ai été *jalouse* de ma meilleure amie. Elle ne l'a jamais su.",
+     1.3
+    ],
+    [
+     "Colette était plus jolie que moi. Plus drôle, plus mince, plus riche aussi.",
+     1.2
+    ],
+    [
+     "Son mari lui offrait des fleurs. Le mien m'offrait des outils de jardin.",
+     1.4
+    ],
+    [
+     "Ses enfants avaient de bonnes notes. Les miens rentraient avec les genoux en sang.",
+     1.2
+    ],
+    [
+     "À chaque fête, je souriais. Et en rentrant, je me trouvais terne.",
+     1.4
+    ],
+    [
+     "L'été dernier, sur sa terrasse, elle m'a pris la main.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : il faut que je t'avoue quelque chose. Toute ma vie, j'ai été jalouse de toi.",
+     1.8
+    ],
+    [
+     "J'ai cru qu'elle se moquait de moi.",
+     1.4
+    ],
+    [
+     "Elle enviait nos dimanches. Ton grand-père qui me tenait la main au marché. Vos rires dans la cuisine.",
+     1.4
+    ],
+    [
+     "Son mari offrait des fleurs. Mais il ne lui parlait jamais.",
+     1.6
+    ],
+    [
+     "Soixante ans à nous envier en silence. On a ri jusqu'aux *larmes*.",
+     1.6
+    ],
+    [
+     "On aurait dû se le dire à vingt ans.",
+     1.4
+    ],
+    [
+     "Ce que tu envies chez les autres, quelqu'un l'envie chez *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j060_grandpere",
+   "perso": "grandpere",
+   "episode": 62,
+   "fin": "Envoie-la à l'ami d'enfance que tu as perdu de vue.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Tu l'as retrouvé en trois minutes.",
+   "legende": "Tu m'as rendu mon meilleur ami. Cherche les tiens, pendant qu'ils peuvent encore répondre. Et toi, quel ami d'enfance aimerais-tu retrouver ? #grandpere #amitie #retrouvailles #tendresse #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant cinquante ans, j'ai cherché mon meilleur ami. Toi, tu l'as retrouvé en trois *minutes*.",
+     1.3
+    ],
+    [
+     "Jojo et moi, on s'est connus en colonie de vacances, en mille neuf cent cinquante-six.",
+     1.2
+    ],
+    [
+     "Deux gamins de dix ans. Lui venait de Lille, moi de la campagne.",
+     1.2
+    ],
+    [
+     "Pendant dix étés, on s'est retrouvés là-bas. Puis le travail, les mariages.",
+     1.2
+    ],
+    [
+     "Une lettre de moins chaque année. Et puis plus rien. Il avait déménagé.",
+     1.4
+    ],
+    [
+     "J'ai écrit à son ancienne adresse. J'ai demandé à la mairie. Rien.",
+     1.4
+    ],
+    [
+     "À Noël dernier, je t'en ai parlé, comme ça, en épluchant les marrons.",
+     1.4
+    ],
+    [
+     "Tu as sorti ton téléphone. Tu as tapé son nom et sa ville. Trois minutes.",
+     1.4
+    ],
+    [
+     "Tu as dit : c'est lui, papi ? Sur l'écran, un vieux monsieur avec le même *sourire*.",
+     1.8
+    ],
+    [
+     "Le lendemain, on s'est parlé pendant deux heures. Comme si on s'était quittés la veille.",
+     1.6
+    ],
+    [
+     "On a pleuré tous les deux. Sans honte. Deux vieux bonshommes.",
+     1.4
+    ],
+    [
+     "Tu crois que tu ne peux rien m'apprendre. Tu m'as rendu mon meilleur ami.",
+     1.4
+    ],
+    [
+     "Cherche les tiens. Pendant qu'ils peuvent encore *répondre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j060_pere",
+   "perso": "pere",
+   "episode": 61,
+   "fin": "Envoie-la à l'ami qui t'insulte depuis toujours.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Il m'appelle le Nain depuis trente-cinq ans.",
+   "legende": "Les vrais amis ne changent pas de ton quand tu vas mal. Et toi, quel surnom ridicule te donne ton meilleur ami ? #papa #pere #amitie #humour #amisdenfance #pourtoi",
+   "phrases": [
+    [
+     "Depuis trente-cinq ans, mon meilleur ami m'appelle le Nain. Moi, je l'appelle le *Chauve*.",
+     1.3
+    ],
+    [
+     "On ne s'est jamais dit qu'on s'aimait. On s'insulte. C'est notre langue.",
+     1.2
+    ],
+    [
+     "Il a perdu ses cheveux à vingt-deux ans. Moi, je n'ai jamais grandi. On est quittes.",
+     1.4
+    ],
+    [
+     "L'an dernier, il a fait un infarctus. À cinquante-trois ans.",
+     1.4
+    ],
+    [
+     "À l'hôpital, tout le monde chuchotait. Sa femme pleurait. Ses enfants n'osaient pas entrer.",
+     1.4
+    ],
+    [
+     "Moi, je suis entré, et j'ai dit : alors, le Chauve, on fait son intéressant ?",
+     1.6
+    ],
+    [
+     "Il a ouvert un œil. Et il a éclaté de *rire*.",
+     1.8
+    ],
+    [
+     "Toutes ses machines se sont mises à sonner. L'infirmière m'a mis dehors.",
+     1.4
+    ],
+    [
+     "Dans le couloir, sa femme m'a dit : c'est la première fois qu'il rit depuis trois jours.",
+     1.6
+    ],
+    [
+     "Les vrais amis ne changent pas de ton quand tu vas mal.",
+     1.2
+    ],
+    [
+     "C'est comme ça que tu sais que tu vas t'en sortir.",
+     1.4
+    ],
+    [
+     "Il va bien maintenant. Il m'appelle toujours le Nain.",
+     1.4
+    ],
+    [
+     "Le jour où il m'appellera par mon prénom, je saurai que c'est *grave*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j060_mere",
+   "perso": "mere",
+   "episode": 61,
+   "fin": "Envoie-la à quelqu'un qui a toujours cru en toi.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je t'ai menti sur cette dispute.",
+   "legende": "Ce soir-là, j'ai choisi. Et je ne l'ai jamais regretté. Et toi, as-tu déjà perdu un ami pour défendre quelqu'un que tu aimes ? #maman #mere #amitie #loyaute #emotion #pourtoi",
+   "phrases": [
+    [
+     "Il y a quinze ans, j'ai arrêté de voir ma plus vieille amie. Tu m'as demandé pourquoi. J'ai *menti*.",
+     1.3
+    ],
+    [
+     "Je t'ai dit qu'on s'était fâchées pour une histoire d'argent. C'était faux.",
+     1.2
+    ],
+    [
+     "Hélène et moi, on se connaissait depuis l'école primaire. Trente-cinq ans d'amitié.",
+     1.2
+    ],
+    [
+     "Elle avait été là pour tout. Mon mariage, ta naissance, mes pires années.",
+     1.4
+    ],
+    [
+     "Tu avais seize ans. Tu venais de redoubler. Tu passais tes journées enfermé dans ta chambre.",
+     1.4
+    ],
+    [
+     "Un soir, chez elle, après deux verres, elle a parlé de toi.",
+     1.6
+    ],
+    [
+     "Elle a dit : ton fils, il ne fera jamais rien de sa vie. Tu le sais, au fond.",
+     1.8
+    ],
+    [
+     "J'ai posé mon verre. J'ai pris mon manteau. Je ne suis jamais revenue.",
+     1.6
+    ],
+    [
+     "Elle m'a écrit trois fois. Je n'ai jamais répondu.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai *choisi*. Et je ne l'ai jamais regretté.",
+     1.6
+    ],
+    [
+     "Tu as fait beaucoup de choses de ta vie, depuis. Plus que je n'osais l'espérer.",
+     1.4
+    ],
+    [
+     "Je ne le lui ai jamais dit.",
+     1.2
+    ],
+    [
+     "Je n'en ai pas eu *besoin*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j060_fou",
+   "perso": "fou",
+   "episode": 60,
+   "fin": "Envoie-la à quelqu'un qui a cru en toi avant toi.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Sa lettre pour un vieil instituteur.",
+   "legende": "Ma première pensée, après ma mère, a été pour vous. Et toi, qui a cru en toi avant toi ? #motivation #litterature #camus #gratitude #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent cinquante-sept, un écrivain de quarante-quatre ans reçoit le prix *Nobel*.",
+     1.3
+    ],
+    [
+     "Il attend que le bruit autour de lui retombe un peu.",
+     1.2
+    ],
+    [
+     "Puis il écrit une lettre à son ancien instituteur d'Alger.",
+     1.4
+    ],
+    [
+     "Il a grandi dans un quartier pauvre. Son père est mort à la guerre quand il avait moins d'un an.",
+     1.4
+    ],
+    [
+     "Sa mère, presque sourde, ne sait pas lire. Sa grand-mère veut qu'il travaille vite.",
+     1.4
+    ],
+    [
+     "Mais un instituteur a remarqué ce gamin. Il lui donne des cours gratuits, après la classe.",
+     1.4
+    ],
+    [
+     "Il convainc la famille de le laisser continuer l'école. Le garçon obtient une bourse pour le lycée.",
+     1.6
+    ],
+    [
+     "Dans sa lettre, l'écrivain lui dit : ma première pensée, après ma mère, a été pour *vous*.",
+     1.8
+    ],
+    [
+     "Sans vous, rien de tout cela ne serait arrivé.",
+     1.6
+    ],
+    [
+     "L'instituteur s'appelait Louis Germain. L'écrivain, Albert Camus.",
+     1.6
+    ],
+    [
+     "Quelqu'un, un jour, a cru en toi avant toi. Un professeur, une voisine, un entraîneur.",
+     1.4
+    ],
+    [
+     "Tu lui dois peut-être plus que tu ne le crois.",
+     1.2
+    ],
+    [
+     "Écris-lui. Pendant qu'il peut encore lire ta *lettre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

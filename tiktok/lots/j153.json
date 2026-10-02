@@ -1,0 +1,364 @@
+{
+ "nom": "j153",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j153_grandmere",
+   "perso": "grandmere",
+   "episode": 154,
+   "fin": "Envoie-la à quelqu'un qui sait attendre que tu ailles mieux.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Le pot est revenu vide.",
+   "legende": "Remplis-le quand tu pourras. Je ne suis pas pressée. Qui sait attendre que tu ailles mieux, toi ? #grandmere #voisins #deuil #gentillesse #amitie #pourtoi",
+   "phrases": [
+    [
+     "Depuis cinquante ans, ma voisine et moi, on se renvoie le même *pot*. Il ne revient jamais vide.",
+     1.3
+    ],
+    [
+     "À notre emménagement, elle m'a apporté de la soupe dans un pot en grès.",
+     1.2
+    ],
+    [
+     "Je le lui ai rendu avec des biscuits. Elle me l'a rendu avec de la confiture.",
+     1.2
+    ],
+    [
+     "Et ça n'a jamais arrêté. Des œufs, des radis, des crêpes.",
+     1.4
+    ],
+    [
+     "Une fois, un hérisson blessé, dans un torchon.",
+     1.4
+    ],
+    [
+     "On n'en a jamais parlé. C'était notre façon de dire : je suis là.",
+     1.4
+    ],
+    [
+     "Le lendemain de l'enterrement de ton grand-père, le pot est revenu.",
+     1.4
+    ],
+    [
+     "Il était *vide*. Pour la première fois en quarante ans.",
+     1.8
+    ],
+    [
+     "Dedans, il y avait juste un mot. Remplis-le quand tu pourras. Je ne suis pas pressée.",
+     1.6
+    ],
+    [
+     "Il est resté vide sur ma table pendant trois mois.",
+     1.4
+    ],
+    [
+     "Et puis un jour, j'ai eu envie de faire des confitures. J'ai su que j'allais mieux.",
+     1.6
+    ],
+    [
+     "Je lui ai rapporté le pot. Plein. Elle m'a serrée dans ses bras.",
+     1.4
+    ],
+    [
+     "La gentillesse, ce n'est pas toujours donner. Parfois, c'est savoir attendre.",
+     1.2
+    ],
+    [
+     "Le jour où tu rempliras ton pot, tu sauras que tu vas *mieux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j153_grandpere",
+   "perso": "grandpere",
+   "episode": 155,
+   "fin": "Envoie-la à ton partenaire de pétanque.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai perdu exprès pendant dix ans.",
+   "legende": "Je fais semblant d'y croire. Pour que tu continues à venir. Tu as déjà perdu exprès pour faire plaisir à quelqu'un ? #grandpere #petanque #amitie #humour #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai perdu exprès à la *pétanque*. Tous les dimanches.",
+     1.3
+    ],
+    [
+     "Contre Marcel. Quatre-vingt-cinq ans, les mains qui tremblent, les yeux qui fatiguent.",
+     1.2
+    ],
+    [
+     "Avant, c'était le meilleur tireur du canton. Il ne touchait plus rien.",
+     1.2
+    ],
+    [
+     "Les autres ne voulaient plus jouer avec lui. Alors je jouais, moi.",
+     1.4
+    ],
+    [
+     "Je visais à côté. Avec beaucoup de talent. Ça m'a demandé des années d'entraînement.",
+     1.2
+    ],
+    [
+     "Quand il gagnait, il levait les bras. Il payait sa tournée. Il racontait ses victoires d'autrefois.",
+     1.4
+    ],
+    [
+     "Pour ses quatre-vingt-quinze ans, il m'a pris à part, derrière le café.",
+     1.4
+    ],
+    [
+     "Il m'a dit : tu crois que je ne sais pas que tu perds exprès ?",
+     1.6
+    ],
+    [
+     "J'étais rouge comme une tomate. J'ai bafouillé.",
+     1.4
+    ],
+    [
+     "Il a ajouté : je le sais depuis le premier jour.",
+     1.6
+    ],
+    [
+     "Je fais semblant d'y croire. Pour que tu continues à *venir*.",
+     1.8
+    ],
+    [
+     "Dix ans qu'on se mentait. Chacun pour faire plaisir à l'autre.",
+     1.6
+    ],
+    [
+     "Le dimanche suivant, j'ai encore perdu. Il a encore levé les bras.",
+     1.4
+    ],
+    [
+     "Entre vieux amis, on ne compte pas les points. On compte les *dimanches*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j153_pere",
+   "perso": "pere",
+   "episode": 154,
+   "fin": "Envoie-la à quelqu'un que tu n'as jamais remercié.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ce n'est pas moi qui t'ai sorti de la piscine.",
+   "legende": "Je t'ai appris à dire merci. Moi, je ne l'ai pas fait. Le jour où c'était le plus important. Qui n'as-tu jamais remercié ? #papa #pere #aveu #gratitude #inconnu #pourtoi",
+   "phrases": [
+    [
+     "Tout le monde croit que c'est moi qui t'ai sorti de la *piscine*. Ce n'est pas vrai.",
+     1.3
+    ],
+    [
+     "Tu avais quatre ans. On était en vacances, au bord d'une piscine.",
+     1.2
+    ],
+    [
+     "Je lisais le journal. Une minute. Peut-être deux.",
+     1.4
+    ],
+    [
+     "Quand j'ai levé les yeux, tu n'étais plus sur ta serviette.",
+     1.6
+    ],
+    [
+     "Un vieux monsieur avait sauté tout habillé. Il te tenait déjà dans ses bras, au bord.",
+     1.6
+    ],
+    [
+     "Tu toussais. Tu pleurais. Tu étais vivant.",
+     1.6
+    ],
+    [
+     "J'ai couru. Je t'ai pris. Et le monsieur s'est éloigné, trempé, ses chaussures à la main.",
+     1.4
+    ],
+    [
+     "Ta mère est arrivée en courant. Elle m'a vu te serrer contre moi. Elle a cru que c'était moi.",
+     1.6
+    ],
+    [
+     "Et je n'ai *rien* dit. Pendant vingt-cinq ans.",
+     1.8
+    ],
+    [
+     "J'avais honte. Honte de ce journal. Honte de ces deux minutes.",
+     1.4
+    ],
+    [
+     "Je ne connais pas le nom de cet homme. Je ne l'ai jamais remercié.",
+     1.4
+    ],
+    [
+     "Je t'ai appris à dire merci. Moi, je ne l'ai pas fait. Le jour où c'était le plus important.",
+     1.4
+    ],
+    [
+     "Alors je le dis aujourd'hui, à voix haute. Merci, monsieur.",
+     1.6
+    ],
+    [
+     "Quand quelqu'un te sauve, ne laisse personne prendre sa place. Même pas ton *père*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j153_mere",
+   "perso": "mere",
+   "episode": 154,
+   "fin": "Envoie-la à quelqu'un qui a encore son doudou.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ton lapin a fait le tour de la France.",
+   "legende": "Ils auraient pu le laisser aux objets trouvés. Ils l'ont emmené en vacances. Tu as encore ton doudou, toi ? #maman #mere #doudou #gentillesse #enfance #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais trois ans, ton *lapin* a fait le tour de la France sans toi.",
+     1.3
+    ],
+    [
+     "Tu l'avais oublié dans le train, en rentrant de chez ta grand-mère.",
+     1.2
+    ],
+    [
+     "Pendant une semaine, tu n'as presque pas dormi. Moi non plus.",
+     1.2
+    ],
+    [
+     "J'avais appelé la gare, les objets trouvés. Rien.",
+     1.4
+    ],
+    [
+     "Le samedi suivant, un colis est arrivé. Dedans, ton lapin. Et une enveloppe pleine de photos.",
+     1.4
+    ],
+    [
+     "Ton lapin devant un phare. Ton lapin sur une plage. Ton lapin devant une crêpe.",
+     1.4
+    ],
+    [
+     "Avec une lettre à ton nom, écrite en grosses lettres.",
+     1.2
+    ],
+    [
+     "Cher petit, ton lapin a fait un beau voyage. Mais il avait très hâte de rentrer.",
+     1.6
+    ],
+    [
+     "Un couple de retraités l'avait trouvé sur la banquette, en partant en vacances.",
+     1.4
+    ],
+    [
+     "Notre adresse était cousue dans son oreille. Ta grand-mère y avait pensé.",
+     1.4
+    ],
+    [
+     "Ils auraient pu le laisser aux objets trouvés. Ils l'ont emmené en *vacances*.",
+     1.6
+    ],
+    [
+     "Pendant des années, tu as raconté que ton lapin connaissait la Bretagne.",
+     1.4
+    ],
+    [
+     "Un adulte voit un lapin en peluche. Un enfant, lui, a perdu son meilleur ami.",
+     1.2
+    ],
+    [
+     "Ne sous-estime jamais le chagrin d'un enfant. Pour lui, c'est le *monde* entier.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j153_fou",
+   "perso": "fou",
+   "episode": 153,
+   "fin": "Envoie-la à quelqu'un qui a fait demi-tour pour toi.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il a perdu sa course. Il a sauvé un homme.",
+   "legende": "Il a perdu sa course. Il a sauvé un homme. Qui a fait demi-tour pour toi, un jour ? #motivation #voile #mer #solidarite #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En janvier deux mille neuf, près du cap Horn, le bateau d'un marin français se *retourne*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Jean Le Cam. Il est seul, en pleine course autour du monde.",
+     1.2
+    ],
+    [
+     "Il attend dans sa coque à l'envers, dans les vagues glacées.",
+     1.4
+    ],
+    [
+     "Un autre concurrent change de cap pour venir le chercher. Il s'appelle Vincent Riou.",
+     1.4
+    ],
+    [
+     "Il le sauve. Mais pendant le sauvetage, son propre bateau est abîmé.",
+     1.4
+    ],
+    [
+     "Peu après, son mât se brise. Pour lui aussi, la course est finie.",
+     1.6
+    ],
+    [
+     "Il a perdu sa course. Il a sauvé un homme.",
+     1.6
+    ],
+    [
+     "Près de douze ans plus tard, même course. Le Cam a soixante et un ans.",
+     1.4
+    ],
+    [
+     "Dans l'Atlantique Sud, le bateau de Kevin Escoffier se brise en quelques secondes.",
+     1.4
+    ],
+    [
+     "Escoffier saute dans son radeau de survie. Le plus proche, c'est Le Cam.",
+     1.6
+    ],
+    [
+     "Le Cam le voit. Le perd dans la nuit et les vagues. Tourne pendant des heures. Et le *retrouve*.",
+     1.8
+    ],
+    [
+     "Celui qu'on était venu chercher au cap Horn venait de sauver quelqu'un.",
+     1.6
+    ],
+    [
+     "Quelqu'un, un jour, a fait demi-tour pour toi. Même si tu l'as oublié.",
+     1.2
+    ],
+    [
+     "Un jour, ce sera ton tour de faire *demi-tour*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

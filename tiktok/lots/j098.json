@@ -1,0 +1,368 @@
+{
+ "nom": "j098",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j098_grandmere",
+   "perso": "grandmere",
+   "episode": 99,
+   "fin": "Envoie-la à quelqu'un qui regarde passer les avions des autres.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "On a regardé notre avion décoller.",
+   "legende": "Beaucoup de gens passent leur vie derrière une vitre, à regarder décoller les avions des autres. Et toi, quel avion es-tu en train de regarder partir ? #grandmere #humour #vacances #voyage #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-huit, ton grand-père et moi, on a regardé notre avion *décoller*.",
+     1.3
+    ],
+    [
+     "Un voyage pour nos vingt ans de mariage. Une semaine au soleil, payée franc par franc.",
+     1.2
+    ],
+    [
+     "On est arrivés à l'aéroport trois heures en avance. Ton grand-père voulait tout voir.",
+     1.2
+    ],
+    [
+     "Il s'est collé à la grande vitre. Pour lui, les avions qui décollaient, c'était mieux que le cinéma.",
+     1.2
+    ],
+    [
+     "Il les commentait tous. Celui-là va en Italie. Celui-là, regarde comme il monte.",
+     1.2
+    ],
+    [
+     "Moi, je surveillais les valises. Lui, il surveillait le ciel.",
+     1.4
+    ],
+    [
+     "À un moment, il m'a dit : regarde celui-là, comme il est beau.",
+     1.6
+    ],
+    [
+     "C'était le *nôtre*.",
+     1.8
+    ],
+    [
+     "On n'avait pas entendu l'appel. On était trop occupés à regarder les autres partir.",
+     1.6
+    ],
+    [
+     "On a attendu deux jours le vol suivant. Sur des chaises en plastique.",
+     1.4
+    ],
+    [
+     "Ton grand-père a fait tout le voyage le nez collé au hublot. Comme un enfant.",
+     1.4
+    ],
+    [
+     "Beaucoup de gens passent leur vie derrière une vitre. À regarder décoller les avions des autres.",
+     1.4
+    ],
+    [
+     "Ne regarde pas trop longtemps. Le tien finit par partir sans toi.",
+     1.2
+    ],
+    [
+     "Écoute l'appel. Et *monte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j098_grandpere",
+   "perso": "grandpere",
+   "episode": 100,
+   "fin": "Envoie-la à quelqu'un qui t'ouvrirait même en caleçon.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "La porte a claqué. J'étais en caleçon.",
+   "legende": "Il te faut au moins une personne chez qui tu peux sonner en caleçon. Et toi, chez qui tu pourrais sonner ? #grandpere #humour #amitie #voisins #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Un samedi matin, la porte a claqué derrière moi. J'étais en *caleçon*.",
+     1.3
+    ],
+    [
+     "Ta grand-mère était au marché. J'étais sorti chercher le journal.",
+     1.2
+    ],
+    [
+     "Huit heures du matin, en plein mois de mars. Sans clé, sans pantalon.",
+     1.2
+    ],
+    [
+     "J'ai sonné chez Roger, mon copain de pétanque depuis vingt ans.",
+     1.2
+    ],
+    [
+     "Il a éclaté de rire. Puis il a refermé la porte pour appeler sa femme.",
+     1.4
+    ],
+    [
+     "J'ai sonné en face, chez un voisin à qui je disais à peine bonjour.",
+     1.6
+    ],
+    [
+     "Il n'a pas ri. Il m'a tendu un pantalon, un café, et son *échelle*.",
+     1.8
+    ],
+    [
+     "Il a tenu l'échelle pendant que je passais par la fenêtre.",
+     1.4
+    ],
+    [
+     "Il n'en a jamais parlé. Roger, lui, l'a raconté à tout le café.",
+     1.4
+    ],
+    [
+     "Ce voisin s'appelait André. Il a été mon meilleur ami pendant trente ans.",
+     1.6
+    ],
+    [
+     "Tes vrais amis, ce ne sont pas ceux qui rient avec toi le samedi soir.",
+     1.4
+    ],
+    [
+     "Ce sont ceux qui t'ouvrent quand tu es ridicule. Et qui se taisent après.",
+     1.4
+    ],
+    [
+     "Il te faut au moins une personne chez qui tu peux sonner en caleçon.",
+     1.2
+    ],
+    [
+     "Et garde toujours un *pantalon* d'avance pour celui qui sonnera chez toi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j098_pere",
+   "perso": "pere",
+   "episode": 99,
+   "fin": "Envoie-la à quelqu'un qui invente toujours des excuses.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Pour un grippé, il a de la voix.",
+   "legende": "Un vrai non vexe une heure. Un faux malade, on te le ressort pendant trente ans. Et toi, tu sais dire non sans inventer d'excuse ? #papa #pere #humour #famille #direnon #pourtoi",
+   "phrases": [
+    [
+     "Un dimanche, j'ai fait semblant d'être malade pour fuir un repas de famille. Le soir, j'étais à la *télévision*.",
+     1.3
+    ],
+    [
+     "La communion de ma petite cousine. Six heures à table.",
+     1.2
+    ],
+    [
+     "Le même jour, il y avait un grand match au stade.",
+     1.2
+    ],
+    [
+     "J'ai appelé ma tante d'une voix mourante : grosse grippe.",
+     1.2
+    ],
+    [
+     "Elle m'a promis de me garder du gâteau.",
+     1.2
+    ],
+    [
+     "Au stade, on a marqué à la dernière minute. J'ai hurlé debout sur mon siège.",
+     1.4
+    ],
+    [
+     "Le visage peint en bleu. Une caméra s'est arrêtée sur moi.",
+     1.6
+    ],
+    [
+     "Chez ma tante, après le dessert, toute la famille regardait le match.",
+     1.6
+    ],
+    [
+     "Ma tante a posé sa tasse. Elle a dit : pour un grippé, il a de la *voix*.",
+     1.8
+    ],
+    [
+     "Depuis trente ans, à chaque repas, elle me demande si je suis bien guéri.",
+     1.6
+    ],
+    [
+     "Je n'avais pas besoin de mentir. J'avais besoin d'apprendre à dire non.",
+     1.4
+    ],
+    [
+     "Un vrai non vexe une heure. Un faux malade, on te le ressort pendant trente ans.",
+     1.4
+    ],
+    [
+     "Alors quand tu ne veux pas venir, dis-le. Gentiment, mais franchement.",
+     1.2
+    ],
+    [
+     "Sinon, il y aura toujours une caméra pour te *guérir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j098_mere",
+   "perso": "mere",
+   "episode": 99,
+   "fin": "Envoie-la à quelqu'un qui a un patron très froid.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai dit je t'aime à mon patron.",
+   "legende": "Les gens les plus froids sont souvent ceux à qui plus personne ne dit rien de chaud. Et toi, à qui pourrais-tu dire un mot tendre cette semaine ? #maman #mere #humour #travail #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Un vendredi soir, j'ai dit je t'aime à mon *patron*. Par réflexe.",
+     1.3
+    ],
+    [
+     "Avec ton père, on se le dit chaque fois qu'on se quitte. Depuis vingt ans.",
+     1.2
+    ],
+    [
+     "Mon patron, lui, était l'homme le plus froid de l'entreprise. Il ne disait jamais bonjour.",
+     1.2
+    ],
+    [
+     "Ce soir-là, il est passé devant mon bureau, son manteau sur le bras. Il a grogné : à lundi.",
+     1.2
+    ],
+    [
+     "J'ai répondu sans lever les yeux : à lundi, je t'aime.",
+     1.4
+    ],
+    [
+     "Il s'est arrêté. Moi aussi. Le temps s'est arrêté.",
+     1.6
+    ],
+    [
+     "Il m'a regardée longtemps. Puis il a dit tout bas : on ne me l'avait pas dit depuis des années.",
+     1.6
+    ],
+    [
+     "Et il est parti.",
+     1.4
+    ],
+    [
+     "Pendant deux jours, j'ai préparé ma lettre de démission.",
+     1.4
+    ],
+    [
+     "Le lundi, il est arrivé avec des *croissants*. Pour tout le service.",
+     1.8
+    ],
+    [
+     "Il a dit bonjour à chacun. Il ne m'a jamais reparlé du vendredi.",
+     1.4
+    ],
+    [
+     "Mais jusqu'à sa retraite, il a apporté les croissants tous les lundis.",
+     1.4
+    ],
+    [
+     "Un mot tendre, même par erreur, peut réchauffer quelqu'un pendant des années.",
+     1.2
+    ],
+    [
+     "Les gens les plus froids sont souvent ceux à qui plus personne ne dit rien de *chaud*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j098_fou",
+   "perso": "fou",
+   "episode": 98,
+   "fin": "Envoie-la à quelqu'un qui doute de son talent.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "On appelle un jade une pierre.",
+   "legende": "Ceux qui ne voient pas le jade ne changent rien à ce qu'il y a dedans. Et toi, qui a déjà traité ton rêve de pierre ordinaire ? #motivation #conte #chine #perseverance #confiance #pourtoi",
+   "phrases": [
+    [
+     "Dans un vieux récit chinois, un homme offre une pierre à son roi. On lui coupe un *pied*.",
+     1.3
+    ],
+    [
+     "Dans la montagne, il a trouvé cette pierre. Il sait qu'elle cache du jade.",
+     1.2
+    ],
+    [
+     "Le joaillier du roi la regarde. Il dit : c'est une pierre ordinaire.",
+     1.4
+    ],
+    [
+     "Le roi le prend pour un menteur.",
+     1.4
+    ],
+    [
+     "Un nouveau roi arrive. L'homme revient avec sa pierre.",
+     1.2
+    ],
+    [
+     "Même joaillier. Même réponse. On lui coupe l'autre pied.",
+     1.6
+    ],
+    [
+     "Sous le troisième roi, il ne se présente même plus.",
+     1.4
+    ],
+    [
+     "Il s'assoit au bas de la montagne, sa pierre contre lui. Il pleure trois jours, trois nuits.",
+     1.6
+    ],
+    [
+     "Le roi lui fait demander pourquoi.",
+     1.4
+    ],
+    [
+     "Il répond : je ne pleure pas pour mes pieds. Je pleure parce qu'on appelle un jade une *pierre*.",
+     1.6
+    ],
+    [
+     "Et un homme honnête, un menteur.",
+     1.8
+    ],
+    [
+     "Le roi fait tailler la pierre. Dedans, il y a le plus beau jade du royaume.",
+     1.6
+    ],
+    [
+     "Ce jade porte encore le nom de cet homme.",
+     1.4
+    ],
+    [
+     "On t'a peut-être dit que ton rêve n'était qu'une pierre.",
+     1.4
+    ],
+    [
+     "Garde-la. Ceux qui ne voient pas le jade ne changent rien à ce qu'il y a *dedans*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

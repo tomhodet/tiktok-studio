@@ -1,0 +1,356 @@
+{
+ "nom": "j111",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j111_grandmere",
+   "perso": "grandmere",
+   "episode": 112,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas faire le premier numéro.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Vingt ans que j'attends que tu te trompes.",
+   "legende": "Parfois, pour réparer une famille, il suffit de se tromper de numéro. Et toi, qui attends-tu qu'on appelle en premier ? #grandmere #soeurs #famille #humour #reconciliation #pourtoi",
+   "phrases": [
+    [
+     "Après vingt ans de silence, j'ai appelé ma sœur. Par *erreur*.",
+     1.3
+    ],
+    [
+     "On s'était fâchées à l'enterrement de notre père. Une histoire de chaises, de places, de fierté.",
+     1.2
+    ],
+    [
+     "Vingt ans. Elle habitait à huit kilomètres. Même marché, pas les mêmes heures.",
+     1.4
+    ],
+    [
+     "L'hiver dernier, mon évier a débordé. J'ai cherché le numéro du plombier dans mon vieux carnet.",
+     1.2
+    ],
+    [
+     "Il était juste en dessous du sien. Avec mes lunettes de travers, je me suis trompée de ligne.",
+     1.4
+    ],
+    [
+     "Ça a sonné une fois. Elle a décroché. J'ai reconnu sa voix tout de suite.",
+     1.6
+    ],
+    [
+     "J'ai dit : pardon, je me suis trompée de numéro. J'allais raccrocher.",
+     1.4
+    ],
+    [
+     "Elle a dit : ça fait vingt ans que j'attends que tu te *trompes*.",
+     1.8
+    ],
+    [
+     "On est restées une heure au téléphone. L'eau coulait toujours dans la cuisine.",
+     1.4
+    ],
+    [
+     "Le plombier est venu le lendemain. Ma sœur aussi. Avec une tarte.",
+     1.4
+    ],
+    [
+     "Vingt ans perdus parce qu'aucune de nous ne voulait faire le premier numéro.",
+     1.4
+    ],
+    [
+     "Si tu n'arrives pas à appeler quelqu'un, fais semblant de te tromper.",
+     1.2
+    ],
+    [
+     "Parfois, pour réparer une famille, il suffit de se tromper de *numéro*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j111_grandpere",
+   "perso": "grandpere",
+   "episode": 113,
+   "fin": "Envoie-la à quelqu'un qui vit entre sa femme et sa mère.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Elles se sont plaintes de moi. Ensemble.",
+   "legende": "Dans une famille, les pires ennemis attendent souvent une bonne raison de s'aimer. Et toi, qui se dispute le plus dans ta famille ? #grandpere #bellemere #famille #humour #couple #pourtoi",
+   "phrases": [
+    [
+     "L'abri de jardin, au fond, je ne l'ai pas construit pour les *outils*.",
+     1.3
+    ],
+    [
+     "Ma mère est venue vivre chez nous en mille neuf cent soixante-quinze. Après la mort de mon père.",
+     1.2
+    ],
+    [
+     "Deux femmes dans une seule cuisine. Ta grand-mère et ma mère.",
+     1.2
+    ],
+    [
+     "Ça a été la guerre. La guerre du sel, la guerre des rideaux, la guerre du linge.",
+     1.4
+    ],
+    [
+     "Chacune venait se plaindre de l'autre. À moi. Le soir.",
+     1.4
+    ],
+    [
+     "Alors j'ai construit l'abri. Officiellement pour les outils. En vrai, pour me cacher.",
+     1.6
+    ],
+    [
+     "J'y passais mes dimanches. Avec un poste de radio et une chaise pliante.",
+     1.2
+    ],
+    [
+     "Un hiver, ma mère est tombée malade. C'est ta grand-mère qui l'a soignée. Jour et nuit.",
+     1.4
+    ],
+    [
+     "Je ne sais pas ce qu'elles se sont dit pendant ces nuits-là.",
+     1.4
+    ],
+    [
+     "Mais au printemps, elles faisaient les confitures ensemble. En chantant.",
+     1.6
+    ],
+    [
+     "Et à partir de ce jour, elles se sont plaintes de *moi*. Ensemble.",
+     1.8
+    ],
+    [
+     "J'ai gardé mon abri. J'en avais encore plus besoin.",
+     1.4
+    ],
+    [
+     "Dans une famille, les pires ennemis attendent souvent une bonne raison de s'aimer.",
+     1.2
+    ],
+    [
+     "Le jour où ils la trouvent, prévois un *abri* de jardin.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j111_pere",
+   "perso": "pere",
+   "episode": 112,
+   "fin": "Envoie-la à quelqu'un qui a un beau-père en or.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je l'appelais le locataire.",
+   "legende": "Il était arrivé comme un locataire. Il est reparti comme un père. Et toi, qui t'a appris à conduire ? #papa #pere #beaupere #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "À quinze ans, j'appelais le nouveau mari de ma mère : le *locataire*.",
+     1.3
+    ],
+    [
+     "Mon père était parti. Lui, il était arrivé avec deux valises et un chien.",
+     1.2
+    ],
+    [
+     "Je ne lui disais pas bonjour. Je mangeais dans ma chambre.",
+     1.2
+    ],
+    [
+     "Il ne s'est jamais fâché. Il n'a jamais essayé de jouer au père.",
+     1.4
+    ],
+    [
+     "Il laissait juste ses clés de voiture sur la table, le samedi matin. Au cas où.",
+     1.4
+    ],
+    [
+     "Au bout de six mois, j'ai pris les clés. Il m'a appris à conduire sur un parking.",
+     1.4
+    ],
+    [
+     "Il ne parlait presque pas. Il disait juste : doucement, l'embrayage.",
+     1.2
+    ],
+    [
+     "Le jour de mon permis, il attendait devant le centre d'examen.",
+     1.4
+    ],
+    [
+     "Quand j'ai eu mon papier rose, il a levé le pouce. Et il est rentré à pied.",
+     1.4
+    ],
+    [
+     "Il m'avait laissé sa voiture. Pour que je rentre en conduisant.",
+     1.8
+    ],
+    [
+     "Il a vécu avec ma mère trente ans. Je ne l'ai jamais appelé papa.",
+     1.4
+    ],
+    [
+     "Mais quand je t'ai appris à conduire, je me suis entendu dire : doucement, l'*embrayage*.",
+     1.6
+    ],
+    [
+     "Il était arrivé comme un locataire. Il est reparti comme un *père*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j111_mere",
+   "perso": "mere",
+   "episode": 112,
+   "fin": "Envoie-la à quelqu'un qui a dit je te déteste à seize ans.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Tu m'as crié : je te déteste.",
+   "legende": "Je t'avais pardonné avant même que tu arrives au bout de la rue. Et toi, quelle phrase regrettes-tu d'avoir dite à tes parents ? #maman #mere #adolescence #famille #pardon #pourtoi",
+   "phrases": [
+    [
+     "Le soir de tes seize ans, tu m'as crié : je te *déteste*.",
+     1.3
+    ],
+    [
+     "Je t'avais interdit une fête. Tu as pris ton sac et tu es parti dormir chez un copain.",
+     1.2
+    ],
+    [
+     "Je suis restée à la fenêtre jusqu'à trois heures du matin. Sans t'appeler, par fierté.",
+     1.4
+    ],
+    [
+     "Le lendemain, tu es rentré pour le déjeuner, comme si de rien n'était. Moi aussi.",
+     1.2
+    ],
+    [
+     "On n'en a jamais reparlé. Pendant quinze ans.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu m'as appelée à dix heures du soir. Ta voix était bizarre.",
+     1.2
+    ],
+    [
+     "Ta fille venait de te crier : je te déteste. Parce que tu lui avais refusé une glace.",
+     1.6
+    ],
+    [
+     "Elle a quatre ans. Elle était partie bouder dans le jardin. Avec son sac à dos.",
+     1.4
+    ],
+    [
+     "Et tu m'as dit : maman, *pardon* pour mes seize ans.",
+     1.8
+    ],
+    [
+     "J'ai ri. Puis j'ai pleuré. Puis j'ai ri encore, au téléphone, comme une idiote.",
+     1.4
+    ],
+    [
+     "Il t'a fallu quinze ans et une glace à la fraise pour me demander pardon.",
+     1.4
+    ],
+    [
+     "Je vais te dire un secret. Ta fille ne te déteste pas.",
+     1.2
+    ],
+    [
+     "Et moi, je t'avais pardonné avant même que tu arrives au bout de la *rue*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j111_fou",
+   "perso": "fou",
+   "episode": 111,
+   "fin": "Envoie-la à quelqu'un qui se croit trop vieux pour recommencer.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Ils ne sont jamais arrivés à Brême.",
+   "legende": "Tu n'arriveras peut-être jamais à Brême. Mais en chemin, tu trouveras les tiens. Et toi, qui as-tu trouvé sur ton chemin ? #motivation #conte #grimm #nouveaudepart #amitie #pourtoi",
+   "phrases": [
+    [
+     "Dans un conte des frères Grimm, un vieil âne apprend que son maître veut s'en *débarrasser*.",
+     1.3
+    ],
+    [
+     "Il s'enfuit sur la route de Brême, pour devenir musicien.",
+     1.2
+    ],
+    [
+     "En chemin, il rencontre un chien trop vieux pour chasser. Son maître voulait l'abattre.",
+     1.4
+    ],
+    [
+     "Puis un chat trop vieux pour attraper les souris. Sa maîtresse voulait le noyer.",
+     1.2
+    ],
+    [
+     "Puis un coq qu'on allait mettre dans la soupe du dimanche.",
+     1.4
+    ],
+    [
+     "L'âne leur dit : venez avec nous. Partout, on trouve mieux que la mort.",
+     1.6
+    ],
+    [
+     "Quatre vieux rejetés, la nuit, sur la route. Ils ont faim et froid.",
+     1.4
+    ],
+    [
+     "Ils aperçoivent une maison éclairée. Des brigands y festoient.",
+     1.2
+    ],
+    [
+     "Ils montent les uns sur les autres et se mettent à chanter. Tous ensemble.",
+     1.4
+    ],
+    [
+     "Le vacarme est si terrible que les brigands s'enfuient dans la forêt.",
+     1.6
+    ],
+    [
+     "Les quatre s'installent dans la maison. Ils ne la quitteront plus.",
+     1.4
+    ],
+    [
+     "Ils ne sont jamais arrivés à *Brême*.",
+     1.8
+    ],
+    [
+     "Ils n'en avaient plus besoin.",
+     1.4
+    ],
+    [
+     "Toi aussi, on t'a peut-être dit que tu étais trop vieux, trop lent, plus utile.",
+     1.4
+    ],
+    [
+     "Tu n'arriveras peut-être jamais à Brême. Mais en chemin, tu trouveras les *tiens*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

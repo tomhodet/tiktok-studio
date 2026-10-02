@@ -1,0 +1,368 @@
+{
+ "nom": "j155",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j155_grandmere",
+   "perso": "grandmere",
+   "episode": 156,
+   "fin": "Envoie-la à quelqu'un qui t'emmène faire les courses.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je me gare toujours tout au fond.",
+   "legende": "Les lieux changent. Mais ce qui s'est passé quelque part y reste. Quel endroit a disparu de ta vie, mais pas de ta mémoire ? #grandmere #souvenirs #amour #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu m'emmènes faire les courses, je te fais garer à la même place. Tout au *fond*.",
+     1.3
+    ],
+    [
+     "Tu râles. Il pleut, c'est loin, et il y a de la place partout.",
+     1.2
+    ],
+    [
+     "Tu crois que je perds la tête. Ce n'est pas ça.",
+     1.2
+    ],
+    [
+     "Avant le supermarché, il y avait une salle de bal.",
+     1.4
+    ],
+    [
+     "Un samedi de mille neuf cent soixante-six, un grand maigre m'y a invitée à danser.",
+     1.2
+    ],
+    [
+     "Il m'a écrasé les pieds toute la soirée. C'était ton grand-père.",
+     1.4
+    ],
+    [
+     "La salle a été rasée en mille neuf cent quatre-vingt-dix. J'ai pleuré devant les pelleteuses.",
+     1.4
+    ],
+    [
+     "Après, j'ai compté mes pas depuis le vieux tilleul, au bord de la route.",
+     1.2
+    ],
+    [
+     "Quarante pas tout droit. C'est la place cent douze.",
+     1.6
+    ],
+    [
+     "Exactement là où il m'a dit : je danse mal, mais je vous trouve jolie.",
+     1.8
+    ],
+    [
+     "Alors je te fais garer là. Et je reste une minute dans la voiture.",
+     1.4
+    ],
+    [
+     "Les lieux changent. Mais ce qui s'y est passé y reste. Il suffit de compter les pas.",
+     1.4
+    ],
+    [
+     "Samedi, ne râle pas. Gare-toi au fond.",
+     1.2
+    ],
+    [
+     "Et si tu as cinq minutes, invite-moi à *danser*. Entre deux voitures.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j155_grandpere",
+   "perso": "grandpere",
+   "episode": 157,
+   "fin": "Envoie-la à quelqu'un qui a les yeux de son père.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "La couleur des yeux de mon père.",
+   "legende": "Chez nous, on ne se regardait pas en face. On regardait le travail. De quelle couleur sont les yeux de ton père ? #grandpere #pere #souvenirs #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Je ne sais pas de quelle *couleur* étaient les yeux de mon père.",
+     1.3
+    ],
+    [
+     "Il est mort quand j'avais vingt ans. Je l'avais pourtant vu tous les jours de ma vie.",
+     1.2
+    ],
+    [
+     "Mais chez nous, on ne se regardait pas en face. On regardait le travail.",
+     1.4
+    ],
+    [
+     "Les bêtes, le ciel, la terre. Jamais les yeux.",
+     1.2
+    ],
+    [
+     "Sur les photos, ils sont gris. Toutes nos photos sont en noir et blanc.",
+     1.4
+    ],
+    [
+     "Ma mère disait : comme les tiens. Ma tante disait : plus clairs. Elles sont parties toutes les deux.",
+     1.4
+    ],
+    [
+     "Pendant cinquante ans, ça m'a travaillé. Un fils devrait savoir ça.",
+     1.4
+    ],
+    [
+     "Et puis tu es né.",
+     1.6
+    ],
+    [
+     "À ton baptême, la vieille cousine Simone t'a pris dans ses bras.",
+     1.2
+    ],
+    [
+     "Elle a dit : celui-là, il a les yeux d'Émile. Vert d'eau, avec un point marron.",
+     1.6
+    ],
+    [
+     "Émile, c'était mon père.",
+     1.8
+    ],
+    [
+     "Depuis, quand tu me regardes, je ne baisse plus les yeux. Je les garde ouverts, longtemps.",
+     1.4
+    ],
+    [
+     "Je rattrape cinquante ans de retard. Je regarde enfin mon père en face.",
+     1.6
+    ],
+    [
+     "Regarde les tiens pendant qu'ils sont là. Note la couleur. Ça ne prend qu'une seconde.",
+     1.2
+    ],
+    [
+     "Moi, il m'a fallu attendre ta *naissance*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j155_pere",
+   "perso": "pere",
+   "episode": 156,
+   "fin": "Envoie-la à quelqu'un qui garde de vieilles cassettes.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai enregistré le match sur ton Noël.",
+   "legende": "On croit qu'on aura toujours le temps de refaire les souvenirs. On ne refait rien. Quel souvenir donnerais-tu tout pour revoir ? #papa #pere #souvenirs #famille #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Sur la cassette de ton premier Noël, il y a la finale de la Coupe du *monde*.",
+     1.3
+    ],
+    [
+     "Juillet quatre-vingt-dix-huit. J'ai enregistré le match par-dessus ton Noël. Sans faire exprès.",
+     1.4
+    ],
+    [
+     "La France était championne du monde. Ta mère ne m'a pas parlé pendant une semaine.",
+     1.4
+    ],
+    [
+     "Il y avait tout, sur cette cassette. Le sapin, et ta grand-mère qui chantait.",
+     1.4
+    ],
+    [
+     "Elle est morte l'année suivante. C'était le seul film où on entendait sa voix.",
+     1.6
+    ],
+    [
+     "Pendant des années, je n'ai pas osé regarder cette cassette.",
+     1.2
+    ],
+    [
+     "Pour tes dix-huit ans, je l'ai mise dans le magnétoscope. Pour te demander pardon.",
+     1.2
+    ],
+    [
+     "Le match. Les buts. La remise de la coupe.",
+     1.2
+    ],
+    [
+     "Et puis, juste après, l'image a sauté.",
+     1.6
+    ],
+    [
+     "Il restait douze secondes de ton Noël. Ta grand-mère qui riait, et ta petite voix qui disait : encore.",
+     1.8
+    ],
+    [
+     "On les a regardées vingt fois. Ta mère m'a enfin pardonné.",
+     1.6
+    ],
+    [
+     "On croit qu'on aura le temps de refaire les souvenirs. On ne refait rien.",
+     1.4
+    ],
+    [
+     "Filme ceux que tu aimes. Et ne range jamais un souvenir à côté d'un match.",
+     1.4
+    ],
+    [
+     "La France a gagné une coupe. Moi, j'ai gagné douze *secondes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j155_mere",
+   "perso": "mere",
+   "episode": 156,
+   "fin": "Envoie-la à quelqu'un qui portait ses enfants endormis.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "La dernière fois que je t'ai porté.",
+   "legende": "Tout a une dernière fois. Et elle ne s'annonce jamais. Tu te souviens de la dernière fois qu'on t'a porté ? #maman #mere #souvenirs #enfance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Un soir, je t'ai porté de la voiture jusqu'à ton lit. C'était la *dernière* fois.",
+     1.3
+    ],
+    [
+     "Je ne le savais pas. Personne ne prévient, pour ces choses-là.",
+     1.2
+    ],
+    [
+     "Tu avais sept ans. Tu t'endormais toujours sur la route, en rentrant de chez tes grands-parents.",
+     1.2
+    ],
+    [
+     "Je te montais dans l'escalier en comptant les marches. Ta tête dans mon cou.",
+     1.4
+    ],
+    [
+     "Tu faisais semblant de dormir. Je le savais. Tu adorais ça.",
+     1.4
+    ],
+    [
+     "Et puis un soir, tu as ouvert les yeux. Tu as dit : je peux marcher.",
+     1.6
+    ],
+    [
+     "Tu es monté tout seul. J'ai porté ton sac.",
+     1.4
+    ],
+    [
+     "Je n'ai rien remarqué. Mes bras venaient de prendre leur retraite, et je ne le savais pas.",
+     1.6
+    ],
+    [
+     "Tout a une dernière fois. Et elle ne s'annonce jamais.",
+     1.8
+    ],
+    [
+     "La dernière fois que tu m'as donné la main. La dernière histoire du soir.",
+     1.4
+    ],
+    [
+     "Dimanche, tu as monté mes courses au troisième étage. Quatre sacs, sans souffler.",
+     1.4
+    ],
+    [
+     "Je t'ai regardé monter devant moi, et j'ai compté les marches. Comme avant.",
+     1.6
+    ],
+    [
+     "Profite de ce qui pèse. Les enfants endormis, les sacs, ceux qui ont besoin de toi.",
+     1.4
+    ],
+    [
+     "Un jour, c'est ce poids-là qui te *manquera*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j155_fou",
+   "perso": "fou",
+   "episode": 155,
+   "fin": "Envoie-la à quelqu'un qu'on a dit fini trop vite.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "On les disait finis.",
+   "legende": "On les disait finis. Il leur a donné un arc. Et toi, qu'est-ce qu'il te reste que personne ne voit ? #motivation #histoire #paralympiques #courage #sport #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quarante-quatre, en Angleterre, un médecin reçoit les patients dont personne ne veut.",
+     1.3
+    ],
+    [
+     "Des blessés de la moelle épinière. Paralysés. Beaucoup meurent vite, d'infections et d'escarres.",
+     1.2
+    ],
+    [
+     "Le médecin s'appelle Ludwig Guttmann. Il a fui l'Allemagne nazie.",
+     1.2
+    ],
+    [
+     "Dans son service, on retourne chaque patient toutes les deux heures. Jour et nuit.",
+     1.4
+    ],
+    [
+     "Puis il fait ce que personne n'ose. Il les sort du lit, et leur fait faire du *sport*.",
+     1.4
+    ],
+    [
+     "Du tir à l'arc. Des matchs en fauteuil roulant.",
+     1.2
+    ],
+    [
+     "Pour lui, le sport est un remède. Pour le corps, et pour la tête.",
+     1.4
+    ],
+    [
+     "Le vingt-neuf juillet mille neuf cent quarante-huit, Londres ouvre les Jeux olympiques.",
+     1.2
+    ],
+    [
+     "Le même jour, dans le parc de son hôpital, Guttmann organise un concours de tir à l'arc. En fauteuil.",
+     1.6
+    ],
+    [
+     "Seize participants. Des hommes et des femmes qu'on disait finis.",
+     1.8
+    ],
+    [
+     "Douze ans plus tard, à Rome, ces jeux deviennent les premiers Jeux paralympiques.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, ils réunissent des milliers d'athlètes.",
+     1.4
+    ],
+    [
+     "Toi aussi, un jour, on te dira que c'est fini. Que tu ne pourras plus.",
+     1.4
+    ],
+    [
+     "Ne compte pas ce que tu as perdu. Compte ce qu'il te *reste*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

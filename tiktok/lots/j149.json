@@ -1,0 +1,364 @@
+{
+ "nom": "j149",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j149_grandmere",
+   "perso": "grandmere",
+   "episode": 150,
+   "fin": "Envoie-la à quelqu'un qui accueille ceux qui arrivent.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Le premier mot de français.",
+   "legende": "Je ne savais pas que j'avais été un mot. Le tout premier. Qui a été ton premier mot, quand tu es arrivé quelque part ? #grandmere #accueil #voisins #gentillesse #famille #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix-neuf, une famille est arrivée sur notre palier avec deux *valises*. Et six enfants.",
+     1.3
+    ],
+    [
+     "Ils venaient du Viêt Nam. Ils avaient traversé la mer sur un bateau de pêche.",
+     1.2
+    ],
+    [
+     "Pas un mot de français. Les voisins faisaient semblant de ne pas les voir.",
+     1.2
+    ],
+    [
+     "Le premier soir, j'ai frappé chez eux avec une tarte aux pommes.",
+     1.4
+    ],
+    [
+     "Personne ne comprenait rien. Alors j'ai posé la main sur ma poitrine. J'ai dit : Simone.",
+     1.4
+    ],
+    [
+     "La plus petite a répété : Simone. Tout le monde a ri.",
+     1.4
+    ],
+    [
+     "Je les ai aidés pour l'école, les papiers, le médecin. Avec des dessins.",
+     1.4
+    ],
+    [
+     "La mère m'a appris à rouler des nems. J'étais très mauvaise.",
+     1.2
+    ],
+    [
+     "L'an dernier, la plus petite est venue me voir. Elle a cinquante ans.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : tu sais quel est le premier mot de français que j'ai appris ?",
+     1.6
+    ],
+    [
+     "C'est ton *prénom*. Le deuxième, c'est tarte.",
+     1.8
+    ],
+    [
+     "Je ne savais pas que j'avais été un mot. Le tout premier.",
+     1.6
+    ],
+    [
+     "Quand quelqu'un arrive de très loin, tout le monde attend qu'il apprenne notre langue.",
+     1.2
+    ],
+    [
+     "Ne l'attends pas. Va frapper. Et sois son premier *mot*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j149_grandpere",
+   "perso": "grandpere",
+   "episode": 151,
+   "fin": "Envoie-la à quelqu'un qui enchaîne les entretiens.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Sept coupes en un mois.",
+   "legende": "Je ne suis pas là pour savoir pourquoi tu tombes. Je suis là pour te recoiffer. Qui t'a remis d'aplomb après un échec ? #grandpere #travail #gentillesse #perseverance #humour #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-cinq, j'ai coupé les cheveux du même garçon sept fois en un *mois*.",
+     1.3
+    ],
+    [
+     "J'étais coiffeur pour hommes. Une petite boutique, deux fauteuils, et un tiroir plein de cravates.",
+     1.2
+    ],
+    [
+     "Les gamins qui avaient un entretien d'embauche, je les coiffais gratuitement. Et je leur prêtais une cravate.",
+     1.2
+    ],
+    [
+     "Celui-là avait vingt ans. Il tremblait sur le fauteuil.",
+     1.2
+    ],
+    [
+     "Le lendemain, il est revenu. Entretien raté. Les épaules basses.",
+     1.4
+    ],
+    [
+     "Je l'ai rassis. Je lui ai demandé : tu en as un autre, la semaine prochaine ?",
+     1.4
+    ],
+    [
+     "Il en avait un autre. Raté aussi. Et un autre. Raté encore.",
+     1.4
+    ],
+    [
+     "Chaque fois, il revenait s'asseoir. Chaque fois, je recoupais.",
+     1.4
+    ],
+    [
+     "Au septième, il n'avait presque plus de cheveux sur la tête.",
+     1.6
+    ],
+    [
+     "Et ce jour-là, il est entré en courant. Il avait le poste.",
+     1.6
+    ],
+    [
+     "Il m'a rendu la cravate. Il a dit : vous ne m'avez jamais demandé pourquoi je ratais.",
+     1.6
+    ],
+    [
+     "J'ai répondu : je ne suis pas là pour savoir pourquoi tu tombes. Je suis là pour te *recoiffer*.",
+     1.8
+    ],
+    [
+     "Quand quelqu'un rate, ne lui demande pas pourquoi. Remets-le d'aplomb.",
+     1.2
+    ],
+    [
+     "Et laisse-le repartir avec la *cravate*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j149_pere",
+   "perso": "pere",
+   "episode": 150,
+   "fin": "Envoie-la à un collègue qui mange seul.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une langue entière pour un collègue.",
+   "legende": "Il faut parfois apprendre toute une langue. Juste pour dire bonjour. Il y a quelqu'un qui mange seul à ton travail ? #papa #pere #travail #gentillesse #inclusion #pourtoi",
+   "phrases": [
+    [
+     "À quarante-cinq ans, j'ai appris la langue des *signes*. Pour un seul collègue.",
+     1.3
+    ],
+    [
+     "Il s'appelait Thierry. Il était sourd. Il travaillait à l'entrepôt depuis dix ans.",
+     1.2
+    ],
+    [
+     "Tous les midis, il mangeait seul au bout de la table, avec son téléphone.",
+     1.2
+    ],
+    [
+     "On articulait très fort. Puis on parlait entre nous.",
+     1.4
+    ],
+    [
+     "Un jour, je l'ai vu rire devant une vidéo. Je ne l'avais jamais vu rire.",
+     1.4
+    ],
+    [
+     "Le soir même, je me suis inscrit à un cours du soir.",
+     1.2
+    ],
+    [
+     "J'étais le plus vieux et le plus nul. Ta mère me faisait réviser à table.",
+     1.4
+    ],
+    [
+     "Six mois plus tard, à la cantine, je me suis assis en face de lui.",
+     1.4
+    ],
+    [
+     "Avec mes mains, je lui ai dit : bonjour, je m'appelle Pascal, et je suis très mauvais.",
+     1.6
+    ],
+    [
+     "Il m'a regardé longtemps. Puis il a éclaté de rire.",
+     1.6
+    ],
+    [
+     "Il m'a répondu, tout doucement : dix ans que j'attendais quelqu'un de *mauvais*.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, la moitié de l'équipe connaît les bases. Et il ne mange plus jamais seul.",
+     1.4
+    ],
+    [
+     "On croit qu'aider quelqu'un, c'est faire un grand geste.",
+     1.2
+    ],
+    [
+     "Parfois, il faut apprendre toute une langue. Juste pour dire *bonjour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j149_mere",
+   "perso": "mere",
+   "episode": 150,
+   "fin": "Envoie-la à quelqu'un qui travaille le soir de Noël.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai fait entrer le livreur.",
+   "legende": "L'an dernier, c'est la seule maison où on m'a ouvert. Tu as déjà invité un inconnu à ta table ? #maman #mere #noel #gentillesse #famille #pourtoi",
+   "phrases": [
+    [
+     "Le soir de Noël de tes neuf ans, j'ai fait entrer un *livreur* à la maison.",
+     1.3
+    ],
+    [
+     "Neuf heures du soir. Il avait encore quarante colis dans son camion.",
+     1.2
+    ],
+    [
+     "Il avait les mains violettes et les yeux rouges. Sa famille était à Marseille.",
+     1.2
+    ],
+    [
+     "Je lui ai dit : vous prendrez bien une part de bûche. Il a dit non. Puis il est entré.",
+     1.4
+    ],
+    [
+     "Toi, tu lui as montré ton nouveau train électrique. Il s'est assis par terre.",
+     1.4
+    ],
+    [
+     "Il est reparti avec une part de bûche dans une serviette.",
+     1.2
+    ],
+    [
+     "Ton père a soupiré : tu fais entrer n'importe qui.",
+     1.2
+    ],
+    [
+     "L'année suivante, le vingt-quatre décembre, on a sonné. Il n'y avait pas de colis.",
+     1.6
+    ],
+    [
+     "C'était lui. Avec une bûche. Une vraie, de pâtissier.",
+     1.6
+    ],
+    [
+     "Il a dit : l'an dernier, c'est la seule maison où on m'a *ouvert*.",
+     1.8
+    ],
+    [
+     "Il est revenu chaque Noël pendant dix ans. Tu l'appelais le tonton des colis.",
+     1.4
+    ],
+    [
+     "Le jour de son mariage, on était invités. Au deuxième rang.",
+     1.4
+    ],
+    [
+     "On croit que Noël, c'est en famille. Moi aussi, je le croyais.",
+     1.2
+    ],
+    [
+     "Mais parfois, la famille commence par une part de *bûche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j149_fou",
+   "perso": "fou",
+   "episode": 149,
+   "fin": "Envoie-la à quelqu'un avec qui tu tiendrais soixante-neuf jours.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Nous allons bien dans le refuge.",
+   "legende": "Seul, on tient quelques jours. Ensemble, on en tient soixante-neuf. Avec qui tu tiendrais, toi ? #motivation #chili #mineurs #solidarite #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En août deux mille dix, au Chili, une mine s'effondre sur trente-trois *mineurs*.",
+     1.3
+    ],
+    [
+     "Ils sont coincés à près de sept cents mètres sous terre.",
+     1.2
+    ],
+    [
+     "Là-haut, personne ne sait s'ils sont vivants. Les familles campent devant la mine.",
+     1.4
+    ],
+    [
+     "En bas, il fait chaud, humide, et noir. Ils n'ont presque rien à manger.",
+     1.4
+    ],
+    [
+     "Alors tout se partage. Quelques cuillères de thon tous les deux jours.",
+     1.4
+    ],
+    [
+     "Personne ne mange en cachette. Personne ne mange seul.",
+     1.6
+    ],
+    [
+     "Le dix-septième jour, une sonde de forage perce enfin la roche jusqu'à eux.",
+     1.4
+    ],
+    [
+     "Quand on la remonte, un petit papier est attaché au bout.",
+     1.6
+    ],
+    [
+     "Il dit : nous allons bien dans le refuge, les trente-trois.",
+     1.8
+    ],
+    [
+     "Il faudra encore des semaines pour les remonter un par un, dans une capsule à peine plus large qu'un homme.",
+     1.4
+    ],
+    [
+     "Soixante-neuf jours après l'effondrement, ils sont dehors. Tous *vivants*.",
+     1.8
+    ],
+    [
+     "Leur chef d'équipe sort le dernier.",
+     1.6
+    ],
+    [
+     "Toi aussi, il y aura des jours où tout s'effondre. Où personne ne sait où tu es.",
+     1.2
+    ],
+    [
+     "Seul, on tient quelques jours. Ensemble, on en tient *soixante-neuf*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

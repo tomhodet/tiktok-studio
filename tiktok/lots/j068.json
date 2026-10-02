@@ -1,0 +1,356 @@
+{
+ "nom": "j068",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j068_grandmere",
+   "perso": "grandmere",
+   "episode": 69,
+   "fin": "Envoie-la à quelqu'un qui t'a aimé sans y être obligé.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Une lettre pour me remercier d'un orage.",
+   "legende": "On me payait pour laver leurs draps. Personne ne m'a jamais payée pour aimer leur fille. Et toi, qui t'a pris dans ses bras sans y être obligé ? #grandmere #enfance #amour #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "L'an dernier, une dame de soixante-douze ans m'a écrit. Pour me remercier d'un *orage*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent soixante, j'étais bonne chez ses parents. J'avais quatorze ans.",
+     1.2
+    ],
+    [
+     "Une grande maison en ville, un piano que personne ne touchait.",
+     1.2
+    ],
+    [
+     "Elle s'appelait Hélène. Elle avait six ans. Ses parents ne la voyaient presque jamais.",
+     1.2
+    ],
+    [
+     "Le soir, elle descendait à la cuisine en chemise de nuit.",
+     1.2
+    ],
+    [
+     "Je repassais en chantant. Elle me regardait comme si j'étais la radio.",
+     1.4
+    ],
+    [
+     "Les soirs d'orage, je la prenais dans mes bras. Ce n'était pas dans mes gages.",
+     1.4
+    ],
+    [
+     "Au bout de deux ans, Madame m'a renvoyée. Elle trouvait que j'étais trop familière.",
+     1.4
+    ],
+    [
+     "Hélène pleurait derrière la fenêtre. Moi, je n'ai pas osé me retourner.",
+     1.6
+    ],
+    [
+     "Dans sa lettre, elle écrit : vous étiez la seule de cette maison à me prendre dans vos *bras*.",
+     1.8
+    ],
+    [
+     "Ses parents lui ont laissé une fortune. Elle, elle se souvenait d'une cuisine.",
+     1.6
+    ],
+    [
+     "On me payait pour laver leurs draps. Personne ne m'a jamais payée pour aimer leur fille.",
+     1.4
+    ],
+    [
+     "Je l'ai fait quand même. Et plus de soixante ans après, j'ai enfin reçu ma *paie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j068_grandpere",
+   "perso": "grandpere",
+   "episode": 70,
+   "fin": "Envoie-la à quelqu'un qui fait les comptes chez toi.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'ai découvert le prix du beurre.",
+   "legende": "Avec la même paie, elle nourrissait quatre personnes pendant un mois. Moi, j'ai tenu six jours. Et chez toi, qui fait les comptes ? #grandpere #humour #couple #argent #famille #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-deux, j'ai découvert le prix du *beurre*.",
+     1.3
+    ],
+    [
+     "Ta grand-mère était partie une semaine chez sa sœur. Elle m'avait laissé l'argent du mois.",
+     1.2
+    ],
+    [
+     "Depuis vingt ans, je lui donnais ma paie le vendredi. Sans jamais demander la suite.",
+     1.2
+    ],
+    [
+     "Le lundi, j'ai fait les courses comme un roi. Du jambon, du bon café, une côte de bœuf.",
+     1.2
+    ],
+    [
+     "Le mercredi, il ne restait plus que la moitié.",
+     1.0
+    ],
+    [
+     "Le vendredi, je comptais les pièces au fond du porte-monnaie. Pour acheter du pain.",
+     1.2
+    ],
+    [
+     "Le samedi, ton père et ton oncle ont mangé des pâtes au beurre. Sans beurre.",
+     1.4
+    ],
+    [
+     "Ta grand-mère est rentrée le dimanche. Elle a ouvert le placard, puis le porte-monnaie.",
+     1.4
+    ],
+    [
+     "Elle n'a rien dit. Elle a juste souri.",
+     1.6
+    ],
+    [
+     "Avec la même paie, elle nourrissait quatre personnes pendant un mois. Moi, j'avais tenu six *jours*.",
+     1.8
+    ],
+    [
+     "Le vendredi suivant, en lui donnant ma paie, je lui ai dit merci. Pour la première fois.",
+     1.4
+    ],
+    [
+     "Ne te moque jamais de la personne qui fait les comptes à la maison.",
+     1.4
+    ],
+    [
+     "Ce n'est pas un métier. C'est un miracle qui recommence tous les *mois*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j068_pere",
+   "perso": "pere",
+   "episode": 69,
+   "fin": "Envoie-la à quelqu'un de trop fier pour demander de l'aide.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Je lui ai rendu son chèque.",
+   "legende": "Refuser de l'aide, ce n'est pas toujours de la dignité. Parfois, c'est de l'orgueil. Et toi, tu as déjà refusé une aide par fierté ? #papa #pere #fierte #argent #famille #pourtoi",
+   "phrases": [
+    [
+     "Le jour de notre mariage, le père de ta mère m'a tendu un *chèque*. Je le lui ai rendu.",
+     1.3
+    ],
+    [
+     "De quoi acheter un appartement.",
+     1.2
+    ],
+    [
+     "Il était riche. Moi, j'étais électricien. Je ne voulais rien lui devoir.",
+     1.2
+    ],
+    [
+     "Je lui ai dit : votre fille, je la ferai vivre moi-même.",
+     1.4
+    ],
+    [
+     "On a vécu dans un deux-pièces humide, au-dessus d'un garage.",
+     1.2
+    ],
+    [
+     "L'hiver, ta mère dormait avec un bonnet. Elle ne s'est jamais plainte.",
+     1.4
+    ],
+    [
+     "Moi, j'étais fier. J'étais un homme qui ne doit rien à personne.",
+     1.4
+    ],
+    [
+     "Puis tu es né. Tu toussais toutes les nuits, dans cette chambre humide.",
+     1.4
+    ],
+    [
+     "Un matin, je suis allé voir ton grand-père. J'ai demandé de l'aide. Pour toi.",
+     1.4
+    ],
+    [
+     "Il a ouvert un tiroir. Le chèque était toujours là. Jamais déchiré.",
+     1.6
+    ],
+    [
+     "Il m'a dit : je savais que tu reviendrais. Pas pour toi. Pour eux.",
+     1.8
+    ],
+    [
+     "Ma fierté, ce n'est pas moi qui l'avais payée. C'était ta *mère*.",
+     1.6
+    ],
+    [
+     "Refuser de l'aide, ce n'est pas toujours de la dignité. Parfois, c'est de l'orgueil.",
+     1.4
+    ],
+    [
+     "Et l'orgueil, ce sont toujours les autres qui le *paient*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j068_mere",
+   "perso": "mere",
+   "episode": 69,
+   "fin": "Envoie-la à quelqu'un qui s'est assis par terre avec toi.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Tu as préféré le carton.",
+   "legende": "On dépense des fortunes pour occuper les enfants. Eux veulent juste qu'on s'assoie par terre. Et toi, c'était quoi ton plus beau jouet ? #maman #mere #enfance #tendresse #argent #pourtoi",
+   "phrases": [
+    [
+     "Pour tes deux ans, je t'ai acheté le jouet le plus cher du *magasin*.",
+     1.3
+    ],
+    [
+     "Un grand garage en plastique, avec un ascenseur. Payé en trois fois.",
+     1.2
+    ],
+    [
+     "Tu as ouvert le paquet. Et tu es entré dans le carton.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, ce carton a été ta maison, ton bateau, ta fusée.",
+     1.2
+    ],
+    [
+     "Le garage, lui, prenait la poussière dans un coin.",
+     1.2
+    ],
+    [
+     "Ça m'agaçait. Je te disais : joue avec ton vrai jouet.",
+     1.2
+    ],
+    [
+     "Un soir, trop fatiguée pour discuter, je me suis assise par terre à côté de toi.",
+     1.2
+    ],
+    [
+     "Tu m'as dit : non, maman, dans la fusée. Alors je suis entrée dans le carton.",
+     1.4
+    ],
+    [
+     "On est allés sur la Lune. Ton père nous a trouvés endormis dedans.",
+     1.6
+    ],
+    [
+     "Le lendemain, tu as demandé : on retourne dans la fusée ? Pas un mot sur le garage.",
+     1.4
+    ],
+    [
+     "C'est là que j'ai compris. Le carton n'était pas le jouet. Le jouet, c'était *moi*.",
+     1.8
+    ],
+    [
+     "On dépense des fortunes pour occuper les enfants. Eux veulent juste qu'on s'assoie par terre.",
+     1.4
+    ],
+    [
+     "Le plus beau jouet de ton enfance était gratuit. Il fallait juste que je me mette à *genoux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j068_fou",
+   "perso": "fou",
+   "episode": 68,
+   "fin": "Envoie-la à quelqu'un qui collectionne les refus.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Plus de vingt entreprises lui ont dit non.",
+   "legende": "Si on te dit non, ton idée n'est pas forcément mauvaise. Parfois, elle est juste en avance. Et toi, combien de non as-tu déjà entendus ? #motivation #refus #inventeur #perseverance #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "Plus de vingt entreprises ont refusé l'invention d'un homme. Elle est aujourd'hui dans tous les *bureaux*.",
+     1.3
+    ],
+    [
+     "À New York, son travail l'oblige à reproduire des documents toute la journée.",
+     1.2
+    ],
+    [
+     "C'est lent et épuisant. Il se dit qu'une machine devrait le faire.",
+     1.2
+    ],
+    [
+     "Le soir, il fait des expériences dans sa cuisine. Ça sent le soufre partout.",
+     1.2
+    ],
+    [
+     "Il loue une petite pièce dans le quartier d'Astoria. En octobre mille neuf cent trente-huit, ça marche.",
+     1.4
+    ],
+    [
+     "Sa première copie tient en une ligne. Une date, et le nom du quartier.",
+     1.6
+    ],
+    [
+     "Il va voir les plus grandes entreprises du pays. Toutes lui disent non.",
+     1.2
+    ],
+    [
+     "Pour elles, le papier carbone suffit.",
+     1.4
+    ],
+    [
+     "Six ans de refus. Plus de vingt portes fermées.",
+     1.6
+    ],
+    [
+     "Enfin, un petit laboratoire accepte. Puis une petite entreprise de papier photo.",
+     1.2
+    ],
+    [
+     "En mille neuf cent cinquante-neuf, la première photocopieuse automatique arrive dans les bureaux. Un triomphe.",
+     1.4
+    ],
+    [
+     "Vingt et un ans après sa première *copie*.",
+     1.8
+    ],
+    [
+     "Cet homme s'appelait Chester Carlson.",
+     1.6
+    ],
+    [
+     "Un non ne veut pas dire que ton idée est mauvaise. Parfois, elle est juste en avance.",
+     1.4
+    ],
+    [
+     "Vingt refus. Un seul oui. C'est tout ce qu'il te *faut*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

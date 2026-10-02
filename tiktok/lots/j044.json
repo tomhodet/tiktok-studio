@@ -1,0 +1,368 @@
+{
+ "nom": "j044",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j044_grandmere",
+   "perso": "grandmere",
+   "episode": 45,
+   "fin": "Envoie-la à quelqu'un qui ne lève jamais les yeux.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "J'ai vendu sa télévision. Sans lui demander.",
+   "legende": "On peut vivre à cinquante centimètres de quelqu'un et le perdre. Et toi, quand as-tu vraiment regardé la personne à côté de toi ? #grandmere #couple #amour #ecrans #humour #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-quinze, j'ai vendu la *télévision* de ton grand-père. Sans lui demander.",
+     1.3
+    ],
+    [
+     "Chaque soir, après l'usine, il s'asseyait devant.",
+     1.2
+    ],
+    [
+     "Moi, je tricotais à côté. À cinquante centimètres. On ne se disait plus rien.",
+     1.4
+    ],
+    [
+     "Un samedi, je l'ai vendue au voisin. Pour presque rien.",
+     1.2
+    ],
+    [
+     "Le soir, ton grand-père a vu le meuble vide. Il est devenu tout rouge.",
+     1.2
+    ],
+    [
+     "Il s'est assis quand même dans son fauteuil. Face au mur.",
+     1.4
+    ],
+    [
+     "Pendant une heure, on n'a entendu que l'horloge.",
+     1.4
+    ],
+    [
+     "Puis il m'a regardée. Vraiment regardée.",
+     1.6
+    ],
+    [
+     "Il a dit : tu as changé de *coiffure* ?",
+     1.8
+    ],
+    [
+     "J'avais changé de coiffure trois semaines plus tôt.",
+     1.6
+    ],
+    [
+     "J'ai éclaté de rire. Lui aussi. On a parlé jusqu'à deux heures du matin.",
+     1.4
+    ],
+    [
+     "On peut vivre à cinquante centimètres de quelqu'un et le perdre.",
+     1.4
+    ],
+    [
+     "Le voisin a proposé de nous la revendre. Ton grand-père a dit non.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, vous avez chacun votre écran. Même au lit.",
+     1.2
+    ],
+    [
+     "Ce soir, lève les *yeux*. Quelqu'un a peut-être changé de coiffure.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j044_grandpere",
+   "perso": "grandpere",
+   "episode": 46,
+   "fin": "Envoie-la à quelqu'un qui négocie tout.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "Elle m'a acheté une vache. À moitié prix.",
+   "legende": "Méfie-toi des gens qui négocient trop bien. Ou alors, épouse-les. Et toi, qui t'a eu sur le prix dans ta vie ? #grandpere #amour #rencontre #humour #campagne #pourtoi",
+   "phrases": [
+    [
+     "La première fois que j'ai vu ta grand-mère, elle m'a acheté une *vache*. À moitié prix.",
+     1.3
+    ],
+    [
+     "J'avais vingt ans. Mon père m'avait envoyé seul à la foire.",
+     1.2
+    ],
+    [
+     "Il m'avait dit : pas un franc de moins. Sinon, ne rentre pas.",
+     1.4
+    ],
+    [
+     "Une jeune fille s'est approchée. Des bottes, et un regard de maquignon.",
+     1.2
+    ],
+    [
+     "Elle a regardé les dents de la vache, les pattes, le pis.",
+     1.2
+    ],
+    [
+     "Puis elle m'a regardé. Pareil.",
+     1.6
+    ],
+    [
+     "Elle a proposé la moitié du prix. J'ai ri. Elle n'a pas ri.",
+     1.4
+    ],
+    [
+     "Une heure plus tard, elle repartait avec la vache. À moitié prix.",
+     1.4
+    ],
+    [
+     "Mon père ne m'a pas parlé pendant un mois.",
+     1.2
+    ],
+    [
+     "Alors chaque dimanche, je suis allé voir comment allait la vache.",
+     1.2
+    ],
+    [
+     "Elle allait très bien. Un an plus tard, j'épousais la fille.",
+     1.6
+    ],
+    [
+     "Pour nos noces d'or, elle m'a avoué que son père lui avait donné le prix entier.",
+     1.4
+    ],
+    [
+     "Avec l'autre moitié, elle s'était payé sa robe de *mariée*.",
+     1.8
+    ],
+    [
+     "Méfie-toi des gens qui négocient trop bien. Ou alors, épouse-les.",
+     1.4
+    ],
+    [
+     "Sa robe de mariée, c'est moi qui l'ai payée. Avec ma propre *vache*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j044_pere",
+   "perso": "pere",
+   "episode": 45,
+   "fin": "Envoie-la à quelqu'un qui prend soin d'un chagrin.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Son orchidée a refleuri sans elle.",
+   "legende": "Le chagrin, ça se soigne comme une plante. Un peu chaque semaine. Sans le noyer. Et toi, qu'as-tu gardé de quelqu'un qui est parti ? #papa #pere #deuil #amour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ta mère a essayé pendant dix ans de faire refleurir son *orchidée*. Elle n'a jamais réussi.",
+     1.3
+    ],
+    [
+     "Elle la changeait de fenêtre. Elle lui donnait un glaçon par semaine. Elle lui parlait.",
+     1.2
+    ],
+    [
+     "Moi, je me moquais d'elle. Je disais : c'est une plante, pas un chat.",
+     1.4
+    ],
+    [
+     "Depuis qu'elle est partie, il y a deux ans, l'orchidée attend sur la fenêtre de la cuisine.",
+     1.4
+    ],
+    [
+     "Je voulais la jeter. Je n'ai pas pu.",
+     1.4
+    ],
+    [
+     "Alors j'ai fait comme elle. Un glaçon par semaine. Et je lui parle.",
+     1.2
+    ],
+    [
+     "De toi, du jardin, de la voisine qui me trouve trop maigre.",
+     1.4
+    ],
+    [
+     "En vrai, je ne parle pas à la plante. Je parle à ta mère.",
+     1.6
+    ],
+    [
+     "Ce matin, il y avait une *fleur*. Blanche. La première en douze ans.",
+     1.8
+    ],
+    [
+     "Je me suis assis par terre. J'ai pleuré plus fort qu'à l'enterrement.",
+     1.6
+    ],
+    [
+     "Je voulais te dire que je vais mieux. Vraiment.",
+     1.4
+    ],
+    [
+     "Le chagrin, ça se soigne comme une plante. Un peu chaque semaine. Sans le noyer.",
+     1.4
+    ],
+    [
+     "Ta mère avait raison depuis le début. Il fallait juste lui *parler*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j044_mere",
+   "perso": "mere",
+   "episode": 45,
+   "fin": "Envoie-la à un beau-parent qui a tenu parole.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Il t'a demandé ma main.",
+   "legende": "Ceux qui aiment vraiment demandent la permission à ceux qu'ils pourraient blesser. Et toi, qui est entré dans ta famille sans jamais forcer la porte ? #maman #mere #famillerecomposee #amour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Avant de m'épouser, Gilles t'a demandé ma *main*. Tu avais neuf ans.",
+     1.3
+    ],
+    [
+     "Je l'ai appris la semaine dernière. Vingt-cinq ans après.",
+     1.2
+    ],
+    [
+     "Ton père était parti depuis longtemps. Je ne voulais plus dépendre de personne.",
+     1.4
+    ],
+    [
+     "Gilles, lui, était patient. Il réparait ton vélo. Il perdait exprès aux cartes.",
+     1.2
+    ],
+    [
+     "Un samedi, il t'a emmené dans le garage, et il a fermé la porte.",
+     1.2
+    ],
+    [
+     "Il t'a dit : je voudrais épouser ta maman. Seulement si tu es d'accord.",
+     1.4
+    ],
+    [
+     "Tu as réfléchi longtemps. Puis tu as posé deux conditions.",
+     1.6
+    ],
+    [
+     "Tu ne prends pas ma chambre. Et tu ne la fais jamais *pleurer*.",
+     1.8
+    ],
+    [
+     "Vous vous êtes serré la main. Comme deux hommes d'affaires.",
+     1.4
+    ],
+    [
+     "Le lendemain, il me demandait en mariage. J'ai dit oui. Je ne savais rien.",
+     1.4
+    ],
+    [
+     "Samedi, pour ses soixante-dix ans, tu as levé ton verre : à Gilles, qui a respecté le contrat.",
+     1.6
+    ],
+    [
+     "Tout le monde a ri. Moi, je n'ai pas compris. Alors il m'a tout raconté.",
+     1.6
+    ],
+    [
+     "Ceux qui aiment vraiment demandent la permission à ceux qu'ils pourraient blesser.",
+     1.4
+    ],
+    [
+     "Je croyais qu'il m'avait épousée. Il nous a épousés tous les *deux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j044_fou",
+   "perso": "fou",
+   "episode": 44,
+   "fin": "Envoie-la à quelqu'un qui se trouve trop timide.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Trop gêné pour écouter son cœur.",
+   "legende": "Aujourd'hui, chaque médecin du monde porte autour du cou la pudeur d'un homme. Et toi, quelle maladresse t'a donné ta meilleure idée ? #motivation #science #medecine #inventeurs #histoire #pourtoi",
+   "phrases": [
+    [
+     "En mille huit cent seize, à Paris, un médecin est trop *gêné* pour examiner sa patiente.",
+     1.3
+    ],
+    [
+     "Elle est jeune, son cœur bat mal.",
+     1.2
+    ],
+    [
+     "Pour l'écouter, il faudrait coller l'oreille contre sa poitrine. Il n'ose pas.",
+     1.4
+    ],
+    [
+     "Alors il se souvient d'une chose simple. Le son traverse le bois.",
+     1.2
+    ],
+    [
+     "Une oreille collée au bout d'une poutre entend une épingle tapoter l'autre bout.",
+     1.4
+    ],
+    [
+     "Il prend un cahier. Il le roule en un tube bien serré.",
+     1.2
+    ],
+    [
+     "Un bout sur la poitrine de la patiente, l'autre contre son oreille.",
+     1.6
+    ],
+    [
+     "Et il entend le cœur battre. Plus clairement que jamais.",
+     1.8
+    ],
+    [
+     "Pendant trois ans, il écoute ses malades et note chaque bruit.",
+     1.2
+    ],
+    [
+     "Il fabrique ses propres tubes en bois. Il les appelle stéthoscopes.",
+     1.4
+    ],
+    [
+     "Il meurt dix ans plus tard, de la tuberculose. Une maladie qu'il avait appris à *entendre*.",
+     1.6
+    ],
+    [
+     "Il s'appelait René Laennec.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as tes gênes, tes pudeurs, tes maladresses. Ne les méprise pas.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, chaque médecin du monde porte autour du cou la *pudeur* d'un homme.",
+     0
+    ]
+   ]
+  }
+ ]
+}

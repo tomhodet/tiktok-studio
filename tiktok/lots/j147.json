@@ -1,0 +1,364 @@
+{
+ "nom": "j147",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j147_grandmere",
+   "perso": "grandmere",
+   "episode": 148,
+   "fin": "Envoie-la à quelqu'un qui a été ton témoin.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Témoins au mariage de deux inconnus.",
+   "legende": "Ce jour-là, on a juste signé un papier. Dix minutes. Ils nous ont écrit pendant cinquante ans. Tu as déjà rendu un petit service qui a tout changé ? #grandmere #mariage #gentillesse #humour #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-douze, ton grand-père et moi, on a été *témoins* au mariage de deux inconnus.",
+     1.3
+    ],
+    [
+     "Devant la mairie, un jeune couple attendait sur les marches.",
+     1.2
+    ],
+    [
+     "Elle, en robe toute simple. Lui, en costume trop grand. Ils pleuraient.",
+     1.4
+    ],
+    [
+     "Leurs témoins n'étaient pas venus. Le maire allait tout annuler.",
+     1.2
+    ],
+    [
+     "Ton grand-père a posé le filet à provisions. Il a dit : on peut faire l'affaire ?",
+     1.4
+    ],
+    [
+     "J'ai signé le registre avec un poireau qui dépassait de mon sac.",
+     1.4
+    ],
+    [
+     "Après, ils nous ont serrés dans leurs bras. Et on ne les a jamais revus.",
+     1.2
+    ],
+    [
+     "Un an plus tard, une carte est arrivée. Merci pour le premier jour.",
+     1.6
+    ],
+    [
+     "Et l'année suivante. Et toutes les autres. Cinquante cartes dans une boîte.",
+     1.4
+    ],
+    [
+     "Le mois dernier, une enveloppe plus épaisse. Une invitation. Leurs noces d'or.",
+     1.6
+    ],
+    [
+     "Ton grand-père n'est plus là. J'y suis allée seule. Avec un poireau, pour rire.",
+     1.6
+    ],
+    [
+     "Quand je suis entrée, toute la salle s'est *levée*. Leurs enfants, leurs petits-enfants. Ils savaient tout.",
+     1.8
+    ],
+    [
+     "Ce jour-là, on avait juste signé un papier. Dix minutes.",
+     1.4
+    ],
+    [
+     "Ne refuse jamais dix minutes à quelqu'un. Parfois, elles durent *cinquante* ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j147_grandpere",
+   "perso": "grandpere",
+   "episode": 149,
+   "fin": "Envoie-la à quelqu'un qui dit merci à sa façon.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Je ne sais pas dire merci. Je répare.",
+   "legende": "Le voisin ne m'a jamais dit merci. Mais chez moi, pas une porte ne grince. Et toi, tu dis merci comment ? #grandpere #merci #voisins #pudeur #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Je n'ai jamais su dire *merci*. Alors je répare.",
+     1.3
+    ],
+    [
+     "En mille neuf cent quatre-vingt-un, ta grand-mère est restée six mois à l'hôpital.",
+     1.2
+    ],
+    [
+     "Moi, je ne savais rien faire à la maison. Pas même cuire un œuf.",
+     1.2
+    ],
+    [
+     "Madame Petit, la voisine, a sonné le premier soir. Avec une marmite.",
+     1.2
+    ],
+    [
+     "Pendant six mois, tous les soirs, une marmite. Pour moi et les trois enfants.",
+     1.4
+    ],
+    [
+     "Je prenais la marmite. Je disais : bon. Et je refermais la porte.",
+     1.4
+    ],
+    [
+     "Je n'ai jamais réussi à lui dire merci. Ça restait coincé.",
+     1.4
+    ],
+    [
+     "Alors un samedi, j'ai pris ma caisse à outils. J'ai réparé son volet qui battait.",
+     1.4
+    ],
+    [
+     "Puis sa barrière. Son robinet. Sa gouttière. Pendant trente ans.",
+     1.6
+    ],
+    [
+     "Pour ses quatre-vingt-dix ans, ses enfants ont fait une fête. Elle a fait un petit discours.",
+     1.4
+    ],
+    [
+     "Elle a dit : le voisin ne m'a jamais dit merci. Mais chez moi, pas une porte ne *grince*.",
+     1.8
+    ],
+    [
+     "Tout le monde a ri. Moi, j'ai regardé mes chaussures.",
+     1.6
+    ],
+    [
+     "Il y a mille façons de dire merci. Trouve la tienne.",
+     1.2
+    ],
+    [
+     "Mais dis-le. Même si ça fait du *bruit*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j147_pere",
+   "perso": "pere",
+   "episode": 148,
+   "fin": "Envoie-la à un entraîneur qui a changé ta vie.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Trois cents hommes. Tous ses gamins.",
+   "legende": "Un homme bien ne sauve pas un enfant. Il en sauve un, puis un autre, pendant cinquante ans. Qui t'a lancé un ballon quand tu étais seul ? #papa #pere #sport #entraineur #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "À l'enterrement de mon entraîneur de foot, il y avait trois cents *hommes*. Tous ses gamins.",
+     1.3
+    ],
+    [
+     "Mon père est parti quand j'avais onze ans. Je traînais en bas de l'immeuble.",
+     1.2
+    ],
+    [
+     "Un soir, un petit monsieur en survêtement m'a lancé un ballon. Il a dit : mercredi, quatorze heures.",
+     1.4
+    ],
+    [
+     "Je suis venu. Pour voir. Je suis resté sept ans.",
+     1.2
+    ],
+    [
+     "Il ramenait les gamins chez eux en voiture. Il connaissait toutes les mères.",
+     1.4
+    ],
+    [
+     "Il venait voir mes bulletins. Il criait plus fort que mes profs.",
+     1.2
+    ],
+    [
+     "Le jour de mon bac, il était devant le lycée. Pas mon père. Lui.",
+     1.6
+    ],
+    [
+     "Je croyais que j'étais son préféré. Qu'il avait fait tout ça pour moi.",
+     1.4
+    ],
+    [
+     "Et puis à l'église, j'ai regardé autour de moi.",
+     1.4
+    ],
+    [
+     "Des hommes de vingt ans, de cinquante, de soixante-dix. Tous avaient les yeux rouges.",
+     1.6
+    ],
+    [
+     "Tous avaient eu leur *mercredi*, quatorze heures.",
+     1.8
+    ],
+    [
+     "J'ai été jaloux une seconde. Puis fier d'être un parmi trois cents.",
+     1.4
+    ],
+    [
+     "Un homme bien ne sauve pas un enfant. Il en sauve un, puis un autre, pendant cinquante ans.",
+     1.4
+    ],
+    [
+     "Si tu vois un gamin seul en bas d'un immeuble, lance-lui un *ballon*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j147_mere",
+   "perso": "mere",
+   "episode": 148,
+   "fin": "Envoie-la à quelqu'un qui dit toujours bonjour au chauffeur.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Le bus t'attendait tous les matins.",
+   "legende": "C'est le seul qui me dit bonjour en montant. Et merci en descendant. Tu dis bonjour au chauffeur, toi ? #maman #mere #politesse #gentillesse #humour #pourtoi",
+   "phrases": [
+    [
+     "Pendant quatre ans, le bus du collège t'a *attendu*. Tous les matins. Tu ne l'as jamais su.",
+     1.3
+    ],
+    [
+     "Tu étais toujours en retard. Une chaussure à la main, les cheveux en l'air.",
+     1.2
+    ],
+    [
+     "Chaque matin, par la fenêtre, je voyais le bus arrêté au coin de la rue.",
+     1.4
+    ],
+    [
+     "Les autres parents disaient que ce chauffeur ne faisait jamais de cadeau.",
+     1.2
+    ],
+    [
+     "Je croyais que tu avais de la chance.",
+     1.2
+    ],
+    [
+     "À la fin de ta troisième, je suis allée lui porter une boîte de chocolats.",
+     1.4
+    ],
+    [
+     "Je lui ai demandé pourquoi il t'attendait, toi. Il a haussé les épaules.",
+     1.4
+    ],
+    [
+     "Il a dit : c'est le seul qui me dit *bonjour* en montant. Et merci en descendant.",
+     1.8
+    ],
+    [
+     "Quatre ans. Pas un matin sans bonjour. Pas un soir sans merci.",
+     1.6
+    ],
+    [
+     "Je ne te l'avais jamais demandé. Tu l'avais trouvé tout seul.",
+     1.4
+    ],
+    [
+     "Ce jour-là, je suis rentrée à pied. Fière comme jamais.",
+     1.4
+    ],
+    [
+     "On croit que la politesse, c'est pour faire plaisir aux adultes. C'est faux.",
+     1.2
+    ],
+    [
+     "C'est une petite lumière que tu allumes chez quelqu'un, deux fois par jour.",
+     1.4
+    ],
+    [
+     "Dis toujours bonjour au chauffeur. Tu ne sais pas combien de *bus* t'attendront.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j147_fou",
+   "perso": "fou",
+   "episode": 147,
+   "fin": "Envoie-la à quelqu'un qui s'arrête toujours pour les autres.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Vous êtes surpris de me voir ici ?",
+   "legende": "Le sommet est à quelques heures. Ils font demi-tour. Et toi, tu renoncerais à ton sommet pour un inconnu ? #motivation #everest #alpinisme #gentillesse #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mai deux mille six, un alpiniste australien s'effondre près du sommet de l'*Everest*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Lincoln Hall. Il a atteint le sommet. En redescendant, le manque d'oxygène le terrasse.",
+     1.2
+    ],
+    [
+     "Ses guides essaient pendant des heures de le faire descendre. Il ne bouge plus.",
+     1.4
+    ],
+    [
+     "La nuit tombe. On leur ordonne par radio de le laisser. Il est sans doute mort.",
+     1.4
+    ],
+    [
+     "Il passe la nuit seul, à plus de huit mille mètres. Sans tente.",
+     1.4
+    ],
+    [
+     "Le lendemain matin, une petite équipe monte vers le sommet.",
+     1.4
+    ],
+    [
+     "Au bord d'une arête, ils voient un homme assis. Sans gants. Sans bonnet. La veste ouverte.",
+     1.6
+    ],
+    [
+     "Il les regarde et il dit : je suppose que vous êtes *surpris* de me voir ici.",
+     1.8
+    ],
+    [
+     "Le sommet est à quelques heures. Le rêve de leur vie.",
+     1.4
+    ],
+    [
+     "Ils font demi-tour. Ils restent avec lui jusqu'à l'arrivée des secours.",
+     1.6
+    ],
+    [
+     "Lincoln Hall a survécu.",
+     1.4
+    ],
+    [
+     "Le même mois, un autre grimpeur est mort là-haut. Des dizaines de gens l'avaient croisé.",
+     1.6
+    ],
+    [
+     "Un jour, toi aussi, tu seras pressé. Et quelqu'un sera assis au bord du chemin.",
+     1.2
+    ],
+    [
+     "Ce jour-là, souviens-toi : le vrai sommet, c'est *lui*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

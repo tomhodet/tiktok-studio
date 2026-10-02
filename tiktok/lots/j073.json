@@ -1,0 +1,360 @@
+{
+ "nom": "j073",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j073_grandmere",
+   "perso": "grandmere",
+   "episode": 74,
+   "fin": "Envoie-la à quelqu'un qui s'est fâché pour un héritage.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "On s'est battues pour une bague.",
+   "legende": "Dans un héritage, ne cherche pas ce que ça vaut. Cherche ce que ça a coûté. Et toi, quel objet de famille tu ne vendrais pour rien au monde ? #grandmere #heritage #famille #soeur #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ma sœur et moi, on ne s'est pas parlé pendant deux ans. À cause d'une *bague*.",
+     1.3
+    ],
+    [
+     "L'alliance de notre mère. Elle ne l'avait jamais enlevée.",
+     1.2
+    ],
+    [
+     "Chacune de nous jurait qu'elle lui avait été promise.",
+     1.2
+    ],
+    [
+     "On s'est dit des choses de petites filles, avec des voix de vieilles dames.",
+     1.4
+    ],
+    [
+     "Puis le notaire nous a convoquées. Il restait une lettre de maman.",
+     1.2
+    ],
+    [
+     "Mes filles, si vous lisez ceci ensemble, c'est que vous vous êtes disputées pour la bague.",
+     1.4
+    ],
+    [
+     "Elle est en *laiton*. La vraie, je l'ai vendue l'hiver cinquante-quatre, pour le charbon.",
+     1.8
+    ],
+    [
+     "Vous aviez froid. Je ne vous l'ai jamais dit.",
+     1.6
+    ],
+    [
+     "Ma sœur a ri. Moi, j'ai pleuré. Puis l'inverse.",
+     1.6
+    ],
+    [
+     "Deux ans de guerre pour un bout de métal sans valeur.",
+     1.4
+    ],
+    [
+     "Et notre mère avait porté son sacrifice au doigt, toute sa vie, sans un mot.",
+     1.6
+    ],
+    [
+     "Maintenant, on la porte six mois chacune. On se la passe à Noël et à la Saint-Jean.",
+     1.4
+    ],
+    [
+     "Dans un héritage, ne cherche pas ce que ça vaut. Cherche ce que ça a *coûté*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j073_grandpere",
+   "perso": "grandpere",
+   "episode": 75,
+   "fin": "Envoie-la à quelqu'un qui garde tout pour les mauvais jours.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Toute ma vie, j'ai été radin.",
+   "legende": "Un jour, l'argent économisé doit servir à rire. Sinon, c'est juste de la peur rangée dans un tiroir. Et toi, tu économises pour quoi ? #grandpere #humour #couple #argent #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Toute ma vie, j'ai été *radin*. Ta grand-mère dit que c'est un talent.",
+     1.3
+    ],
+    [
+     "Je réchauffais le café de la veille. Je gardais les bouts de ficelle.",
+     1.2
+    ],
+    [
+     "J'éteignais la lumière derrière tout le monde. Même derrière le curé, une fois.",
+     1.4
+    ],
+    [
+     "Ce que j'économisais, je le mettais sur un livret. Pour les mauvais jours.",
+     1.2
+    ],
+    [
+     "Pour mes quatre-vingts ans, ta grand-mère a ouvert le livret.",
+     1.2
+    ],
+    [
+     "Cinquante ans de bouts de ficelle, ça faisait une belle somme.",
+     1.4
+    ],
+    [
+     "Elle a tout retiré. Sans me demander.",
+     1.6
+    ],
+    [
+     "Le lendemain, il y avait une voiture rouge devant la maison. Une *décapotable*. D'occasion.",
+     1.6
+    ],
+    [
+     "J'ai cru que mon cœur allait lâcher.",
+     1.4
+    ],
+    [
+     "Elle a dit : tes mauvais jours ne sont jamais venus. Alors on va fêter les bons.",
+     1.8
+    ],
+    [
+     "Le dimanche, on fait le tour du lac. Elle en foulard, moi en casquette.",
+     1.4
+    ],
+    [
+     "Et je ris, avec le vent dans les cheveux qui me restent.",
+     1.4
+    ],
+    [
+     "Économiser, c'est bien. Mais un jour, cet argent doit servir à rire.",
+     1.4
+    ],
+    [
+     "Sinon, ce n'est pas de l'épargne. C'est de la *peur* rangée dans un tiroir.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j073_pere",
+   "perso": "pere",
+   "episode": 74,
+   "fin": "Envoie-la à quelqu'un qui ne sait pas dire non.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Non merci, monsieur. Mon papa réfléchit.",
+   "legende": "Savoir dire non à un vendeur, c'est dire oui à sa famille. Et toi, qui t'a appris à dire non ? #papa #pere #humour #argent #enfance #pourtoi",
+   "phrases": [
+    [
+     "Pendant des années, je n'ai jamais su dire *non* à un vendeur.",
+     1.3
+    ],
+    [
+     "Une encyclopédie en vingt volumes. Un aspirateur hors de prix. Trois abonnements que je n'ai jamais lus.",
+     1.2
+    ],
+    [
+     "Tout à crédit, évidemment. Ta mère cachait les relevés de banque pour ne pas pleurer.",
+     1.4
+    ],
+    [
+     "Un samedi, tu avais dix ans. On est entrés chez un vendeur de voitures. Juste pour regarder.",
+     1.2
+    ],
+    [
+     "Une heure plus tard, j'avais un stylo à la main. Le vendeur me tendait un contrat.",
+     1.2
+    ],
+    [
+     "Et toi, tu t'es levé. Tu as dit, très poliment : non merci, monsieur.",
+     1.0
+    ],
+    [
+     "Mon papa *réfléchit*.",
+     1.8
+    ],
+    [
+     "Le vendeur a ri. Moi aussi, un peu. Et j'ai posé le stylo.",
+     1.4
+    ],
+    [
+     "Dans la voiture, tu m'as dit : maman dit que tu ne sais pas dire non.",
+     1.0
+    ],
+    [
+     "Alors je l'ai dit pour toi.",
+     1.6
+    ],
+    [
+     "Il m'a fallu trois ans pour rembourser tous mes crédits. Tu ne l'as jamais su.",
+     1.4
+    ],
+    [
+     "Mais j'ai tenu. Grâce à une petite phrase de dix ans.",
+     1.4
+    ],
+    [
+     "Savoir dire non à un vendeur, c'est dire oui à sa *famille*.",
+     1.4
+    ],
+    [
+     "Depuis, quand un vendeur sourit trop, j'entends ta petite voix : mon papa réfléchit.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j073_mere",
+   "perso": "mere",
+   "episode": 74,
+   "fin": "Envoie-la à quelqu'un qui hésite à partir loin.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "On m'a proposé le double de mon salaire.",
+   "legende": "Moi, je suis restée pour toi. Toi, ne reste pas pour moi. Et toi, qu'est-ce qui te retient encore ? #maman #mere #sacrifice #liberte #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais douze ans, on m'a proposé le double de mon *salaire*. J'ai dit non.",
+     1.3
+    ],
+    [
+     "Un poste à Paris. Enfin de quoi respirer à la fin du mois.",
+     1.2
+    ],
+    [
+     "Mais il fallait déménager. Et tu venais enfin de te faire un ami.",
+     1.2
+    ],
+    [
+     "Tu avais passé deux ans seul dans la cour. Je te regardais depuis la grille.",
+     1.4
+    ],
+    [
+     "Et puis Théo est arrivé. Tu rentrais de l'école en courant. Tu riais à table.",
+     1.4
+    ],
+    [
+     "Je n'ai rien dit à personne. J'ai juste répondu à mon patron : non merci.",
+     1.4
+    ],
+    [
+     "Pendant des années, on a continué à compter. Je ne l'ai jamais regretté.",
+     1.4
+    ],
+    [
+     "La semaine dernière, on t'a proposé un poste au Canada. Tu hésites. À cause de moi.",
+     1.4
+    ],
+    [
+     "Alors je vais te dire une chose que je ne t'ai jamais dite.",
+     1.4
+    ],
+    [
+     "Moi, je suis restée pour toi. Toi, ne reste pas pour *moi*.",
+     1.8
+    ],
+    [
+     "Un sacrifice, ça ne se rembourse pas. Ça se transmet.",
+     1.6
+    ],
+    [
+     "Ce que j'ai fait pour toi, tu le feras peut-être un jour pour ton enfant.",
+     1.4
+    ],
+    [
+     "Mais pour moi, je ne veux qu'une chose : te voir *partir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j073_fou",
+   "perso": "fou",
+   "episode": 73,
+   "fin": "Envoie-la à quelqu'un qui brûle pour son projet.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Il a brûlé le plancher de sa maison.",
+   "legende": "Les rêves qui comptent coûtent toujours quelque chose. Parfois même le plancher. Et toi, qu'est-ce que tu es prêt à mettre au feu ? #motivation #perseverance #histoirevraie #artisan #discipline #pourtoi",
+   "phrases": [
+    [
+     "Un potier a brûlé le plancher de sa maison pour garder son four *allumé*.",
+     1.3
+    ],
+    [
+     "Un jour, il voit une coupe émaillée d'une beauté parfaite.",
+     1.2
+    ],
+    [
+     "Il veut percer le secret de cet émail. Seul, sans maître, sans recette.",
+     1.2
+    ],
+    [
+     "Il broie des minéraux, il construit des fours, il rate. Des années durant.",
+     1.2
+    ],
+    [
+     "L'argent part en fumée. Sa famille manque de tout.",
+     1.2
+    ],
+    [
+     "Un jour, il sent qu'il approche. Mais en pleine cuisson, le bois vient à manquer.",
+     1.4
+    ],
+    [
+     "S'il laisse le feu s'éteindre, tout est perdu. Encore une fois.",
+     1.4
+    ],
+    [
+     "Alors il brûle les piquets de son jardin. Puis les tables. Puis les planches du *plancher*.",
+     1.6
+    ],
+    [
+     "Sa femme pleure. Lui regarde le four.",
+     1.4
+    ],
+    [
+     "Et l'émail fond. Enfin.",
+     1.8
+    ],
+    [
+     "Ses plats couverts de lézards, de poissons et de coquillages font bientôt sa gloire.",
+     1.4
+    ],
+    [
+     "La reine Catherine de Médicis lui commande une grotte pour son palais.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Bernard Palissy. Ses œuvres sont aujourd'hui au Louvre.",
+     1.6
+    ],
+    [
+     "Je ne te dis pas de brûler tes meubles. Mais demande-toi ce que tu es prêt à mettre au *feu*.",
+     1.4
+    ],
+    [
+     "Les rêves qui comptent coûtent toujours quelque chose. Parfois même le plancher.",
+     0
+    ]
+   ]
+  }
+ ]
+}

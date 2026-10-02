@@ -1,0 +1,368 @@
+{
+ "nom": "j032",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j032_grandmere",
+   "perso": "grandmere",
+   "episode": 33,
+   "fin": "Envoie-la à quelqu'un qui pense aux autres même quand il tombe.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "J'ai tapé sa lettre de licenciement.",
+   "legende": "C'est lui qui venait de perdre son travail. Et c'est moi qu'il consolait. Et toi, comment tu réagis à une mauvaise nouvelle ? #grandmere #travail #amour #couple #emotion #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-quatre, j'ai tapé moi-même la *lettre* de licenciement de ton grand-père.",
+     1.3
+    ],
+    [
+     "J'étais secrétaire au bureau de l'usine. Lui travaillait aux fours depuis vingt ans.",
+     1.2
+    ],
+    [
+     "Un lundi, le directeur m'a donné une liste de quarante noms.",
+     1.4
+    ],
+    [
+     "Le sien était le douzième.",
+     1.6
+    ],
+    [
+     "Je n'avais pas le droit d'en parler. Les lettres partaient deux semaines plus tard.",
+     1.4
+    ],
+    [
+     "Pendant deux semaines, j'ai dormi à côté d'un homme qui ne savait pas encore.",
+     1.6
+    ],
+    [
+     "En bas de chaque lettre, la secrétaire tape ses initiales.",
+     1.4
+    ],
+    [
+     "Le soir où il l'a reçue, il l'a lue jusqu'en bas. Jusqu'à mes initiales.",
+     1.8
+    ],
+    [
+     "Il a levé les yeux. J'attendais qu'il crie.",
+     1.2
+    ],
+    [
+     "Il s'est levé et il m'a prise dans ses bras.",
+     1.2
+    ],
+    [
+     "Il a dit : ma pauvre, deux semaines toute seule avec ce secret.",
+     1.6
+    ],
+    [
+     "C'est lui qui venait de perdre son travail. Et c'est moi qu'il *consolait*.",
+     1.8
+    ],
+    [
+     "On reconnaît quelqu'un à la façon dont il reçoit une mauvaise nouvelle.",
+     1.4
+    ],
+    [
+     "Les uns cherchent un coupable. Les meilleurs, qui a eu mal avant eux.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai su que j'avais épousé le bon. Pas le plus chanceux. Le *bon*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j032_grandpere",
+   "perso": "grandpere",
+   "episode": 34,
+   "fin": "Envoie-la à quelqu'un qui laisse toujours la lumière allumée.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Elle a éteint. Il ne faut pas l'user.",
+   "legende": "Ce qu'on a toujours eu, on oublie que c'est un miracle. Et toi, qu'est-ce qui t'émerveille encore ? #grandpere #travail #gratitude #tendresse #humour #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-quatre, j'ai allumé la première *ampoule* de la vie d'une vieille dame.",
+     1.3
+    ],
+    [
+     "J'avais dix-huit ans. J'étais apprenti électricien. On tirait les fils de poteau en poteau.",
+     1.2
+    ],
+    [
+     "Sa ferme était la dernière de la vallée. Elle s'éclairait encore à la lampe à pétrole.",
+     1.2
+    ],
+    [
+     "Le dernier soir, j'ai vissé une ampoule au plafond de sa cuisine.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : allez-y, madame. C'est à vous.",
+     1.4
+    ],
+    [
+     "Elle a tourné le bouton. La cuisine s'est allumée d'un coup.",
+     1.4
+    ],
+    [
+     "Elle a regardé l'ampoule longtemps. Elle pleurait.",
+     1.6
+    ],
+    [
+     "Et puis elle a éteint. Tout de suite.",
+     1.6
+    ],
+    [
+     "Elle a dit : il ne faut pas l'*user*.",
+     1.8
+    ],
+    [
+     "J'ai ri. Mon patron, lui, ne riait pas. Il a dit : elle a connu deux guerres, petit.",
+     1.4
+    ],
+    [
+     "Toi, tu as grandi avec la lumière partout. Tout reste allumé, tout le temps.",
+     1.4
+    ],
+    [
+     "On ne s'émerveille plus de rien. Plus personne ne pleure devant une ampoule.",
+     1.4
+    ],
+    [
+     "Moi, chaque fois que j'allume une lampe, je pense encore à elle.",
+     1.2
+    ],
+    [
+     "Ce qu'on a toujours eu, on oublie que c'est un *miracle*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j032_pere",
+   "perso": "pere",
+   "episode": 33,
+   "fin": "Envoie-la à quelqu'un qui a changé de vie pour respirer.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Papa, comment on fait une soudure ?",
+   "legende": "On veut toujours mieux pour ses enfants. On oublie que mieux, c'est ce qui les rend heureux. Et toi, tu ferais le métier de tes parents ? #papa #pere #metier #reconversion #fierte #pourtoi",
+   "phrases": [
+    [
+     "J'ai été soudeur toute ma vie. J'ai tout fait pour que tu ne le deviennes *jamais*.",
+     1.3
+    ],
+    [
+     "Je rentrais les yeux rouges, les avant-bras brûlés. Je ne voulais pas ça pour toi.",
+     1.2
+    ],
+    [
+     "Je ne t'ai jamais emmené à l'atelier. Je ne t'ai jamais montré un seul geste.",
+     1.4
+    ],
+    [
+     "Tu as fait de longues études. Un bureau, un ordinateur, une cravate. J'étais fier.",
+     1.4
+    ],
+    [
+     "À trente ans, tu as tout quitté. Tu as dit que tu étouffais.",
+     1.4
+    ],
+    [
+     "Ta mère a pleuré. Moi, j'ai fait semblant d'être en colère.",
+     1.6
+    ],
+    [
+     "Et un soir, le téléphone a sonné. C'était toi.",
+     1.6
+    ],
+    [
+     "Tu m'as demandé : papa, comment on fait une *soudure* ?",
+     1.8
+    ],
+    [
+     "J'ai attendu ce coup de fil trente ans sans le savoir.",
+     1.6
+    ],
+    [
+     "Le samedi suivant, on était tous les deux au garage, masque sur la figure.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, tu travailles avec mon vieux masque. Tu refuses d'en changer.",
+     1.4
+    ],
+    [
+     "On veut toujours mieux pour ses enfants. On oublie que mieux, c'est ce qui les rend heureux.",
+     1.4
+    ],
+    [
+     "Je croyais que mon métier ne valait pas la peine d'être appris.",
+     1.2
+    ],
+    [
+     "Tu as quitté un bureau pour lui. Tu m'as rendu ma *fierté*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j032_mere",
+   "perso": "mere",
+   "episode": 33,
+   "fin": "Envoie-la à quelqu'un qui s'excuse tout le temps.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'avais dit pardon onze fois en une heure.",
+   "legende": "Garde tes pardons pour le jour où tu as vraiment fait du mal. Les autres jours, dis merci. Tu as dit pardon combien de fois aujourd'hui, toi ? #maman #mere #travail #confiance #humour #pourtoi",
+   "phrases": [
+    [
+     "À trente ans, ma cheffe m'a arrêtée en pleine réunion. J'avais dit *pardon* onze fois en une heure.",
+     1.3
+    ],
+    [
+     "Pardon de vous déranger. Pardon, juste une question. Pardon, c'est sûrement une bêtise.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : vous avez fait quoi de mal, exactement ?",
+     1.4
+    ],
+    [
+     "Rien. Je n'avais rien fait de mal. Je demandais pardon d'exister.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai compté. Pardon au boulanger, pardon à la voisine, pardon à la porte que j'avais heurtée.",
+     1.4
+    ],
+    [
+     "Ma cheffe m'a donné un conseil que je n'ai jamais oublié.",
+     1.2
+    ],
+    [
+     "Remplacez vos pardons par des mercis.",
+     1.6
+    ],
+    [
+     "Pardon d'être en retard devient : merci de m'avoir attendue.",
+     1.4
+    ],
+    [
+     "Pardon de vous déranger devient : merci de m'écouter.",
+     1.4
+    ],
+    [
+     "Ça paraît bête. Ça a changé ma vie. On m'a écoutée autrement.",
+     1.6
+    ],
+    [
+     "Hier, au restaurant, le serveur s'est trompé de plat. Et c'est *toi* qui lui as dit pardon.",
+     1.8
+    ],
+    [
+     "Tu tiens ça de moi. Je suis désolée.",
+     1.4
+    ],
+    [
+     "Tu vois ? Même là, je recommence.",
+     1.4
+    ],
+    [
+     "Garde tes pardons pour le jour où tu as vraiment fait du mal. Les autres jours, dis *merci*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j032_fou",
+   "perso": "fou",
+   "episode": 32,
+   "fin": "Envoie-la à quelqu'un qui encaisse sans jamais tomber.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il s'est laissé frapper. Exprès.",
+   "legende": "Le plus fort n'est pas toujours celui qui frappe. C'est celui qui tient. Et toi, qu'est-ce qui te fait tenir quand la vie frappe fort ? #motivation #sport #boxe #mohamedali #resilience #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-quatorze, un boxeur se laisse frapper, reprise après reprise. *Exprès*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Mohamed Ali. Il a trente-deux ans. Beaucoup le disent fini.",
+     1.2
+    ],
+    [
+     "Sept ans plus tôt, il a refusé d'aller faire la guerre. On lui a pris son titre.",
+     1.4
+    ],
+    [
+     "Trois ans et demi sans boxer. Ses plus belles années, envolées.",
+     1.4
+    ],
+    [
+     "Cette nuit-là, à Kinshasa, il affronte George Foreman. Vingt-cinq ans. Jamais battu.",
+     1.4
+    ],
+    [
+     "Les deux seuls hommes qui ont battu Ali, Foreman les a mis au tapis en deux reprises.",
+     1.4
+    ],
+    [
+     "Le combat commence. Ali recule dans les cordes, protège sa tête, et laisse Foreman frapper.",
+     1.6
+    ],
+    [
+     "Des coups terribles. Encore et encore. Dans le stade, personne ne comprend.",
+     1.4
+    ],
+    [
+     "À la huitième reprise, Foreman est vidé. Ses bras ne répondent plus.",
+     1.6
+    ],
+    [
+     "Alors Ali sort des cordes. Une série de coups. Foreman *tombe*.",
+     1.8
+    ],
+    [
+     "Dix ans après son premier titre, il redevient champion du monde.",
+     1.4
+    ],
+    [
+     "Quand la vie frappe plus fort que toi, tu n'es pas obligé de rendre chaque coup.",
+     1.4
+    ],
+    [
+     "Protège ce qui compte. Tiens debout. Laisse-la se fatiguer avant toi.",
+     1.2
+    ],
+    [
+     "Le plus fort n'est pas toujours celui qui frappe. C'est celui qui *tient*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "nom": "j085",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j085_grandmere",
+   "perso": "grandmere",
+   "episode": 86,
+   "fin": "Envoie-la à quelqu'un qui a perdu sa mère trop tôt.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Plus vieille que ma mère.",
+   "legende": "Les morts restent à l'âge où on les a perdus. C'est nous qui continuons d'avancer. Et toi, qu'est-ce que tu dirais à quelqu'un que tu as dépassé en âge ? #grandmere #deuil #maman #temps #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ma mère est partie à quarante-neuf ans. J'en ai trente et un de plus qu'*elle*.",
+     1.3
+    ],
+    [
+     "J'avais vingt ans. Je venais de me marier.",
+     1.2
+    ],
+    [
+     "Toute mon enfance, elle a été celle qui savait tout.",
+     1.2
+    ],
+    [
+     "Et puis un jour, j'ai eu cinquante ans. J'ai dépassé ma mère.",
+     1.6
+    ],
+    [
+     "C'est une chose étrange. Personne ne te prévient.",
+     1.4
+    ],
+    [
+     "Sur sa dernière photo, elle a des cheveux noirs et pas une ride. On dirait ma fille.",
+     1.4
+    ],
+    [
+     "Maintenant, quand je la regarde, je ne lui demande plus conseil. C'est moi qui lui en donne.",
+     1.6
+    ],
+    [
+     "Je lui dis : ma petite, tu t'inquiétais trop. Ça s'est bien passé, tu sais.",
+     1.4
+    ],
+    [
+     "Je lui raconte ce qu'elle n'a pas vu. Ses petits-enfants. Ses arrière-petits-enfants. Toi.",
+     1.4
+    ],
+    [
+     "Elle ne vieillira jamais. C'est moi qui l'ai *dépassée*. Et je l'aime d'une autre façon.",
+     1.8
+    ],
+    [
+     "Les morts restent à l'âge où on les a perdus. C'est nous qui continuons d'avancer.",
+     1.4
+    ],
+    [
+     "Un jour, toi aussi, tu seras plus vieux que moi sur mes photos.",
+     1.4
+    ],
+    [
+     "Ce jour-là, regarde-moi comme une jeune femme. Et sois *indulgent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j085_grandpere",
+   "perso": "grandpere",
+   "episode": 87,
+   "fin": "Envoie-la à quelqu'un qui rit de tout, même de ça.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Mon cercueil est trop grand.",
+   "legende": "Ne prends jamais les mesures de ta vie trop tôt. Elle n'a pas fini de te surprendre. Et toi, ton grand-père a quelle manie un peu bizarre ? #grandpere #humour #vieillesse #menuisier #famille #pourtoi",
+   "phrases": [
+    [
+     "Il y a vingt ans, j'ai fabriqué mon propre *cercueil*. Maintenant, il est trop grand.",
+     1.3
+    ],
+    [
+     "J'ai été menuisier quarante ans. Je ne voulais pas qu'un autre fasse le dernier meuble de ma vie.",
+     1.2
+    ],
+    [
+     "Du chêne. Des queues d'aronde. Pas un clou. Ta grand-mère l'a interdit dans la maison.",
+     1.2
+    ],
+    [
+     "En attendant, il sert de bibliothèque, dans le garage. Debout, avec des étagères.",
+     1.2
+    ],
+    [
+     "Quand tu étais petit, tu faisais la sieste dedans. Tu l'appelais la cabane.",
+     1.4
+    ],
+    [
+     "Ta mère trouvait ça morbide. Moi, je trouvais que tu avais bon goût.",
+     1.4
+    ],
+    [
+     "Le mois dernier, j'ai voulu vérifier les mesures. Je me suis allongé dedans.",
+     1.4
+    ],
+    [
+     "Il y avait quatre bons centimètres de trop.",
+     1.6
+    ],
+    [
+     "En vingt ans, j'ai *rapetissé*. Le menuisier n'avait pas prévu ça.",
+     1.8
+    ],
+    [
+     "Ta grand-mère est arrivée à ce moment-là. Elle a hurlé. Puis elle a ri pendant une heure.",
+     1.4
+    ],
+    [
+     "Elle a dit : tu t'es toujours vu plus grand que tu n'étais.",
+     1.4
+    ],
+    [
+     "J'ai compris une chose, allongé dans ma boîte.",
+     1.4
+    ],
+    [
+     "Ne prends jamais les mesures de ta vie trop tôt. Elle n'a pas fini de te *surprendre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j085_pere",
+   "perso": "pere",
+   "episode": 86,
+   "fin": "Envoie-la à quelqu'un qui devrait emmener sa mère danser.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Ma mère voulait aller au bal.",
+   "legende": "Les enfants ne connaissent jamais vraiment leurs parents. Ils arrivent trop tard. Et toi, tu sais comment étaient tes parents à vingt ans ? #papa #pere #maman #vieillesse #emotion #pourtoi",
+   "phrases": [
+    [
+     "À quatre-vingt-cinq ans, ma mère m'a demandé de l'emmener au *bal*.",
+     1.3
+    ],
+    [
+     "Le bal du quatorze juillet, sur la place de son village.",
+     1.2
+    ],
+    [
+     "Elle n'y était plus allée depuis la mort de mon père. Vingt ans.",
+     1.4
+    ],
+    [
+     "J'ai trouvé ça gênant. J'avais peur qu'elle tombe.",
+     1.2
+    ],
+    [
+     "Elle a mis sa robe bleue et du rouge à lèvres. Elle m'a dit : tu me fais danser ?",
+     1.4
+    ],
+    [
+     "Je ne sais pas danser. Elle m'a appris la valse en dix minutes.",
+     1.2
+    ],
+    [
+     "Et puis les vieux du village ont fait la queue. Un par un, ils l'invitaient.",
+     1.4
+    ],
+    [
+     "Elle a dansé jusqu'à minuit. Moi, je tenais son sac, sur une chaise en plastique.",
+     1.4
+    ],
+    [
+     "Je l'ai regardée tourner. Et j'ai vu une femme que je ne connaissais pas.",
+     1.6
+    ],
+    [
+     "Une jeune fille qui riait, qui savait danser, qui avait eu une vie avant moi.",
+     1.8
+    ],
+    [
+     "Dans la voiture, je lui ai demandé pourquoi maintenant.",
+     1.4
+    ],
+    [
+     "Elle a dit : je voulais que tu me *voies* danser. Une fois, avant la fin.",
+     1.8
+    ],
+    [
+     "Les enfants ne connaissent jamais vraiment leurs parents. Ils arrivent trop tard.",
+     1.4
+    ],
+    [
+     "Alors demande-leur comment ils étaient avant toi. Et emmène-les au *bal*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j085_mere",
+   "perso": "mere",
+   "episode": 86,
+   "fin": "Envoie-la à quelqu'un qui se retourne toujours en partant.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Elle se retournait toujours trois fois.",
+   "legende": "La première, pour dire au revoir. La deuxième, pour regarder encore. La troisième, au cas où ce serait la dernière. Et toi, tu te retournes quand tu pars ? #maman #mere #adieux #deuil #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ma mère se retournait toujours trois *fois* en partant.",
+     1.3
+    ],
+    [
+     "Devant l'école, à la gare, au bout de l'allée. Trois fois. Jamais deux.",
+     1.2
+    ],
+    [
+     "Petite, je trouvais ça ridicule. Mes copines se moquaient d'elle.",
+     1.2
+    ],
+    [
+     "Un jour, je lui ai demandé pourquoi. Elle a compté sur ses doigts.",
+     1.4
+    ],
+    [
+     "La première, pour te dire au revoir. La deuxième, pour te regarder encore.",
+     1.2
+    ],
+    [
+     "La troisième, au cas où ce serait la *dernière*.",
+     1.8
+    ],
+    [
+     "J'ai haussé les épaules. J'avais dix ans. La dernière fois, ça n'existait pas.",
+     1.4
+    ],
+    [
+     "Elle a vécu jusqu'à quatre-vingt-sept ans. Elle s'est retournée trois fois, à chaque visite.",
+     1.4
+    ],
+    [
+     "La dernière fois que je l'ai vue, c'est moi qui partais. Elle était à sa fenêtre.",
+     1.4
+    ],
+    [
+     "Je me suis retournée une fois. Deux fois. J'ai hésité. Je me suis retournée encore.",
+     1.6
+    ],
+    [
+     "Elle souriait. Elle a levé la main. Je ne l'ai jamais revue.",
+     1.8
+    ],
+    [
+     "Depuis, je me retourne trois fois. Devant ta porte, sur le quai, au bout de ta rue.",
+     1.4
+    ],
+    [
+     "Tu trouves ça ridicule. Tu as raison.",
+     1.4
+    ],
+    [
+     "Retourne-toi trois fois quand tu pars. Il y a toujours quelqu'un à la *fenêtre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j085_fou",
+   "perso": "fou",
+   "episode": 85,
+   "fin": "Envoie-la à quelqu'un qui reste à tes côtés quoi qu'il arrive.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Le troisième homme sur le podium.",
+   "legende": "Le courage n'est pas toujours au centre de la photo. Et toi, qui est resté debout à côté de toi quand c'était dur ? #motivation #histoire #peternorman #courage #droitsciviques #pourtoi",
+   "phrases": [
+    [
+     "Sur l'une des photos les plus célèbres du sport, il y a un homme que personne ne *regarde*.",
+     1.3
+    ],
+    [
+     "Mexico, mille neuf cent soixante-huit. Podium du deux cents mètres.",
+     1.2
+    ],
+    [
+     "Deux Américains noirs, Tommie Smith et John Carlos, vont protester contre le racisme.",
+     1.2
+    ],
+    [
+     "Le troisième, l'Australien Peter Norman, est blanc. Il a la médaille d'argent.",
+     1.2
+    ],
+    [
+     "Avant de monter, ils lui expliquent leur geste. Il décide d'être avec eux.",
+     1.4
+    ],
+    [
+     "Il épingle sur sa veste le même insigne qu'eux.",
+     1.2
+    ],
+    [
+     "Carlos a oublié ses gants. C'est Norman qui leur conseille de partager la seule paire.",
+     1.4
+    ],
+    [
+     "Pendant l'hymne, deux poings gantés se lèvent. Norman reste droit, immobile, à leurs côtés.",
+     1.6
+    ],
+    [
+     "Les deux Américains sont exclus des Jeux. En Australie, on le reproche longtemps à Norman.",
+     1.4
+    ],
+    [
+     "En deux mille six, Peter Norman meurt.",
+     1.6
+    ],
+    [
+     "À son enterrement, deux hommes portent son *cercueil*. Tommie Smith et John Carlos.",
+     1.8
+    ],
+    [
+     "Six ans plus tard, le Parlement australien lui présente des excuses.",
+     1.4
+    ],
+    [
+     "Toi, tu n'auras pas toujours le courage de lever le poing.",
+     1.2
+    ],
+    [
+     "Mais tu peux toujours rester debout à côté de celui qui le lève.",
+     1.4
+    ],
+    [
+     "Le courage n'est pas toujours au *centre* de la photo.",
+     0
+    ]
+   ]
+  }
+ ]
+}

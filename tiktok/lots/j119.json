@@ -1,0 +1,352 @@
+{
+ "nom": "j119",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j119_grandmere",
+   "perso": "grandmere",
+   "episode": 120,
+   "fin": "Envoie-la à quelqu'un qui vient de changer de vie.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Dix étages, avec mes courses.",
+   "legende": "Quand tu changes de vie, tu crois être le seul à avoir peur. Mais dans chaque escalier, quelqu'un d'autre est assis sur une marche. Toi, de quoi as-tu peur en secret ? #grandmere #peur #demenagement #amitie #humour #pourtoi",
+   "phrases": [
+    [
+     "À soixante-dix ans, j'ai quitté mon village pour un appartement en ville. Au dixième *étage*.",
+     1.3
+    ],
+    [
+     "Ton grand-père venait de partir. Ta mère me voulait près d'elle.",
+     1.2
+    ],
+    [
+     "Le problème, c'est que j'avais peur des ascenseurs. Une peur de petite fille.",
+     1.2
+    ],
+    [
+     "Alors pendant six mois, j'ai pris l'escalier. Dix étages, avec mes courses.",
+     1.4
+    ],
+    [
+     "Je disais à ta mère que c'était pour mes jambes. Elle me trouvait formidable.",
+     1.2
+    ],
+    [
+     "Au quatrième, il y avait toujours une dame assise sur une marche.",
+     1.4
+    ],
+    [
+     "On se disait bonjour. Puis on a parlé de nos maris.",
+     1.4
+    ],
+    [
+     "Un jour, je lui ai demandé pourquoi elle ne prenait pas l'ascenseur.",
+     1.4
+    ],
+    [
+     "Elle a rougi. Elle a dit : j'ai *peur*. Depuis toujours.",
+     1.8
+    ],
+    [
+     "On a ri comme deux gamines, dans l'escalier.",
+     1.4
+    ],
+    [
+     "Le lendemain, on est entrées dans l'ascenseur. Ensemble. En se tenant la main.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, on le prend tous les matins. On chante pour ne pas y penser.",
+     1.4
+    ],
+    [
+     "Quand tu changes de vie, tu crois être le seul à avoir peur.",
+     1.2
+    ],
+    [
+     "Mais dans chaque escalier, il y a quelqu'un d'autre assis sur une *marche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j119_grandpere",
+   "perso": "grandpere",
+   "episode": 121,
+   "fin": "Envoie-la à quelqu'un qui tourne en rond.",
+   "lueurs": [
+    1,
+    8,
+    12
+   ],
+   "accroche": "Sept fois le tour de l'Arc de Triomphe.",
+   "legende": "Personne ne te laissera passer. Choisis ta sortie, et vas-y. Et toi, autour de quoi tu tournes depuis trop longtemps ? #grandpere #humour #decision #courage #famille #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-dix, j'ai fait sept fois le tour de l'Arc de *Triomphe*. En voiture.",
+     1.3
+    ],
+    [
+     "Je venais à Paris pour la première fois. Pour le mariage de ma nièce.",
+     1.2
+    ],
+    [
+     "Il y avait douze avenues, des centaines de voitures, et pas une seule ligne par terre.",
+     1.4
+    ],
+    [
+     "Je suis entré dans le rond-point. Et je n'ai plus réussi à en sortir.",
+     1.4
+    ],
+    [
+     "Chaque fois que je voyais ma sortie, quelqu'un klaxonnait. Alors je refaisais un tour.",
+     1.4
+    ],
+    [
+     "Ta grand-mère tenait la carte à l'envers. Elle priait à voix haute.",
+     1.4
+    ],
+    [
+     "Au septième tour, un taxi s'est arrêté à côté de moi. Le chauffeur a baissé sa vitre.",
+     1.6
+    ],
+    [
+     "Il m'a dit : monsieur, ici, personne ne vous laissera passer. Il faut choisir et y aller.",
+     1.6
+    ],
+    [
+     "J'ai mis mon clignotant. J'ai fermé les yeux à moitié. Et j'y suis allé.",
+     1.6
+    ],
+    [
+     "On est arrivés au mariage avec une heure de retard. Mais *vivants*.",
+     1.6
+    ],
+    [
+     "Dans la vie, on tourne souvent en rond parce qu'on attend qu'on nous laisse passer.",
+     1.2
+    ],
+    [
+     "Personne ne te laissera passer. Choisis ta *sortie*, et vas-y.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j119_pere",
+   "perso": "pere",
+   "episode": 120,
+   "fin": "Envoie-la à quelqu'un qui a su ne pas répondre.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Tu as eu peur, papa.",
+   "legende": "Le courage, ce n'est pas toujours de répondre. Parfois, c'est de rentrer à la maison. Et toi, as-tu déjà eu le courage de partir ? #papa #pere #courage #colere #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais dix ans, un homme m'a insulté devant toi. Je n'ai rien *répondu*.",
+     1.3
+    ],
+    [
+     "C'était sur un parking, pour une histoire de place. Il faisait deux têtes de plus que moi.",
+     1.2
+    ],
+    [
+     "Il hurlait. Il me traitait de tous les noms. Les gens regardaient.",
+     1.2
+    ],
+    [
+     "Moi, j'ai dit : vous avez raison, monsieur. Et je suis remonté dans la voiture.",
+     1.4
+    ],
+    [
+     "Sur le chemin du retour, tu n'as pas dit un mot.",
+     1.2
+    ],
+    [
+     "Puis, devant la maison, tu as murmuré : tu as eu peur, papa.",
+     1.6
+    ],
+    [
+     "J'ai répondu : oui. Tu as claqué la portière.",
+     1.6
+    ],
+    [
+     "Pendant des semaines, tu m'as regardé comme un *lâche*. Ça m'a fait plus mal que ses insultes.",
+     1.4
+    ],
+    [
+     "Je ne t'ai jamais expliqué. Je le fais aujourd'hui.",
+     1.2
+    ],
+    [
+     "J'avais peur, c'est vrai. Pas de lui. De ce que tu verrais si je répondais.",
+     1.6
+    ],
+    [
+     "L'an dernier, tu m'as appelé. Un homme t'avait insulté, dans un bouchon.",
+     1.4
+    ],
+    [
+     "Tu m'as dit : j'ai fait comme toi. Je suis parti. Et j'ai pensé à toi.",
+     1.8
+    ],
+    [
+     "Le courage, ce n'est pas toujours de répondre.",
+     1.2
+    ],
+    [
+     "Parfois, c'est de rentrer à la maison. Avec ceux qui t'*attendent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j119_mere",
+   "perso": "mere",
+   "episode": 120,
+   "fin": "Envoie-la à quelqu'un qui a peur des araignées.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Avec un verre et une carte postale.",
+   "legende": "Une mère n'est pas courageuse. Elle a juste plus peur pour toi que des araignées. Et toi, qui vient encore chasser tes araignées ? #maman #mere #humour #peur #famille #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai chassé les araignées de ta chambre. J'en ai une peur *bleue*.",
+     1.3
+    ],
+    [
+     "Tu criais : maman, une araignée ! Et j'arrivais, très calme, avec un verre et une carte postale.",
+     1.2
+    ],
+    [
+     "Je posais le verre sur la bête. Je glissais la carte dessous. Mes mains tremblaient.",
+     1.4
+    ],
+    [
+     "Je l'emmenais au jardin, en souriant. Toi, tu me regardais comme une héroïne.",
+     1.4
+    ],
+    [
+     "Ensuite, j'allais m'asseoir dans la salle de bain. Le temps que mon cœur se calme.",
+     1.4
+    ],
+    [
+     "Ton père, lui, montait sur une chaise. Il était encore plus terrifié que moi.",
+     1.4
+    ],
+    [
+     "Je ne voulais pas que tu aies peur de ce qui me faisait peur.",
+     1.6
+    ],
+    [
+     "La semaine dernière, tu m'as appelée à vingt-deux heures. Tu avais une voix bizarre.",
+     1.4
+    ],
+    [
+     "Tu as dit : maman, il y a une araignée énorme dans ma cuisine.",
+     1.4
+    ],
+    [
+     "Tu as trente-deux ans. Tu habites à deux cents kilomètres.",
+     1.6
+    ],
+    [
+     "J'ai pris la voiture. Avec un verre et une *carte* postale.",
+     1.8
+    ],
+    [
+     "Une mère n'est pas courageuse. Elle a juste plus peur pour toi que des *araignées*.",
+     1.4
+    ],
+    [
+     "Alors je vais t'apprendre. Ça marche aussi avec les mains qui tremblent.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j119_fou",
+   "perso": "fou",
+   "episode": 119,
+   "fin": "Envoie-la à quelqu'un qui n'hésite jamais à aider.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Le train passe au-dessus d'eux.",
+   "legende": "Le courage n'attend pas qu'on soit prêt. Il arrive avec les phares du train. Et toi, qu'aurais-tu fait sur ce quai ? #motivation #histoirevraie #courage #heros #newyork #pourtoi",
+   "phrases": [
+    [
+     "Le deux janvier deux mille sept, à New York, un homme attend le métro avec ses deux *filles*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Wesley Autrey. Cinquante ans, ouvrier dans le bâtiment.",
+     1.2
+    ],
+    [
+     "Sur le quai, un jeune homme fait un malaise. Il tombe sur les rails.",
+     1.2
+    ],
+    [
+     "Au loin, on voit déjà les phares du train.",
+     1.4
+    ],
+    [
+     "Wesley a une seconde pour décider. Il laisse ses filles sur le quai. Et il saute.",
+     1.6
+    ],
+    [
+     "Pas le temps de remonter le jeune homme. Le train arrive trop vite.",
+     1.4
+    ],
+    [
+     "Alors il le plaque au fond du creux, entre les rails. Il se couche sur lui.",
+     1.6
+    ],
+    [
+     "Le train passe au-dessus d'eux. À quelques centimètres de sa tête.",
+     1.8
+    ],
+    [
+     "Puis, de sous le train, il crie qu'ils vont bien. Il demande qu'on prévienne ses filles.",
+     1.6
+    ],
+    [
+     "Les deux hommes sont *vivants*.",
+     1.6
+    ],
+    [
+     "Plus tard, il a expliqué qu'il n'avait rien fait d'extraordinaire. Il avait vu quelqu'un qui avait besoin d'aide.",
+     1.4
+    ],
+    [
+     "Toi, tu attends peut-être d'être prêt pour aider quelqu'un.",
+     1.2
+    ],
+    [
+     "Le courage n'attend pas qu'on soit prêt. Il arrive avec les phares du train.",
+     1.4
+    ],
+    [
+     "Il y aura toujours une seconde. Ce que tu en feras, c'est *toi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

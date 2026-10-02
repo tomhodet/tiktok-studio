@@ -1,0 +1,356 @@
+{
+ "nom": "j129",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j129_grandmere",
+   "perso": "grandmere",
+   "episode": 130,
+   "fin": "Envoie-la à quelqu'un qui n'ose plus chanter.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Le gong a sonné après douze secondes.",
+   "legende": "Un public qui rit ne dit pas ce que tu vaux. Il dit juste qu'il n'est pas le tien. Toi, on s'est déjà moqué de toi en public ? #grandmere #pourtoi #chanson #honte #tendresse #emotion",
+   "phrases": [
+    [
+     "À dix-sept ans, j'ai chanté au radio-crochet du village. Le *gong* a sonné après douze secondes.",
+     1.4
+    ],
+    [
+     "Je n'avais même pas fini le premier couplet.",
+     1.2
+    ],
+    [
+     "Toute la place a éclaté de rire. Même le curé.",
+     1.4
+    ],
+    [
+     "Je suis rentrée chez moi en courant, dans ma robe à fleurs, rouge jusqu'aux oreilles.",
+     1.4
+    ],
+    [
+     "Après ça, je n'ai plus chanté. Ni à l'église, ni sous la douche. Nulle part.",
+     1.2
+    ],
+    [
+     "Ton grand-père me suppliait. Je lui répondais : demande au gong.",
+     1.4
+    ],
+    [
+     "Trente-cinq ans ont passé comme ça. En silence.",
+     1.2
+    ],
+    [
+     "Un soir, ta mère t'a déposé chez moi. Tu avais trois mois, et tu hurlais.",
+     1.2
+    ],
+    [
+     "J'ai tout essayé. Le biberon, la promenade, le tour de la cuisine.",
+     1.4
+    ],
+    [
+     "Alors, tout bas, je t'ai chanté la chanson du radio-crochet.",
+     1.6
+    ],
+    [
+     "Tu t'es endormi au bout de *douze* secondes.",
+     1.8
+    ],
+    [
+     "Depuis, je te l'ai chantée des centaines de fois. Tu n'as jamais sonné le gong.",
+     1.4
+    ],
+    [
+     "Un public qui rit ne dit pas ce que tu vaux. Il dit juste qu'il n'est pas le tien.",
+     1.4
+    ],
+    [
+     "Le mien, je l'ai trouvé trente-cinq ans plus tard. Il tenait dans mes *bras*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j129_grandpere",
+   "perso": "grandpere",
+   "episode": 131,
+   "fin": "Envoie-la à quelqu'un qui porte une vieille honte.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Je ne me suis pas arrêté.",
+   "legende": "Je ne me suis pas arrêté une fois. Ensuite, je me suis arrêté pour les autres pendant trente-deux ans. Et toi, qu'as-tu fait de ta pire seconde ? #grandpere #pourtoi #honte #pompier #courage #conseildevie",
+   "phrases": [
+    [
+     "Un soir de mille neuf cent soixante-sept, j'ai entendu quelqu'un appeler dans un champ. Je ne me suis pas *arrêté*.",
+     1.4
+    ],
+    [
+     "J'avais vingt et un ans. J'allais au bal, avec ma chemise neuve.",
+     1.2
+    ],
+    [
+     "Dans la nuit, j'ai vu une forme renversée. Un tracteur, peut-être. Je me suis dit : quelqu'un d'autre s'arrêtera.",
+     1.2
+    ],
+    [
+     "J'ai accéléré.",
+     1.6
+    ],
+    [
+     "Le lendemain, au café, on ne parlait que de ça.",
+     1.2
+    ],
+    [
+     "Un voisin l'avait trouvé à l'aube, coincé sous son tracteur. Gelé, mais vivant.",
+     1.4
+    ],
+    [
+     "Il a raconté qu'il avait entendu passer un seul moteur dans la nuit. Vers onze heures.",
+     1.6
+    ],
+    [
+     "Ce moteur, c'était le mien.",
+     1.8
+    ],
+    [
+     "Je n'ai rien dit à personne. La semaine suivante, je me suis engagé chez les pompiers volontaires.",
+     1.4
+    ],
+    [
+     "Trente-deux ans d'accidents, d'incendies, de nuits entières sur les routes.",
+     1.2
+    ],
+    [
+     "Ta grand-mère croyait que c'était du courage. C'était une *dette*.",
+     1.6
+    ],
+    [
+     "La lâcheté, ça arrive à tout le monde. En une seconde, sur une route.",
+     1.4
+    ],
+    [
+     "Ce qui compte, c'est ce que tu fais de toutes les secondes d'après.",
+     1.4
+    ],
+    [
+     "Je ne me suis pas arrêté une fois. Ensuite, je me suis arrêté pour les *autres* pendant trente-deux ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j129_pere",
+   "perso": "pere",
+   "episode": 130,
+   "fin": "Envoie-la à quelqu'un qui raconte toujours le même exploit.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Ton seul but, je l'ai raté.",
+   "legende": "Je n'ai pas vu ton but. Mais je n'ai jamais raté une seule de tes histoires. Et toi, quel exploit d'enfance tu racontes encore ? #papa #pere #pourtoi #humour #sport #enfance",
+   "phrases": [
+    [
+     "Ton seul but, en cinq saisons, je l'ai *raté*. J'étais parti chercher des frites.",
+     1.4
+    ],
+    [
+     "Quand je suis revenu, tu courais les bras en l'air. Tu avais sept ans.",
+     1.2
+    ],
+    [
+     "Tu m'as cherché dans la tribune. J'ai levé mes frites, comme un trophée.",
+     1.4
+    ],
+    [
+     "Le soir, tu m'as demandé : tu l'as vu, papa ? J'ai dit : bien sûr.",
+     1.6
+    ],
+    [
+     "Pendant quinze ans, tu me l'as raconté. Chaque fois un peu plus beau.",
+     1.4
+    ],
+    [
+     "Une frappe de trente mètres. Puis de quarante. Puis en lucarne, du pied gauche.",
+     1.4
+    ],
+    [
+     "Et moi, j'ai menti à chaque fois. Je hochais la tête, très fier.",
+     1.4
+    ],
+    [
+     "L'année dernière, ton ancien entraîneur m'a donné une vieille vidéo de la rencontre.",
+     1.4
+    ],
+    [
+     "Je l'ai regardée en cachette. J'ai enfin vu ton but.",
+     1.6
+    ],
+    [
+     "C'était un but contre ton *camp*. Et tu l'avais fêté comme une finale.",
+     1.8
+    ],
+    [
+     "Tu ne l'as jamais su. Ou alors, tu as décidé de l'oublier.",
+     1.6
+    ],
+    [
+     "Quinze ans qu'on fête un but marqué pour l'équipe d'en face. Ensemble.",
+     1.4
+    ],
+    [
+     "Je n'ai pas vu ton but. Mais je n'ai jamais raté une seule de tes *histoires*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j129_mere",
+   "perso": "mere",
+   "episode": 130,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas accepter d'aide.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Elle voulait payer. J'ai dit non.",
+   "legende": "Ce n'était pas ta classe de neige que j'avais protégée. C'était ma fierté. Et toi, tu as déjà refusé une aide par fierté ? #maman #mere #pourtoi #fierte #enfance #emotion",
+   "phrases": [
+    [
+     "Ta maîtresse m'a proposé de payer ta classe de neige. J'ai dit *non*.",
+     1.6
+    ],
+    [
+     "Tu avais dix ans. Toute ta classe partait une semaine à la montagne.",
+     1.2
+    ],
+    [
+     "Ton père venait de perdre son travail. On comptait chaque pièce.",
+     1.4
+    ],
+    [
+     "Je t'ai dit que tu étais trop petit. Que tu partirais l'année suivante.",
+     1.2
+    ],
+    [
+     "Un soir, ta maîtresse m'a attendue à la sortie. Elle avait tout compris.",
+     1.2
+    ],
+    [
+     "Elle m'a dit, tout doucement : la coopérative peut payer. Personne ne le saura.",
+     1.4
+    ],
+    [
+     "J'ai répondu : merci, mais on n'a besoin de rien.",
+     1.6
+    ],
+    [
+     "Cette semaine-là, tu es resté à l'école avec deux autres enfants. Dans une classe vide.",
+     1.4
+    ],
+    [
+     "Le vendredi, tu es allé attendre le car. Tu voulais voir s'il restait de la neige sur les bonnets.",
+     1.8
+    ],
+    [
+     "Ce n'était pas ta classe de neige que j'avais protégée. C'était ma *fierté*.",
+     1.6
+    ],
+    [
+     "La fierté, c'est bien quand c'est toi qui paies. Pas quand ce sont tes enfants.",
+     1.4
+    ],
+    [
+     "Si un jour quelqu'un te tend la main sans rien demander, prends-la.",
+     1.2
+    ],
+    [
+     "Moi, j'ai gardé ma fierté. Et toi, tu as regardé la neige sur les bonnets des *autres*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j129_fou",
+   "perso": "fou",
+   "episode": 129,
+   "fin": "Envoie-la à quelqu'un qui se sent à l'étroit.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il doit sortir de sa propre armure.",
+   "legende": "Une carapace trop petite n'est pas un échec. C'est la preuve que tu as grandi. Et toi, dans quoi te sens-tu à l'étroit ? #motivation #pourtoi #nature #homard #changement #conseildevie",
+   "phrases": [
+    [
+     "Pour grandir, un *homard* doit sortir de sa propre armure.",
+     1.4
+    ],
+    [
+     "Sa carapace le protège. Mais elle a un défaut : elle ne grandit pas.",
+     1.2
+    ],
+    [
+     "Lui grandit. Alors un jour, il se retrouve à l'étroit dans sa propre protection.",
+     1.2
+    ],
+    [
+     "Il n'a plus le choix. La carapace se fend, et il s'en extrait.",
+     1.4
+    ],
+    [
+     "Il en sort tout mou, sans défense. Une proie facile.",
+     1.4
+    ],
+    [
+     "Alors il se cache sous un rocher, et il attend que sa nouvelle carapace durcisse.",
+     1.4
+    ],
+    [
+     "Et l'ancienne ? Souvent, il la *mange*.",
+     1.8
+    ],
+    [
+     "Elle contient le calcium dont il a besoin pour durcir la nouvelle.",
+     1.4
+    ],
+    [
+     "Il recommence ainsi toute sa vie. Plusieurs fois par an quand il est jeune.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu te sens peut-être à l'étroit. Dans un travail, une ville, une vie.",
+     1.2
+    ],
+    [
+     "Quitter tout ça fait peur. Pendant un temps, tu seras fragile.",
+     1.4
+    ],
+    [
+     "C'est normal. On est toujours fragile juste après avoir grandi.",
+     1.4
+    ],
+    [
+     "Et ce que tu as été, ne le jette pas. Nourris-toi de ce qu'il t'a appris.",
+     1.6
+    ],
+    [
+     "Une carapace trop petite n'est pas un échec. C'est la preuve que tu as *grandi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

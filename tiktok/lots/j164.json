@@ -1,0 +1,360 @@
+{
+ "nom": "j164",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j164_grandmere",
+   "perso": "grandmere",
+   "episode": 165,
+   "fin": "Envoie-la à quelqu'un qui était trop sage enfant.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Ta mère était une enfant parfaite.",
+   "legende": "Une enfance sans bêtises, ce n'est pas une enfance sage. C'est une enfance qui a eu peur. Quelle est la plus grosse bêtise de ton enfance ? #grandmere #maman #enfance #regrets #humour #pourtoi",
+   "phrases": [
+    [
+     "Ta mère a été une enfant *parfaite*. C'est mon plus grand regret.",
+     1.3
+    ],
+    [
+     "Jamais une colère. Jamais une bêtise. Les cahiers propres, les genoux propres.",
+     1.2
+    ],
+    [
+     "Les voisines m'enviaient. Moi, j'étais fière. Je croyais que c'était grâce à moi.",
+     1.2
+    ],
+    [
+     "J'étais sévère. Chez moi, on ne renversait pas son verre. On ne courait pas dans le couloir.",
+     1.4
+    ],
+    [
+     "Le jour de ses quarante ans, on a regardé les vieilles photos ensemble.",
+     1.2
+    ],
+    [
+     "Sur toutes, elle se tient droite. Les mains sur les genoux.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : tu étais si sage. Elle a répondu : j'avais peur de toi, maman.",
+     1.8
+    ],
+    [
+     "Elle a dit ça doucement. Sans reproche. C'est ce qui m'a fait le plus mal.",
+     1.6
+    ],
+    [
+     "Une enfance sans bêtises, ce n'est pas une enfance sage. C'est une enfance qui a eu peur.",
+     1.6
+    ],
+    [
+     "Je ne peux pas lui rendre ses bêtises. Ni les verres renversés.",
+     1.4
+    ],
+    [
+     "Mais avec toi, j'ai fait autrement. Tu as dessiné un soleil sur mon papier peint.",
+     1.4
+    ],
+    [
+     "Je n'ai pas crié. Je l'ai encadré.",
+     1.6
+    ],
+    [
+     "Alors quand ton fils fera sa première vraie bêtise, ne gronde pas tout de suite.",
+     1.2
+    ],
+    [
+     "Appelle-moi. J'arrive avec des *crayons*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j164_grandpere",
+   "perso": "grandpere",
+   "episode": 166,
+   "fin": "Envoie-la à quelqu'un qui t'a offert un livre.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Je l'ai lu trente-cinq ans après.",
+   "legende": "Les cadeaux de nos enfants sont parfois des questions. Réponds avant trente-cinq ans. Quel cadeau attend encore que tu l'ouvres vraiment ? #grandpere #papa #livre #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pour mes quarante-cinq ans, ton père m'a offert un *livre*. Je l'ai lu à quatre-vingts ans.",
+     1.3
+    ],
+    [
+     "Il avait seize ans. Moi, je ne lisais jamais.",
+     1.2
+    ],
+    [
+     "J'ai dit merci. Je l'ai posé sur l'armoire. Il y est resté trente-cinq ans.",
+     1.4
+    ],
+    [
+     "Ton père n'a jamais rien demandé. Il n'en a jamais reparlé.",
+     1.2
+    ],
+    [
+     "Cet hiver, j'ai eu la grippe. Deux semaines au lit.",
+     1.2
+    ],
+    [
+     "J'ai pris le livre sur l'armoire. Pour la poussière, d'abord.",
+     1.4
+    ],
+    [
+     "À l'intérieur, sur la première page, il y avait quelques mots de lui. Au stylo bleu.",
+     1.4
+    ],
+    [
+     "Pour papa. Comme ça, on aura quelque chose à se dire.",
+     1.8
+    ],
+    [
+     "On ne se parlait plus, à l'époque. Il avait trouvé ce moyen-là.",
+     1.6
+    ],
+    [
+     "Et moi, je ne l'avais même pas ouvert.",
+     1.6
+    ],
+    [
+     "Je l'ai lu en trois jours. Une histoire de marins. Elle était très belle.",
+     1.4
+    ],
+    [
+     "Puis j'ai appelé ton père. Je lui ai dit : j'ai fini ton livre.",
+     1.6
+    ],
+    [
+     "Il y a eu un long silence. Puis on a parlé une heure. Du livre, et du reste.",
+     1.4
+    ],
+    [
+     "Les cadeaux de nos enfants sont parfois des questions. Réponds avant trente-cinq *ans*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j164_pere",
+   "perso": "pere",
+   "episode": 165,
+   "fin": "Envoie-la à quelqu'un qui fait toujours les grillades.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je t'ai donné la pince.",
+   "legende": "Ce n'est pas une pince. C'est un passage de témoin. Qui fait les grillades chez toi ? #papa #pere #transmission #famille #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "L'été dernier, je t'ai donné la *pince* à grillades. Tu n'as pas compris.",
+     1.3
+    ],
+    [
+     "Tu as cru que j'avais besoin d'aller aux toilettes. Tu as dit : vas-y, je surveille.",
+     1.2
+    ],
+    [
+     "Dans notre famille, c'est le père qui fait les grillades. Personne d'autre ne touche à la pince.",
+     1.2
+    ],
+    [
+     "Mon père l'a fait pendant quarante ans. Les saucisses trop cuites, la fumée dans les yeux, les blagues nulles.",
+     1.4
+    ],
+    [
+     "Un été, il m'a tendu la pince. Sans un mot. Je n'ai rien compris non plus.",
+     1.4
+    ],
+    [
+     "J'ai cru qu'il était fatigué. Il était malade. Il le savait déjà.",
+     1.6
+    ],
+    [
+     "C'était son dernier été.",
+     1.8
+    ],
+    [
+     "Il ne savait pas me dire : maintenant, c'est toi. Alors il m'a donné la pince.",
+     1.6
+    ],
+    [
+     "Rassure-toi, je ne suis pas malade. Je vais très bien.",
+     1.4
+    ],
+    [
+     "Mais j'ai cinquante-cinq ans. J'ai envie de voir comment tu te débrouilles, pendant que je suis encore là.",
+     1.4
+    ],
+    [
+     "De m'asseoir avec une bière, et de critiquer ta cuisson.",
+     1.4
+    ],
+    [
+     "Ce n'est pas une pince. C'est un passage de témoin.",
+     1.2
+    ],
+    [
+     "Alors cet été, prends-la. Et brûle les saucisses. C'est la *tradition*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j164_mere",
+   "perso": "mere",
+   "episode": 165,
+   "fin": "Envoie-la à quelqu'un qui montait l'escalier quatre à quatre.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Je savais tout. Grâce à l'escalier.",
+   "legende": "Ce n'était pas de la magie. C'était l'escalier. Et toi, comment ta mère devinait-elle ta journée ? #maman #mere #ado #souvenirs #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Pendant quinze ans, j'ai su comment s'était passée ta journée. Rien qu'au bruit de tes *pas*.",
+     1.3
+    ],
+    [
+     "Tu rentrais du collège. Tu montais l'escalier. Et moi, dans la cuisine, j'écoutais.",
+     1.2
+    ],
+    [
+     "Quatre à quatre : une bonne note, ou une copine. Je préparais le goûter.",
+     1.4
+    ],
+    [
+     "Lents, un peu traînés : un professeur, une dispute. Je ne posais pas de questions.",
+     1.4
+    ],
+    [
+     "Et quand tu montais sans aucun bruit, je savais que c'était grave. Je montais te voir.",
+     1.6
+    ],
+    [
+     "Tu me demandais : comment tu sais ? Je répondais : les mères savent tout.",
+     1.4
+    ],
+    [
+     "Ce n'était pas de la magie. C'était l'escalier.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu vis au cinquième étage, avec un ascenseur.",
+     1.4
+    ],
+    [
+     "Au téléphone, tu dis toujours : ça va. Je n'ai plus tes pas pour savoir si c'est vrai.",
+     1.8
+    ],
+    [
+     "Alors parfois, je te pose trop de questions. Tu soupires. Tu me trouves pénible.",
+     1.4
+    ],
+    [
+     "Ce n'est pas de la curiosité. J'ai perdu mon escalier.",
+     1.6
+    ],
+    [
+     "Puisque je n'entends plus tes pas, raconte-moi tes journées. Même les lourdes.",
+     1.2
+    ],
+    [
+     "Surtout les *lourdes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j164_fou",
+   "perso": "fou",
+   "episode": 164,
+   "fin": "Envoie-la à quelqu'un qui a ramé pour toi.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Elle a vu l'épave depuis le phare.",
+   "legende": "Ne demande pas si la mer est trop grosse. Rame. Qui a déjà ramé pour toi, dans ta tempête ? #motivation #histoire #courage #sauvetage #mer #pourtoi",
+   "phrases": [
+    [
+     "Le sept septembre mille huit cent trente-huit, à l'aube, une jeune femme regarde la mer depuis un *phare*.",
+     1.3
+    ],
+    [
+     "Elle s'appelle Grace Darling. Elle a vingt-deux ans. Son père garde ce phare, au large de l'Angleterre.",
+     1.2
+    ],
+    [
+     "Toute la nuit, une tempête a soufflé. Sur un rocher, elle aperçoit l'épave d'un navire.",
+     1.2
+    ],
+    [
+     "Et des silhouettes. Des survivants, accrochés à la pierre.",
+     1.4
+    ],
+    [
+     "Ils sont seuls. La mer est énorme.",
+     1.2
+    ],
+    [
+     "Avec son père, elle monte dans une petite barque à rames.",
+     1.4
+    ],
+    [
+     "Ils rament longtemps, dans les vagues, jusqu'au rocher.",
+     1.4
+    ],
+    [
+     "Elle tient la barque contre les vagues pendant que son père aide les naufragés à monter.",
+     1.6
+    ],
+    [
+     "Neuf personnes sont sauvées.",
+     1.8
+    ],
+    [
+     "En quelques jours, toute l'Angleterre connaît son nom.",
+     1.6
+    ],
+    [
+     "Elle reste vivre au phare, avec ses parents.",
+     1.4
+    ],
+    [
+     "Quatre ans plus tard, elle meurt de la tuberculose. Elle n'a que vingt-six ans.",
+     1.6
+    ],
+    [
+     "Son courage, lui, est entré dans la légende. On raconte encore son histoire aux enfants.",
+     1.4
+    ],
+    [
+     "Toi aussi, un matin, tu verras quelqu'un s'accrocher à son rocher.",
+     1.4
+    ],
+    [
+     "Ne demande pas si la mer est trop grosse. *Rame*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

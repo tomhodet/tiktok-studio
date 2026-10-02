@@ -1,0 +1,344 @@
+{
+ "nom": "j138",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j138_grandmere",
+   "perso": "grandmere",
+   "episode": 139,
+   "fin": "Envoie-la à quelqu'un qui a déjà envoyé un message au mauvais groupe.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Merci, j'arrive à quelle heure ?",
+   "legende": "On survit très bien au ridicule. Ce qui ne survit pas, ce sont les messages qu'on n'a jamais osé envoyer. Et toi, c'est quoi ton pire message envoyé par erreur ? #grandmere #pourtoi #humour #honte #amour #informatique",
+   "phrases": [
+    [
+     "À soixante-dix ans, j'ai envoyé un message d'amour à toute la *paroisse*.",
+     1.4
+    ],
+    [
+     "Je venais de commencer les cours d'informatique à la mairie. Le mardi, avec six autres vieux.",
+     1.2
+    ],
+    [
+     "Ce soir-là, je voulais écrire à ton grand-père. Il était chez son frère depuis trois jours.",
+     1.2
+    ],
+    [
+     "J'ai écrit : mon trésor, tu me manques, rentre vite, je t'attends avec la blanquette.",
+     1.4
+    ],
+    [
+     "Et j'ai appuyé sur le mauvais bouton. Celui de la liste de la paroisse.",
+     1.6
+    ],
+    [
+     "Cent quatre-vingts personnes. Dont le curé.",
+     1.6
+    ],
+    [
+     "Le lendemain, le curé m'a répondu : merci, j'arrive à quelle heure ?",
+     1.8
+    ],
+    [
+     "J'ai voulu rendre l'ordinateur. Je n'osais plus aller à la messe.",
+     1.4
+    ],
+    [
+     "Le dimanche suivant, trois veuves m'ont arrêtée à la sortie de l'église.",
+     1.2
+    ],
+    [
+     "Elles m'ont dit : vous avez de la chance. Nous, on n'a plus personne à qui l'écrire.",
+     1.6
+    ],
+    [
+     "Ton grand-père, lui, a imprimé le message. Il est encadré dans l'entrée.",
+     1.6
+    ],
+    [
+     "À mon âge, j'ai appris une chose : on survit très bien au *ridicule*.",
+     1.4
+    ],
+    [
+     "Ce qui ne survit pas, ce sont les messages qu'on n'a jamais osé *envoyer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j138_grandpere",
+   "perso": "grandpere",
+   "episode": 140,
+   "fin": "Envoie-la à quelqu'un qui voit le monde à sa façon.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Recalé à cause d'un feu rouge.",
+   "legende": "Un refus ne dit pas ce que tu ne peux pas faire. Il dit avec qui tu dois le faire. Et toi, qui choisit tes couleurs ? #grandpere #pourtoi #humour #metier #amour #conseildevie",
+   "phrases": [
+    [
+     "À dix-huit ans, j'ai raté le concours des chemins de fer. À cause d'un *feu* rouge.",
+     1.4
+    ],
+    [
+     "Je voulais conduire des trains, comme mon oncle. Depuis tout petit.",
+     1.2
+    ],
+    [
+     "À la visite médicale, le docteur m'a montré des pages couvertes de petits points de couleur.",
+     1.2
+    ],
+    [
+     "Dans les points, il fallait lire des chiffres. Moi, je ne voyais que des points.",
+     1.4
+    ],
+    [
+     "Verdict : daltonien. Je confondais le rouge et le vert.",
+     1.6
+    ],
+    [
+     "Pour un conducteur de train, c'est un peu gênant.",
+     1.6
+    ],
+    [
+     "Je suis rentré au village la tête basse. Mon oncle ne m'a pas parlé de la soirée.",
+     1.4
+    ],
+    [
+     "Il fallait bien travailler. Un patron cherchait un apprenti. Peintre en bâtiment.",
+     1.4
+    ],
+    [
+     "Oui. Peintre. Avec des yeux qui confondent le rouge et le vert.",
+     1.6
+    ],
+    [
+     "Pendant quarante ans, ta grand-mère a choisi toutes mes *couleurs*. Elle les écrivait sur les pots.",
+     1.6
+    ],
+    [
+     "Les clients ne l'ont jamais su. Ils disaient que j'avais un goût très sûr.",
+     1.4
+    ],
+    [
+     "Un refus ne dit pas ce que tu ne peux pas faire. Il dit avec qui tu dois le faire.",
+     1.4
+    ],
+    [
+     "Moi, j'ai peint des centaines de maisons. Avec les yeux de ta *grand-mère*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j138_pere",
+   "perso": "pere",
+   "episode": 139,
+   "fin": "Envoie-la à quelqu'un qu'on a toujours comparé à un autre.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Regarde ton cousin, lui au moins.",
+   "legende": "Ne compare jamais ton enfant à celui d'un autre. Tu ne vois que sa vitrine. Et toi, à qui t'a-t-on comparé toute ton enfance ? #papa #pere #pourtoi #comparaison #famille #emotion",
+   "phrases": [
+    [
+     "Toute ton enfance, je t'ai *comparé* à ton cousin Julien.",
+     1.4
+    ],
+    [
+     "Julien avait dix-huit de moyenne. Julien jouait du piano. Julien rangeait sa chambre.",
+     1.4
+    ],
+    [
+     "À chaque bulletin, je disais : regarde ton cousin. Lui, au moins, il se donne du mal.",
+     1.4
+    ],
+    [
+     "Tu baissais la tête. Tu as fini par détester les repas de famille.",
+     1.4
+    ],
+    [
+     "Et Julien, au fond, tu le détestais un peu aussi. À cause de moi.",
+     1.4
+    ],
+    [
+     "L'été dernier, c'était son mariage. Il a fait un discours magnifique, évidemment.",
+     1.2
+    ],
+    [
+     "Au dessert, il est venu s'asseoir à côté de moi. Il avait un peu bu.",
+     1.4
+    ],
+    [
+     "Il m'a dit : vous savez, mon oncle, toute mon enfance, mon père me comparait à votre fils.",
+     1.6
+    ],
+    [
+     "Regarde ton cousin. Lui, au moins, il est *heureux*.",
+     1.8
+    ],
+    [
+     "Nos deux familles utilisaient le même bâton. Chacune avait juste choisi l'enfant de l'autre.",
+     1.6
+    ],
+    [
+     "Vous avez grandi tous les deux à l'ombre d'un cousin parfait. Qui n'existait pas.",
+     1.4
+    ],
+    [
+     "Ne compare jamais ton enfant à celui d'un autre. Tu ne vois que sa vitrine.",
+     1.4
+    ],
+    [
+     "Et quelque part, un autre père est en train de lui montrer la *tienne*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j138_mere",
+   "perso": "mere",
+   "episode": 139,
+   "fin": "Envoie-la à quelqu'un qui a grandi avec des habits d'occasion.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "C'étaient des cadeaux de ta tante.",
+   "legende": "La honte d'une époque devient parfois la fierté de la suivante. Et toi, tu portais les vêtements de qui quand tu étais petit ? #maman #mere #pourtoi #enfance #occasion #emotion",
+   "phrases": [
+    [
+     "Pendant des années, je t'ai habillé d'occasion. Et je te l'ai *caché*.",
+     1.4
+    ],
+    [
+     "Le samedi matin, je faisais les vide-greniers et les ventes de charité.",
+     1.2
+    ],
+    [
+     "Je lavais tout deux fois. Je recousais les boutons. Je repassais jusqu'à ce que ça fasse neuf.",
+     1.2
+    ],
+    [
+     "Et je te disais que c'étaient des cadeaux de ta tante. Ta tante n'a jamais rien offert.",
+     1.4
+    ],
+    [
+     "J'avais peur qu'on se moque de toi. Comme on s'était moqué de moi.",
+     1.4
+    ],
+    [
+     "Un jour, un garçon a reconnu son ancien blouson sur toi. Devant toute la classe.",
+     1.4
+    ],
+    [
+     "Tu es rentré en larmes. Je me suis sentie la plus mauvaise mère du monde.",
+     1.6
+    ],
+    [
+     "Je n'ai jamais osé te dire la vérité. Ce soir-là encore, j'ai accusé ta tante.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu n'achètes plus rien de neuf. Tu dis que c'est pour la planète.",
+     1.6
+    ],
+    [
+     "Tu me montres tes vestes comme des trophées.",
+     1.4
+    ],
+    [
+     "Moi, je cachais exactement la même chose. Avec un fer à repasser.",
+     1.6
+    ],
+    [
+     "La honte d'une époque devient parfois la *fierté* de la suivante.",
+     1.4
+    ],
+    [
+     "Ce n'est pas le vêtement qui change. C'est la façon de le *porter*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j138_fou",
+   "perso": "fou",
+   "episode": 138,
+   "fin": "Envoie-la à quelqu'un qui a perdu sa place.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Le roi de la forêt, tête nue.",
+   "legende": "Ce que tu as fait pousser une fois, tu peux le faire repousser. Et toi, qu'as-tu perdu qui faisait ta fierté ? #motivation #pourtoi #nature #cerf #resilience #conseildevie",
+   "phrases": [
+    [
+     "Chaque année, à la fin de l'hiver, le cerf perd ce qui fait sa *fierté*.",
+     1.4
+    ],
+    [
+     "Ses bois. Des bois immenses, faits d'os, qui pèsent plusieurs kilos.",
+     1.2
+    ],
+    [
+     "Un matin, ils tombent. L'un, puis l'autre. Comme ça, dans la forêt.",
+     1.4
+    ],
+    [
+     "Le roi de la forêt se retrouve tête *nue*.",
+     1.6
+    ],
+    [
+     "Pendant un temps, il n'a plus rien pour se battre ni pour impressionner.",
+     1.4
+    ],
+    [
+     "Mais aussitôt, de nouveaux bois commencent à pousser. Couverts d'une peau douce, comme du velours.",
+     1.6
+    ],
+    [
+     "Ils poussent vite. C'est un des tissus qui grandissent le plus vite dans le monde animal.",
+     1.4
+    ],
+    [
+     "À la fin de l'été, il frotte ses bois contre les arbres. Le velours tombe.",
+     1.4
+    ],
+    [
+     "Et souvent, tant qu'il est jeune, les nouveaux bois sont plus grands que les anciens.",
+     1.6
+    ],
+    [
+     "Toi, tu as peut-être perdu ce qui faisait ta fierté. Un titre, un travail, une réputation.",
+     1.2
+    ],
+    [
+     "Tu as l'impression d'avancer tête nue. Et que tout le monde te regarde.",
+     1.4
+    ],
+    [
+     "Mais ce que tu as perdu n'était pas toi. C'était quelque chose que tu avais fait pousser.",
+     1.6
+    ],
+    [
+     "Et ce que tu as fait pousser une fois, tu peux le faire *repousser*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

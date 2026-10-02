@@ -1,0 +1,348 @@
+{
+ "nom": "j125",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j125_grandmere",
+   "perso": "grandmere",
+   "episode": 126,
+   "fin": "Envoie-la à quelqu'un qui n'est jamais parti seul.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Ton grand-père a cru que je le quittais.",
+   "legende": "Partir seul, ce n'est pas quitter quelqu'un. C'est aller voir de quoi on est fait. Et toi, quel voyage rêves-tu de faire seul ? #grandmere #partir #courage #voyage #couple #pourtoi",
+   "phrases": [
+    [
+     "À soixante-cinq ans, je suis partie à pied jusqu'à Compostelle. *Seule*.",
+     1.3
+    ],
+    [
+     "Plus de mille kilomètres. Ton grand-père a cru que je le quittais.",
+     1.2
+    ],
+    [
+     "Toute ma vie, je n'étais jamais partie sans quelqu'un.",
+     1.2
+    ],
+    [
+     "Je voulais savoir si j'en étais capable. Une fois. Avant d'être trop vieille.",
+     1.4
+    ],
+    [
+     "Les premiers jours, j'ai pleuré dans chaque gîte. J'avais des ampoules grosses comme des noix.",
+     1.4
+    ],
+    [
+     "Ton grand-père m'appelait tous les soirs. Il disait : reviens, je viens te chercher en voiture.",
+     1.4
+    ],
+    [
+     "Au bout d'un mois, je ne pleurais plus. Je chantais en marchant.",
+     1.4
+    ],
+    [
+     "Le dernier jour, devant la cathédrale, un vieux monsieur était assis sur les marches.",
+     1.6
+    ],
+    [
+     "C'était ton grand-père. Il avait pris le train. Lui qui n'était jamais allé plus loin que la préfecture.",
+     1.8
+    ],
+    [
+     "Il avait mis trois jours pour venir. Trois trains, deux cars, et une nuit sur un banc.",
+     1.6
+    ],
+    [
+     "Il m'a dit : je voulais que quelqu'un t'applaudisse à l'arrivée.",
+     1.4
+    ],
+    [
+     "Ce jour-là, on a découvert tous les deux de quoi on était capables.",
+     1.2
+    ],
+    [
+     "Partir seul, ce n'est pas quitter quelqu'un. C'est aller voir de quoi on est *fait*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j125_grandpere",
+   "perso": "grandpere",
+   "episode": 127,
+   "fin": "Envoie-la à quelqu'un qui a su reconnaître ses torts.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Lundi, huit heures. On t'attend.",
+   "legende": "Le plus dur, ce n'est pas d'avoir raison. C'est d'avouer qu'on a eu tort. Et toi, quand as-tu reconnu tes torts pour la dernière fois ? #grandpere #couple #pardon #travail #famille #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, ta grand-mère m'a demandé si elle pouvait travailler. J'ai dit *non*.",
+     1.3
+    ],
+    [
+     "À l'époque, une femme qui travaillait, ça voulait dire que le mari ne gagnait pas assez.",
+     1.2
+    ],
+    [
+     "J'étais fier. Bête aussi. Mais surtout fier.",
+     1.2
+    ],
+    [
+     "Elle n'a pas discuté. Elle a rangé son diplôme de couturière dans un tiroir.",
+     1.4
+    ],
+    [
+     "Pendant cinq ans, elle a fait la maison, les enfants, les repas. Sans se plaindre.",
+     1.2
+    ],
+    [
+     "Mais elle chantait de moins en moins. Puis plus du tout.",
+     1.6
+    ],
+    [
+     "Un soir, je l'ai surprise à coudre une robe pour une voisine. Elle souriait.",
+     1.4
+    ],
+    [
+     "Je ne l'avais pas vue sourire comme ça depuis cinq ans.",
+     1.6
+    ],
+    [
+     "Le lendemain, je suis allé voir le patron de l'atelier de couture du bourg. En cachette.",
+     1.4
+    ],
+    [
+     "Le soir, j'ai posé un papier sur la table. Lundi, huit heures. On t'attend.",
+     1.8
+    ],
+    [
+     "Elle a pleuré. Moi, j'ai fait semblant de lire le journal.",
+     1.4
+    ],
+    [
+     "Elle a travaillé trente ans dans cet atelier. Elle a recommencé à chanter dès la première semaine.",
+     1.4
+    ],
+    [
+     "Le plus dur, ce n'est pas d'avoir raison. C'est d'avouer qu'on a eu tort.",
+     1.2
+    ],
+    [
+     "Surtout quand on avait *gagné*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j125_pere",
+   "perso": "pere",
+   "episode": 126,
+   "fin": "Envoie-la à quelqu'un qui a peur en avion.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Jamais en avion. Pendant vingt ans.",
+   "legende": "La meilleure façon d'oublier ta peur, c'est de tenir la main de quelqu'un qui a plus peur que toi. Et toi, quelle peur caches-tu derrière une bonne excuse ? #papa #pere #peur #avion #humour #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, on est partis en vacances en voiture. Mille deux cents kilomètres. Jamais en *avion*.",
+     1.3
+    ],
+    [
+     "Je disais : la route, c'est l'aventure. On voit du pays.",
+     1.2
+    ],
+    [
+     "La vérité, c'est que j'avais une peur panique de l'avion.",
+     1.2
+    ],
+    [
+     "Ta mère s'en doutait. Toi, tu croyais que j'aimais les aires d'autoroute.",
+     1.4
+    ],
+    [
+     "Et puis tu t'es marié au Portugal. Trop loin pour mentir.",
+     1.4
+    ],
+    [
+     "Dans l'avion, j'ai serré les accoudoirs avant même le décollage.",
+     1.4
+    ],
+    [
+     "À côté de moi, il y avait une petite fille de sept ans. Seule, avec une hôtesse.",
+     1.4
+    ],
+    [
+     "Au décollage, elle s'est mise à pleurer. Elle m'a regardé. Elle a pris ma main.",
+     1.6
+    ],
+    [
+     "Alors j'ai fait la seule chose possible. J'ai fait semblant d'être courageux.",
+     1.6
+    ],
+    [
+     "Je lui ai expliqué les nuages, les bruits, les secousses. Je n'y connaissais rien.",
+     1.4
+    ],
+    [
+     "Deux heures plus tard, on atterrissait. Je n'avais pas eu peur une seule seconde.",
+     1.8
+    ],
+    [
+     "Je n'avais pas eu le temps. J'étais occupé à rassurer quelqu'un.",
+     1.4
+    ],
+    [
+     "La meilleure façon d'oublier ta peur, c'est de tenir la main de quelqu'un qui a plus peur que *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j125_mere",
+   "perso": "mere",
+   "episode": 126,
+   "fin": "Envoie-la à quelqu'un qui a un entretien demain.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "L'étiquette pendait encore à ma veste.",
+   "legende": "Avoue ta peur. Souvent, celui qui est en face a la même. Et toi, quel est ton pire souvenir d'entretien ? #maman #mere #travail #peur #humour #pourtoi",
+   "phrases": [
+    [
+     "À quarante-cinq ans, je suis allée à mon premier entretien d'embauche depuis vingt ans. L'*étiquette* pendait encore à ma veste.",
+     1.3
+    ],
+    [
+     "Je venais de divorcer. Il fallait que je travaille. Vite.",
+     1.2
+    ],
+    [
+     "J'avais acheté un tailleur la veille. Je comptais le rapporter au magasin le lendemain.",
+     1.2
+    ],
+    [
+     "Dans la salle d'attente, six jeunes femmes diplômées attendaient.",
+     1.4
+    ],
+    [
+     "Quand mon nom a été appelé, mes jambes ne voulaient plus se lever.",
+     1.4
+    ],
+    [
+     "En face de moi, un jeune homme a regardé ma manche. L'étiquette. Le prix.",
+     1.6
+    ],
+    [
+     "J'aurais pu mentir. J'ai dit la vérité : je suis terrifiée, et je compte rendre la veste demain.",
+     1.6
+    ],
+    [
+     "Il a éclaté de rire. Puis il a dit : moi aussi, je suis terrifié.",
+     1.6
+    ],
+    [
+     "C'était le premier entretien de sa vie. De l'autre côté du bureau.",
+     1.8
+    ],
+    [
+     "On a parlé une heure. Pas de mes diplômes. De nos peurs, de la vie, de mes enfants.",
+     1.4
+    ],
+    [
+     "J'ai eu le poste. J'y suis restée quinze ans. Et j'ai gardé la veste.",
+     1.4
+    ],
+    [
+     "Avoue ta peur. Souvent, celui qui est en face a la même.",
+     1.2
+    ],
+    [
+     "Et la plupart du temps, il est soulagé que quelqu'un l'ait dit en *premier*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j125_fou",
+   "perso": "fou",
+   "episode": 125,
+   "fin": "Envoie-la à quelqu'un qui croit avoir tout raté.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "L'homme ruiné était le premier de la liste.",
+   "legende": "Ta chute n'efface pas le bien que tu as semé. Et toi, quel bien as-tu fait que personne n'a vu ? #motivation #histoirevraie #resilience #croixrouge #inspiration #pourtoi",
+   "phrases": [
+    [
+     "Le vingt-quatre juin mille huit cent cinquante-neuf, un homme d'affaires suisse arrive près d'un champ de *bataille*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Henri Dunant. Il est venu en Italie parler affaires avec Napoléon trois.",
+     1.2
+    ],
+    [
+     "Mais à Solferino, il découvre des milliers de blessés abandonnés sous le soleil.",
+     1.2
+    ],
+    [
+     "Il oublie ses affaires. Avec des femmes de la ville voisine, il soigne les blessés. Des deux camps.",
+     1.4
+    ],
+    [
+     "Il écrit un livre sur ce qu'il a vu. Toute l'Europe le lit.",
+     1.4
+    ],
+    [
+     "Quelques années plus tard, son idée devient la *Croix-Rouge*.",
+     1.6
+    ],
+    [
+     "Puis tout s'écroule. Ses affaires font faillite. Il quitte Genève, couvert de dettes.",
+     1.4
+    ],
+    [
+     "Il vit dans la misère, pendant des années. Le monde l'oublie.",
+     1.6
+    ],
+    [
+     "On le retrouve, vieux et malade, dans un hospice d'un petit village suisse.",
+     1.4
+    ],
+    [
+     "En mille neuf cent un, il reçoit le tout premier prix Nobel de la paix.",
+     1.8
+    ],
+    [
+     "L'homme ruiné, oublié de tous, était le premier de la liste.",
+     1.4
+    ],
+    [
+     "Toi, tu crois peut-être que ta chute efface ce que tu as fait de bien.",
+     1.2
+    ],
+    [
+     "Elle n'efface rien. Le bien que tu sèmes continue de pousser, même quand tu *tombes*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

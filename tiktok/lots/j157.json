@@ -1,0 +1,380 @@
+{
+ "nom": "j157",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j157_grandmere",
+   "perso": "grandmere",
+   "episode": 158,
+   "fin": "Envoie-la à quelqu'un qui râle à chaque Noël.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Le dernier Noël, j'ai râlé toute la soirée.",
+   "legende": "On croit que les beaux moments sont ceux où tout est parfait. Ce sont ceux où tout le monde est là. Tu seras là, toi, à Noël ? #grandmere #noel #famille #regrets #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le dernier Noël où on était tous ensemble, j'ai *râlé* toute la soirée.",
+     1.3
+    ],
+    [
+     "La dinde était trop cuite. Ton oncle était en retard. Ton grand-père avait mis sa vieille cravate.",
+     1.2
+    ],
+    [
+     "Ta mère avait oublié le pain. Les enfants criaient. Personne ne m'aidait à débarrasser.",
+     1.2
+    ],
+    [
+     "À minuit, j'ai dit : l'année prochaine, je ne fais rien. Débrouillez-vous.",
+     1.4
+    ],
+    [
+     "L'année d'après, on était neuf au lieu de onze.",
+     1.6
+    ],
+    [
+     "Ton grand-père était parti au printemps. Ton oncle vivait au Canada.",
+     1.4
+    ],
+    [
+     "J'ai fait une petite dinde. Parfaitement cuite. Personne ne criait.",
+     1.4
+    ],
+    [
+     "C'était le Noël le plus triste de ma vie.",
+     1.6
+    ],
+    [
+     "Je donnerais n'importe quoi pour retrouver celui où j'ai râlé.",
+     1.8
+    ],
+    [
+     "La dinde sèche. Le retard de ton oncle. La cravate horrible de ton grand-père.",
+     1.4
+    ],
+    [
+     "On croit que les beaux moments sont ceux où tout est parfait.",
+     1.2
+    ],
+    [
+     "Ce sont ceux où tout le monde est *là*.",
+     1.6
+    ],
+    [
+     "Alors cette année, je fais la dinde. Elle sera trop cuite, comme d'habitude.",
+     1.4
+    ],
+    [
+     "Arrive en retard si tu veux. Mets une cravate horrible.",
+     1.2
+    ],
+    [
+     "Mais *viens*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j157_grandpere",
+   "perso": "grandpere",
+   "episode": 159,
+   "fin": "Envoie-la à quelqu'un dont tu es fier. Directement.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Toute la ville le sait. Sauf lui.",
+   "legende": "La fierté qu'on raconte à tout le monde, sauf à l'intéressé, ce n'est que du bavardage. Tes parents t'ont déjà dit qu'ils étaient fiers de toi ? #grandpere #papa #fierte #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Toute la ville sait que je suis *fier* de ton père. Sauf lui.",
+     1.3
+    ],
+    [
+     "Le boulanger sait qu'il a eu son diplôme d'ingénieur du premier coup.",
+     1.2
+    ],
+    [
+     "Le coiffeur connaît le nom de son entreprise.",
+     1.2
+    ],
+    [
+     "Au café, je montre sa photo à des inconnus.",
+     1.4
+    ],
+    [
+     "Mais à lui, je n'ai jamais rien dit. Chez nous, on ne félicitait pas.",
+     1.4
+    ],
+    [
+     "Le mois dernier, ton père est allé acheter du pain.",
+     1.2
+    ],
+    [
+     "Le boulanger lui a dit : alors, cette promotion, félicitations ! Votre père nous a tout raconté.",
+     1.6
+    ],
+    [
+     "Ton père est rentré tout pâle. Il m'a dit : tu en as parlé au boulanger ?",
+     1.6
+    ],
+    [
+     "J'ai répondu : à tout le monde. Depuis trente ans.",
+     1.8
+    ],
+    [
+     "Il s'est assis. Il n'a rien dit pendant longtemps.",
+     1.4
+    ],
+    [
+     "Puis il a dit : j'aurais préféré l'apprendre de toi, papa.",
+     1.6
+    ],
+    [
+     "La fierté qu'on raconte à tout le monde, sauf à l'intéressé, ce n'est que du bavardage.",
+     1.4
+    ],
+    [
+     "Je n'arrive toujours pas à le lui dire en face. J'ai essayé. Ça reste coincé.",
+     1.2
+    ],
+    [
+     "Alors je te le dis à toi. Tu le lui répéteras.",
+     1.2
+    ],
+    [
+     "Dis-lui que son vieux père est fier. Même le *boulanger* le sait.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j157_pere",
+   "perso": "pere",
+   "episode": 158,
+   "fin": "Envoie-la à quelqu'un qui boudait en vacances.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Tu as boudé trois semaines.",
+   "legende": "Même fâché, même ignoré, j'étais heureux que tu sois là. Tu te souviens de tes dernières vacances avec tes parents ? #papa #pere #vacances #souvenirs #emotion #pourtoi",
+   "phrases": [
+    [
+     "Nos dernières vacances ensemble, tu as *boudé* pendant trois semaines.",
+     1.3
+    ],
+    [
+     "Tu avais dix-sept ans. Tu ne voulais pas venir. Tes amis partaient sans toi.",
+     1.2
+    ],
+    [
+     "Tu as passé le voyage avec tes écouteurs. Huit heures de route sans un mot.",
+     1.2
+    ],
+    [
+     "Là-bas, tu dormais jusqu'à midi. Tu soupirais à chaque repas.",
+     1.2
+    ],
+    [
+     "Ta mère essayait. Moi, je m'énervais. J'ai dit des phrases que je regrette.",
+     1.4
+    ],
+    [
+     "Un soir, j'ai même dit : plus jamais de vacances avec toi.",
+     1.4
+    ],
+    [
+     "J'ai été exaucé. L'été suivant, tu avais un travail. Puis une copine. Puis ta vie.",
+     1.6
+    ],
+    [
+     "Je ne savais pas que c'étaient les dernières. On ne le sait jamais.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, je les reprendrais toutes. Avec les soupirs, avec les écouteurs.",
+     1.4
+    ],
+    [
+     "L'année dernière, j'ai retrouvé une photo de ces vacances.",
+     1.2
+    ],
+    [
+     "Tu boudes au premier plan. Et derrière, sur la plage, je te regarde.",
+     1.6
+    ],
+    [
+     "Tu sais quoi ? Je souris. Je ne m'en souvenais pas.",
+     1.8
+    ],
+    [
+     "Même fâché, même ignoré, j'étais heureux que tu sois là.",
+     1.4
+    ],
+    [
+     "Si un jour tes enfants boudent pendant les vacances, laisse-les bouder.",
+     1.2
+    ],
+    [
+     "L'important, c'est qu'ils boudent à côté de *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j157_mere",
+   "perso": "mere",
+   "episode": 158,
+   "fin": "Envoie-la à quelqu'un qui garde les traditions.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Toujours sur la même marche.",
+   "legende": "Les traditions, on croit qu'on les impose. En fait, on les confie. Quelle tradition de ton enfance as-tu gardée ? #maman #mere #tradition #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Chaque année, le jour de la rentrée, je t'ai pris en photo sur la même *marche*.",
+     1.3
+    ],
+    [
+     "La troisième marche du perron. Celle qui est fendue.",
+     1.2
+    ],
+    [
+     "La première fois, tu avais trois ans. Ton cartable était plus grand que toi.",
+     1.2
+    ],
+    [
+     "Puis il y a eu la photo sans dents. La photo avec le plâtre.",
+     1.2
+    ],
+    [
+     "La photo où tu refusais de sourire, à treize ans. Je l'ai prise quand même.",
+     1.4
+    ],
+    [
+     "Quinze photos. Puis tu es parti faire tes études, et la marche est restée vide.",
+     1.6
+    ],
+    [
+     "La première rentrée sans toi, j'ai photographié la marche. Toute seule.",
+     1.6
+    ],
+    [
+     "Ton père m'a regardée bizarrement.",
+     1.2
+    ],
+    [
+     "Cette année, le jour de la rentrée, j'ai reçu un message de toi.",
+     1.4
+    ],
+    [
+     "Une photo. Ta fille, trois ans, sur une marche. Son cartable plus grand qu'elle.",
+     1.8
+    ],
+    [
+     "Tu avais écrit : la tradition continue, maman.",
+     1.6
+    ],
+    [
+     "Je ne savais pas que tu avais remarqué. Je croyais que ça t'agaçait.",
+     1.4
+    ],
+    [
+     "Les traditions, on croit qu'on les impose. En fait, on les *confie*.",
+     1.4
+    ],
+    [
+     "La marche a changé de maison. Pas la tradition.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j157_fou",
+   "perso": "fou",
+   "episode": 157,
+   "fin": "Envoie-la à quelqu'un qui vient d'avoir un bébé.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "Ta première note, à une minute.",
+   "legende": "Elle voulait opérer. On lui a fermé une porte. Elle en a ouvert une autre. Et toi, quelle porte peux-tu ouvrir que personne d'autre ne peut ? #motivation #histoire #medecine #femmes #naissance #pourtoi",
+   "phrases": [
+    [
+     "La première *note* de ta vie, tu l'as eue à une minute.",
+     1.3
+    ],
+    [
+     "Cette note porte le nom d'une femme. Virginia Apgar.",
+     1.2
+    ],
+    [
+     "Dans les années trente, à New York, elle veut devenir chirurgienne.",
+     1.2
+    ],
+    [
+     "Son patron lui conseille de changer de voie. À l'époque, une femme chirurgien trouve peu de patients.",
+     1.4
+    ],
+    [
+     "Alors elle devient anesthésiste. Une spécialité encore toute jeune.",
+     1.4
+    ],
+    [
+     "Dans les salles d'accouchement, elle remarque une chose terrible.",
+     1.2
+    ],
+    [
+     "Personne ne sait vraiment dire si un bébé va bien ou mal.",
+     1.4
+    ],
+    [
+     "En mille neuf cent cinquante-deux, elle propose un test tout simple.",
+     1.4
+    ],
+    [
+     "Le cœur, la respiration, le tonus, les réflexes, la couleur. Deux points maximum pour chacun.",
+     1.4
+    ],
+    [
+     "Une note sur dix, à une minute de vie. Puis à cinq minutes.",
+     1.6
+    ],
+    [
+     "Ça prend une *minute*. Et ça change tout.",
+     1.6
+    ],
+    [
+     "Les bébés en difficulté sont repérés tout de suite. Et soignés à temps.",
+     1.6
+    ],
+    [
+     "Dans le monde entier, les maternités utilisent encore cette note. Tu l'as eue aussi.",
+     1.6
+    ],
+    [
+     "Elle voulait opérer. On lui a fermé une porte. Elle en a ouvert une autre.",
+     1.6
+    ],
+    [
+     "Si on te ferme une porte, cherche celle que toi seul peux *ouvrir*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

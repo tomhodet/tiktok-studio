@@ -1,0 +1,356 @@
+{
+ "nom": "j178",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j178_grandmere",
+   "perso": "grandmere",
+   "episode": 179,
+   "fin": "Envoie-la à quelqu'un qui t'a appris une recette.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "J'ai rendu une recette à sa famille.",
+   "legende": "Ce qu'on t'apprend ne t'appartient jamais tout à fait. Un jour, il faudra le rendre. Qui t'a appris ta recette préférée ? #grandmere #transmission #cuisine #tendresse #patience #pourtoi",
+   "phrases": [
+    [
+     "L'an dernier, j'ai rendu une *recette* à une famille qui l'avait perdue.",
+     1.3
+    ],
+    [
+     "En soixante-cinq, ma voisine de palier s'appelait Fatima.",
+     1.2
+    ],
+    [
+     "Son couscous embaumait tout l'escalier. Un jour, je lui ai demandé de m'apprendre.",
+     1.2
+    ],
+    [
+     "Elle a ri. Elle a dit : la semoule, ça se roule à la main. Ça prend des années.",
+     1.4
+    ],
+    [
+     "Tous les samedis, j'allais chez elle. Je mouillais trop. Je faisais des boulettes.",
+     1.2
+    ],
+    [
+     "Elle reprenait tout, sans s'énerver. Elle disait : doucement, avec le bout des doigts.",
+     1.4
+    ],
+    [
+     "Il m'a fallu deux ans pour qu'elle goûte et qu'elle dise : ça, c'est bien.",
+     1.4
+    ],
+    [
+     "Pendant cinquante ans, j'en ai fait pour toute la famille.",
+     1.2
+    ],
+    [
+     "L'an dernier, une jeune femme a sonné chez moi. La petite-fille de Fatima.",
+     1.6
+    ],
+    [
+     "Fatima était morte. Elle n'avait jamais rien écrit. Personne chez eux ne savait le faire.",
+     1.6
+    ],
+    [
+     "Alors tous les samedis, elle est venue chez moi. Je lui ai appris.",
+     1.4
+    ],
+    [
+     "Avec le bout des *doigts*. Doucement. Comme sa grand-mère me l'avait appris.",
+     1.8
+    ],
+    [
+     "Ce qu'on t'apprend ne t'appartient jamais tout à fait.",
+     1.4
+    ],
+    [
+     "Un jour, il faudra le *rendre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j178_grandpere",
+   "perso": "grandpere",
+   "episode": 180,
+   "fin": "Envoie-la à quelqu'un qui pose le pied à terre.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Il m'a fallu trois étés.",
+   "legende": "Les montagnes ne se montent pas en une fois. Elles se montent en trois étés. Tu en es à quel été, toi ? #grandpere #velo #jamaistroptard #humour #perseverance #pourtoi",
+   "phrases": [
+    [
+     "À soixante-dix ans, j'ai monté le mont *Ventoux* à vélo. Il m'a fallu trois étés.",
+     1.3
+    ],
+    [
+     "Je ne faisais pas de sport. Quarante ans d'usine, ça suffisait.",
+     1.2
+    ],
+    [
+     "À la retraite, ton oncle m'a offert un vélo. Pour rire.",
+     1.2
+    ],
+    [
+     "Le premier été, j'ai posé le pied à terre au bout de quatre kilomètres.",
+     1.2
+    ],
+    [
+     "Des jeunes me dépassaient en sifflant. Un monsieur de mon âge aussi.",
+     1.4
+    ],
+    [
+     "Alors je me suis entraîné tous les matins, dans la côte derrière le cimetière.",
+     1.2
+    ],
+    [
+     "Ta grand-mère disait que j'allais saluer mes futurs voisins.",
+     1.4
+    ],
+    [
+     "Le deuxième été, j'ai marché le dernier kilomètre, en poussant le vélo.",
+     1.4
+    ],
+    [
+     "Le troisième, je suis arrivé en haut. Sur le vélo. Dans le vent.",
+     1.8
+    ],
+    [
+     "Un jeune coureur m'a tendu sa gourde. Il m'a dit : chapeau, l'ancien.",
+     1.4
+    ],
+    [
+     "J'ai pleuré comme un gamin. Je ne sais toujours pas si c'était le vent.",
+     1.6
+    ],
+    [
+     "Les montagnes ne se montent pas en une fois. Elles se montent en trois *étés*.",
+     1.4
+    ],
+    [
+     "Et ceux qui te dépassent en sifflant, laisse-les *passer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j178_pere",
+   "perso": "pere",
+   "episode": 179,
+   "fin": "Envoie-la à quelqu'un qui n'est jamais en retard.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Mon chef a appelé les hôpitaux.",
+   "legende": "Sois à l'heure toute ta vie. Le jour où tu seras en retard, ce sera pour quelque chose qui compte. Pour qui tu serais prêt à arriver en retard ? #papa #pere #habitudes #tendresse #humour #pourtoi",
+   "phrases": [
+    [
+     "En trente ans de travail, je suis arrivé en *retard* une seule fois.",
+     1.3
+    ],
+    [
+     "Mon père disait : être à l'heure, c'est déjà être en retard. Alors j'arrivais dix minutes avant.",
+     1.2
+    ],
+    [
+     "Tous les jours. La neige, les grèves. Dix minutes avant.",
+     1.2
+    ],
+    [
+     "Mes collègues réglaient leur montre sur ma voiture.",
+     1.4
+    ],
+    [
+     "Un matin de septembre, à huit heures dix, je n'étais pas là.",
+     1.4
+    ],
+    [
+     "Mon chef a attendu cinq minutes. Puis il a appelé ta mère. Puis les hôpitaux.",
+     1.6
+    ],
+    [
+     "Je suis arrivé à neuf heures. Il était blanc.",
+     1.4
+    ],
+    [
+     "C'était ton premier jour d'école. Tu t'étais accroché à ma main devant la classe.",
+     1.4
+    ],
+    [
+     "La maîtresse a essayé. Ta *main* ne s'ouvrait pas.",
+     1.8
+    ],
+    [
+     "Alors je suis resté une heure, sur une toute petite chaise, au fond de la classe.",
+     1.4
+    ],
+    [
+     "Mon chef n'a rien dit. Il a juste rayé le retard sur la feuille.",
+     1.4
+    ],
+    [
+     "Trente ans d'avance, ça donne droit à un retard. Et à des gens qui s'inquiètent.",
+     1.4
+    ],
+    [
+     "Sois à l'heure toute ta vie. Le jour où tu seras en retard, ce sera pour quelque chose qui *compte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j178_mere",
+   "perso": "mere",
+   "episode": 179,
+   "fin": "Envoie-la à quelqu'un qui a transformé sa peur en force.",
+   "lueurs": [
+    1,
+    12,
+    13
+   ],
+   "accroche": "Je suis restée figée. Plus jamais.",
+   "legende": "La peur peut te paralyser une fois. La deuxième fois, c'est toi qui décides. Quelle peur tu as transformée en force, toi ? #maman #mere #courage #pompier #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour où tu t'es étouffé avec un bonbon, je suis restée *figée*. Incapable de bouger.",
+     1.3
+    ],
+    [
+     "Tu avais quatre ans. Tu devenais tout bleu, dans la cuisine.",
+     1.4
+    ],
+    [
+     "C'est le voisin qui t'a sauvé. Un pompier. Deux tapes dans le dos.",
+     1.2
+    ],
+    [
+     "Toi, tu as pleuré cinq minutes, puis tu as réclamé ton dessert.",
+     1.4
+    ],
+    [
+     "Moi, je n'ai pas dormi pendant un mois. Je revoyais mes mains qui ne faisaient rien.",
+     1.4
+    ],
+    [
+     "Je me suis inscrite à une formation de secourisme. Puis à une autre.",
+     1.2
+    ],
+    [
+     "À quarante-cinq ans, j'ai passé les épreuves des pompiers volontaires.",
+     1.2
+    ],
+    [
+     "La corde, je l'ai ratée trois fois. Je m'entraînais le soir, accrochée au portique du jardin.",
+     1.2
+    ],
+    [
+     "Tu avais quinze ans. Tu disais à tes amis que ta mère faisait sa crise de la quarantaine.",
+     1.4
+    ],
+    [
+     "Depuis dix ans, je pars la nuit quand le bip sonne.",
+     1.4
+    ],
+    [
+     "Un soir, j'ai fait comme le voisin. Deux tapes dans le dos, à un petit garçon de quatre ans.",
+     1.6
+    ],
+    [
+     "Sa mère était figée, dans la cuisine. Je l'ai regardée. Je me suis *vue*.",
+     1.8
+    ],
+    [
+     "La peur peut te paralyser une fois. La deuxième fois, c'est toi qui *décides*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j178_fou",
+   "perso": "fou",
+   "episode": 178,
+   "fin": "Envoie-la à quelqu'un dont on se moque en hiver.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ils riaient du philosophe tombé dans un puits.",
+   "legende": "Laisse-les rire en hiver. On verra qui rit à la récolte. Qu'est-ce que tu prépares en silence, pendant qu'on se moque ? #motivation #philosophie #thales #patience #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "On raconte qu'un philosophe est tombé dans un *puits*, en regardant les étoiles.",
+     1.3
+    ],
+    [
+     "Une servante a éclaté de rire. Il veut connaître le ciel, et il ne voit pas ses pieds.",
+     1.4
+    ],
+    [
+     "Il est pauvre. Toute la ville se moque de lui.",
+     1.2
+    ],
+    [
+     "On lui dit : tu vois bien que ta philosophie ne sert à rien.",
+     1.4
+    ],
+    [
+     "Lui continue d'observer le ciel, nuit après nuit.",
+     1.2
+    ],
+    [
+     "Un hiver, il comprend quelque chose. L'année prochaine, la récolte d'olives sera énorme.",
+     1.4
+    ],
+    [
+     "Avec le peu d'argent qu'il a, il loue tous les pressoirs à huile de la région.",
+     1.2
+    ],
+    [
+     "En hiver, personne n'en veut. Il les a pour presque rien.",
+     1.4
+    ],
+    [
+     "Quand la récolte arrive, tous les pressoirs sont à lui.",
+     1.6
+    ],
+    [
+     "Il les sous-loue au prix qu'il veut. Il devient *riche* en une saison.",
+     1.8
+    ],
+    [
+     "Puis il retourne à ses étoiles.",
+     1.4
+    ],
+    [
+     "Il a prouvé qu'un sage peut s'enrichir s'il le veut. Simplement, ce n'est pas ce qu'il cherche.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Thalès. C'est Aristote qui raconte cette histoire.",
+     1.4
+    ],
+    [
+     "Toi aussi, on se moque peut-être de ce que tu prépares. Laisse-les rire en hiver.",
+     1.2
+    ],
+    [
+     "On verra qui rit à la *récolte*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

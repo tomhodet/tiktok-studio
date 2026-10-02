@@ -1,0 +1,364 @@
+{
+ "nom": "j141",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j141_grandmere",
+   "perso": "grandmere",
+   "episode": 142,
+   "fin": "Envoie-la à quelqu'un qui t'a donné le goût de lire.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Papa ne lisait jamais.",
+   "legende": "Ces livres, il les achetait neufs. Pour moi. Avec son petit salaire. Qui t'a donné le goût de lire, toi ? #grandmere #gentillesse #lecture #souvenirs #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le facteur de mon village m'a prêté un *livre* par semaine. Pendant six ans.",
+     1.3
+    ],
+    [
+     "À la ferme, il n'y avait qu'un seul livre. Le calendrier des postes.",
+     1.2
+    ],
+    [
+     "Un jour, il m'a surprise à lire le journal qui emballait les œufs.",
+     1.2
+    ],
+    [
+     "Le lundi suivant, il a sorti un livre de sa sacoche. Il a dit : je l'ai fini, tiens.",
+     1.4
+    ],
+    [
+     "Chaque lundi, un nouveau. Jules Verne, Victor Hugo, des poèmes que je ne comprenais pas.",
+     1.2
+    ],
+    [
+     "Je les rendais le samedi, couverts de papier journal.",
+     1.4
+    ],
+    [
+     "Grâce à lui, j'ai eu mon certificat d'études. Puis je suis devenue bibliothécaire.",
+     1.4
+    ],
+    [
+     "À son enterrement, j'ai parlé avec sa fille.",
+     1.2
+    ],
+    [
+     "Je lui ai dit : votre père lisait tellement.",
+     1.6
+    ],
+    [
+     "Elle m'a regardée sans comprendre. Elle a dit : papa ne lisait *jamais*.",
+     1.8
+    ],
+    [
+     "Il les achetait neufs. Pour moi. Avec son petit salaire de facteur.",
+     1.6
+    ],
+    [
+     "Il disait qu'il les avait finis, pour que je n'aie pas honte de les prendre.",
+     1.4
+    ],
+    [
+     "Quand tu offres quelque chose, tu n'es pas obligé de le dire.",
+     1.2
+    ],
+    [
+     "Le plus beau cadeau ne pèse rien sur les épaules de celui qui le *reçoit*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j141_grandpere",
+   "perso": "grandpere",
+   "episode": 143,
+   "fin": "Envoie-la à quelqu'un qui t'a ramené sur la bonne route.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Au carrefour, j'ai fait demi-tour.",
+   "legende": "Parfois, aider quelqu'un, c'est le ramener là où il doit être. Qui t'a remis sur la bonne route, toi ? #grandpere #gentillesse #famille #pere #emotion #pourtoi",
+   "phrases": [
+    [
+     "Un soir de mille neuf cent soixante-quatorze, j'ai pris un *auto-stoppeur* sous la pluie.",
+     1.3
+    ],
+    [
+     "Un gamin de dix-sept ans, trempé, avec un sac de sport.",
+     1.2
+    ],
+    [
+     "Il allait à Paris. Il ne voulait plus jamais rentrer chez lui.",
+     1.4
+    ],
+    [
+     "Il s'était battu avec son père. Il avait encore les yeux rouges.",
+     1.2
+    ],
+    [
+     "Je ne lui ai pas fait la morale. Je lui ai parlé du mien.",
+     1.2
+    ],
+    [
+     "De mon père qui ne parlait pas. Et de tout ce que je ne lui avais jamais dit.",
+     1.4
+    ],
+    [
+     "Au bout d'une heure, il ne disait plus rien. Il regardait la route.",
+     1.4
+    ],
+    [
+     "Alors au carrefour suivant, j'ai fait *demi-tour*.",
+     1.6
+    ],
+    [
+     "Je l'ai ramené devant chez lui. Cent kilomètres. Ta grand-mère m'a attendu jusqu'à deux heures du matin.",
+     1.4
+    ],
+    [
+     "Je lui avais laissé mon adresse sur un bout de carton. Trente ans plus tard, j'ai reçu une lettre.",
+     1.4
+    ],
+    [
+     "Il écrivait : mon père est mort l'année suivante. Grâce à vous, j'ai eu un an avec lui.",
+     1.8
+    ],
+    [
+     "Il avait gardé le bout de carton. Trente ans.",
+     1.4
+    ],
+    [
+     "Parfois, aider quelqu'un, ce n'est pas l'emmener où il veut aller.",
+     1.2
+    ],
+    [
+     "C'est le ramener là où il doit *être*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j141_pere",
+   "perso": "pere",
+   "episode": 142,
+   "fin": "Envoie-la à quelqu'un qui t'a ouvert sa porte.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Chaque mois, je fais un virement à une femme.",
+   "legende": "Elle croit que je paie un loyer. Je paie une porte qu'elle m'a ouverte quand je n'avais plus rien. Qui t'a ouvert sa porte, à toi ? #papa #pere #gentillesse #gratitude #dette #pourtoi",
+   "phrases": [
+    [
+     "Chaque mois, depuis douze ans, je fais un *virement* à une femme. Ta mère est au courant.",
+     1.3
+    ],
+    [
+     "Elle s'appelle Madame Roussel. Elle a quatre-vingt-onze ans.",
+     1.2
+    ],
+    [
+     "À dix-neuf ans, j'étais étudiant à Lyon. Je louais une chambre sous son toit.",
+     1.2
+    ],
+    [
+     "Mon premier hiver, mon père a perdu son travail. Plus rien n'arrivait à la fin du mois.",
+     1.4
+    ],
+    [
+     "Je suis descendu lui rendre ma clé.",
+     1.2
+    ],
+    [
+     "Elle ne m'a pas laissé finir. Elle a dit : garde ta clé. Tu paieras quand tu seras ingénieur.",
+     1.6
+    ],
+    [
+     "Je suis resté deux ans sans payer. Le dimanche, elle m'invitait à manger son pot-au-feu.",
+     1.4
+    ],
+    [
+     "Je suis devenu ingénieur. J'ai voulu la rembourser. Elle a refusé net.",
+     1.4
+    ],
+    [
+     "Il y a douze ans, j'ai appris qu'elle vivait avec une toute petite retraite.",
+     1.4
+    ],
+    [
+     "Alors je lui envoie un peu chaque mois. Je lui dis que c'est le loyer, avec les intérêts.",
+     1.6
+    ],
+    [
+     "Elle fait semblant de me croire. Je fais semblant d'avoir bientôt fini de *payer*.",
+     1.8
+    ],
+    [
+     "On sait tous les deux que je n'aurai jamais fini.",
+     1.4
+    ],
+    [
+     "Un jour, quelqu'un t'ouvrira sa porte sans rien te demander.",
+     1.2
+    ],
+    [
+     "Ce jour-là, garde la *clé*. Toute ta vie.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j141_mere",
+   "perso": "mere",
+   "episode": 142,
+   "fin": "Envoie-la à une maman qui a quelqu'un de l'autre côté.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Une inconnue m'a prise dans ses bras.",
+   "legende": "Deux mères, une écharpe, un ours en peluche. On a pleuré au milieu des valises. Qui t'a consolé sans même te connaître ? #maman #mere #gentillesse #depart #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour où tu es parti vivre au Canada, une inconnue m'a prise dans ses *bras*.",
+     1.3
+    ],
+    [
+     "C'était à l'aéroport. Tu venais de passer la sécurité. Tu ne t'es pas retourné.",
+     1.2
+    ],
+    [
+     "Je suis restée devant la vitre, avec ton écharpe à la main. Tu l'avais oubliée.",
+     1.4
+    ],
+    [
+     "Je ne pleurais pas. Je souriais à tout le monde, comme une idiote.",
+     1.2
+    ],
+    [
+     "Une femme de mon âge s'est approchée. Elle tenait un vieil ours en peluche.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : ma fille part à Sydney. Elle a oublié son ours.",
+     1.6
+    ],
+    [
+     "Elle ne m'a pas demandé mon nom. Elle m'a juste *serrée* contre elle.",
+     1.6
+    ],
+    [
+     "Deux mères, une écharpe, un ours. On a pleuré au milieu des valises.",
+     1.6
+    ],
+    [
+     "Ensuite, on a bu un café trop cher. Et on a ri.",
+     1.2
+    ],
+    [
+     "Ça fait six ans. Chaque année, à la même date, on se retrouve dans ce café.",
+     1.4
+    ],
+    [
+     "Elle s'appelle Martine. Sa fille est rentrée. Toi pas encore.",
+     1.6
+    ],
+    [
+     "Elle vient quand même. Elle dit qu'elle me doit bien ça.",
+     1.4
+    ],
+    [
+     "Quand tu vois quelqu'un pleurer en public, ne détourne pas les yeux.",
+     1.2
+    ],
+    [
+     "Il a peut-être, lui aussi, quelqu'un de l'autre côté de la *vitre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j141_fou",
+   "perso": "fou",
+   "episode": 141,
+   "fin": "Envoie-la à quelqu'un qui ne laisse jamais personne derrière.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Le navire a coulé. Pas un seul homme.",
+   "legende": "Le navire a coulé. Mais aucun de ses vingt-huit hommes n'est mort. Et toi, qui ne laisserais-tu jamais derrière ? #motivation #shackleton #survie #exploration #courage #pourtoi",
+   "phrases": [
+    [
+     "Vingt-huit hommes. Un navire broyé par la *glace*. Et personne au monde ne sait où ils sont.",
+     1.3
+    ],
+    [
+     "C'est en mille neuf cent quinze, en Antarctique. Aucun moyen d'appeler à l'aide.",
+     1.2
+    ],
+    [
+     "Leur chef s'appelle Ernest Shackleton.",
+     1.2
+    ],
+    [
+     "Pendant des mois, ils campent sur la banquise. Ils mangent des phoques et des manchots.",
+     1.4
+    ],
+    [
+     "Puis ils montent dans trois petits canots, et rejoignent une île déserte, couverte de glace.",
+     1.4
+    ],
+    [
+     "Là-bas, personne ne viendra jamais les chercher.",
+     1.6
+    ],
+    [
+     "Alors Shackleton repart avec cinq hommes, dans un simple canot, sur l'océan le plus dangereux du monde.",
+     1.4
+    ],
+    [
+     "Plus de mille kilomètres de tempêtes. Puis des montagnes inconnues, traversées à pied.",
+     1.4
+    ],
+    [
+     "Il atteint enfin une station de baleiniers. Et il repart aussitôt chercher les autres.",
+     1.4
+    ],
+    [
+     "Les glaces bloquent le passage. Il échoue. Il recommence. Plusieurs fois.",
+     1.6
+    ],
+    [
+     "Quand il arrive enfin sur l'île, les vingt-deux hommes sont là. *Tous*.",
+     1.8
+    ],
+    [
+     "Le navire a coulé. Mais aucun de ses vingt-huit hommes n'est mort.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, tu perdras ce que tu croyais indispensable. Un travail, un projet, un rêve.",
+     1.2
+    ],
+    [
+     "Le navire, on s'en remet. L'important, c'est de ne laisser *personne* derrière.",
+     0
+    ]
+   ]
+  }
+ ]
+}

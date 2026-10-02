@@ -1,0 +1,368 @@
+{
+ "nom": "j079",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j079_grandmere",
+   "perso": "grandmere",
+   "episode": 80,
+   "fin": "Envoie-la à quelqu'un qui envoie encore des cartes postales.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Je suis bien arrivée.",
+   "legende": "Je suis bien arrivée. Il fait beau. Ne t'inquiète pas pour moi. Et toi, à qui tu enverrais une carte aujourd'hui ? #grandmere #deuil #soeur #emotion #famille #pourtoi",
+   "phrases": [
+    [
+     "Trois semaines après l'enterrement de ma sœur, j'ai reçu une *carte postale*. De sa main.",
+     1.3
+    ],
+    [
+     "Odile était partie avec le club des retraités. Une semaine au bord de la mer.",
+     1.2
+    ],
+    [
+     "Elle n'est jamais revenue. Elle s'est endormie un soir, à l'hôtel, et ne s'est pas réveillée.",
+     1.6
+    ],
+    [
+     "Toute sa vie, elle s'est trompée dans les adresses. Elle mettait les numéros à l'envers.",
+     1.2
+    ],
+    [
+     "Cette carte-là a fait le tour du département avant de me trouver.",
+     1.2
+    ],
+    [
+     "Le facteur me l'a tendue en s'excusant. Il connaissait la nouvelle.",
+     1.4
+    ],
+    [
+     "Sur la photo, une plage, un phare, un ciel trop bleu.",
+     1.2
+    ],
+    [
+     "Je l'ai retournée. Elle avait écrit trois lignes, de sa grosse écriture penchée.",
+     1.4
+    ],
+    [
+     "Je suis bien *arrivée*. Il fait beau. Ne t'inquiète pas pour moi.",
+     1.8
+    ],
+    [
+     "J'ai ri. Puis j'ai pleuré. Puis j'ai ri encore.",
+     1.6
+    ],
+    [
+     "Même partie, elle trouvait le moyen d'avoir le dernier mot.",
+     1.4
+    ],
+    [
+     "La carte est sur mon frigo. Je la relis quand elle me manque trop.",
+     1.4
+    ],
+    [
+     "Les gens qu'on aime nous laissent parfois exactement la phrase qu'il fallait. Sans le savoir.",
+     1.4
+    ],
+    [
+     "Écris des cartes. Même pour rien. Elles finissent toujours par *arriver*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j079_grandpere",
+   "perso": "grandpere",
+   "episode": 81,
+   "fin": "Envoie-la à quelqu'un qui mange tout pour faire plaisir.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Cinquante ans de poireaux.",
+   "legende": "Deux personnes qui détestaient les poireaux. Et aucune n'a rien dit pendant cinquante ans. Et toi, qu'est-ce que tu manges encore juste pour faire plaisir ? #grandpere #grandmere #humour #amour #couple #pourtoi",
+   "phrases": [
+    [
+     "Pendant cinquante ans, j'ai mangé des *poireaux* tous les jeudis. Je déteste les poireaux.",
+     1.3
+    ],
+    [
+     "Le premier jeudi après notre mariage, ta grand-mère m'a servi une tarte aux poireaux.",
+     1.2
+    ],
+    [
+     "Ma mère lui avait dit que c'était mon plat préféré. Allez savoir pourquoi.",
+     1.2
+    ],
+    [
+     "Elle était si fière. J'ai tout mangé. J'ai même dit : délicieux.",
+     1.4
+    ],
+    [
+     "Alors le jeudi suivant, il y a eu des poireaux. Et le suivant. Pendant cinquante ans.",
+     1.2
+    ],
+    [
+     "L'an dernier, ta grand-mère est partie. Le premier jeudi sans elle, je n'ai rien fait cuire.",
+     1.4
+    ],
+    [
+     "Après l'enterrement, sa sœur m'a dit : pauvre Simone, cinquante ans de poireaux.",
+     1.4
+    ],
+    [
+     "J'ai dû faire une drôle de tête. Elle a ajouté : vous ne saviez pas ?",
+     1.4
+    ],
+    [
+     "Elle les *détestait*. Elle les cuisinait pour me faire plaisir.",
+     1.8
+    ],
+    [
+     "Cinquante ans. Deux personnes qui détestaient les poireaux. Et pas un mot.",
+     1.6
+    ],
+    [
+     "J'ai ri tout seul dans la voiture. Puis j'ai pleuré. Elle aurait ri, elle aussi.",
+     1.4
+    ],
+    [
+     "On croit qu'aimer, c'est tout accepter sans rien dire.",
+     1.4
+    ],
+    [
+     "Dis ce que tu aimes. Dis ce que tu détestes. Même les petites choses.",
+     1.2
+    ],
+    [
+     "Sinon, tu risques cinquante ans de *poireaux*. À deux.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j079_pere",
+   "perso": "pere",
+   "episode": 80,
+   "fin": "Envoie-la à quelqu'un qui ressemble de plus en plus à son père.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai soufflé comme mon père.",
+   "legende": "On n'hérite pas seulement d'une maison. On hérite de petits bruits. Et toi, quelle manie de tes parents t'a rattrapé ? #papa #pere #humour #famille #heritage #pourtoi",
+   "phrases": [
+    [
+     "Ce matin, j'ai soufflé en mettant mes chaussures. Exactement comme mon *père*.",
+     1.3
+    ],
+    [
+     "Ce petit bruit, je l'ai entendu toute mon enfance. Il m'agaçait.",
+     1.2
+    ],
+    [
+     "Mon père soufflait en se levant de son fauteuil. En sortant de la voiture. En se baissant.",
+     1.2
+    ],
+    [
+     "À quinze ans, je l'imitais pour faire rire mes copains. On l'appelait le vieux phoque.",
+     1.4
+    ],
+    [
+     "Il le savait. Il ne disait rien. Il souriait dans sa moustache.",
+     1.4
+    ],
+    [
+     "Il est mort il y a six ans. Je croyais qu'il était parti tout entier.",
+     1.4
+    ],
+    [
+     "Et puis je l'ai retrouvé. Dans mes genoux. Dans ma façon de me racler la gorge.",
+     1.4
+    ],
+    [
+     "Dans ma main qui tapote le toit de la voiture avant de partir.",
+     1.6
+    ],
+    [
+     "Je ne l'ai jamais imité exprès. Il est revenu tout seul.",
+     1.4
+    ],
+    [
+     "Et dimanche dernier, je t'ai vu te lever du canapé.",
+     1.4
+    ],
+    [
+     "Tu as *soufflé*. Le même petit bruit. Tu as trente ans.",
+     1.8
+    ],
+    [
+     "J'ai ri. Tu n'as pas compris pourquoi.",
+     1.4
+    ],
+    [
+     "On n'hérite pas seulement d'une maison ou d'une montre. On hérite de petits bruits.",
+     1.4
+    ],
+    [
+     "Alors ne te moque pas trop de mes manies. Un jour, elles seront à *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j079_mere",
+   "perso": "mere",
+   "episode": 80,
+   "fin": "Envoie-la à quelqu'un qui se dispute pour des riens avec sa mère.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "On s'est disputées pour des rideaux.",
+   "legende": "Les mères qui critiquent tes rideaux sont souvent en train de t'en coudre. Et toi, c'était pour quoi ta dernière dispute avec ta mère ? #maman #mere #deuil #regret #emotion #pourtoi",
+   "phrases": [
+    [
+     "La dernière fois que j'ai parlé à ma mère, on s'est disputées pour des *rideaux*.",
+     1.3
+    ],
+    [
+     "Elle trouvait les miens tristes. Gris, sans plis. Des rideaux de dentiste, elle disait.",
+     1.2
+    ],
+    [
+     "Ça faisait des années qu'elle me le répétait. Ce jour-là, j'ai craqué.",
+     1.2
+    ],
+    [
+     "Je lui ai dit : maman, j'ai cinquante-deux ans. Mes rideaux ne te regardent pas.",
+     1.4
+    ],
+    [
+     "Elle a dit : bon. Et elle a raccroché.",
+     1.6
+    ],
+    [
+     "Elle est partie la semaine suivante. Sans prévenir. Un mardi.",
+     1.6
+    ],
+    [
+     "On n'a jamais reparlé. Ni des rideaux, ni du reste.",
+     1.4
+    ],
+    [
+     "En vidant sa maison, j'ai ouvert l'armoire de sa chambre.",
+     1.2
+    ],
+    [
+     "Sur l'étagère du haut, il y avait un paquet. Avec mon prénom.",
+     1.4
+    ],
+    [
+     "Des rideaux. Jaunes, avec des petites fleurs. Cousus à la main, à mes *mesures*.",
+     1.8
+    ],
+    [
+     "Elle avait dû les mesurer en douce, pendant que je faisais le café.",
+     1.4
+    ],
+    [
+     "Ils sont dans mon salon, maintenant. Ils sont affreux. Je les adore.",
+     1.6
+    ],
+    [
+     "Les mères qui critiquent tes rideaux sont souvent en train de t'en coudre.",
+     1.4
+    ],
+    [
+     "Ne raccroche jamais sur une dispute idiote. Il y a peut-être un *paquet* qui t'attend.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j079_fou",
+   "perso": "fou",
+   "episode": 79,
+   "fin": "Envoie-la à quelqu'un qui garde le sourire dans les pires moments.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Au milieu de l'enfer, elles rient.",
+   "legende": "Les nazis pouvaient lui prendre sa liberté, sa mère, ses forces. Pas son humour. Et toi, qu'est-ce qui te fait rire quand tout va mal ? #motivation #histoire #germainetillion #resistance #courage #pourtoi",
+   "phrases": [
+    [
+     "Dans un camp de concentration, une prisonnière a écrit une *opérette*. Pour faire rire.",
+     1.3
+    ],
+    [
+     "Ravensbrück, mille neuf cent quarante-quatre. Un camp de femmes.",
+     1.2
+    ],
+    [
+     "Elle s'appelle Germaine Tillion. Ethnologue, résistante, déportée. Sa mère est dans le même camp.",
+     1.2
+    ],
+    [
+     "Autour d'elles, le froid, la faim, la peur.",
+     1.4
+    ],
+    [
+     "Germaine écrit en cachette. Des chansons, des dialogues, des blagues.",
+     1.2
+    ],
+    [
+     "Elle se moque de tout. Surtout de leur propre misère.",
+     1.2
+    ],
+    [
+     "Le soir, ses camarades rient. Au milieu de l'enfer, elles rient.",
+     1.6
+    ],
+    [
+     "Sa mère ne reviendra pas. Germaine, elle, survit. Son texte aussi.",
+     1.6
+    ],
+    [
+     "Pendant plus de soixante ans, l'opérette n'est jamais jouée sur scène.",
+     1.2
+    ],
+    [
+     "En deux mille sept, elle est enfin créée dans un grand théâtre de Paris. Pour les cent ans de Germaine.",
+     1.8
+    ],
+    [
+     "Huit ans plus tard, Germaine Tillion entre au Panthéon.",
+     1.4
+    ],
+    [
+     "Les nazis pouvaient lui prendre sa liberté, sa mère, ses forces. Pas son *humour*.",
+     1.6
+    ],
+    [
+     "Toi aussi, il y a des jours où tout t'écrase.",
+     1.2
+    ],
+    [
+     "Ris quand même. Ris de ce qui te fait mal.",
+     1.4
+    ],
+    [
+     "C'est la seule chose qu'on ne pourra jamais te *confisquer*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

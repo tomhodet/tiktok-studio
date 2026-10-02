@@ -1,0 +1,368 @@
+{
+ "nom": "j097",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j097_grandmere",
+   "perso": "grandmere",
+   "episode": 98,
+   "fin": "Envoie-la à quelqu'un qui juge un peu trop vite.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Une semaine chez les naturistes. Par erreur.",
+   "legende": "Le ridicule, c'est juste une question de majorité. Avant de trouver quelqu'un ridicule, vérifie sur quelle plage tu es. Et toi, tes pires vacances, c'était où ? #grandmere #humour #vacances #tolerance #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Un été, ton grand-père et moi, on a passé une semaine chez les *naturistes*. Par erreur.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-quinze. Des vacances à la mer, pas chères du tout.",
+     1.2
+    ],
+    [
+     "Ton grand-père avait choisi sur le prix. Uniquement sur le prix.",
+     1.2
+    ],
+    [
+     "Le premier matin, je suis sortie de la tente en maillot à fleurs.",
+     1.2
+    ],
+    [
+     "Autour de nous, tout le monde était nu. Les voisins, le gardien, la boulangère.",
+     1.4
+    ],
+    [
+     "Nous étions les seuls habillés. Et c'est nous qu'on regardait.",
+     1.4
+    ],
+    [
+     "On avait payé la semaine, alors on est restés. Moi en maillot, lui en chemise.",
+     1.4
+    ],
+    [
+     "Le troisième jour, ton grand-père a enlevé son chapeau. Seulement son chapeau.",
+     1.6
+    ],
+    [
+     "Le dernier matin, une famille est arrivée. En maillots de bain.",
+     1.6
+    ],
+    [
+     "Et je me suis surprise à les regarder de *travers*. Comme tout le monde.",
+     1.8
+    ],
+    [
+     "En une semaine, j'étais passée de l'autre côté.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai compris que le ridicule, c'est juste une question de majorité.",
+     1.4
+    ],
+    [
+     "On se moque de celui qui est différent. Même quand on l'était la veille.",
+     1.2
+    ],
+    [
+     "Avant de trouver quelqu'un ridicule, vérifie sur quelle *plage* tu es.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j097_grandpere",
+   "perso": "grandpere",
+   "episode": 99,
+   "fin": "Envoie-la à quelqu'un qui croit tout ce qu'il voit.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai vu une soucoupe volante.",
+   "legende": "Aujourd'hui, on voit des soucoupes partout. Avant d'y croire, cherche toujours la ficelle. Et toi, quelle soucoupe as-tu crue un peu trop vite ? #grandpere #humour #rumeurs #espritcritique #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix-huit, j'ai vu une soucoupe volante au-dessus de mon *champ*.",
+     1.3
+    ],
+    [
+     "Une lumière orange, qui montait, qui descendait, qui tournait sans un bruit.",
+     1.2
+    ],
+    [
+     "J'ai réveillé ta grand-mère. Elle a dit : rendors-toi, c'est la lune.",
+     1.2
+    ],
+    [
+     "Le lendemain, j'ai tout raconté aux gendarmes. Puis au journal du département.",
+     1.2
+    ],
+    [
+     "Ma photo en première page : le paysan qui a vu les extraterrestres.",
+     1.4
+    ],
+    [
+     "Pendant des années, des curieux sont venus voir mon champ. Je leur montrais l'endroit.",
+     1.4
+    ],
+    [
+     "Au café, je racontais l'histoire. Chaque année, la lumière était un peu plus grosse.",
+     1.4
+    ],
+    [
+     "L'été dernier, à la fête du village, le maire est venu s'asseoir à côté de moi.",
+     1.6
+    ],
+    [
+     "Il a dit : la soucoupe, c'était *moi*. J'avais douze ans.",
+     1.8
+    ],
+    [
+     "Un cerf-volant, une lampe de poche, et beaucoup de ficelle.",
+     1.6
+    ],
+    [
+     "Quarante ans qu'il n'osait pas me le dire. J'étais devenu célèbre grâce à lui.",
+     1.4
+    ],
+    [
+     "On a ri jusqu'à la fermeture. Il a payé toutes les tournées.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, on voit des soucoupes partout. Sur les écrans, dans les rumeurs, dans les colères.",
+     1.2
+    ],
+    [
+     "Avant d'y croire, cherche toujours la *ficelle*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j097_pere",
+   "perso": "pere",
+   "episode": 98,
+   "fin": "Envoie-la à quelqu'un qui garde toujours la dernière part.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Notre pire dispute, une part de gâteau.",
+   "legende": "Ne touche jamais à ce que quelqu'un s'est gardé pour lui. C'est souvent la seule chose qui le fait tenir. Et toi, c'est quoi ta part de gâteau ? #papa #pere #humour #couple #respect #pourtoi",
+   "phrases": [
+    [
+     "En trente ans de mariage, ta mère et moi, notre pire dispute, c'était pour une part de *gâteau*.",
+     1.3
+    ],
+    [
+     "Un fondant au chocolat. La dernière part, sur une assiette, au fond du frigo.",
+     1.2
+    ],
+    [
+     "Je rentrais tard. J'avais faim. Je l'ai mangée debout, en deux bouchées.",
+     1.2
+    ],
+    [
+     "Le lendemain soir, ta mère a ouvert le frigo. Elle a regardé l'assiette vide.",
+     1.2
+    ],
+    [
+     "Elle n'a rien dit. Elle a refermé la porte. Et elle ne m'a plus parlé pendant deux jours.",
+     1.4
+    ],
+    [
+     "Moi, je trouvais ça ridicule. Deux jours pour un morceau de gâteau.",
+     1.4
+    ],
+    [
+     "Le troisième soir, elle m'a expliqué.",
+     1.4
+    ],
+    [
+     "Cette semaine-là, elle avait travaillé de nuit, et toi tu avais de la fièvre.",
+     1.6
+    ],
+    [
+     "Cette part, c'était la seule chose qu'elle s'était gardée. Pour *elle*.",
+     1.8
+    ],
+    [
+     "Elle avait tenu toute la semaine en pensant à ce gâteau.",
+     1.6
+    ],
+    [
+     "Ce n'était pas un gâteau. C'était sa récompense. Et je l'avais mangée debout.",
+     1.4
+    ],
+    [
+     "Le samedi, j'en ai fait un entier. Rien que pour elle. Elle l'a mangé sans m'en donner.",
+     1.4
+    ],
+    [
+     "Ne touche jamais à ce que quelqu'un s'est gardé pour lui.",
+     1.2
+    ],
+    [
+     "C'est souvent la seule chose qui le fait *tenir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j097_mere",
+   "perso": "mere",
+   "episode": 98,
+   "fin": "Envoie-la à quelqu'un qui freine toujours côté passager.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Un frein qui n'existait pas.",
+   "legende": "L'inquiétude d'une mère ne s'arrête jamais. Elle change juste de place dans la voiture. Et toi, qui freine encore à ta place ? #maman #mere #humour #permis #inquietude #pourtoi",
+   "phrases": [
+    [
+     "Pendant ta conduite accompagnée, j'ai usé le plancher de la voiture. Côté *passager*.",
+     1.3
+    ],
+    [
+     "Ton père refusait de monter avec toi. Alors c'était moi, tous les dimanches.",
+     1.2
+    ],
+    [
+     "À chaque virage, mon pied droit écrasait un frein qui n'existait pas.",
+     1.2
+    ],
+    [
+     "Je m'accrochais à la poignée. Je répétais : doucement. Tu roulais à trente.",
+     1.2
+    ],
+    [
+     "Un jour, tu t'es arrêté net. Tu as dit : maman, si tu freines encore, tu conduis.",
+     1.4
+    ],
+    [
+     "Tu as eu ton permis du premier coup. Moi, des crampes au mollet.",
+     1.4
+    ],
+    [
+     "Le mois dernier, j'ai emmené ta grand-mère au marché. Elle a quatre-vingts ans.",
+     1.6
+    ],
+    [
+     "Au premier rond-point, j'ai vu son pied droit s'écraser sur le plancher.",
+     1.6
+    ],
+    [
+     "Elle a dit tout bas : doucement, ma fille. *Doucement*.",
+     1.8
+    ],
+    [
+     "J'ai cinquante-cinq ans. Et ma mère freine encore pour moi.",
+     1.6
+    ],
+    [
+     "L'inquiétude d'une mère ne s'arrête jamais. Elle change juste de place dans la voiture.",
+     1.4
+    ],
+    [
+     "Un jour, c'est toi qui me conduiras. Et mon pied cherchera le frein.",
+     1.4
+    ],
+    [
+     "Ne te vexe pas. Ce n'est pas un manque de confiance.",
+     1.2
+    ],
+    [
+     "C'est juste de l'amour qui ne sait pas où se *mettre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j097_fou",
+   "perso": "fou",
+   "episode": 97,
+   "fin": "Envoie-la à quelqu'un qui subit des moqueries en ce moment.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Une tortue traverse le ciel.",
+   "legende": "Ne lâche pas ton bâton pour leur répondre. Ta seule réponse, ce sera d'arriver. Et toi, qui se moque de toi en ce moment ? #motivation #conte #inde #discipline #confiance #pourtoi",
+   "phrases": [
+    [
+     "Dans un vieux conte indien, une tortue traverse le ciel. Accrochée à un bâton, par les *dents*.",
+     1.3
+    ],
+    [
+     "Cette année-là, la sécheresse vide son lac. Elle va mourir.",
+     1.2
+    ],
+    [
+     "Deux oies sauvages sont ses amies. Elles partent vers un autre lac, très loin.",
+     1.2
+    ],
+    [
+     "Elles ont une idée. Chacune tiendra un bout du bâton dans son bec.",
+     1.2
+    ],
+    [
+     "La tortue, elle, serrera le milieu entre ses mâchoires.",
+     1.2
+    ],
+    [
+     "Les oies la préviennent : surtout, n'ouvre pas la bouche. Quoi qu'il arrive.",
+     1.4
+    ],
+    [
+     "Elles s'envolent. La tortue passe au-dessus des champs, des arbres, des villages.",
+     1.4
+    ],
+    [
+     "En bas, les gens la voient. Ils crient : regardez cette tortue ridicule !",
+     1.4
+    ],
+    [
+     "Ils rient. Ils la montrent du doigt. Ça monte jusqu'à elle.",
+     1.4
+    ],
+    [
+     "Alors la tortue n'y tient plus. Elle ouvre la bouche pour leur *répondre*.",
+     1.6
+    ],
+    [
+     "Et elle tombe.",
+     1.8
+    ],
+    [
+     "Elle n'est pas tombée parce que le voyage était trop dur. Elle est tombée pour répondre.",
+     1.6
+    ],
+    [
+     "Toi aussi, quand tu vas t'élever, on va rire de toi. On va te trouver ridicule.",
+     1.4
+    ],
+    [
+     "Ne lâche pas ton bâton pour leur répondre. Serre les dents.",
+     1.2
+    ],
+    [
+     "Ta seule réponse, ce sera d'*arriver*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

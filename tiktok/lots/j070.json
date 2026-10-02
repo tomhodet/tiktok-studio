@@ -1,0 +1,352 @@
+{
+ "nom": "j070",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j070_grandmere",
+   "perso": "grandmere",
+   "episode": 71,
+   "fin": "Envoie-la à quelqu'un qui t'a aidé à passer ton permis.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Tu as payé ton permis avec mon enterrement.",
+   "legende": "Depuis, je n'ai plus les moyens de mourir. Alors je reste. Et toi, qui t'a aidé à payer ton permis ? #grandmere #humour #generosite #famille #argent #pourtoi",
+   "phrases": [
+    [
+     "Ton permis de conduire, tu l'as payé avec mon *enterrement*.",
+     1.3
+    ],
+    [
+     "Pendant vingt ans, j'ai mis de côté de quoi partir proprement.",
+     1.2
+    ],
+    [
+     "Je ne voulais pas que tes parents aient à payer. C'était ma fierté.",
+     1.2
+    ],
+    [
+     "Une boîte en fer, dans l'armoire, sous les draps. Avec écrit dessus : pour après.",
+     1.4
+    ],
+    [
+     "Et puis, il y a six ans, tu as raté ton code deux fois. Tu n'avais plus de quoi payer.",
+     1.2
+    ],
+    [
+     "Tu travaillais le soir dans une pizzeria, pour payer tes leçons.",
+     1.2
+    ],
+    [
+     "Un matin, j'ai ouvert la boîte. J'ai tout donné à l'auto-école. En liquide.",
+     1.4
+    ],
+    [
+     "Je leur ai dit : surtout, vous lui dites que c'est une offre spéciale.",
+     1.4
+    ],
+    [
+     "Tu es revenu tout fier. Tu disais que tu avais eu une sacrée chance.",
+     1.4
+    ],
+    [
+     "Ta chance, c'était mon cercueil. En chêne, avec les poignées dorées.",
+     1.6
+    ],
+    [
+     "Depuis, je n'ai plus les moyens de mourir. Alors je *reste*.",
+     1.8
+    ],
+    [
+     "Le dimanche, c'est toi qui m'emmènes au marché. Avec le permis de mon enterrement.",
+     1.4
+    ],
+    [
+     "L'argent qu'on garde pour la fin, dépense-le pour ceux qui commencent.",
+     1.4
+    ],
+    [
+     "Et les fleurs, apporte-les-moi de mon *vivant*. Tu as le permis, maintenant.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j070_grandpere",
+   "perso": "grandpere",
+   "episode": 72,
+   "fin": "Envoie-la à quelqu'un qui partage toujours sa part.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Pendant dix ans, on a partagé en sept.",
+   "legende": "Pendant dix ans, on a pêché à six. Et on a partagé en sept. Et toi, avec qui tu partages ta part ? #grandpere #marin #generosite #amour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Sur un chalutier, on n'a pas de salaire. On a une *part*.",
+     1.3
+    ],
+    [
+     "On vend le poisson, et on partage. Une part par homme.",
+     1.2
+    ],
+    [
+     "En mille neuf cent soixante-deux, j'avais seize ans. J'étais mousse sur le bateau.",
+     1.2
+    ],
+    [
+     "Une nuit de tempête, Yves est tombé à la mer. On ne l'a jamais retrouvé.",
+     1.4
+    ],
+    [
+     "Il laissait une femme et trois enfants. Pas d'assurance. Rien.",
+     1.4
+    ],
+    [
+     "Au retour, le patron a réuni l'équipage sur le pont.",
+     1.2
+    ],
+    [
+     "On a décidé de garder sa part. Pour sa famille. Tant qu'il le faudrait.",
+     1.4
+    ],
+    [
+     "Pendant dix ans, on a pêché à six. Et on a partagé en sept.",
+     1.6
+    ],
+    [
+     "Chaque mois, c'est sa fille aînée qui venait chercher l'enveloppe au port.",
+     1.2
+    ],
+    [
+     "Elle avait seize ans, des tresses, et elle disait merci sans jamais nous regarder.",
+     1.4
+    ],
+    [
+     "J'ai mis dix ans à oser lui parler. Elle est devenue ta *grand-mère*.",
+     1.8
+    ],
+    [
+     "Partage toujours avec ceux qui restent sur le quai.",
+     1.4
+    ],
+    [
+     "Ce qu'on donne en mer finit toujours par revenir au *port*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j070_pere",
+   "perso": "pere",
+   "episode": 71,
+   "fin": "Envoie-la à quelqu'un qui joue dans ton équipe.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Ta mère gagne plus que moi.",
+   "legende": "Dans une famille, il n'y a pas de meilleur salaire. Il n'y a qu'une seule équipe. Et chez toi, qui est le meilleur joueur de l'équipe ? #papa #pere #couple #argent #fierte #pourtoi",
+   "phrases": [
+    [
+     "Depuis vingt ans, ta mère gagne plus que moi. J'ai mis dix ans à en être *fier*.",
+     1.3
+    ],
+    [
+     "Le jour de sa promotion, elle est rentrée avec une bouteille de champagne.",
+     1.2
+    ],
+    [
+     "J'ai dit bravo. J'ai souri. Puis je suis allé bricoler dans le garage. Tout seul.",
+     1.2
+    ],
+    [
+     "Je n'avais rien à bricoler. J'ai rangé trois fois la même boîte de vis.",
+     1.4
+    ],
+    [
+     "Tu avais huit ans. Tu es venu t'asseoir sur l'établi.",
+     1.2
+    ],
+    [
+     "Tu m'as demandé : papa, tu es triste parce que maman a gagné ?",
+     1.4
+    ],
+    [
+     "Pour toi, c'était un jeu. Quelqu'un avait gagné.",
+     1.2
+    ],
+    [
+     "J'ai dit : non, non. Je ne savais pas quoi dire d'autre.",
+     1.4
+    ],
+    [
+     "Alors tu as dit : mais papa, on est dans la même *équipe*, non ?",
+     1.8
+    ],
+    [
+     "Je suis resté longtemps avec ma boîte de vis dans les mains.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai ouvert le champagne. J'ai levé mon verre à la meilleure joueuse de l'équipe.",
+     1.4
+    ],
+    [
+     "On m'avait appris qu'un homme doit ramener plus d'argent que sa femme. On m'avait mal appris.",
+     1.4
+    ],
+    [
+     "Dans une famille, il n'y a pas de meilleur salaire. Il n'y a qu'une *seule* équipe.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j070_mere",
+   "perso": "mere",
+   "episode": 71,
+   "fin": "Envoie-la à quelqu'un qui rend toujours ce qu'il trouve.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "J'ai ramassé un billet de cent euros.",
+   "legende": "Une erreur, ça se rembourse. La honte, elle, garde les intérêts. Et toi, tu as déjà gardé quelque chose qui ne t'appartenait pas ? #maman #mere #honnetete #argent #confession #pourtoi",
+   "phrases": [
+    [
+     "Il y a vingt ans, j'ai ramassé un billet de cent *euros*. Et je l'ai gardé.",
+     1.3
+    ],
+    [
+     "Il était par terre, au supermarché, près des caisses. Je l'ai glissé dans ma poche.",
+     1.2
+    ],
+    [
+     "Ce mois-là, on n'avait plus rien. Tu avais besoin de chaussures pour la rentrée.",
+     1.2
+    ],
+    [
+     "En sortant, j'ai vu un vieux monsieur qui cherchait par terre. Il retournait ses poches.",
+     1.4
+    ],
+    [
+     "J'ai ralenti. J'ai eu le temps de le regarder. Et j'ai continué jusqu'à la voiture.",
+     1.8
+    ],
+    [
+     "Tu as eu tes chaussures. Tu les as adorées. Moi, je ne pouvais pas les regarder.",
+     1.6
+    ],
+    [
+     "Depuis, chaque année à la rentrée, je donne cent euros à une association. Sans rien dire à personne.",
+     1.2
+    ],
+    [
+     "Ça fait vingt ans. J'ai remboursé ce billet vingt *fois*.",
+     1.6
+    ],
+    [
+     "Et je n'ai jamais oublié le visage de ce monsieur.",
+     1.6
+    ],
+    [
+     "Je ne te raconte pas ça pour être pardonnée. Je te le raconte pour que tu fasses mieux.",
+     1.4
+    ],
+    [
+     "Un jour, tu seras peut-être à court. Tu trouveras peut-être un billet.",
+     1.2
+    ],
+    [
+     "Regarde autour de toi avant de le ramasser. Quelqu'un le cherche toujours.",
+     1.4
+    ],
+    [
+     "Une erreur, ça se rembourse. La honte, elle, garde les *intérêts*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j070_fou",
+   "perso": "fou",
+   "episode": 70,
+   "fin": "Envoie-la à quelqu'un qui avance une pierre à la fois.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Un facteur trébuche sur une pierre.",
+   "legende": "Il avait une pierre dans sa poche. Et le courage de se baisser pour ramasser la suivante. Et toi, c'est quoi ta première pierre ? #motivation #perseverance #histoirevraie #patience #discipline #pourtoi",
+   "phrases": [
+    [
+     "En mille huit cent soixante-dix-neuf, un facteur de la Drôme trébuche sur une *pierre*.",
+     1.3
+    ],
+    [
+     "Elle a une forme étrange. Il la met dans sa poche, et il continue sa tournée.",
+     1.2
+    ],
+    [
+     "Le lendemain, il en ramasse une autre. Puis dix. Puis cent.",
+     1.0
+    ],
+    [
+     "Les poches ne suffisent plus. Il prend un panier, puis une brouette.",
+     1.2
+    ],
+    [
+     "Le soir, après des kilomètres à pied, il construit. Seul, à la lueur d'une lampe.",
+     1.4
+    ],
+    [
+     "Au village, on se moque de lui.",
+     1.4
+    ],
+    [
+     "Il n'a jamais appris l'architecture. Il n'a jamais appris la maçonnerie.",
+     1.2
+    ],
+    [
+     "Il continue. Un an. Dix ans. Vingt ans.",
+     1.6
+    ],
+    [
+     "Trente-trois ans plus tard, son palais est terminé. Avec ses mains, et ses pierres de tournée.",
+     1.6
+    ],
+    [
+     "Il s'appelait Ferdinand Cheval. On l'appelle encore le facteur Cheval.",
+     1.6
+    ],
+    [
+     "En mille neuf cent soixante-neuf, son palais est classé monument historique.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, des visiteurs du monde entier viennent voir le tas de *cailloux* du facteur.",
+     1.4
+    ],
+    [
+     "Toi, tu crois peut-être qu'il te faut un plan, de l'argent, la permission de quelqu'un.",
+     1.4
+    ],
+    [
+     "Lui avait une pierre dans sa poche. Et le courage de se baisser pour ramasser la *suivante*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

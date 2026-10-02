@@ -1,0 +1,360 @@
+{
+ "nom": "j087",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j087_grandmere",
+   "perso": "grandmere",
+   "episode": 88,
+   "fin": "Envoie-la à quelqu'un qui aide les personnes âgées dans la rue.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Je suis devenue invisible.",
+   "legende": "Continue de voir ceux qu'on ne regarde plus. Un jour, l'invisible, ce sera toi. Et toi, quand as-tu aidé un inconnu pour la dernière fois ? #grandmere #vieillesse #bienveillance #tendresse #famille #pourtoi",
+   "phrases": [
+    [
+     "À soixante-quinze ans, je suis devenue *invisible*.",
+     1.3
+    ],
+    [
+     "Ça arrive sans prévenir. Un jour, les serveurs ne te voient plus lever la main.",
+     1.2
+    ],
+    [
+     "Dans la rue, on te bouscule. À la banque, on parle à ton fils.",
+     1.2
+    ],
+    [
+     "Au début, ça m'a vexée. Et puis j'en ai profité.",
+     1.4
+    ],
+    [
+     "Personne ne surveille une vieille dame. Alors je paie en douce le café des étudiants fauchés.",
+     1.2
+    ],
+    [
+     "Qui irait soupçonner une mamie avec un cabas ?",
+     1.4
+    ],
+    [
+     "Mardi, dans la rue, tu es passé juste à côté de moi. Tu ne m'as pas vue.",
+     1.6
+    ],
+    [
+     "Ça m'a pincé le cœur. Je n'ai rien dit.",
+     1.2
+    ],
+    [
+     "Au coin de la rue, tu t'es arrêté. Une vieille dame se battait avec ses sacs.",
+     1.4
+    ],
+    [
+     "Tu les as portés jusqu'à sa porte. Une inconnue. Une invisible, comme moi.",
+     1.6
+    ],
+    [
+     "Moi, tu ne m'avais pas vue. Elle, tu l'as *vue*.",
+     1.8
+    ],
+    [
+     "J'ai été fière de toi toute la journée. Je ne t'en veux pas du tout.",
+     1.4
+    ],
+    [
+     "Continue de voir ceux qu'on ne regarde plus.",
+     1.2
+    ],
+    [
+     "Un jour, l'invisible, ce sera *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j087_grandpere",
+   "perso": "grandpere",
+   "episode": 89,
+   "fin": "Envoie-la à quelqu'un qui a un grand-père plein de surprises.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Je m'étais évadé pour ton diplôme.",
+   "legende": "À mon âge, on ne s'évade pas pour fuir. On s'évade pour être là. Et toi, qui a tout bravé pour être là à un grand moment de ta vie ? #grandpere #humour #vieillesse #famille #fierte #pourtoi",
+   "phrases": [
+    [
+     "Tu te souviens de ta remise de diplôme ? J'y étais. Je m'étais *évadé*.",
+     1.3
+    ],
+    [
+     "J'étais en maison de retraite. Ton père avait dit : c'est trop loin, papa.",
+     1.2
+    ],
+    [
+     "Trois heures de route. Il ne voulait pas que je me fatigue.",
+     1.2
+    ],
+    [
+     "Le matin, j'ai mis mon costume. J'ai dit que j'allais à la messe.",
+     1.4
+    ],
+    [
+     "Bus, train, taxi. En pantoufles. J'avais oublié mes chaussures.",
+     1.4
+    ],
+    [
+     "Je me suis assis au dernier rang, tout au fond.",
+     1.2
+    ],
+    [
+     "À la maison de retraite, c'était la panique. Ils ont appelé ton père.",
+     1.4
+    ],
+    [
+     "Il a appelé la gendarmerie.",
+     1.4
+    ],
+    [
+     "Quand on a dit ton nom, tu es monté sur l'estrade. Je me suis levé. J'ai *applaudi* tout seul.",
+     1.8
+    ],
+    [
+     "Tu ne m'as pas vu. Mais ton père m'a vu, du troisième rang. Avec les gendarmes au téléphone.",
+     1.6
+    ],
+    [
+     "Il m'a donné ses chaussures pour la photo. Il l'a faite en chaussettes.",
+     1.4
+    ],
+    [
+     "À mon âge, on ne s'évade pas pour fuir. On s'évade pour être là.",
+     1.4
+    ],
+    [
+     "Alors si un jour je disparais de ma chambre, ne t'inquiète pas trop.",
+     1.2
+    ],
+    [
+     "Cherche-moi au dernier *rang*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j087_pere",
+   "perso": "pere",
+   "episode": 88,
+   "fin": "Envoie-la à quelqu'un qui garde toutes tes vieilles lettres.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Toute sa vie dans un sac de sport.",
+   "legende": "À la fin, on ne garde pas ce qui vaut cher. On garde ce qui pèse. Et toi, quel objet tu emporterais jusqu'au bout ? #papa #pere #deuil #souvenir #emotion #pourtoi",
+   "phrases": [
+    [
+     "Toute la vie de mon père tenait dans un *sac* de sport.",
+     1.3
+    ],
+    [
+     "Après sa mort, on m'a rendu ses affaires. Quatre-vingt-deux ans, un seul sac.",
+     1.2
+    ],
+    [
+     "Je l'ai ouvert dans la voiture. Je n'arrivais pas à démarrer.",
+     1.4
+    ],
+    [
+     "Deux pyjamas. Son peigne. Sa montre arrêtée. Une photo de ma mère à vingt ans.",
+     1.2
+    ],
+    [
+     "Et au fond, une enveloppe jaunie. Avec mon écriture d'enfant dessus.",
+     1.6
+    ],
+    [
+     "Une lettre que je lui avais envoyée de colonie de vacances. En mille neuf cent soixante-dix-neuf.",
+     1.4
+    ],
+    [
+     "Trois lignes. Papa, il pleut, je mange mal, viens me chercher.",
+     1.6
+    ],
+    [
+     "Il n'était pas venu me chercher, évidemment. Il avait ri.",
+     1.2
+    ],
+    [
+     "Mais il avait gardé la lettre. Quarante-cinq ans. Il l'avait emportée partout.",
+     1.4
+    ],
+    [
+     "De la maison à l'appartement, de l'appartement à sa dernière chambre.",
+     1.4
+    ],
+    [
+     "À la fin, on ne garde pas ce qui vaut cher. On garde ce qui *pèse*.",
+     1.8
+    ],
+    [
+     "Ce sac ne valait rien. Il contenait tout ce qui comptait.",
+     1.4
+    ],
+    [
+     "Toi, tu m'écris rarement. Tu m'envoies des messages qui disparaissent.",
+     1.2
+    ],
+    [
+     "Écris-moi une lettre, un jour. Même trois lignes. Même pour me dire que tu manges *mal*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j087_mere",
+   "perso": "mere",
+   "episode": 88,
+   "fin": "Envoie-la à quelqu'un qui repousse toujours ses vacances.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Mort, il a vu l'Espagne.",
+   "legende": "Ne garde pas tes voyages pour quand tu seras dans une boîte. Et toi, quel voyage tu repousses depuis des années ? #maman #mere #deuil #voyage #humour #pourtoi",
+   "phrases": [
+    [
+     "Ton grand-père n'a jamais voulu quitter son village. Mort, il a vu l'*Espagne*.",
+     1.3
+    ],
+    [
+     "Toute sa vie, il a refusé de partir en vacances. Il disait : on est bien, ici.",
+     1.2
+    ],
+    [
+     "Ta grand-mère rêvait de voir la mer en Espagne. Il trouvait toujours une excuse.",
+     1.2
+    ],
+    [
+     "Après sa mort, elle a gardé ses cendres six mois dans le placard de l'entrée.",
+     1.4
+    ],
+    [
+     "Et un jour, elle a dit : on part. Tous les trois. Elle, moi, et lui dans son urne.",
+     1.4
+    ],
+    [
+     "Mille kilomètres. L'urne était attachée avec la ceinture, sur le siège arrière.",
+     1.2
+    ],
+    [
+     "À la frontière, un douanier a demandé ce que c'était.",
+     1.2
+    ],
+    [
+     "Ta grand-mère a répondu : mon mari. Il a enfin accepté de partir.",
+     1.6
+    ],
+    [
+     "On a dispersé ses cendres dans la mer, au lever du soleil. Elle portait son chapeau de paille.",
+     1.4
+    ],
+    [
+     "Elle a dit : tu vois, ce n'était pas si *loin*.",
+     1.8
+    ],
+    [
+     "Ton grand-père aurait détesté ce voyage. Il aurait râlé du début à la fin.",
+     1.4
+    ],
+    [
+     "Et je suis sûre qu'au fond, il aurait adoré.",
+     1.4
+    ],
+    [
+     "Ne fais pas comme lui. Ne garde pas tes voyages pour quand tu seras dans une *boîte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j087_fou",
+   "perso": "fou",
+   "episode": 87,
+   "fin": "Envoie-la à quelqu'un qui refuse de se taire.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il demande : qui est Malala ?",
+   "legende": "Quand on veut te faire taire, c'est que ta voix compte. Et toi, qui a déjà essayé de te faire taire ? #motivation #histoire #malala #courage #education #pourtoi",
+   "phrases": [
+    [
+     "Un homme armé monte dans un bus scolaire. Il demande : qui est *Malala* ?",
+     1.3
+    ],
+    [
+     "Pakistan, deux mille douze. Malala Yousafzai a quinze ans.",
+     1.2
+    ],
+    [
+     "Depuis ses onze ans, elle réclame une chose. Le droit pour les filles d'aller à l'école.",
+     1.2
+    ],
+    [
+     "Dans sa région, les talibans l'interdisent. Elle continue quand même. Elle parle, elle écrit.",
+     1.2
+    ],
+    [
+     "Ce jour-là, l'homme tire. Elle est grièvement blessée.",
+     1.6
+    ],
+    [
+     "Tout le monde croit qu'elle va mourir. Elle survit.",
+     1.6
+    ],
+    [
+     "Ils voulaient la faire taire.",
+     1.4
+    ],
+    [
+     "Neuf mois plus tard, le jour de ses seize ans, elle parle devant les Nations unies.",
+     1.4
+    ],
+    [
+     "Elle dit : un enfant, un professeur, un livre et un stylo peuvent changer le monde.",
+     1.8
+    ],
+    [
+     "À dix-sept ans, elle reçoit le prix Nobel de la paix. La plus jeune de l'histoire.",
+     1.6
+    ],
+    [
+     "Ils avaient demandé : qui est Malala ? Le monde entier a appris la *réponse*.",
+     1.6
+    ],
+    [
+     "Toi aussi, quelqu'un essaiera peut-être de te faire taire. Avec des moqueries, des menaces, du mépris.",
+     1.2
+    ],
+    [
+     "Quand on veut te faire taire, c'est que ta voix compte.",
+     1.4
+    ],
+    [
+     "Alors parle. Plus *fort*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "nom": "j043",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j043_grandmere",
+   "perso": "grandmere",
+   "episode": 44,
+   "fin": "Envoie-la à quelqu'un qui aime de l'autre côté.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il occupait l'usine de mon père.",
+   "legende": "Celle-là, je ne la négocie pas. Elle décide seule. Et dans ta famille, qui a épousé quelqu'un d'en face ? #grandmere #amour #rencontre #humour #histoire #pourtoi",
+   "phrases": [
+    [
+     "En mai mille neuf cent soixante-huit, ton grand-père occupait l'*usine* de mon père.",
+     1.3
+    ],
+    [
+     "J'avais vingt-deux ans. Lui, il était le délégué des grévistes.",
+     1.2
+    ],
+    [
+     "Les grilles étaient fermées. Ils dormaient entre les machines.",
+     1.2
+    ],
+    [
+     "Mon père disait : laissez-les avoir faim.",
+     1.4
+    ],
+    [
+     "Un soir, j'ai porté une marmite de soupe jusqu'à la grille.",
+     1.2
+    ],
+    [
+     "Ton grand-père a croisé les bras : on n'accepte rien du patron.",
+     1.4
+    ],
+    [
+     "Je lui ai répondu : ce n'est pas la soupe du patron. C'est la mienne.",
+     1.6
+    ],
+    [
+     "Derrière lui, quarante hommes regardaient la marmite.",
+     1.4
+    ],
+    [
+     "Il a pris la louche. Je suis revenue tous les soirs, pendant trois semaines.",
+     1.4
+    ],
+    [
+     "À la fin de la grève, mon père a dû négocier avec ton grand-père.",
+     1.2
+    ],
+    [
+     "Ils se sont mis d'accord sur tout. Puis ton grand-père a ajouté une *revendication*.",
+     1.6
+    ],
+    [
+     "Moi.",
+     1.8
+    ],
+    [
+     "Mon père a éclaté de rire : celle-là, je ne la négocie pas. Elle décide seule.",
+     1.6
+    ],
+    [
+     "Au repas de noces, c'est mon père qui a servi la soupe.",
+     1.6
+    ],
+    [
+     "Ne laisse personne te dire de quel côté de la *grille* tu as le droit d'aimer.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j043_grandpere",
+   "perso": "grandpere",
+   "episode": 45,
+   "fin": "Envoie-la à quelqu'un qui gagne toutes les disputes.",
+   "lueurs": [
+    1,
+    8,
+    15
+   ],
+   "accroche": "Elle déplaçait le canapé en cachette.",
+   "legende": "Dans un couple, on gagne parfois des disputes qu'on aurait dû perdre. Et toi, quelle dispute regrettes-tu d'avoir gagnée ? #grandpere #amour #couple #veuvage #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant quarante ans, ta grand-mère et moi, on s'est disputés pour la place du *canapé*.",
+     1.3
+    ],
+    [
+     "Elle le voulait près de la fenêtre. Moi, face à la télévision.",
+     1.2
+    ],
+    [
+     "Chaque printemps, elle revenait à la charge. Chaque printemps, je disais non.",
+     1.2
+    ],
+    [
+     "J'avais mes arguments. La prise de l'antenne. Le courant d'air. Mon dos.",
+     1.4
+    ],
+    [
+     "Elle est partie l'hiver dernier. D'un coup, dans son sommeil.",
+     1.6
+    ],
+    [
+     "Le mois dernier, j'ai voulu passer l'aspirateur derrière le canapé. Je l'ai tiré.",
+     1.4
+    ],
+    [
+     "Et sur le parquet, j'ai vu des *rayures*. Des dizaines. Toutes vers la fenêtre.",
+     1.6
+    ],
+    [
+     "Elle le déplaçait. Tous les après-midi, quand j'étais au jardin.",
+     1.8
+    ],
+    [
+     "Elle s'asseyait là avec son tricot. Puis elle le remettait avant mon retour.",
+     1.4
+    ],
+    [
+     "Quarante ans. Pour ne pas me contrarier.",
+     1.6
+    ],
+    [
+     "Je suis resté assis par terre, avec l'aspirateur qui tournait.",
+     1.6
+    ],
+    [
+     "Le lendemain, j'ai poussé le canapé près de la fenêtre. À sa place.",
+     1.4
+    ],
+    [
+     "Dans un couple, on gagne parfois des disputes qu'on aurait dû perdre.",
+     1.4
+    ],
+    [
+     "Ne gagne pas toutes les disputes. Certaines victoires coûtent cher.",
+     1.4
+    ],
+    [
+     "Tous les après-midi, je m'assieds à sa place. Elle avait *raison*. On y voit mieux.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j043_pere",
+   "perso": "pere",
+   "episode": 44,
+   "fin": "Envoie-la à quelqu'un qui fait toujours toute la route.",
+   "lueurs": [
+    1,
+    5,
+    14
+   ],
+   "accroche": "Chacun devant la porte de l'autre.",
+   "legende": "Un couple, c'est deux personnes qui font chacune la moitié du chemin. Et toi, qui fait la route dans ton couple ? #papa #pere #couple #amour #distance #pourtoi",
+   "phrases": [
+    [
+     "Pendant deux ans, j'ai retrouvé ta mère tous les vendredis soir dans une *station-service*.",
+     1.3
+    ],
+    [
+     "Elle travaillait à Lyon. Moi, à Lille. Sept cents kilomètres.",
+     1.2
+    ],
+    [
+     "Au début, c'est moi qui faisais la route. Sept heures de voiture.",
+     1.2
+    ],
+    [
+     "Un vendredi, j'ai voulu lui faire la surprise. Je suis parti à midi.",
+     1.6
+    ],
+    [
+     "Elle aussi.",
+     1.8
+    ],
+    [
+     "On s'est croisés quelque part sur l'autoroute, sans le savoir.",
+     1.4
+    ],
+    [
+     "À sept heures, je sonnais chez elle. Au même moment, elle sonnait chez moi.",
+     1.6
+    ],
+    [
+     "Pas de portable à l'époque. On a dormi chacun dans sa voiture, devant la porte de l'autre.",
+     1.6
+    ],
+    [
+     "Le lundi, on a ri une heure au téléphone. Et on a sorti une carte.",
+     1.4
+    ],
+    [
+     "On a tracé un trait entre nos deux villes. Au *milieu*, une station-service.",
+     1.4
+    ],
+    [
+     "Chaque vendredi, on dînait sur le capot, avec le café de la machine.",
+     1.4
+    ],
+    [
+     "Un couple, c'est deux personnes qui font chacune la moitié du chemin.",
+     1.4
+    ],
+    [
+     "Ne fais jamais toute la route seul.",
+     1.2
+    ],
+    [
+     "Et ne laisse jamais l'autre la faire pour *deux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j043_mere",
+   "perso": "mere",
+   "episode": 44,
+   "fin": "Envoie-la à quelqu'un qui tient ses promesses jusqu'au bout.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il m'a demandée en mariage dans un cimetière.",
+   "legende": "Choisis quelqu'un qui tient ses promesses, même quand plus personne ne peut les lui rappeler. Et toi, quelle promesse as-tu tenue pour quelqu'un qui n'est plus là ? #maman #mere #mariage #amour #promesse #pourtoi",
+   "phrases": [
+    [
+     "Ton père m'a demandée en mariage dans un *cimetière*. Devant la tombe de ma grand-mère.",
+     1.3
+    ],
+    [
+     "Sur le moment, je lui ai dit : tu es malade ?",
+     1.2
+    ],
+    [
+     "Ma grand-mère venait de mourir. C'est elle qui m'avait élevée.",
+     1.4
+    ],
+    [
+     "Ton père n'a rien dit. Il a sorti la bague, les mains tremblantes.",
+     1.2
+    ],
+    [
+     "Je suis partie vers la voiture. Il m'a rattrapée, et il m'a tout raconté.",
+     1.4
+    ],
+    [
+     "Trois semaines avant de mourir, ma grand-mère l'avait fait venir à l'hôpital. Seul.",
+     1.4
+    ],
+    [
+     "Elle lui avait dit : je sais que tu vas la demander. Je veux être là.",
+     1.6
+    ],
+    [
+     "Il avait promis. Mais elle est partie trop vite.",
+     1.4
+    ],
+    [
+     "Alors il était venu tenir sa *promesse*. Là où elle était.",
+     1.8
+    ],
+    [
+     "Je suis retournée devant la tombe. J'ai dit oui, tout haut. Pour qu'elle entende.",
+     1.6
+    ],
+    [
+     "Un homme qui tient parole à une morte ne te mentira jamais.",
+     1.4
+    ],
+    [
+     "Trente ans plus tard, il n'a jamais manqué une seule promesse.",
+     1.4
+    ],
+    [
+     "Choisis quelqu'un qui tient ses promesses.",
+     1.2
+    ],
+    [
+     "Même quand plus personne ne peut les lui *rappeler*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j043_fou",
+   "perso": "fou",
+   "episode": 43,
+   "fin": "Envoie-la à quelqu'un qu'on a sous-estimé.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Leurs économies, dans un ours en peluche.",
+   "legende": "On te dira peut-être que tu perds ton temps. Parfois, tu es juste en avance. Et toi, sur quoi es-tu en avance ? #motivation #science #perseverance #nobel #femmes #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-cinq, une chercheuse quitte la Hongrie avec sa fille de deux ans.",
+     1.3
+    ],
+    [
+     "Dans l'ours en *peluche* de la petite, elle a caché leurs économies.",
+     1.4
+    ],
+    [
+     "En Amérique, elle défend une idée dont personne ne veut.",
+     1.2
+    ],
+    [
+     "Utiliser un messager génétique pour que le corps fabrique lui-même ses remèdes.",
+     1.4
+    ],
+    [
+     "Ses demandes d'argent sont refusées, une à une.",
+     1.2
+    ],
+    [
+     "En mille neuf cent quatre-vingt-quinze, on la rétrograde. Son salaire baisse.",
+     1.6
+    ],
+    [
+     "On lui conseille de partir. Elle reste.",
+     1.4
+    ],
+    [
+     "Devant une photocopieuse, elle rencontre un collègue, Drew Weissman.",
+     1.2
+    ],
+    [
+     "En deux mille cinq, ils trouvent enfin la clé. Presque personne ne s'y intéresse.",
+     1.6
+    ],
+    [
+     "Quinze ans plus tard, une pandémie arrête le monde.",
+     1.6
+    ],
+    [
+     "En moins d'un an, des vaccins sont prêts. Ils reposent sur leur *découverte*.",
+     1.8
+    ],
+    [
+     "Elle s'appelle Katalin Karikó. En deux mille vingt-trois, elle reçoit le prix Nobel avec lui.",
+     1.4
+    ],
+    [
+     "Sa fille, celle de l'ours, est devenue deux fois championne olympique d'aviron.",
+     1.6
+    ],
+    [
+     "Toi aussi, on te dira peut-être que tu perds ton temps.",
+     1.2
+    ],
+    [
+     "Parfois, ce n'est pas vrai. Tu es juste en *avance*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

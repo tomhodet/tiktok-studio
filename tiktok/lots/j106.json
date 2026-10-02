@@ -1,0 +1,364 @@
+{
+ "nom": "j106",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j106_grandmere",
+   "perso": "grandmere",
+   "episode": 107,
+   "fin": "Envoie-la à quelqu'un qui t'a donné une deuxième chance.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Elle t'a mis d'abord dans mes bras.",
+   "legende": "Quand quelqu'un te fait du mal, tu peux lui rendre. Ou lui donner une raison de changer. Et toi, qui t'a donné une deuxième chance ? #grandmere #bellefille #famille #pardon #emotion #pourtoi",
+   "phrases": [
+    [
+     "À la maternité, ta mère t'a mis dans mes bras avant ceux de sa propre *mère*.",
+     1.3
+    ],
+    [
+     "Je ne l'avais pas mérité. Pendant cinq ans, j'avais été une belle-mère odieuse.",
+     1.2
+    ],
+    [
+     "Elle était de la ville. Elle riait fort et ne savait pas faire un pot-au-feu.",
+     1.2
+    ],
+    [
+     "J'ai tout critiqué. Sa cuisine, ses robes, ses rideaux.",
+     1.4
+    ],
+    [
+     "Elle ne répondait jamais. Elle souriait, et elle débarrassait la table.",
+     1.4
+    ],
+    [
+     "Ce jour-là, sa mère et moi, on attendait dans le couloir.",
+     1.2
+    ],
+    [
+     "L'infirmière est sortie. Elle a dit : la maman vous demande. Vous d'abord.",
+     1.6
+    ],
+    [
+     "J'ai cru à une erreur. Je suis entrée en tremblant.",
+     1.4
+    ],
+    [
+     "Elle t'a posé dans mes bras. Elle a dit : vous ne m'aimez pas.",
+     1.6
+    ],
+    [
+     "Mais vous êtes la femme la plus *solide* que je connaisse. Je veux qu'il commence par vous.",
+     1.8
+    ],
+    [
+     "Je suis sortie dans le couloir. J'ai pleuré comme jamais.",
+     1.4
+    ],
+    [
+     "Le soir même, je lui ai demandé pardon. Pour cinq ans de pot-au-feu.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un te fait du mal, tu peux lui rendre. Ou lui donner une raison de changer.",
+     1.4
+    ],
+    [
+     "Ta mère m'a donné un petit-fils. Et une deuxième *chance*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j106_grandpere",
+   "perso": "grandpere",
+   "episode": 108,
+   "fin": "Envoie-la à quelqu'un qui a payé pour toi sans rien dire.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Elle avait de meilleures notes que moi.",
+   "legende": "Ce que tu as reçu sans le savoir, quelqu'un l'a payé. Et toi, qui a payé pour toi sans jamais rien dire ? #grandpere #soeur #famille #merci #emotion #pourtoi",
+   "phrases": [
+    [
+     "À quatorze ans, ma sœur Jeanne est entrée à l'usine. Pour que je puisse rester à l'*école*.",
+     1.3
+    ],
+    [
+     "Elle avait de meilleures notes que moi. Bien meilleures.",
+     1.2
+    ],
+    [
+     "Mais mes parents avaient besoin d'un salaire. Et moi, j'étais le garçon.",
+     1.4
+    ],
+    [
+     "Elle a cousu des chemises à la chaîne. Moi, je suis allé au lycée technique.",
+     1.2
+    ],
+    [
+     "Je suis devenu chef d'équipe. J'étais fier. Je croyais l'avoir mérité tout seul.",
+     1.4
+    ],
+    [
+     "Jeanne ne s'est jamais plainte. Pas une fois en soixante ans.",
+     1.4
+    ],
+    [
+     "À l'enterrement de notre mère, son ancienne institutrice m'a serré la main.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : votre sœur, c'est la meilleure élève que j'aie jamais eue.",
+     1.4
+    ],
+    [
+     "Elle voulait devenir *institutrice*. Vous le saviez ?",
+     1.8
+    ],
+    [
+     "Je ne savais pas. Je n'avais jamais posé la question.",
+     1.6
+    ],
+    [
+     "J'ai traversé le cimetière. Je lui ai dit pardon. Et merci. Avec soixante ans de retard.",
+     1.4
+    ],
+    [
+     "Jeanne a haussé les épaules. Elle a dit : tu as toujours été lent.",
+     1.6
+    ],
+    [
+     "Puis elle a pris mon bras, et on est rentrés à pied.",
+     1.4
+    ],
+    [
+     "Ce que tu as reçu sans le savoir, quelqu'un l'a payé.",
+     1.2
+    ],
+    [
+     "Trouve qui. Et dis-lui *merci* avant le cimetière.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j106_pere",
+   "perso": "pere",
+   "episode": 107,
+   "fin": "Envoie-la à quelqu'un qui boude pour un mot mal entendu.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Quinze ans de froid pour un mot.",
+   "legende": "La moitié des brouilles de famille commencent par un mot mal entendu. Et toi, quel mot t'a déjà fâché pour rien ? #papa #pere #bellesoeur #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "Pendant quinze ans, j'ai fait la tête à ta tante Sophie. À cause d'un seul *mot*.",
+     1.3
+    ],
+    [
+     "Le jour de mon mariage, je l'ai entendue parler de moi à ta grand-mère.",
+     1.2
+    ],
+    [
+     "Il y avait l'orchestre, les verres, les enfants qui criaient. J'ai entendu : il est minable.",
+     1.4
+    ],
+    [
+     "Minable. Le jour de mon mariage. Je ne l'ai jamais oublié.",
+     1.4
+    ],
+    [
+     "Pendant quinze ans, je lui ai dit bonjour du bout des lèvres. Je ne riais jamais à ses blagues.",
+     1.2
+    ],
+    [
+     "Ta mère ne comprenait pas. Moi, je ne voulais pas lui faire de peine avec ça.",
+     1.4
+    ],
+    [
+     "Le Noël dernier, Sophie avait un peu bu. Elle m'a pincé la joue.",
+     1.2
+    ],
+    [
+     "Elle a dit : tu es toujours aussi *mignon*. Comme le jour de ton mariage.",
+     1.8
+    ],
+    [
+     "Mignon. Pas minable. Mignon.",
+     1.6
+    ],
+    [
+     "Quinze ans de froid pour un mot mal entendu.",
+     1.4
+    ],
+    [
+     "J'ai ri tellement fort que toute la table s'est retournée. Sophie n'a jamais compris pourquoi.",
+     1.4
+    ],
+    [
+     "La moitié des brouilles de famille commencent par un mot mal entendu.",
+     1.2
+    ],
+    [
+     "Avant de te fâcher pour une phrase, fais-la *répéter*. Surtout s'il y a un orchestre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j106_mere",
+   "perso": "mere",
+   "episode": 107,
+   "fin": "Envoie-la à quelqu'un qui a une grand-mère trop gentille.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Chez mamie, c'est le paradis.",
+   "legende": "Les grands-mères ne sont pas plus gentilles que les mères. Elles ont juste moins peur. Et toi, qu'est-ce que tu avais le droit de faire chez ta grand-mère ? #maman #mere #grandmere #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "Quand tu étais petit, j'étais *jalouse* de ma propre mère.",
+     1.3
+    ],
+    [
+     "Tu rentrais de chez elle en disant : chez mamie, c'est le paradis.",
+     1.2
+    ],
+    [
+     "Chez mamie, on mangeait du gâteau au petit déjeuner. On se couchait à dix heures.",
+     1.2
+    ],
+    [
+     "Chez mamie, on sautait sur le lit. Avec les chaussures.",
+     1.4
+    ],
+    [
+     "Moi, à ton âge, je n'avais droit à rien. Ma mère était la plus sévère du quartier.",
+     1.4
+    ],
+    [
+     "Un dimanche, je lui ai demandé, très sèchement : pourquoi lui, et pas moi ?",
+     1.4
+    ],
+    [
+     "Elle a posé sa tasse. Elle a réfléchi longtemps.",
+     1.4
+    ],
+    [
+     "Puis elle a dit : avec toi, j'avais vingt ans, pas d'argent, et peur de tout rater.",
+     1.6
+    ],
+    [
+     "Avec lui, je n'ai plus *peur*. Alors je peux juste l'aimer.",
+     1.8
+    ],
+    [
+     "Je suis rentrée en silence. Je t'ai regardé dormir longtemps, ce soir-là.",
+     1.4
+    ],
+    [
+     "J'ai compris que moi aussi, j'avais peur de tout rater avec toi.",
+     1.4
+    ],
+    [
+     "Les grands-mères ne sont pas plus gentilles que les mères. Elles ont juste moins peur.",
+     1.4
+    ],
+    [
+     "Alors je ne suis plus jalouse. Je prépare ma *revanche*.",
+     1.2
+    ],
+    [
+     "Le jour où tu auras des enfants, ils mangeront du gâteau au petit déjeuner. Chez moi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j106_fou",
+   "perso": "fou",
+   "episode": 106,
+   "fin": "Envoie-la à quelqu'un qui prend soin de ses vieux parents.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Une petite auge pour papa et maman.",
+   "legende": "Tes enfants ne retiennent pas ce que tu leur dis. Ils retiennent ce que tu fais. Et toi, qu'est-ce que tes enfants ont appris en te regardant ? #motivation #conte #grimm #famille #sagesse #pourtoi",
+   "phrases": [
+    [
+     "Dans un conte des frères Grimm, un grand-père mange seul, dans un *coin*.",
+     1.3
+    ],
+    [
+     "Il est très vieux. Ses mains tremblent. Ses yeux voient mal.",
+     1.2
+    ],
+    [
+     "À table, il renverse sa soupe sur la nappe.",
+     1.2
+    ],
+    [
+     "Son fils et sa belle-fille sont dégoûtés. Alors ils l'installent derrière le poêle.",
+     1.4
+    ],
+    [
+     "Un jour, ses mains tremblent trop. Le bol de terre tombe et se casse.",
+     1.2
+    ],
+    [
+     "La belle-fille le gronde, puis lui achète une écuelle en bois.",
+     1.4
+    ],
+    [
+     "Un soir, leur petit garçon de quatre ans ramasse des planchettes par terre.",
+     1.4
+    ],
+    [
+     "Son père lui demande : qu'est-ce que tu fabriques ?",
+     1.4
+    ],
+    [
+     "L'enfant répond : une petite auge. Pour papa et maman, quand je serai *grand*.",
+     1.8
+    ],
+    [
+     "Les parents se regardent. Puis ils se mettent à pleurer.",
+     1.6
+    ],
+    [
+     "Le soir même, le grand-père revient à table. Quand il renverse un peu, personne ne dit rien.",
+     1.4
+    ],
+    [
+     "Tes enfants ne retiennent pas ce que tu leur dis. Ils retiennent ce que tu fais.",
+     1.4
+    ],
+    [
+     "Regarde comment tu traites ceux qui vieillissent. Derrière toi, quelqu'un apprend.",
+     1.4
+    ],
+    [
+     "Un jour, c'est toi qui auras les mains qui *tremblent*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

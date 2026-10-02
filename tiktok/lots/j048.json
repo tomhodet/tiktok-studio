@@ -1,0 +1,356 @@
+{
+ "nom": "j048",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j048_grandmere",
+   "perso": "grandmere",
+   "episode": 49,
+   "fin": "Envoie-la à quelqu'un qui n'a pas retenu son premier amour.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Le curé, je l'avais embrassé avant.",
+   "legende": "Il y a des gens qu'on aime assez pour ne pas les retenir. Et toi, as-tu déjà laissé quelqu'un suivre son propre chemin ? #grandmere #premieramour #amour #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le curé qui m'a mariée à ton grand-père, je l'avais *embrassé* avant lui.",
+     1.3
+    ],
+    [
+     "Il s'appelait Bernard. On avait seize ans. Il m'écrivait des poèmes.",
+     1.2
+    ],
+    [
+     "Un été, il m'a dit qu'il entendait un appel. J'ai cru qu'il parlait du téléphone.",
+     1.4
+    ],
+    [
+     "Il voulait devenir prêtre. Il pleurait en me le disant.",
+     1.4
+    ],
+    [
+     "J'aurais pu le retenir. Je ne l'ai pas fait.",
+     1.4
+    ],
+    [
+     "On ne se bat pas contre ce que quelqu'un porte au fond de lui.",
+     1.4
+    ],
+    [
+     "Il est parti au séminaire. J'ai pleuré tout un hiver.",
+     1.4
+    ],
+    [
+     "Huit ans plus tard, j'ai rencontré ton grand-père. Et le nouveau curé du village, c'était lui.",
+     1.6
+    ],
+    [
+     "Le jour de nos noces, devant l'autel, il m'a regardée. Il a souri.",
+     1.4
+    ],
+    [
+     "Il a demandé à ton grand-père s'il voulait m'épouser. Sa voix tremblait à peine.",
+     1.6
+    ],
+    [
+     "Après la messe, il m'a soufflé : tu as *bien choisi*. Moi aussi.",
+     1.8
+    ],
+    [
+     "Ton grand-père n'a jamais aimé ce curé. Il trouvait qu'il bénissait trop longtemps.",
+     1.4
+    ],
+    [
+     "Il y a des gens qu'on aime assez pour ne pas les retenir.",
+     1.4
+    ],
+    [
+     "Je n'ai rien regretté. Mon premier amour a béni le *second*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j048_grandpere",
+   "perso": "grandpere",
+   "episode": 50,
+   "fin": "Envoie-la à quelqu'un qui rentre toujours trop tard.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Mon dîner était dans la niche du chien.",
+   "legende": "Si quelqu'un garde ton assiette au chaud, ne le fais pas attendre trop longtemps. Et toi, qui t'attend le soir sans rien dire ? #grandpere #couple #amour #humour #lecon #pourtoi",
+   "phrases": [
+    [
+     "Un soir de mille neuf cent soixante-douze, j'ai trouvé mon dîner dans la *niche* du chien.",
+     1.3
+    ],
+    [
+     "À l'époque, après l'usine, j'allais jouer aux cartes au café. Tous les soirs.",
+     1.2
+    ],
+    [
+     "Une partie, puis la revanche, puis la belle. Je rentrais à minuit, en sifflotant.",
+     1.2
+    ],
+    [
+     "Ta grand-mère ne disait rien. Elle gardait mon assiette au chaud. Pendant des mois.",
+     1.4
+    ],
+    [
+     "Ce soir-là, l'assiette n'était pas sur la table. Elle était dans la niche.",
+     1.6
+    ],
+    [
+     "Avec un mot sous la fourchette : puisque tu rentres comme un chien.",
+     1.8
+    ],
+    [
+     "Le chien me regardait. Il n'avait même pas touché à mon assiette.",
+     1.4
+    ],
+    [
+     "Je me suis assis dans la cour, à côté de lui. On a réfléchi, tous les deux.",
+     1.6
+    ],
+    [
+     "Elle n'avait pas eu besoin de crier. J'avais *compris*.",
+     1.6
+    ],
+    [
+     "Le lendemain, à six heures, j'étais à la maison. Le jour d'après aussi.",
+     1.4
+    ],
+    [
+     "Ta grand-mère ne m'a jamais fait de scène. Elle m'a juste montré où j'en étais.",
+     1.4
+    ],
+    [
+     "Si quelqu'un garde ton assiette au chaud, ne le fais pas attendre trop *longtemps*.",
+     1.4
+    ],
+    [
+     "Le chien, lui, a très bien dîné ce soir-là.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j048_pere",
+   "perso": "pere",
+   "episode": 49,
+   "fin": "Envoie-la à quelqu'un à qui tu redirais oui.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "On n'a jamais été mariés.",
+   "legende": "Les gens mariés se disent oui une fois. Nous, on se le dit chaque année. Et toi, quelle question poserais-tu chaque année à la personne que tu aimes ? #papa #pere #couple #amour #engagement #pourtoi",
+   "phrases": [
+    [
+     "Ta mère et moi, on n'a jamais été *mariés*. Tu ne l'as jamais remarqué.",
+     1.3
+    ],
+    [
+     "Tu as vu des fêtes, des anniversaires. Jamais de mairie.",
+     1.2
+    ],
+    [
+     "Au début, je l'ai demandée en mariage. Trois fois. Trois non.",
+     1.4
+    ],
+    [
+     "Ses parents s'étaient mariés pour la vie. Ils se sont détestés pour la vie.",
+     1.6
+    ],
+    [
+     "Elle disait : un papier ne retient personne.",
+     1.4
+    ],
+    [
+     "Alors on a inventé autre chose.",
+     1.2
+    ],
+    [
+     "Chaque année, le jour de notre rencontre, on retourne dans le même café.",
+     1.2
+    ],
+    [
+     "On commande deux cafés. Et je lui pose une seule question : on *continue* ?",
+     1.6
+    ],
+    [
+     "Elle réfléchit. Toujours un peu trop longtemps, pour m'embêter. Puis elle dit oui.",
+     1.4
+    ],
+    [
+     "Une année, après une très mauvaise période, elle a mis cinq minutes à répondre.",
+     1.6
+    ],
+    [
+     "Les cinq minutes les plus longues de ma vie.",
+     1.8
+    ],
+    [
+     "Elle a dit oui. Et ce oui-là, je l'ai mérité.",
+     1.6
+    ],
+    [
+     "Les gens mariés se disent oui une fois. Nous, on se le dit chaque année.",
+     1.4
+    ],
+    [
+     "Trente ans, trente *oui*. Et je tremble toujours en posant la question.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j048_mere",
+   "perso": "mere",
+   "episode": 49,
+   "fin": "Envoie-la à quelqu'un qui offre des cadeaux pas romantiques.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Pour nos dix ans, un extincteur.",
+   "legende": "Certains disent je t'aime avec des roses. D'autres avec un extincteur. Et toi, quel cadeau pas romantique du tout t'a le plus touché ? #maman #mere #couple #amour #humour #pourtoi",
+   "phrases": [
+    [
+     "Pour nos dix ans de mariage, ton père m'a offert un *extincteur*.",
+     1.3
+    ],
+    [
+     "Rouge, avec un nœud doré. J'ai cru à une blague.",
+     1.2
+    ],
+    [
+     "Mes amies recevaient des bijoux, des voyages. Moi, un extincteur.",
+     1.4
+    ],
+    [
+     "Les années suivantes, ça a été pire. Un détecteur de fumée. Des pneus neige.",
+     1.4
+    ],
+    [
+     "Je lui disais : tu n'es pas romantique pour deux sous.",
+     1.2
+    ],
+    [
+     "Il haussait les épaules. Il a fixé l'extincteur au mur de la cuisine.",
+     1.4
+    ],
+    [
+     "Un soir, tu avais quatorze ans. Tu as voulu faire des frites, tout seul, à minuit.",
+     1.6
+    ],
+    [
+     "Je me suis réveillée avec l'odeur. La cuisine était en *feu*.",
+     1.8
+    ],
+    [
+     "J'ai décroché l'extincteur sans réfléchir. En dix secondes, c'était fini.",
+     1.6
+    ],
+    [
+     "Tu tremblais. Ton père est arrivé en pyjama. Il a caressé l'extincteur, sans un mot.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai compris ses cadeaux. Il ne m'offrait pas des choses. Il nous offrait des années.",
+     1.4
+    ],
+    [
+     "Certains disent je t'aime avec des roses. D'autres avec un extincteur.",
+     1.4
+    ],
+    [
+     "Les roses fanent en une semaine. Ton père, lui, veille sur nous depuis trente *ans*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j048_fou",
+   "perso": "fou",
+   "episode": 48,
+   "fin": "Envoie-la à quelqu'un qu'on empêche de rêver.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "L'encre gelait dans son encrier.",
+   "legende": "Si un jour ton encre gèle, souffle dessus. Et continue d'écrire. Et toi, qui a essayé de t'empêcher de faire ce que tu aimes ? #motivation #science #femmes #mathematiques #histoire #pourtoi",
+   "phrases": [
+    [
+     "Pour l'empêcher de faire des *mathématiques*, ses parents lui retiraient ses bougies, chaque soir.",
+     1.3
+    ],
+    [
+     "Paris, mille sept cent quatre-vingt-neuf. Elle a treize ans.",
+     1.2
+    ],
+    [
+     "Enfermée chez elle, elle lit qu'Archimède a été tué par un soldat, penché sur sa géométrie.",
+     1.4
+    ],
+    [
+     "Elle se dit que cette science doit être passionnante.",
+     1.2
+    ],
+    [
+     "Elle apprend seule. Ses parents trouvent ça inconvenant pour une fille.",
+     1.2
+    ],
+    [
+     "La nuit, ils lui prennent ses bougies et ses vêtements chauds.",
+     1.4
+    ],
+    [
+     "Elle cache des bougies. Elle travaille enroulée dans des couvertures. L'encre gèle dans l'encrier.",
+     1.6
+    ],
+    [
+     "Un matin, ils la retrouvent endormie sur son bureau. Ils cèdent.",
+     1.6
+    ],
+    [
+     "Plus tard, l'École polytechnique ouvre. Elle est interdite aux femmes.",
+     1.4
+    ],
+    [
+     "Alors elle envoie son travail à un grand mathématicien, sous un faux nom : Monsieur Le Blanc.",
+     1.6
+    ],
+    [
+     "Il veut rencontrer cet étudiant brillant. Il découvre une jeune femme, et devient son allié.",
+     1.8
+    ],
+    [
+     "En mille huit cent seize, après deux essais, elle remporte un prix de l'Académie des sciences.",
+     1.4
+    ],
+    [
+     "Une première pour une femme. Elle s'appelait Sophie Germain.",
+     1.6
+    ],
+    [
+     "Si un jour ton encre gèle, souffle dessus. Et continue d'*écrire*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

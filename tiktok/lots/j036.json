@@ -1,0 +1,360 @@
+{
+ "nom": "j036",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j036_grandmere",
+   "perso": "grandmere",
+   "episode": 37,
+   "fin": "Envoie-la à quelqu'un qui vit entre les lignes.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "J'ai écrit tout un village en trois lignes.",
+   "legende": "Le registre retient que tu es né, et que tu es mort. Tout ce qui compte vraiment, il le laisse entre les lignes. Et toi, qu'est-ce que tu écris entre tes lignes ? #grandmere #vie #sagesse #travail #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant quarante ans, j'ai écrit la vie de tout un village. En trois *lignes*.",
+     1.3
+    ],
+    [
+     "J'étais secrétaire de mairie. Je remplissais les registres, à l'encre noire.",
+     1.2
+    ],
+    [
+     "Une ligne quand tu nais. Une ligne quand tu te maries. Une ligne quand tu meurs.",
+     1.4
+    ],
+    [
+     "J'ai même écrit mon propre mariage. Puis je suis allée enfiler ma robe.",
+     1.4
+    ],
+    [
+     "Un jour, j'ai écrit la mort de madame Germaine. Trois lignes, comme tout le monde.",
+     1.4
+    ],
+    [
+     "Le registre ne dit pas qu'elle a caché deux enfants dans son grenier, pendant la guerre.",
+     1.6
+    ],
+    [
+     "Ni qu'elle tricotait des chaussons pour chaque bébé du village. Ceux de ton père aussi.",
+     1.4
+    ],
+    [
+     "Le registre retient que tu es né, et que tu es mort. C'est tout.",
+     1.6
+    ],
+    [
+     "Tout ce qui compte vraiment, il le laisse entre les lignes.",
+     1.4
+    ],
+    [
+     "Aime, aide, ris, fais des bêtises. Tricote des chaussons pour les bébés des autres.",
+     1.4
+    ],
+    [
+     "Ma ligne à moi est déjà prête, tu sais. Il ne manque que la *date*.",
+     1.8
+    ],
+    [
+     "Elle dira que je suis née, que j'ai épousé ton grand-père, et que je suis morte.",
+     1.4
+    ],
+    [
+     "Mais toi, tu sauras tout ce qu'il y avait entre les *lignes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j036_grandpere",
+   "perso": "grandpere",
+   "episode": 38,
+   "fin": "Envoie-la à quelqu'un qui a dû tout recommencer.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Le roi de l'aciérie, avec un arrosoir.",
+   "legende": "Un homme fort, ce n'est pas celui qui fait des choses dures. C'est celui qui ose faire des choses fragiles. Et toi, qu'as-tu dû réapprendre de zéro ? #grandpere #reconversion #travail #humour #fierte #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai coulé de l'acier. Après, j'ai planté des *pensées* dans les ronds-points.",
+     1.3
+    ],
+    [
+     "L'aciérie a fermé en mille neuf cent quatre-vingt-quatre. J'avais trente-huit ans.",
+     1.2
+    ],
+    [
+     "Pendant un an, j'ai cherché. Rien. Trop vieux, trop lourd, trop spécialisé.",
+     1.4
+    ],
+    [
+     "La seule place, c'était jardinier pour la ville. Tailler les haies, planter des fleurs.",
+     1.2
+    ],
+    [
+     "Les copains de l'aciérie se moquaient. Le roi de l'aciérie, avec un arrosoir.",
+     1.4
+    ],
+    [
+     "Le premier mois, j'ai tué toutes les pensées du rond-point de la gare. Toutes.",
+     1.4
+    ],
+    [
+     "L'acier, je l'avais appris en trois mois. Les fleurs, il m'a fallu deux ans.",
+     1.6
+    ],
+    [
+     "J'avais des mains faites pour serrer. Il fallait apprendre à tenir sans écraser.",
+     1.4
+    ],
+    [
+     "À l'aciérie, personne ne m'a jamais dit merci.",
+     1.6
+    ],
+    [
+     "Au rond-point de la gare, des inconnus s'arrêtaient pour me le dire. Tous les printemps.",
+     1.8
+    ],
+    [
+     "Un homme fort, ce n'est pas celui qui fait des choses dures.",
+     1.4
+    ],
+    [
+     "C'est celui qui ose faire des choses *fragiles*, quand la vie l'y oblige.",
+     1.4
+    ],
+    [
+     "J'ai coulé de l'acier pendant vingt ans. Personne ne s'en souvient.",
+     1.2
+    ],
+    [
+     "Mais toute la ville se souvient encore de mes *pensées*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j036_pere",
+   "perso": "pere",
+   "episode": 37,
+   "fin": "Envoie-la à un papa qui sait faire les tresses.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Les deux plus belles années de ma vie.",
+   "legende": "On m'avait dit que le chômage était une honte. C'est là que je t'ai vue grandir. Et toi, quel moment difficile t'a finalement rendu heureux ? #papa #pere #chomage #tendresse #famille #pourtoi",
+   "phrases": [
+    [
+     "Les deux plus belles années de ma vie, je les ai passées au *chômage*.",
+     1.3
+    ],
+    [
+     "Tu avais cinq ans. Mon entreprise avait fermé. Ta mère, elle, travaillait.",
+     1.2
+    ],
+    [
+     "Alors c'est moi qui me suis occupé de toi. Les matins, les soirs, les mercredis.",
+     1.2
+    ],
+    [
+     "Au début, j'avais honte. J'étais le seul homme au jardin public, un mercredi après-midi.",
+     1.4
+    ],
+    [
+     "Les mères me regardaient comme si j'allais voler un toboggan.",
+     1.4
+    ],
+    [
+     "J'ai appris à faire des tresses. Les premières ressemblaient à des cordes de bateau.",
+     1.4
+    ],
+    [
+     "Tu partais à l'école avec des nattes de travers. Tu étais fière quand même.",
+     1.4
+    ],
+    [
+     "On ramassait des marrons. On allait voir passer les trains. Tu me racontais tout.",
+     1.4
+    ],
+    [
+     "Et puis on m'a rappelé. Un vrai poste, un bon salaire.",
+     1.4
+    ],
+    [
+     "Le premier matin, je t'ai déposée à la garderie.",
+     1.4
+    ],
+    [
+     "Tu n'as pas pleuré. C'est moi qui ai *pleuré*, devant la grille.",
+     1.8
+    ],
+    [
+     "On m'avait dit que le chômage était une honte. C'est là que je t'ai vue grandir.",
+     1.4
+    ],
+    [
+     "Ne mesure jamais une période de ta vie à ce qu'elle t'a rapporté.",
+     1.4
+    ],
+    [
+     "Et si un jour tu as une fille, appelle-moi. Je sais toujours faire les *tresses*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j036_mere",
+   "perso": "mere",
+   "episode": 37,
+   "fin": "Envoie-la à une maman qui travaille sans dormir.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une faute dans ton livre préféré.",
+   "legende": "Derrière les fautes des gens, il y a souvent un bébé qui pleure dans la pièce d'à côté. Et toi, tu juges vite les erreurs des autres ? #maman #mere #travail #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Il y a une faute dans ton livre préféré. C'est moi qui l'ai *laissée*.",
+     1.3
+    ],
+    [
+     "J'étais correctrice dans une maison d'édition. Je relisais les livres avant l'imprimerie.",
+     1.2
+    ],
+    [
+     "Quinze ans sans laisser passer une seule faute. J'en étais fière.",
+     1.4
+    ],
+    [
+     "Et puis tu es né. Tu ne dormais jamais plus de deux heures d'affilée.",
+     1.4
+    ],
+    [
+     "Je relisais des épreuves la nuit, avec toi sur les genoux.",
+     1.4
+    ],
+    [
+     "Un matin, j'ai rendu un album pour enfants. Avec une lettre en trop, page douze.",
+     1.4
+    ],
+    [
+     "Le livre est sorti. Personne ne l'a remarquée. Sauf moi.",
+     1.4
+    ],
+    [
+     "Pendant des années, j'ai eu honte. Je voyais cette faute partout.",
+     1.4
+    ],
+    [
+     "Et ce livre est devenu ton préféré. Je te le lisais tous les soirs.",
+     1.6
+    ],
+    [
+     "Chaque soir, j'arrivais page douze avec le cœur qui battait.",
+     1.6
+    ],
+    [
+     "À dix ans, tu l'as trouvée. Tu as crié : maman, il y a une faute !",
+     1.6
+    ],
+    [
+     "J'ai répondu : je sais. Cette nuit-là, tu faisais tes *dents*.",
+     1.8
+    ],
+    [
+     "Avant de juger une erreur, demande-toi toujours qui ne dormait pas, la nuit d'avant.",
+     1.4
+    ],
+    [
+     "Derrière les fautes des gens, il y a souvent un *bébé* qui pleure dans la pièce d'à côté.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j036_fou",
+   "perso": "fou",
+   "episode": 36,
+   "fin": "Envoie-la à quelqu'un qui cache trop de choses.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Que ses cheveux ne tombent pas.",
+   "legende": "Tant que tu caches quelque chose, tu joues pour ne pas perdre. Le jour où tu n'as plus rien à cacher, tu joues enfin pour gagner. Et toi, c'est quoi ta perruque ? #motivation #sport #tennis #agassi #rolandgarros #pourtoi",
+   "phrases": [
+    [
+     "En finale à Roland-Garros, un jeune champion prie pour une seule chose. Que ses *cheveux* ne tombent pas.",
+     1.3
+    ],
+    [
+     "Mille neuf cent quatre-vingt-dix. Il s'appelle Andre Agassi. Il a vingt ans.",
+     1.2
+    ],
+    [
+     "Sa longue crinière est célèbre dans le monde entier. Personne ne sait que c'est une perruque.",
+     1.4
+    ],
+    [
+     "La veille, elle s'abîme sous la douche. On la fixe avec des épingles.",
+     1.4
+    ],
+    [
+     "Pendant tout le match, il joue prudemment. Il pense à sa tête plus qu'à la balle.",
+     1.4
+    ],
+    [
+     "Il perd sa première grande finale.",
+     1.6
+    ],
+    [
+     "Des années plus tard, il ose enfin se raser la tête. Devant tout le monde.",
+     1.4
+    ],
+    [
+     "Puis sa carrière s'effondre. Il tombe à la cent quarante et unième place mondiale.",
+     1.4
+    ],
+    [
+     "Il repart tout en bas, dans de petits tournois, loin des grands stades.",
+     1.4
+    ],
+    [
+     "En mille neuf cent quatre-vingt-dix-neuf, il revient en finale à Roland-Garros. Crâne rasé.",
+     1.6
+    ],
+    [
+     "Il perd les deux premières manches. Puis il gagne les trois *suivantes*.",
+     1.8
+    ],
+    [
+     "Tant que tu caches quelque chose, tu joues pour ne pas perdre.",
+     1.4
+    ],
+    [
+     "Le jour où tu n'as plus rien à cacher, tu joues enfin pour gagner.",
+     1.2
+    ],
+    [
+     "Quelle que soit ta perruque, *enlève-la*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

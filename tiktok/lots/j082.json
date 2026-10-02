@@ -1,0 +1,356 @@
+{
+ "nom": "j082",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j082_grandmere",
+   "perso": "grandmere",
+   "episode": 83,
+   "fin": "Envoie-la à quelqu'un qui vieillit à deux, avec humour.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "À nous deux, une personne complète.",
+   "legende": "Pendant cinquante-cinq ans, on a mis en commun nos forces. Maintenant, nos faiblesses. Et toi, avec qui tu as envie de vieillir ? #grandmere #grandpere #couple #vieillesse #humour #pourtoi",
+   "phrases": [
+    [
+     "À nous deux, ton grand-père et moi, on fait une personne *complète*. À peu près.",
+     1.3
+    ],
+    [
+     "Moi, je n'entends plus très bien. Lui ne voit plus grand-chose.",
+     1.2
+    ],
+    [
+     "Au marché, il me répète ce que dit le marchand. Moi, je lui lis les prix.",
+     1.2
+    ],
+    [
+     "Il a les jambes, j'ai la mémoire. Il porte le panier, je sais ce qu'il y a dedans.",
+     1.4
+    ],
+    [
+     "Le soir, devant la télévision, je lui raconte l'image. Il me répète le son.",
+     1.2
+    ],
+    [
+     "Les enfants trouvent qu'on est un vrai numéro de cirque. Ils n'ont pas tort.",
+     1.4
+    ],
+    [
+     "L'autre jour, tu nous as demandé ce qu'on ferait le jour où l'un de nous partira.",
+     1.6
+    ],
+    [
+     "Ton grand-père a répondu le premier : moi, je serai perdu.",
+     1.4
+    ],
+    [
+     "Et moi, j'ai pensé : je serai la moitié d'une personne.",
+     1.8
+    ],
+    [
+     "Pendant cinquante-cinq ans, on a mis en commun nos forces. Maintenant, on met en commun nos *faiblesses*.",
+     1.4
+    ],
+    [
+     "C'est ça, vieillir à deux. On devient une seule personne, un peu cassée.",
+     1.4
+    ],
+    [
+     "On croit qu'il faut être complet pour être heureux. C'est faux.",
+     1.4
+    ],
+    [
+     "Il suffit de trouver quelqu'un dont les *morceaux* vont avec les tiens.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j082_grandpere",
+   "perso": "grandpere",
+   "episode": 84,
+   "fin": "Envoie-la à quelqu'un qui passe voir son grand-père le mercredi.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Des tresses avec des mains de maçon.",
+   "legende": "Tu ne venais pas pour tes cheveux. Tu venais pour que je ne sois pas seul. Et toi, qui as-tu déjà aidé sans qu'il le sache ? #grandpere #petitefille #deuil #tendresse #emotion #pourtoi",
+   "phrases": [
+    [
+     "À soixante-huit ans, j'ai appris à faire des *tresses*. Avec des mains de maçon.",
+     1.3
+    ],
+    [
+     "Tu avais sept ans. Le mercredi, ta grand-mère te coiffait dans la cuisine. Deux nattes, bien serrées.",
+     1.2
+    ],
+    [
+     "C'était votre moment. Moi, je lisais le journal.",
+     1.2
+    ],
+    [
+     "Et puis elle est partie. Un hiver.",
+     1.6
+    ],
+    [
+     "Le premier mercredi, tu es arrivée avec ta brosse. Tu t'es assise sur la chaise.",
+     1.4
+    ],
+    [
+     "J'ai pris la brosse. Je ne savais même pas par où commencer.",
+     1.2
+    ],
+    [
+     "Le résultat était épouvantable. Une natte au-dessus de l'oreille, l'autre dans le cou.",
+     1.4
+    ],
+    [
+     "Tu as dit : c'est très bien, papi. Et tu es partie à l'école comme ça.",
+     1.4
+    ],
+    [
+     "Pendant cinq ans, tous les mercredis, tu es revenue avec ta brosse. J'ai fait des progrès.",
+     1.4
+    ],
+    [
+     "Bien plus tard, ta mère m'a avoué que tu savais te coiffer toute seule. Depuis longtemps.",
+     1.6
+    ],
+    [
+     "Tu ne venais pas pour tes cheveux. Tu venais pour que je ne sois pas *seul* le mercredi.",
+     1.8
+    ],
+    [
+     "On croit que ce sont les vieux qui s'occupent des petits. Souvent, c'est l'inverse.",
+     1.4
+    ],
+    [
+     "Tu m'as laissé te coiffer de travers. C'est moi que tu as remis *droit*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j082_pere",
+   "perso": "pere",
+   "episode": 83,
+   "fin": "Envoie-la à quelqu'un qui montait sur les épaules de son père.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Mon père était léger.",
+   "legende": "Il m'a porté pendant des années. Je l'ai porté cent mètres. Et toi, qui t'a porté sur ses épaules quand tu étais petit ? #papa #pere #deuil #transmission #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand j'ai porté le cercueil de mon père, j'ai été surpris. Il était *léger*.",
+     1.3
+    ],
+    [
+     "Toute ma vie, je l'avais trouvé immense. Des épaules de déménageur. Une voix qui remplissait la maison.",
+     1.2
+    ],
+    [
+     "Quand j'étais petit, il me portait sur ses épaules à la fête du village.",
+     1.2
+    ],
+    [
+     "De là-haut, je voyais tout. Les manèges, la fanfare, les lampions.",
+     1.2
+    ],
+    [
+     "Il me portait des heures. Il disait : tu ne pèses rien, toi.",
+     1.4
+    ],
+    [
+     "Les dernières années, il a rapetissé. Je ne l'ai pas vu venir.",
+     1.4
+    ],
+    [
+     "Et ce matin-là, avec mes cousins, on l'a soulevé. Sans effort.",
+     1.6
+    ],
+    [
+     "Cent mètres jusqu'au corbillard. J'ai pensé à la fête du village.",
+     1.4
+    ],
+    [
+     "Il m'a *porté* pendant des années. Je l'ai porté cent mètres.",
+     1.8
+    ],
+    [
+     "C'était injuste. Et c'était la plus belle chose que j'aie faite pour lui.",
+     1.4
+    ],
+    [
+     "On ne rend jamais ce qu'on nous a porté. On le passe aux suivants.",
+     1.4
+    ],
+    [
+     "Toi, je t'ai porté sur mes épaules à la même fête. Tu t'en souviens ?",
+     1.2
+    ],
+    [
+     "Un jour, ce sera ton tour. Ne sois pas surpris si je suis léger.",
+     1.4
+    ],
+    [
+     "C'est que je t'aurai tout *donné*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j082_mere",
+   "perso": "mere",
+   "episode": 83,
+   "fin": "Envoie-la à quelqu'un qui explique le téléphone à sa mère.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "J'ai vu ton petit soupir.",
+   "legende": "La patience, c'est un prêt. On la rend aux parents, un jour, avec les intérêts. Et toi, combien de fois tu as expliqué le téléphone à ta mère ? #maman #mere #humour #patience #famille #pourtoi",
+   "phrases": [
+    [
+     "Hier, tu m'as expliqué pour la troisième fois comment envoyer une photo. J'ai vu ton *soupir*.",
+     1.3
+    ],
+    [
+     "Un tout petit soupir. Tu croyais que je ne l'avais pas entendu.",
+     1.2
+    ],
+    [
+     "Je l'ai entendu. Et ça m'a fait rire.",
+     1.2
+    ],
+    [
+     "Tu sais combien de fois je t'ai appris à faire tes lacets ? Moi non plus. J'ai arrêté de compter.",
+     1.4
+    ],
+    [
+     "Le lapin fait le tour de l'arbre, il rentre dans son terrier. Tous les matins, pendant un an.",
+     1.2
+    ],
+    [
+     "Tu pleurais. Tu jetais tes chaussures. Je recommençais.",
+     1.4
+    ],
+    [
+     "Et le jour où tu as réussi, tu as couru le montrer à tout l'immeuble.",
+     1.4
+    ],
+    [
+     "Je soupire aussi, quand ta grand-mère me fait répéter. C'est de famille.",
+     1.4
+    ],
+    [
+     "Un jour, c'est toi qui auras des enfants pressés. Et moi, je serai lente.",
+     1.6
+    ],
+    [
+     "Je te demanderai trois fois la même chose. Peut-être quatre.",
+     1.4
+    ],
+    [
+     "Ce jour-là, souviens-toi du lapin et de son *terrier*.",
+     1.8
+    ],
+    [
+     "La patience, c'est un prêt. On la rend aux parents, un jour, avec les intérêts.",
+     1.4
+    ],
+    [
+     "Alors soupire si tu veux. Mais réexplique-moi la photo. *Lentement*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j082_fou",
+   "perso": "fou",
+   "episode": 82,
+   "fin": "Envoie-la à quelqu'un qui reste quand tout le monde part.",
+   "lueurs": [
+    1,
+    6,
+    15
+   ],
+   "accroche": "Une classe. Une seule élève.",
+   "legende": "On se souvient de la petite fille. On oublie souvent la femme qui est restée. Et toi, quel professeur est resté pour toi ? #motivation #histoire #rubybridges #courage #droitsciviques #pourtoi",
+   "phrases": [
+    [
+     "Pendant un an, une institutrice a fait classe à une seule *élève*.",
+     1.3
+    ],
+    [
+     "La Nouvelle-Orléans, mille neuf cent soixante. Une fillette noire de six ans entre dans une école de Blancs.",
+     1.2
+    ],
+    [
+     "Quatre policiers fédéraux l'escortent. Devant la grille, une foule hurle des insultes.",
+     1.4
+    ],
+    [
+     "Elle s'appelle Ruby Bridges.",
+     1.2
+    ],
+    [
+     "Les parents blancs retirent leurs enfants. Les enseignants refusent de lui faire cours.",
+     1.2
+    ],
+    [
+     "Sauf une. Barbara Henry, une jeune institutrice venue de Boston.",
+     1.6
+    ],
+    [
+     "Chaque matin, dans une classe vide, elles sont *deux*. Une maîtresse, une élève.",
+     1.4
+    ],
+    [
+     "Elle lui apprend à lire, à compter, comme si de rien n'était.",
+     1.2
+    ],
+    [
+     "Dehors, la foule crie toujours. Dedans, on récite l'alphabet.",
+     1.6
+    ],
+    [
+     "Toute l'année, aucune des deux ne lâche.",
+     1.4
+    ],
+    [
+     "Quelques années plus tard, un grand peintre américain la représente, minuscule, entre les policiers.",
+     1.2
+    ],
+    [
+     "Des décennies plus tard, ce tableau sera exposé à la Maison-Blanche.",
+     1.4
+    ],
+    [
+     "On se souvient de la petite fille. On oublie souvent la femme qui est restée.",
+     1.6
+    ],
+    [
+     "Toi, tu ne changeras peut-être pas le monde entier. Mais tu peux rester quand tout le monde part.",
+     1.4
+    ],
+    [
+     "Une seule personne qui *reste*, ça suffit pour qu'un enfant apprenne à lire.",
+     0
+    ]
+   ]
+  }
+ ]
+}

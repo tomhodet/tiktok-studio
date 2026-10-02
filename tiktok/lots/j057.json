@@ -1,0 +1,352 @@
+{
+ "nom": "j057",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j057_grandmere",
+   "perso": "grandmere",
+   "episode": 58,
+   "fin": "Envoie-la à l'amie qui ne t'a jamais menti.",
+   "lueurs": [
+    1,
+    9,
+    12
+   ],
+   "accroche": "Tu ressembles à un caniche mouillé.",
+   "legende": "Le jour où elle te dira que tu es belle, tu pourras la croire. Et toi, qui te dit toujours la vérité, même quand elle pique ? #grandmere #amitie #humour #verite #confiance #pourtoi",
+   "phrases": [
+    [
+     "Ma meilleure amie Josette ne m'a jamais fait un seul *compliment*. En soixante ans.",
+     1.3
+    ],
+    [
+     "En mille neuf cent soixante-dix, je me suis fait faire une permanente.",
+     1.0
+    ],
+    [
+     "Elle a dit : tu ressembles à un caniche mouillé.",
+     1.4
+    ],
+    [
+     "Mon gratin de courgettes ? De la soupe qui a renoncé.",
+     1.4
+    ],
+    [
+     "Les autres me disaient que tout était joli. Elle, jamais.",
+     1.2
+    ],
+    [
+     "Je lui en ai souvent voulu. Mais avec Josette, rien n'était jamais faux.",
+     1.4
+    ],
+    [
+     "Au mariage de ta mère, j'avais une robe bleue. Je me trouvais vieille et ridicule.",
+     1.4
+    ],
+    [
+     "Josette est entrée dans la chambre. Elle m'a regardée longtemps, de haut en bas.",
+     1.6
+    ],
+    [
+     "Et elle a dit : tu es *belle*.",
+     1.8
+    ],
+    [
+     "Je l'ai crue. Tout de suite. Parce qu'elle ne m'avait jamais menti.",
+     1.6
+    ],
+    [
+     "Garde près de toi une amie qui te dit que tu ressembles à un caniche.",
+     1.4
+    ],
+    [
+     "Le jour où elle te dira que tu es belle, tu pourras la *croire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j057_grandpere",
+   "perso": "grandpere",
+   "episode": 59,
+   "fin": "Envoie-la à quelqu'un qui t'a rassuré en cachant sa peur.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ce n'était pas du patois.",
+   "legende": "Le courage, ce n'est pas de ne pas avoir peur. C'est de chanter quand même. Et toi, qui t'a rassuré alors qu'il avait peur lui aussi ? #grandpere #amitie #mine #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "La chanson que je te chantais pour t'endormir, ce n'était pas du patois. C'était du *polonais*.",
+     1.3
+    ],
+    [
+     "Je l'ai apprise en mille neuf cent soixante-six, au fond d'une mine.",
+     1.2
+    ],
+    [
+     "Une galerie s'était effondrée derrière nous. Stanislas et moi, on était coincés.",
+     1.4
+    ],
+    [
+     "Deux hommes, une lampe qui faiblissait, et de l'eau jusqu'aux chevilles.",
+     1.4
+    ],
+    [
+     "Moi, je tremblais. J'avais vingt ans et je pensais à ma mère.",
+     1.4
+    ],
+    [
+     "Alors Stanislas s'est mis à chanter. Doucement, en polonais. Une berceuse de son village.",
+     1.4
+    ],
+    [
+     "Il l'a chantée pendant sept heures. Jusqu'à ce qu'on entende les pioches des sauveteurs.",
+     1.4
+    ],
+    [
+     "Je croyais qu'il n'avait peur de rien.",
+     1.2
+    ],
+    [
+     "Quarante ans plus tard, à son anniversaire, je lui ai enfin dit merci pour son courage.",
+     1.4
+    ],
+    [
+     "Il a ri. Il a dit : je chantais pour ne pas *pleurer*.",
+     1.8
+    ],
+    [
+     "Il était plus terrifié que moi. Il chantait pour nous deux.",
+     1.6
+    ],
+    [
+     "Cette chanson, c'est sa peur à lui. Et pendant dix ans, elle t'a fait dormir.",
+     1.6
+    ],
+    [
+     "Parfois, celui qui te rassure a plus peur que toi.",
+     1.4
+    ],
+    [
+     "Le courage, ce n'est pas de ne pas avoir peur. C'est de *chanter* quand même.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j057_pere",
+   "perso": "pere",
+   "episode": 58,
+   "fin": "Envoie-la à l'ami qui trouve toujours une excuse pour passer.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Il a trois perceuses. Il emprunte la mienne.",
+   "legende": "Les gens qui t'aiment trouvent toujours un prétexte pour passer. Et toi, quelle excuse utilise ton ami pour venir te voir ? #papa #pere #amitie #humour #amisdenfance #pourtoi",
+   "phrases": [
+    [
+     "Mon meilleur ami d'enfance est devenu très riche. Il vient quand même m'emprunter ma *perceuse*.",
+     1.3
+    ],
+    [
+     "On a grandi dans la même cité. Le même escalier, les mêmes chaussures trouées.",
+     1.2
+    ],
+    [
+     "Lui a monté une entreprise, avec des bureaux dans trois pays. Moi, je suis resté ici.",
+     1.2
+    ],
+    [
+     "Une fois par mois, sa grosse voiture se gare devant chez nous. Il sonne.",
+     1.2
+    ],
+    [
+     "Il dit toujours la même chose : tu peux me prêter ta perceuse ?",
+     1.4
+    ],
+    [
+     "Alors on descend au garage. Je fais du café. On parle pendant deux heures.",
+     1.4
+    ],
+    [
+     "Il rapporte la perceuse le mois suivant. Et on reparle deux heures.",
+     1.4
+    ],
+    [
+     "L'été dernier, il m'a invité chez lui pour la première fois. Une maison immense.",
+     1.2
+    ],
+    [
+     "Il m'a demandé d'aller chercher une bouteille dans son garage.",
+     1.4
+    ],
+    [
+     "Sur l'établi, il y avait trois perceuses. Neuves. Jamais servies.",
+     1.8
+    ],
+    [
+     "Il ne m'avait jamais emprunté une perceuse. Il empruntait une *excuse*.",
+     1.6
+    ],
+    [
+     "Les gens qui t'aiment trouvent toujours un prétexte pour passer.",
+     1.4
+    ],
+    [
+     "Si un jour quelqu'un vient t'emprunter un outil qu'il possède déjà, prête-le. Et fais du *café*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j057_mere",
+   "perso": "mere",
+   "episode": 58,
+   "fin": "Envoie-la à l'amie qui te dira toujours la vérité.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai vu le mari de mon amie.",
+   "legende": "Une amie qui sait et qui se tait n'est plus une amie. C'est une spectatrice. Et toi, tu dirais la vérité à ton meilleur ami, même si elle fait mal ? #maman #mere #amitie #verite #trahison #pourtoi",
+   "phrases": [
+    [
+     "Il y a quinze ans, j'ai vu le mari de ma meilleure amie embrasser une autre *femme*.",
+     1.3
+    ],
+    [
+     "C'était un mardi, à la terrasse d'un café, en plein centre-ville.",
+     1.2
+    ],
+    [
+     "Je suis rentrée, les jambes coupées. Et je n'ai rien dit.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, j'ai dîné chez eux. J'ai souri à cet homme. J'ai embrassé mon amie.",
+     1.4
+    ],
+    [
+     "Je me disais que ce n'était pas mon histoire. Que je risquais de la perdre.",
+     1.4
+    ],
+    [
+     "Un soir, je n'ai plus pu. Je lui ai tout raconté, en tremblant.",
+     1.4
+    ],
+    [
+     "Elle m'a écoutée sans pleurer. Puis elle m'a dit : je sais. Depuis le début.",
+     1.6
+    ],
+    [
+     "Le silence est tombé dans la cuisine.",
+     1.4
+    ],
+    [
+     "Elle a ajouté : ce n'est pas lui qui m'a fait le plus mal.",
+     1.0
+    ],
+    [
+     "C'est ton *silence*.",
+     1.8
+    ],
+    [
+     "Elle a mis un an à me pardonner. Plus longtemps qu'à lui.",
+     1.6
+    ],
+    [
+     "On est toujours amies. Mais je n'ai jamais oublié cette phrase.",
+     1.4
+    ],
+    [
+     "Quand tu sais quelque chose qui blesse ton amie, dis-le. Avec douceur, mais dis-le.",
+     1.4
+    ],
+    [
+     "Une amie qui sait et qui se tait n'est plus une amie. C'est une *spectatrice*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j057_fou",
+   "perso": "fou",
+   "episode": 57,
+   "fin": "Envoie-la à quelqu'un qui cherche encore son vrai talent.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "En prison pour dettes à vingt-trois ans.",
+   "legende": "Il voulait faire pleurer les rois. Il était fait pour faire rire le monde. Et toi, quel talent as-tu découvert en faisant autre chose ? #motivation #theatre #moliere #talent #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "À vingt-trois ans, un jeune comédien parisien se retrouve en *prison*. Pour dettes.",
+     1.3
+    ],
+    [
+     "Il a quitté le métier de son père pour fonder une troupe. Elle a fait faillite.",
+     1.2
+    ],
+    [
+     "Alors il part sur les routes. Pendant treize ans, il joue de ville en ville, en province.",
+     1.4
+    ],
+    [
+     "Son rêve, c'est la tragédie. Les rois, les héros, les grandes morts.",
+     1.2
+    ],
+    [
+     "Mais c'est quand il joue ses petites farces que le public rit aux éclats.",
+     1.4
+    ],
+    [
+     "En mille six cent cinquante-huit, sa troupe joue enfin devant le jeune roi Louis quatorze.",
+     1.4
+    ],
+    [
+     "D'abord, une tragédie. L'accueil est poli, sans plus.",
+     1.4
+    ],
+    [
+     "Alors il demande la permission de jouer une petite farce de sa composition.",
+     1.2
+    ],
+    [
+     "Le roi *rit*. La troupe obtient une salle à Paris.",
+     1.8
+    ],
+    [
+     "Il voulait faire pleurer les rois. Il était fait pour faire rire le monde.",
+     1.6
+    ],
+    [
+     "Il s'appelait Jean-Baptiste Poquelin. On l'appelle Molière.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, le français s'appelle la langue de Molière.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu t'acharnes peut-être sur un rêve qui ne veut pas de toi.",
+     1.2
+    ],
+    [
+     "Regarde ce qui marche quand tu ne forces pas. Ton *talent* est peut-être là.",
+     0
+    ]
+   ]
+  }
+ ]
+}

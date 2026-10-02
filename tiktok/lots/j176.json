@@ -1,0 +1,364 @@
+{
+ "nom": "j176",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j176_grandmere",
+   "perso": "grandmere",
+   "episode": 177,
+   "fin": "Envoie-la à quelqu'un qui a de la patience avec toi.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'avais compris dès la deuxième semaine.",
+   "legende": "Quand une vieille personne ne comprend pas, elle a peut-être juste envie que tu restes. Tu as appris quoi à tes grands-parents, toi ? #grandmere #humour #tendresse #patience #famille #pourtoi",
+   "phrases": [
+    [
+     "Pendant six mois, tu es venu tous les dimanches m'apprendre à me servir de mon *téléphone*.",
+     1.3
+    ],
+    [
+     "Tu étais d'une patience d'ange. Tu répétais dix fois la même chose.",
+     1.2
+    ],
+    [
+     "Appuie là, mamie. Non, pas si fort. Non, ça, c'est l'appareil photo.",
+     1.2
+    ],
+    [
+     "Je prenais des photos de mon oreille. Je raccrochais au nez de ta tante.",
+     1.4
+    ],
+    [
+     "Tu ne t'es jamais énervé. Tu écrivais tout dans un petit carnet, avec des flèches.",
+     1.2
+    ],
+    [
+     "Un dimanche, tu m'as dit : tu es prête, mamie. Tu n'as plus besoin de moi.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai eu du mal à te laisser partir.",
+     1.4
+    ],
+    [
+     "Alors je vais t'avouer quelque chose. J'avais compris dès la deuxième semaine.",
+     1.6
+    ],
+    [
+     "Le reste du temps, je faisais *semblant*.",
+     1.8
+    ],
+    [
+     "Je voulais que tu continues à venir le dimanche. Avec ta patience et ton petit carnet.",
+     1.4
+    ],
+    [
+     "Quand tu étais petit, je t'ai appris à lire l'heure. Ça m'a pris tout un hiver.",
+     1.2
+    ],
+    [
+     "Toi, tu ne faisais pas semblant. Tu étais vraiment très lent.",
+     1.4
+    ],
+    [
+     "Quand une vieille personne ne comprend pas, ne t'énerve pas.",
+     1.2
+    ],
+    [
+     "Elle a peut-être juste envie que tu *restes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j176_grandpere",
+   "perso": "grandpere",
+   "episode": 178,
+   "fin": "Envoie-la à quelqu'un qui fait bien les choses que personne ne voit.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ta maison, c'est moi qui l'ai construite.",
+   "legende": "Personne ne regarde les murs d'une cave. C'est pour ça qu'il faut les faire parfaits. Et toi, où caches-tu ta signature ? #grandpere #metier #travailbienfait #transmission #emotion #pourtoi",
+   "phrases": [
+    [
+     "La maison que tu viens d'acheter, c'est moi qui l'ai *construite*. En mille neuf cent soixante-dix-neuf.",
+     1.3
+    ],
+    [
+     "Je ne t'ai rien dit à la signature. Je voulais être sûr.",
+     1.2
+    ],
+    [
+     "J'ai été maçon pendant quarante ans. Des centaines de maisons. Personne ne connaît mon nom.",
+     1.2
+    ],
+    [
+     "Alors j'avais une habitude. Dans chaque maison, je cachais une pièce de un franc.",
+     1.2
+    ],
+    [
+     "Toujours au même endroit. Dans le mur de la cave, derrière la dernière pierre à gauche.",
+     1.4
+    ],
+    [
+     "Mon patron disait que je jetais mon argent. Moi, je signais.",
+     1.4
+    ],
+    [
+     "Le jour de la visite, je suis descendu à la cave. Tu croyais que je regardais l'humidité.",
+     1.2
+    ],
+    [
+     "J'ai gratté le joint avec ma clé de voiture. La pierre a bougé.",
+     1.6
+    ],
+    [
+     "La pièce était là. Un franc, mille neuf cent soixante-dix-neuf. Toute *noire*.",
+     1.8
+    ],
+    [
+     "J'ai remis la pierre. Je ne t'ai rien dit.",
+     1.4
+    ],
+    [
+     "Ce mur a tenu plus de quarante hivers sans une fissure.",
+     1.4
+    ],
+    [
+     "Personne ne regarde les murs d'une cave. C'est pour ça qu'il faut les faire parfaits.",
+     1.4
+    ],
+    [
+     "Maintenant, tu sais où chercher. Laisse la pièce.",
+     1.2
+    ],
+    [
+     "Et quand tu feras quelque chose de bien, cache ta propre *signature*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j176_pere",
+   "perso": "pere",
+   "episode": 177,
+   "fin": "Envoie-la à quelqu'un qui est là tous les jours.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Tu faisais semblant de ne pas me connaître.",
+   "legende": "Être là tous les jours, ça ne se voit pas. Jusqu'au matin où il n'y a plus que toi sur la route. Qui est toujours là pour toi, sans bruit ? #papa #pere #emotion #fiabilite #travail #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai conduit le car de ton *école*. Tu faisais semblant de ne pas me connaître.",
+     1.3
+    ],
+    [
+     "Tu montais, tu disais bonjour monsieur, et tu filais au fond.",
+     1.2
+    ],
+    [
+     "Moi, je jouais le jeu. Je te disais bonjour jeune homme.",
+     1.4
+    ],
+    [
+     "Six heures quarante, tous les matins. Le même virage, le même arrêt devant la ferme.",
+     1.2
+    ],
+    [
+     "Vingt ans sans un seul retard.",
+     1.2
+    ],
+    [
+     "Personne ne remarque un car à l'heure. On ne remarque que les retards.",
+     1.4
+    ],
+    [
+     "Un matin de janvier, le jour de tes examens, il est tombé quarante centimètres de neige.",
+     1.2
+    ],
+    [
+     "Tous les transports étaient annulés. La radio disait de rester chez soi.",
+     1.2
+    ],
+    [
+     "J'ai mis les chaînes. J'ai fait toute la tournée, au pas, pendant deux heures.",
+     1.4
+    ],
+    [
+     "Tous les élèves de la vallée sont arrivés au lycée à l'heure. Tous.",
+     1.6
+    ],
+    [
+     "Ce matin-là, tu ne t'es pas assis au fond. Tu t'es assis juste derrière moi.",
+     1.6
+    ],
+    [
+     "En descendant, devant tout le monde, tu as dit : merci, *papa*.",
+     1.8
+    ],
+    [
+     "Être là tous les jours, ça ne se voit pas.",
+     1.2
+    ],
+    [
+     "Jusqu'au matin où il n'y a plus que toi sur la *route*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j176_mere",
+   "perso": "mere",
+   "episode": 177,
+   "fin": "Envoie-la à quelqu'un à qui tu dois un merci.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Merci pour ce joli pull. Vingt fois.",
+   "legende": "Un merci écrit, ça prend dix minutes. Pour quelqu'un, c'est parfois tout ce qui reste. À qui tu devrais écrire merci cette semaine ? #maman #mere #gratitude #emotion #education #pourtoi",
+   "phrases": [
+    [
+     "Jusqu'à tes dix-huit ans, tu n'as pas ouvert un seul cadeau sans écrire une lettre de *merci*.",
+     1.3
+    ],
+    [
+     "C'était ma règle. Même pour une paire de chaussettes.",
+     1.2
+    ],
+    [
+     "Tu pleurais devant ta feuille. Tu disais que personne ne lisait ces lettres.",
+     1.2
+    ],
+    [
+     "Surtout tante Germaine, la vieille tante de ton père, qui sentait la naphtaline.",
+     1.2
+    ],
+    [
+     "Elle t'offrait chaque année le même pull, en laine qui gratte. Trop grand.",
+     1.4
+    ],
+    [
+     "Et chaque année, tu écrivais : chère tante, merci pour ce joli pull.",
+     1.2
+    ],
+    [
+     "Tu as écrit cette phrase vingt fois. Avec de moins en moins de fautes.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tante Germaine est morte. Elle avait quatre-vingt-quinze ans.",
+     1.4
+    ],
+    [
+     "En vidant sa maison, ton père a trouvé une boîte en fer sur sa table de nuit.",
+     1.6
+    ],
+    [
+     "Dedans, il y avait tes vingt lettres. Rangées par année. Usées d'avoir été relues.",
+     1.8
+    ],
+    [
+     "Elle n'avait pas d'enfants. C'étaient les *seules* lettres qu'elle recevait.",
+     1.6
+    ],
+    [
+     "Tu disais que personne ne lisait ces lettres. Elle, elle les a lues toute sa vie.",
+     1.4
+    ],
+    [
+     "Un merci écrit, ça prend dix minutes. Pour quelqu'un, c'est parfois tout ce qui *reste*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j176_fou",
+   "perso": "fou",
+   "episode": 176,
+   "fin": "Envoie-la à quelqu'un qui se croit trop vieux pour commencer.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Condamné à mort, il apprenait encore.",
+   "legende": "Le plus sage des hommes a fini sa vie en débutant. Qu'est-ce que tu n'oses pas commencer, de peur d'être ridicule ? #motivation #philosophie #socrate #apprendre #jamaistroptard #pourtoi",
+   "phrases": [
+    [
+     "Un vieil homme s'assoit au milieu des enfants, pour apprendre la *lyre*.",
+     1.3
+    ],
+    [
+     "Les enfants se moquent de lui. Ils appellent son professeur le maître des vieillards.",
+     1.2
+    ],
+    [
+     "Lui ne se vexe pas. Il trouve normal d'apprendre ce qu'il ignore.",
+     1.4
+    ],
+    [
+     "Plus tard, il est condamné à mort par sa propre ville.",
+     1.4
+    ],
+    [
+     "En prison, à soixante-dix ans, il attend l'exécution.",
+     1.4
+    ],
+    [
+     "Ses amis le trouvent occupé à une chose étrange. Il écrit des vers.",
+     1.4
+    ],
+    [
+     "Toute sa vie, un rêve lui a répété la même phrase : fais de la *musique*.",
+     1.6
+    ],
+    [
+     "Il croyait que sa philosophie suffisait. Au dernier moment, il obéit quand même.",
+     1.2
+    ],
+    [
+     "Alors il met en vers les fables d'Ésope. Il compose un hymne pour Apollon.",
+     1.4
+    ],
+    [
+     "Le jour venu, il boit la ciguë calmement, entouré de ses amis.",
+     1.6
+    ],
+    [
+     "Cet homme s'appelait Socrate. L'oracle de Delphes l'avait dit le plus sage des hommes.",
+     1.6
+    ],
+    [
+     "Le plus sage des hommes a fini sa vie en débutant.",
+     1.8
+    ],
+    [
+     "Toi, tu as peut-être peur d'être trop vieux pour commencer. D'avoir l'air ridicule.",
+     1.4
+    ],
+    [
+     "Ne crains pas les rires des enfants.",
+     1.2
+    ],
+    [
+     "Sois débutant jusqu'au *dernier* jour.",
+     0
+    ]
+   ]
+  }
+ ]
+}

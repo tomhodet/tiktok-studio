@@ -1,0 +1,348 @@
+{
+ "nom": "j112",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j112_grandmere",
+   "perso": "grandmere",
+   "episode": 113,
+   "fin": "Envoie-la à quelqu'un qui a deux grands-mères en compétition.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Deux pulls rouges. Avec un renne.",
+   "legende": "Les gens avec qui tu te bats te ressemblent souvent plus que tu ne crois. Et toi, tes deux grands-mères se faisaient la guerre ? #grandmere #famille #humour #noel #tricot #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai fait la *guerre* à ton autre grand-mère.",
+     1.3
+    ],
+    [
+     "La mère de ta mère. Une femme très bien. Je la détestais.",
+     1.2
+    ],
+    [
+     "Elle t'offrait un train électrique. Je t'offrais un train plus long.",
+     1.2
+    ],
+    [
+     "Elle faisait un gâteau au chocolat. J'en faisais deux.",
+     1.4
+    ],
+    [
+     "À Noël, on comptait tes bisous. Chacune de son côté de la table.",
+     1.4
+    ],
+    [
+     "L'hiver de tes six ans, on a eu la même idée. Te tricoter un pull.",
+     1.2
+    ],
+    [
+     "Le soir de Noël, tu as ouvert deux paquets. Deux pulls rouges. Avec un renne. Le même.",
+     1.8
+    ],
+    [
+     "Tout le monde a éclaté de rire. Sauf nous deux. On se regardait, rouges comme nos pulls.",
+     1.4
+    ],
+    [
+     "Et puis elle a dit : vous avez pris quel point ? J'ai dit : point de riz.",
+     1.4
+    ],
+    [
+     "Elle a dit : moi aussi. Et on a ri jusqu'au dessert.",
+     1.6
+    ],
+    [
+     "Depuis, on tricote ensemble le jeudi. On parle de toi. On se dispute encore un peu.",
+     1.4
+    ],
+    [
+     "Les gens avec qui tu te bats te ressemblent souvent plus que tu ne crois.",
+     1.4
+    ],
+    [
+     "Ton autre grand-mère et moi, on n'était pas rivales. On était juste deux à t'aimer *trop*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j112_grandpere",
+   "perso": "grandpere",
+   "episode": 114,
+   "fin": "Envoie-la à quelqu'un qui croit avoir le vrai couteau.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Trois couteaux identiques sur la nappe.",
+   "legende": "Un père n'a pas de préféré. Il a juste besoin de plusieurs couteaux. Et toi, qu'est-ce que tes parents ont fait pour ne pas choisir ? #grandpere #famille #heritage #humour #freres #pourtoi",
+   "phrases": [
+    [
+     "J'ai un seul *couteau*. Et trois fils qui le voulaient tous.",
+     1.3
+    ],
+    [
+     "C'est le couteau de mon père. Manche en corne, lame usée par soixante ans de pain.",
+     1.2
+    ],
+    [
+     "Ton père et tes oncles me l'ont demandé. Chacun en cachette des deux autres.",
+     1.4
+    ],
+    [
+     "Je ne voulais pas choisir. Choisir, c'est dire à deux fils qu'on les aime moins.",
+     1.4
+    ],
+    [
+     "Alors un hiver, j'ai acheté deux couteaux pareils chez un vieux coutelier.",
+     1.2
+    ],
+    [
+     "Je les ai vieillis moi-même. Du sable, du cirage, et des mois dans ma poche.",
+     1.4
+    ],
+    [
+     "Et j'ai donné à chacun le vrai couteau de son grand-père. En secret.",
+     1.4
+    ],
+    [
+     "Pour mes quatre-vingts ans, il y avait un rôti. Il a fallu le couper.",
+     1.2
+    ],
+    [
+     "Tes oncles et ton père ont sorti leur couteau. En même *temps*.",
+     1.8
+    ],
+    [
+     "Trois couteaux identiques sur la nappe. Personne n'a parlé pendant dix secondes.",
+     1.6
+    ],
+    [
+     "Puis ils m'ont regardé. Et ils ont éclaté de rire. Tous les trois.",
+     1.4
+    ],
+    [
+     "Ils m'ont demandé lequel était le vrai. Je ne m'en souviens plus. C'est la vérité.",
+     1.4
+    ],
+    [
+     "Un père n'a pas de préféré. Il a juste besoin de plusieurs couteaux.",
+     1.4
+    ],
+    [
+     "Et d'un peu de *cirage*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j112_pere",
+   "perso": "pere",
+   "episode": 113,
+   "fin": "Envoie-la à quelqu'un qui appelle toujours sa mère en premier.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Toi, tu vas savoir quoi faire.",
+   "legende": "Les pères attendent leur tour longtemps. Mais le jour où il vient, ils ont déjà le manteau sur le dos. Et toi, qui appelles-tu en premier quand tout s'écroule ? #papa #pere #famille #emotion #echec #pourtoi",
+   "phrases": [
+    [
+     "Toute ton enfance, j'ai été ton deuxième *choix*.",
+     1.3
+    ],
+    [
+     "Quand tu tombais, tu courais vers ta mère. Quand tu avais peur la nuit, tu appelais ta mère.",
+     1.2
+    ],
+    [
+     "Moi, j'avais droit au deuxième câlin. Et aux questions sur les voitures.",
+     1.4
+    ],
+    [
+     "Je faisais semblant que ça m'était égal. Je mentais un peu.",
+     1.4
+    ],
+    [
+     "Je me disais : les pères, c'est pour plus tard. On verra bien.",
+     1.2
+    ],
+    [
+     "À vingt-deux ans, tu as raté ton concours. Celui que tu préparais depuis deux ans.",
+     1.4
+    ],
+    [
+     "Ce soir-là, mon téléphone a sonné. C'était toi. Pas ta mère. *Moi*.",
+     1.8
+    ],
+    [
+     "Tu as dit : ne dis rien à maman tout de suite. Elle va pleurer.",
+     1.4
+    ],
+    [
+     "Toi, tu vas savoir quoi faire.",
+     1.6
+    ],
+    [
+     "Je ne savais pas quoi faire. Mais je suis venu. Trois heures de route, en pleine nuit.",
+     1.4
+    ],
+    [
+     "On a mangé des pâtes à deux heures du matin, dans ta cuisine. On a fait un plan.",
+     1.4
+    ],
+    [
+     "Les pères attendent leur tour longtemps. Parfois des années.",
+     1.2
+    ],
+    [
+     "Mais le jour où il vient, on a déjà le *manteau* sur le dos.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j112_mere",
+   "perso": "mere",
+   "episode": 113,
+   "fin": "Envoie-la à quelqu'un qui a gardé sa belle-mère après le divorce.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Divorcée de ton père. Pas de sa mère.",
+   "legende": "Un divorce coupe beaucoup de fils. Pas tous. Et toi, qui as-tu gardé dans ta vie malgré tout ? #maman #mere #bellemere #famille #divorce #pourtoi",
+   "phrases": [
+    [
+     "J'ai divorcé de ton père il y a quinze ans. Pas de sa *mère*.",
+     1.3
+    ],
+    [
+     "Tout le monde trouvait ça bizarre. Moi, je continuais à déjeuner chez elle le dimanche.",
+     1.2
+    ],
+    [
+     "Ton père y allait le samedi. Elle nous servait le même gigot, à un jour d'écart.",
+     1.4
+    ],
+    [
+     "Elle ne prenait jamais parti. Elle disait juste : mon fils est un idiot. Et toi aussi.",
+     1.4
+    ],
+    [
+     "Quand je pleurais, elle me resservait des haricots. C'était sa façon de consoler.",
+     1.4
+    ],
+    [
+     "Pendant quinze ans, on a parlé de tout. Sauf de lui.",
+     1.2
+    ],
+    [
+     "L'an dernier, elle est morte. Au cimetière, je suis restée au fond, avec les voisins.",
+     1.4
+    ],
+    [
+     "Ton père est venu me chercher. Il m'a prise par le bras. Il m'a fait asseoir au premier rang.",
+     1.6
+    ],
+    [
+     "Sur le faire-part, elle avait fait écrire mon *nom*. Avec ceux de ses enfants.",
+     1.8
+    ],
+    [
+     "Ton père et moi, on a pleuré côte à côte. Pour la première fois depuis notre divorce.",
+     1.4
+    ],
+    [
+     "Un divorce coupe beaucoup de fils. Pas tous.",
+     1.2
+    ],
+    [
+     "Il y a des gens qu'on garde même quand on perd le reste.",
+     1.4
+    ],
+    [
+     "Elle, je l'ai gardée. Et elle m'a gardée jusqu'au *bout*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j112_fou",
+   "perso": "fou",
+   "episode": 112,
+   "fin": "Envoie-la à quelqu'un qui t'aime et qui te pique.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Assez près pour se tenir chaud.",
+   "legende": "Trop près, on se pique. Trop loin, on gèle. Et toi, as-tu trouvé la bonne distance avec ta famille ? #motivation #philosophie #schopenhauer #famille #sagesse #pourtoi",
+   "phrases": [
+    [
+     "Par une nuit glaciale, des porcs-épics se serrent les uns contre les autres pour ne pas mourir de *froid*.",
+     1.3
+    ],
+    [
+     "Mais plus ils se serrent, plus leurs piquants se plantent dans la peau des autres.",
+     1.2
+    ],
+    [
+     "Alors ils s'écartent. Et le froid revient les mordre.",
+     1.4
+    ],
+    [
+     "Ils se rapprochent. Ils se piquent. Ils s'éloignent. Ils gèlent.",
+     1.4
+    ],
+    [
+     "Toute la nuit, ils font ce va-et-vient. Entre la douleur et le froid.",
+     1.2
+    ],
+    [
+     "Jusqu'à ce qu'ils trouvent la bonne *distance*. Assez près pour se tenir chaud. Assez loin pour ne pas se blesser.",
+     1.8
+    ],
+    [
+     "C'est le philosophe Schopenhauer qui a écrit cette fable, au dix-neuvième siècle.",
+     1.4
+    ],
+    [
+     "Il parlait des hommes. Mais il aurait pu parler des familles.",
+     1.4
+    ],
+    [
+     "Trop près, on se pique. Les remarques, les jalousies, les vieilles histoires.",
+     1.4
+    ],
+    [
+     "Trop loin, on gèle. Les coups de fil qu'on ne passe plus, les Noëls qu'on évite.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as peut-être quelqu'un que tu aimes, et qui te pique.",
+     1.4
+    ],
+    [
+     "Ne t'en éloigne pas pour toujours. Cherche juste la bonne distance.",
+     1.2
+    ],
+    [
+     "Celle où on se tient chaud. Sans se faire *saigner*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

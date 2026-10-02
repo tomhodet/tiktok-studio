@@ -1,0 +1,360 @@
+{
+ "nom": "j105",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j105_grandmere",
+   "perso": "grandmere",
+   "episode": 106,
+   "fin": "Envoie-la à quelqu'un qui a grandi avec toi.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Maman t'a toujours préférée.",
+   "legende": "Moi, je comptais les parts de gâteau. Elle, elle comptait les baisers. Et toi, qu'est-ce que tu comptais chez tes parents ? #grandmere #soeurs #famille #jalousie #emotion #pourtoi",
+   "phrases": [
+    [
+     "Toute mon enfance, j'ai cru que ma mère *préférait* ma sœur Paulette.",
+     1.3
+    ],
+    [
+     "Elle avait les robes neuves. Moi, je les avais deux ans plus tard.",
+     1.2
+    ],
+    [
+     "Au dessert, je comparais les parts de gâteau. La sienne était toujours plus grosse.",
+     1.2
+    ],
+    [
+     "Je lui en ai voulu soixante ans. Poliment, mais tous les jours.",
+     1.4
+    ],
+    [
+     "L'été dernier, pour ses quatre-vingts ans, on a bu trop de cidre.",
+     1.2
+    ],
+    [
+     "Et Paulette m'a dit, les yeux brillants : tu sais, maman t'a toujours préférée.",
+     1.6
+    ],
+    [
+     "J'ai cru qu'elle se moquait de moi. Elle était très sérieuse.",
+     1.4
+    ],
+    [
+     "Elle a continué : toi, tu lisais au lit, et maman t'embrassait deux fois.",
+     1.4
+    ],
+    [
+     "Moi, je comptais les parts de gâteau. Elle, elle comptait les *baisers*.",
+     1.8
+    ],
+    [
+     "On a ri comme deux gamines. Puis on a pleuré dans le cidre.",
+     1.4
+    ],
+    [
+     "Notre mère n'avait pas de préférée. Elle avait deux filles qui comptaient mal.",
+     1.6
+    ],
+    [
+     "Dans une famille, chacun croit que l'autre a eu la plus grosse part.",
+     1.2
+    ],
+    [
+     "Avant d'en vouloir à ceux avec qui tu as grandi, demande-leur ce qu'ils comptaient.",
+     1.4
+    ],
+    [
+     "On ne compte jamais la même chose. Mais on a eu la même *mère*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j105_grandpere",
+   "perso": "grandpere",
+   "episode": 107,
+   "fin": "Envoie-la à quelqu'un qui a tenu tête à son beau-père.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Elle m'a fait taire à ma propre table.",
+   "legende": "Garde près de toi ceux qui te tiennent tête par amour pour quelqu'un. Et toi, qui t'a déjà tenu tête pour protéger quelqu'un ? #grandpere #bellefille #famille #respect #emotion #pourtoi",
+   "phrases": [
+    [
+     "Une seule personne m'a fait taire à ma propre table. Ta *mère*.",
+     1.3
+    ],
+    [
+     "C'était le premier soir où ton père l'amenait à la maison.",
+     1.2
+    ],
+    [
+     "J'avais l'habitude de rabaisser ton père. Ses notes, son métier, ses mains de bureau.",
+     1.2
+    ],
+    [
+     "Ce soir-là, j'ai recommencé. Devant elle. Je trouvais ça drôle.",
+     1.4
+    ],
+    [
+     "Elle a posé sa fourchette. Elle m'a regardé droit dans les yeux.",
+     1.4
+    ],
+    [
+     "Elle a dit : vous ne parlerez plus jamais comme ça à votre fils. Pas devant moi.",
+     1.6
+    ],
+    [
+     "Personne ne m'avait jamais parlé comme ça.",
+     1.4
+    ],
+    [
+     "J'ai quitté la table. Je suis allé fendre du bois, dans le noir.",
+     1.4
+    ],
+    [
+     "Le lendemain, au petit déjeuner, je lui ai servi son café en *premier*.",
+     1.8
+    ],
+    [
+     "Ta grand-mère a failli lâcher la cafetière. En vingt-cinq ans, je n'avais jamais servi personne.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai compris que mon fils avait trouvé quelqu'un de plus solide que moi.",
+     1.4
+    ],
+    [
+     "Et que j'avais été un mauvais père.",
+     1.4
+    ],
+    [
+     "Garde près de toi ceux qui te tiennent tête par amour pour quelqu'un.",
+     1.2
+    ],
+    [
+     "Ce sont eux qui protègent les tiens quand tu n'es pas là. Même contre *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j105_pere",
+   "perso": "pere",
+   "episode": 106,
+   "fin": "Envoie-la à quelqu'un qui a une chaise vide dans sa famille.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Le fils caché de mon père.",
+   "legende": "Dans chaque famille, il y a une chaise vide que personne n'ose regarder. Et toi, qui manque à la table de ta famille ? #papa #pere #famille #secret #emotion #pourtoi",
+   "phrases": [
+    [
+     "À ton baptême, il y avait un invité surprise. Le fils caché de mon *père*.",
+     1.3
+    ],
+    [
+     "Mon demi-frère. Né avant que mon père rencontre ma mère.",
+     1.2
+    ],
+    [
+     "Je l'ai appris à trente ans. Un samedi, un inconnu a sonné chez moi.",
+     1.2
+    ],
+    [
+     "Il avait mon nez, mes mains, et une photo de mon père à vingt ans.",
+     1.4
+    ],
+    [
+     "Mon père n'a jamais voulu en parler. Il quittait la pièce.",
+     1.4
+    ],
+    [
+     "Alors j'ai appris à connaître ce frère tout seul. Au café, le jeudi soir.",
+     1.2
+    ],
+    [
+     "Quand tu es né, je l'ai invité à ton baptême. Sans prévenir personne.",
+     1.4
+    ],
+    [
+     "Mon père l'a vu entrer dans l'église. Il est devenu tout blanc.",
+     1.6
+    ],
+    [
+     "Après la cérémonie, je les ai trouvés derrière l'église. Mon père pleurait.",
+     1.4
+    ],
+    [
+     "Il tenait la main de ce fils qu'il n'avait jamais osé appeler son fils.",
+     1.8
+    ],
+    [
+     "Trente ans de silence. Et il a suffi d'un bébé dans une robe blanche.",
+     1.4
+    ],
+    [
+     "Dans chaque famille, il y a une chaise vide que personne n'ose regarder.",
+     1.4
+    ],
+    [
+     "Tu ne le savais pas. Mais ce jour-là, tu as rendu un *fils* à son père.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j105_mere",
+   "perso": "mere",
+   "episode": 106,
+   "fin": "Envoie-la à quelqu'un qui t'a élevé sans y être obligé.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Tu n'es pas ma mère.",
+   "legende": "Tu ne m'as jamais appelée maman. Tu as fait mieux. Et toi, qui t'a élevé sans y être obligé ? #maman #mere #famille #bellemere #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le premier jour, tu m'as dit : tu n'es pas ma *mère*. Tu avais neuf ans.",
+     1.3
+    ],
+    [
+     "J'ai répondu : je sais. Et j'ai posé mes cartons dans le salon de ton père.",
+     1.2
+    ],
+    [
+     "Pendant vingt ans, tu m'as appelée Évelyne. Jamais autrement.",
+     1.2
+    ],
+    [
+     "J'ai connu tes nuits de fièvre, tes devoirs de maths, tes premiers chagrins.",
+     1.2
+    ],
+    [
+     "Aux réunions de l'école, je disais : je suis la belle-mère.",
+     1.4
+    ],
+    [
+     "Je ne t'ai jamais demandé de m'appeler maman. Tu en avais déjà une.",
+     1.4
+    ],
+    [
+     "Il y a trois ans, tu as eu une petite fille.",
+     1.2
+    ],
+    [
+     "Elle a appris à parler. Un jour, elle a tendu les bras vers moi. Elle a dit : mamie.",
+     1.6
+    ],
+    [
+     "J'ai voulu la corriger. Lui dire de m'appeler Évelyne, comme sa maman.",
+     1.4
+    ],
+    [
+     "Tu m'as arrêtée. Tu as dit : c'est moi qui lui ai *appris*.",
+     1.8
+    ],
+    [
+     "Tu n'as rien ajouté. Moi non plus. J'ai pris ta fille dans mes bras.",
+     1.4
+    ],
+    [
+     "Ce soir-là, je suis restée longtemps dans la voiture. Incapable de démarrer.",
+     1.4
+    ],
+    [
+     "Tu ne m'as jamais appelée maman. Ce n'est pas grave.",
+     1.2
+    ],
+    [
+     "Tu as fait mieux. Tu as appris à ta fille à m'appeler *mamie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j105_fou",
+   "perso": "fou",
+   "episode": 105,
+   "fin": "Envoie-la à quelqu'un qui pourrait être le dix-huitième chameau.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Dix-sept chameaux pour trois frères.",
+   "legende": "Il n'a rien donné. Mais sans lui, les frères se battraient encore. Et toi, quel geste pourrait apaiser ta famille ? #motivation #conte #sagesse #famille #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Dans un vieux conte arabe, un homme meurt en laissant dix-sept *chameaux* à ses trois fils.",
+     1.3
+    ],
+    [
+     "La moitié pour l'aîné. Un tiers pour le deuxième. Un neuvième pour le plus jeune.",
+     1.2
+    ],
+    [
+     "Les trois frères font le calcul. Ça ne tombe pas juste.",
+     1.2
+    ],
+    [
+     "Huit chameaux et demi pour l'aîné ? Personne ne veut couper un chameau.",
+     1.4
+    ],
+    [
+     "Ils se disputent pendant des semaines. Les mots deviennent des insultes.",
+     1.4
+    ],
+    [
+     "Un soir, un vieux voyageur passe sur son chameau. Il écoute la dispute.",
+     1.2
+    ],
+    [
+     "Puis il descend, et il dit : prenez le *mien*.",
+     1.6
+    ],
+    [
+     "Maintenant, il y a dix-huit chameaux. L'aîné en prend neuf. Le deuxième, six. Le plus jeune, deux.",
+     1.4
+    ],
+    [
+     "Neuf, six et deux. Ça fait dix-sept.",
+     1.6
+    ],
+    [
+     "Il reste un chameau. Celui du voyageur. Il remonte dessus et reprend sa route.",
+     1.8
+    ],
+    [
+     "Il n'a rien donné. Mais sans lui, les frères se battraient encore.",
+     1.4
+    ],
+    [
+     "Dans ta famille aussi, chacun compte peut-être sa part. Et personne n'ajoute rien.",
+     1.4
+    ],
+    [
+     "Parfois, il suffit que quelqu'un pose son chameau au milieu. Une excuse, un premier pas.",
+     1.4
+    ],
+    [
+     "Sois le dix-huitième *chameau*. Tu ne le perdras même pas.",
+     0
+    ]
+   ]
+  }
+ ]
+}

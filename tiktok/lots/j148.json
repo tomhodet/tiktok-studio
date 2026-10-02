@@ -1,0 +1,364 @@
+{
+ "nom": "j148",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j148_grandmere",
+   "perso": "grandmere",
+   "episode": 149,
+   "fin": "Envoie-la à quelqu'un qui t'a appris l'honnêteté.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "C'est un enfant qui me l'a rapportée.",
+   "legende": "Ces gens n'avaient rien. Et ils m'avaient tout rendu. Qui t'a appris que ce qui n'est pas à toi brûle les doigts ? #grandmere #honnetete #gentillesse #famille #valeurs #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, j'ai perdu toute la paie du mois. C'est un *enfant* qui me l'a rapportée.",
+     1.3
+    ],
+    [
+     "Mon porte-monnaie était tombé au marché.",
+     1.2
+    ],
+    [
+     "Le soir, on a frappé. Un garçon de dix ans, en sandales, en plein mois de novembre.",
+     1.4
+    ],
+    [
+     "Il m'a tendu le porte-monnaie. Il a dit : votre adresse était dedans.",
+     1.4
+    ],
+    [
+     "J'ai voulu lui donner un billet. Il a mis les mains dans le dos.",
+     1.4
+    ],
+    [
+     "Il a dit : ma mère dit que ce qui n'est pas à nous brûle les doigts.",
+     1.6
+    ],
+    [
+     "Le lendemain, je suis allée chez eux avec un gâteau, pour remercier sa mère.",
+     1.2
+    ],
+    [
+     "Une seule pièce. Pas de chauffage. Quatre enfants dans un lit.",
+     1.6
+    ],
+    [
+     "Elle m'a offert un café. Le seul qu'elle avait. Je n'ai pas osé refuser.",
+     1.4
+    ],
+    [
+     "Ces gens n'avaient rien. Et ils m'avaient tout *rendu*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai compris ce que vaut vraiment une famille.",
+     1.4
+    ],
+    [
+     "Pas ce qu'elle possède. Ce qu'elle apprend à ses enfants, quand personne ne regarde.",
+     1.4
+    ],
+    [
+     "Pendant des années, je leur ai porté un gâteau tous les dimanches.",
+     1.2
+    ],
+    [
+     "La vraie richesse, ce n'est pas ce qu'on garde. C'est ce qu'on *rend*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j148_grandpere",
+   "perso": "grandpere",
+   "episode": 150,
+   "fin": "Envoie-la à quelqu'un qui ouvre sa porte quand il fait froid.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Douze inconnus dans notre cuisine.",
+   "legende": "Mon père a ouvert la porte à douze inconnus. Une est restée soixante ans. Comment tes grands-parents se sont-ils rencontrés ? #grandpere #amour #gentillesse #hiver #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "Une nuit de l'hiver soixante-trois, douze *inconnus* ont dormi dans la cuisine de mes parents.",
+     1.3
+    ],
+    [
+     "Mon père était chef de gare dans un petit village. J'avais dix-sept ans.",
+     1.2
+    ],
+    [
+     "Ce soir-là, la neige a bloqué le dernier train. Il n'irait pas plus loin.",
+     1.2
+    ],
+    [
+     "Douze voyageurs. Pas un hôtel à vingt kilomètres.",
+     1.4
+    ],
+    [
+     "Mon père a fermé le guichet. Il a dit : suivez-moi.",
+     1.4
+    ],
+    [
+     "Ma mère a vu arriver douze personnes couvertes de neige. Elle a tué deux poules.",
+     1.4
+    ],
+    [
+     "On a mangé à vingt autour d'une table de huit. On a chanté jusqu'à minuit.",
+     1.4
+    ],
+    [
+     "Ils ont dormi partout. Sur les chaises, sur le carrelage, dans le foin.",
+     1.2
+    ],
+    [
+     "Au matin, ils sont tous repartis. Mais une jeune fille m'avait laissé son adresse.",
+     1.6
+    ],
+    [
+     "Elle avait dix-sept ans. Elle s'appelait Jacqueline.",
+     1.6
+    ],
+    [
+     "Je lui ai écrit pendant deux ans. Puis je l'ai épousée.",
+     1.6
+    ],
+    [
+     "Oui. Ta *grand-mère* est arrivée chez nous avec onze inconnus, un soir de neige.",
+     1.8
+    ],
+    [
+     "Ouvre ta porte quand il fait froid. On ne sait jamais qui attend sur le quai.",
+     1.4
+    ],
+    [
+     "Mon père a ouvert la porte à douze inconnus. Une est *restée* soixante ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j148_pere",
+   "perso": "pere",
+   "episode": 149,
+   "fin": "Envoie-la à quelqu'un qui traverse un deuil.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Un inconnu a payé notre café.",
+   "legende": "Ça passe. Pas vite, mais ça passe. Quelqu'un t'a déjà aidé à traverser un chagrin, toi ? #papa #pere #deuil #gentillesse #inconnu #pourtoi",
+   "phrases": [
+    [
+     "Le jour où on a enterré ton grand-père, un inconnu a payé notre *café*.",
+     1.3
+    ],
+    [
+     "Après le cimetière, personne n'avait envie de rentrer. On s'est assis dans le bistrot d'en face.",
+     1.2
+    ],
+    [
+     "Ta grand-mère ne parlait pas. Toi, tu avais douze ans, tu regardais tes chaussures.",
+     1.2
+    ],
+    [
+     "Moi, je tournais ma cuillère. Je n'arrivais pas à boire.",
+     1.4
+    ],
+    [
+     "À la table d'à côté, un homme lisait son journal. On ne l'a pas vraiment remarqué.",
+     1.2
+    ],
+    [
+     "Quand j'ai demandé l'addition, la serveuse a dit : c'est réglé. Le monsieur est parti.",
+     1.6
+    ],
+    [
+     "Il avait laissé une serviette en papier sur notre table. Avec trois lignes.",
+     1.4
+    ],
+    [
+     "J'ai enterré mon père l'an dernier. Ça passe. Pas vite, mais ça passe.",
+     1.8
+    ],
+    [
+     "Je ne sais pas qui il était. Je ne l'ai jamais revu.",
+     1.4
+    ],
+    [
+     "Mais cette serviette est dans mon portefeuille depuis seize ans.",
+     1.6
+    ],
+    [
+     "Elle est toute molle. On lit à peine l'encre. Je la connais par cœur.",
+     1.4
+    ],
+    [
+     "Ce jour-là, il ne nous a pas offert quatre cafés. Il nous a offert une *promesse*.",
+     1.6
+    ],
+    [
+     "On ne peut pas enlever le chagrin des autres.",
+     1.2
+    ],
+    [
+     "Mais on peut payer leur café. Et leur dire que ça *passe*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j148_mere",
+   "perso": "mere",
+   "episode": 149,
+   "fin": "Envoie-la à ta marraine. Ou à quelqu'un qui pourrait l'être.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ta marraine, rencontrée sur un quai.",
+   "legende": "Elle a dit : on ne pleure pas le ventre vide. Surtout à deux. Comment as-tu rencontré une personne importante de ta vie ? #maman #mere #marraine #gentillesse #rencontre #pourtoi",
+   "phrases": [
+    [
+     "Ta marraine, je l'ai rencontrée sur un quai de gare. Trois mois avant ta *naissance*.",
+     1.3
+    ],
+    [
+     "Décembre mille neuf cent quatre-vingt-quinze. La grande grève. Plus un train.",
+     1.2
+    ],
+    [
+     "J'étais enceinte de six mois, coincée à Lyon, avec une valise et vingt francs.",
+     1.2
+    ],
+    [
+     "Je me suis assise sur un banc et j'ai pleuré.",
+     1.4
+    ],
+    [
+     "Une femme s'est assise à côté de moi. Elle a sorti un casse-croûte et l'a coupé en deux.",
+     1.4
+    ],
+    [
+     "Elle a dit : on ne pleure pas le ventre vide. Surtout à deux.",
+     1.6
+    ],
+    [
+     "Le lendemain, elle m'a ramenée chez moi en voiture. Deux cents kilomètres de détour.",
+     1.4
+    ],
+    [
+     "On a parlé de tout. De nos mères, de nos peurs, de toi.",
+     1.4
+    ],
+    [
+     "Trois mois plus tard, tu es né.",
+     1.2
+    ],
+    [
+     "Ton père m'a demandé qui serait ta marraine. J'ai dit : la dame du *quai*.",
+     1.6
+    ],
+    [
+     "Il a cru que je plaisantais. Je l'ai appelée. Elle a pleuré au téléphone.",
+     1.8
+    ],
+    [
+     "Tu l'appelles tata Sylvie. Tu la croyais mon amie d'enfance.",
+     1.4
+    ],
+    [
+     "Les gens les plus importants de ta vie sont parfois des inconnus. Il y a cinq minutes.",
+     1.2
+    ],
+    [
+     "Ne méprise jamais une mauvaise journée. Parfois, elle t'apporte une *marraine*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j148_fou",
+   "perso": "fou",
+   "episode": 148,
+   "fin": "Envoie-la à quelqu'un qui doit trouver un nouveau sommet.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Il y a d'autres Annapurna.",
+   "legende": "Il y a d'autres Annapurna dans la vie des hommes. Quel est ton prochain sommet, toi ? #motivation #alpinisme #annapurna #histoirevraie #resilience #pourtoi",
+   "phrases": [
+    [
+     "Le trois juin mille neuf cent cinquante, deux Français se tiennent sur le *toit* de l'Annapurna.",
+     1.3
+    ],
+    [
+     "C'est la première fois que des hommes atteignent le sommet d'une montagne de plus de huit mille mètres.",
+     1.2
+    ],
+    [
+     "L'un d'eux s'appelle Maurice Herzog. Là-haut, il est heureux comme jamais.",
+     1.2
+    ],
+    [
+     "Mais à la descente, il perd ses gants.",
+     1.4
+    ],
+    [
+     "Il descend les mains nues, dans le froid de la haute montagne.",
+     1.4
+    ],
+    [
+     "La descente devient un calvaire. Il est porté, traîné, soigné en chemin.",
+     1.4
+    ],
+    [
+     "Ses mains et ses pieds ont gelé. Il perd la plupart de ses doigts et de ses orteils.",
+     1.6
+    ],
+    [
+     "Pour un alpiniste, c'est comme perdre ses ailes.",
+     1.4
+    ],
+    [
+     "Rentré en France, allongé sur un lit d'hôpital, il dicte un livre.",
+     1.4
+    ],
+    [
+     "Il ne peut plus tenir un stylo.",
+     1.2
+    ],
+    [
+     "La dernière phrase de ce livre est devenue célèbre.",
+     1.6
+    ],
+    [
+     "Il y a d'autres Annapurna dans la vie des *hommes*.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu as peut-être perdu quelque chose en route. Un rêve, un travail, un amour.",
+     1.2
+    ],
+    [
+     "Ce sommet-là est derrière toi. Lève les yeux. Il y en a d'*autres*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

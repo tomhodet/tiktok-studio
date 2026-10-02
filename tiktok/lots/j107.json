@@ -1,0 +1,360 @@
+{
+ "nom": "j107",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j107_grandmere",
+   "perso": "grandmere",
+   "episode": 108,
+   "fin": "Envoie-la à quelqu'un qui boude son frère depuis trop longtemps.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "La clé était dans mon soutien-gorge.",
+   "legende": "Une mère a des armes que ses enfants ne soupçonnent pas. Et toi, qui a réconcilié ta famille autour d'une table ? #grandmere #famille #freres #humour #reconciliation #pourtoi",
+   "phrases": [
+    [
+     "Un dimanche, j'ai enfermé mes deux fils à *clé* dans ma salle à manger.",
+     1.3
+    ],
+    [
+     "Ton père et ton oncle ne se parlaient plus depuis trois ans.",
+     1.2
+    ],
+    [
+     "Une histoire de voiture vendue trop cher. Ou pas assez, selon lequel des deux parle.",
+     1.4
+    ],
+    [
+     "Je faisais deux repas le dimanche. Un à midi pour l'un, un le soir pour l'autre.",
+     1.2
+    ],
+    [
+     "Deux rôtis, deux gâteaux, deux vaisselles. À soixante-quinze ans.",
+     1.4
+    ],
+    [
+     "Un jour, j'ai invité les deux à midi. Sans prévenir ni l'un ni l'autre.",
+     1.2
+    ],
+    [
+     "Quand ils se sont vus, ils ont voulu repartir. Trop tard.",
+     1.4
+    ],
+    [
+     "J'avais fermé la porte à clé. Et la clé était dans mon *soutien-gorge*.",
+     1.8
+    ],
+    [
+     "Aucun des deux n'est allé la chercher.",
+     1.6
+    ],
+    [
+     "Ils ont mangé l'entrée sans un mot. Au fromage, ils se disputaient. Au dessert, ils riaient.",
+     1.4
+    ],
+    [
+     "Vers cinq heures, ils m'ont demandé la clé. Pour aller chercher une bouteille dans la voiture.",
+     1.4
+    ],
+    [
+     "Les fils croient que leur mère est une petite vieille sans défense.",
+     1.2
+    ],
+    [
+     "Une mère a des armes que ses enfants ne soupçonnent pas.",
+     1.4
+    ],
+    [
+     "Alors si un jour tu te fâches en famille, méfie-toi de mes *invitations*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j107_grandpere",
+   "perso": "grandpere",
+   "episode": 109,
+   "fin": "Envoie-la à quelqu'un qui a été choisi.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'ai dit une phrase horrible.",
+   "legende": "Ce n'est pas le sang qui fait un petit-fils. Et toi, qui as-tu adopté dans ton cœur ? #grandpere #adoption #famille #pardon #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tes parents nous ont annoncé qu'ils allaient t'adopter, j'ai dit une phrase *horrible*.",
+     1.3
+    ],
+    [
+     "J'ai dit : ce ne sera jamais vraiment notre petit-fils.",
+     1.4
+    ],
+    [
+     "Ta grand-mère m'a fusillé du regard. Ton père est parti sans un mot.",
+     1.4
+    ],
+    [
+     "Pendant six mois, il ne m'a plus appelé. J'étais trop fier pour le faire.",
+     1.2
+    ],
+    [
+     "Puis un dimanche, il est arrivé sans prévenir. Avec toi dans les bras. Tu avais deux ans.",
+     1.4
+    ],
+    [
+     "Il t'a posé sur mes genoux. Puis il est allé dans la cuisine.",
+     1.4
+    ],
+    [
+     "Tu m'as regardé longtemps. Puis tu as mis ta main dans la poche de ma chemise.",
+     1.6
+    ],
+    [
+     "Tu as trouvé mon crayon de menuisier. Tu l'as serré dans ton poing. Et tu t'es endormi.",
+     1.6
+    ],
+    [
+     "Je n'ai pas bougé pendant deux heures. Je n'osais même plus respirer.",
+     1.4
+    ],
+    [
+     "Quand ton père est revenu, il m'a trouvé en train de *pleurer*.",
+     1.8
+    ],
+    [
+     "Cette phrase, c'était sur toi. Je ne te l'ai jamais dit. Pardon.",
+     1.4
+    ],
+    [
+     "Ce n'est pas le sang qui fait un petit-fils. C'est un petit poing serré sur ton crayon.",
+     1.2
+    ],
+    [
+     "Tu es mon petit-fils depuis cette sieste. Le reste, ce sont des *papiers*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j107_pere",
+   "perso": "pere",
+   "episode": 108,
+   "fin": "Envoie-la à quelqu'un qui a voulu échanger sa sœur.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ma sœur contre ton vélo.",
+   "legende": "Tu voulais l'échanger contre un vélo. Aujourd'hui, tu ne l'échangerais contre rien au monde. Et toi, contre quoi tu voulais échanger ton frère ou ta sœur ? #papa #pere #frereetsoeur #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "Quand ta sœur est née, tu as voulu l'échanger contre un *vélo*.",
+     1.3
+    ],
+    [
+     "Tu avais quatre ans. Elle pleurait toute la nuit, et on ne regardait qu'elle.",
+     1.2
+    ],
+    [
+     "Un samedi, tu es allé sonner chez le voisin. Il avait un vélo rouge.",
+     1.2
+    ],
+    [
+     "Tu lui as proposé l'affaire, très sérieux : ma sœur contre ton vélo.",
+     1.4
+    ],
+    [
+     "Le voisin t'a ramené à la maison. Il pleurait de rire.",
+     1.6
+    ],
+    [
+     "Tu as dit, vexé : un vélo, ça ne crie pas la nuit.",
+     1.4
+    ],
+    [
+     "Ensuite, vous vous êtes battus pendant quinze ans. Pour la place devant, pour tout.",
+     1.2
+    ],
+    [
+     "Et puis un soir, à seize ans, elle est rentrée en pleurant. Un garçon.",
+     1.4
+    ],
+    [
+     "Tu ne lui parlais plus. Tu as frappé à sa porte avec deux chocolats chauds.",
+     1.6
+    ],
+    [
+     "Je vous ai entendus parler jusqu'à trois heures du matin.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, quand elle a un problème, ce n'est pas moi qu'elle appelle. C'est *toi*.",
+     1.8
+    ],
+    [
+     "Je fais semblant d'être vexé. C'est ma plus grande fierté.",
+     1.4
+    ],
+    [
+     "On ne choisit pas sa sœur. Mais un jour, on la choisit quand même.",
+     1.4
+    ],
+    [
+     "Tu voulais l'échanger contre un vélo. Aujourd'hui, tu ne l'échangerais contre rien au *monde*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j107_mere",
+   "perso": "mere",
+   "episode": 108,
+   "fin": "Envoie-la à quelqu'un qui pleure en cachette.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Mon frère n'est pas venu à l'enterrement.",
+   "legende": "Ceux qui ne pleurent pas devant toi pleurent peut-être ailleurs. Et toi, qui as-tu jugé trop vite dans ta famille ? #maman #mere #frere #famille #pardon #pourtoi",
+   "phrases": [
+    [
+     "Mon frère n'est pas venu à l'enterrement de notre *père*.",
+     1.3
+    ],
+    [
+     "Pendant dix ans, je ne lui ai plus adressé la parole.",
+     1.2
+    ],
+    [
+     "Ce jour-là, j'avais tout organisé seule. Les fleurs, la messe, le café pour les cousins.",
+     1.2
+    ],
+    [
+     "Sa place est restée vide au premier rang. Tout le monde l'a remarqué.",
+     1.4
+    ],
+    [
+     "Pour moi, c'était simple. Il s'en fichait. Il s'en était toujours fichu.",
+     1.4
+    ],
+    [
+     "L'an dernier, j'ai croisé le gardien du cimetière au marché.",
+     1.2
+    ],
+    [
+     "Il m'a demandé des nouvelles de mon frère. Celui qui vient tous les mois.",
+     1.6
+    ],
+    [
+     "Le lendemain de l'enterrement, il était là à sept heures du matin. Seul.",
+     1.4
+    ],
+    [
+     "Il est resté une heure assis près de la tombe. Il pleurait comme un enfant.",
+     1.6
+    ],
+    [
+     "Mon frère ne supporte pas qu'on le voie pleurer. Depuis tout petit, il se *cache*.",
+     1.8
+    ],
+    [
+     "Je le savais. Je l'avais juste oublié.",
+     1.4
+    ],
+    [
+     "Le soir même, j'ai sonné chez lui. Il m'a ouvert comme s'il m'attendait.",
+     1.4
+    ],
+    [
+     "Ceux qui ne pleurent pas devant toi pleurent peut-être ailleurs. Seuls, à sept heures du matin.",
+     1.2
+    ],
+    [
+     "Mon frère est venu à l'enterrement de notre père. Juste le *lendemain*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j107_fou",
+   "perso": "fou",
+   "episode": 107,
+   "fin": "Envoie-la à quelqu'un qui croit avoir échoué.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Thor perd trois épreuves de suite.",
+   "legende": "Parfois, ce que tu prends pour un échec, c'est la mer qui recule. Et toi, contre quoi tu luttes en ce moment ? #motivation #legende #mythologie #thor #perseverance #pourtoi",
+   "phrases": [
+    [
+     "Dans une légende nordique, le dieu Thor *perd* trois épreuves de suite.",
+     1.3
+    ],
+    [
+     "Le plus fort des dieux, humilié chez un roi géant.",
+     1.2
+    ],
+    [
+     "D'abord, vider une corne à boire. Il boit trois fois. Le niveau baisse à peine.",
+     1.4
+    ],
+    [
+     "Ensuite, soulever le chat du roi. Le chat lève une seule patte.",
+     1.4
+    ],
+    [
+     "Enfin, lutter contre une vieille femme. Elle le fait tomber sur un genou.",
+     1.4
+    ],
+    [
+     "Les géants rient. Thor repart humilié, la tête basse.",
+     1.6
+    ],
+    [
+     "Le lendemain matin, le roi l'accompagne jusqu'à la route. Et il lui avoue la vérité.",
+     1.2
+    ],
+    [
+     "Le bout de la corne trempait dans la mer. Thor a fait baisser l'*océan*.",
+     1.8
+    ],
+    [
+     "Le chat, c'était le serpent géant qui entoure le monde. Thor l'a presque soulevé.",
+     1.4
+    ],
+    [
+     "La vieille femme, c'était la Vieillesse. Elle fait tomber tout le monde. Lui, sur un genou seulement.",
+     1.6
+    ],
+    [
+     "Le roi lui dit : nous avons eu très peur de toi.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as peut-être l'impression d'échouer. Tu tires, et rien ne bouge.",
+     1.4
+    ],
+    [
+     "Mais tu ne sais pas encore contre quoi tu luttais.",
+     1.2
+    ],
+    [
+     "Parfois, ce que tu prends pour un échec, c'est la *mer* qui recule.",
+     0
+    ]
+   ]
+  }
+ ]
+}

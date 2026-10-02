@@ -1,0 +1,344 @@
+{
+ "nom": "j131",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j131_grandmere",
+   "perso": "grandmere",
+   "episode": 132,
+   "fin": "Envoie-la à quelqu'un qui cache un vieil échec.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Deux menteurs. Deux cancres.",
+   "legende": "Cinquante ans de honte pour un papier. On aurait pu en rire cinquante ans de plus. Et toi, tu caches quel échec depuis trop longtemps ? #grandmere #pourtoi #humour #examen #honte #amour",
+   "phrases": [
+    [
+     "Pendant cinquante ans, j'ai fait croire à tout le monde que j'avais mon certificat d'*études*.",
+     1.4
+    ],
+    [
+     "En réalité, je l'avais raté. À cause du problème de robinets.",
+     1.4
+    ],
+    [
+     "Ma mère avait tellement honte qu'elle a dit aux voisines que j'étais reçue.",
+     1.2
+    ],
+    [
+     "Alors j'ai continué le mensonge. Toute ma vie.",
+     1.4
+    ],
+    [
+     "L'année dernière, tu as fait l'arbre de la famille. Tu as fouillé les vieux journaux du canton.",
+     1.2
+    ],
+    [
+     "Tu as trouvé la liste des reçus de mille neuf cent cinquante-neuf. Mon nom n'y était pas.",
+     1.6
+    ],
+    [
+     "Tu ne m'as rien dit. Mais le soir, j'ai tout avoué à ton grand-père.",
+     1.4
+    ],
+    [
+     "Il m'a écoutée jusqu'au bout. Puis il a éclaté de rire.",
+     1.6
+    ],
+    [
+     "Il a dit : moi aussi, je l'ai raté. Et je mens depuis cinquante ans.",
+     1.8
+    ],
+    [
+     "On a ri jusqu'à deux heures du matin. Deux menteurs. Deux *cancres*.",
+     1.6
+    ],
+    [
+     "Cinquante ans de honte pour un papier. On aurait pu en rire cinquante ans de plus.",
+     1.4
+    ],
+    [
+     "Si tu as un échec caché, dis-le à quelqu'un que tu aimes. Il en a peut-être un aussi.",
+     1.4
+    ],
+    [
+     "Et à deux, la honte se transforme vite en *rire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j131_grandpere",
+   "perso": "grandpere",
+   "episode": 133,
+   "fin": "Envoie-la à quelqu'un qui vient de prendre sa retraite.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J'ai arraché toutes ses fraises.",
+   "legende": "Il n'est jamais trop tard pour redevenir apprenti. Et toi, quelle bêtise as-tu faite en voulant bien faire ? #grandpere #pourtoi #humour #retraite #jardin #amour",
+   "phrases": [
+    [
+     "Le premier jour de ma retraite, j'ai désherbé le jardin de ta grand-mère. J'ai arraché toutes ses *fraises*.",
+     1.4
+    ],
+    [
+     "Quarante ans d'usine. Je n'avais jamais touché à son jardin. C'était son royaume.",
+     1.2
+    ],
+    [
+     "Ce matin-là, je voulais lui faire une surprise. Je me suis levé à six heures.",
+     1.2
+    ],
+    [
+     "À midi, le potager était impeccable. Plus une mauvaise herbe. Plus une fraise.",
+     1.6
+    ],
+    [
+     "Ta grand-mère est sortie. Elle n'a rien dit pendant une minute entière.",
+     1.6
+    ],
+    [
+     "Puis elle a ri. Elle a ri tellement qu'elle a dû s'asseoir dans la brouette.",
+     1.6
+    ],
+    [
+     "Moi, j'avais honte. Quarante ans à régler des machines, et pas fichu de reconnaître un fraisier.",
+     1.4
+    ],
+    [
+     "Le lendemain, elle m'a tendu un tablier. Elle a dit : leçon numéro un.",
+     1.8
+    ],
+    [
+     "Pendant vingt ans, j'ai été son apprenti. Le plus vieil apprenti du canton.",
+     1.4
+    ],
+    [
+     "Elle m'a appris les semis, la lune, les limaces. Et surtout la patience.",
+     1.4
+    ],
+    [
+     "À la retraite, j'ai découvert que je ne savais rien de ma propre maison.",
+     1.4
+    ],
+    [
+     "Il n'est jamais trop tard pour redevenir *apprenti*.",
+     1.4
+    ],
+    [
+     "Regarde bien avant de désherber. Ce qui te semble inutile, c'est parfois le *jardin* de quelqu'un.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j131_pere",
+   "perso": "pere",
+   "episode": 132,
+   "fin": "Envoie-la à quelqu'un qui croit être un mauvais parent.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Cent douze erreurs de père.",
+   "legende": "On compte toujours ses erreurs. Jamais ce qu'on a réussi entre elles. Et toi, quelle ligne tu ajouterais au carnet de ton père ? #papa #pere #pourtoi #erreur #pardon #emotion",
+   "phrases": [
+    [
+     "J'ai un carnet où je note toutes mes *erreurs* de père. Il y en a cent douze.",
+     1.4
+    ],
+    [
+     "J'ai commencé le jour de ta naissance. Erreur numéro un : je t'ai mis ta couche à l'envers.",
+     1.4
+    ],
+    [
+     "Erreur numéro douze : je t'ai crié dessus parce que j'avais eu une mauvaise journée.",
+     1.2
+    ],
+    [
+     "Erreur numéro quarante : j'ai raté ton spectacle pour une réunion qui ne servait à rien.",
+     1.2
+    ],
+    [
+     "Erreur numéro quatre-vingt-sept : je t'ai dit que tes rêves coûtaient trop cher.",
+     1.4
+    ],
+    [
+     "Je l'écrivais pour ne pas recommencer. Souvent, j'ai recommencé quand même.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu as cherché un stylo dans mon bureau. Tu as trouvé le carnet.",
+     1.4
+    ],
+    [
+     "Tu l'as lu en entier, assis par terre. Les cent douze.",
+     1.6
+    ],
+    [
+     "Je suis rentré. Je t'ai vu avec le carnet. J'ai eu honte.",
+     1.4
+    ],
+    [
+     "Tu as pris le stylo. Et tu as écrit une ligne en bas.",
+     1.6
+    ],
+    [
+     "Erreur numéro cent treize : croire que tu as été un mauvais *père*.",
+     1.8
+    ],
+    [
+     "On compte toujours ses erreurs. Jamais ce qu'on a réussi entre elles.",
+     1.4
+    ],
+    [
+     "Ce carnet ne raconte pas un mauvais père. Il raconte un père qui *essayait*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j131_mere",
+   "perso": "mere",
+   "episode": 132,
+   "fin": "Envoie-la à quelqu'un qui s'occupe de ses parents.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je l'ai mise en maison de retraite.",
+   "legende": "Une promesse, ce n'est pas une adresse. C'est une présence. Et toi, quelle promesse as-tu peur de ne pas tenir ? #maman #mere #pourtoi #promesse #grandmere #emotion",
+   "phrases": [
+    [
+     "J'avais *promis* à ma mère de ne jamais la mettre en maison de retraite. Je l'ai fait.",
+     1.6
+    ],
+    [
+     "Elle était tombée trois fois en un mois. La dernière, elle était restée par terre toute la nuit.",
+     1.2
+    ],
+    [
+     "Je travaillais, ton père aussi. Il n'y avait personne pour veiller sur elle.",
+     1.2
+    ],
+    [
+     "Le jour où je l'ai conduite là-bas, elle n'a pas dit un mot de tout le trajet.",
+     1.4
+    ],
+    [
+     "J'ai pleuré dans la voiture pendant une heure. La pire fille du monde.",
+     1.4
+    ],
+    [
+     "Alors j'y suis allée tous les jours. À midi, pendant ma pause.",
+     1.2
+    ],
+    [
+     "Pendant quatre ans, je n'ai pas manqué un seul jour.",
+     1.4
+    ],
+    [
+     "La veille de sa mort, elle m'a pris la main. Elle a dit : tu as tenu ta promesse.",
+     1.6
+    ],
+    [
+     "J'ai répondu : non, maman. C'est moi qui t'ai mise ici.",
+     1.4
+    ],
+    [
+     "Elle a souri : tu m'avais promis de ne jamais m'abandonner. Tu es venue tous les jours.",
+     1.8
+    ],
+    [
+     "Une promesse, ce n'est pas une adresse. C'est une *présence*.",
+     1.6
+    ],
+    [
+     "Un jour, tu devras peut-être faire la même chose pour moi.",
+     1.4
+    ],
+    [
+     "Ne pleure pas trop longtemps dans la voiture. Et viens à *midi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j131_fou",
+   "perso": "fou",
+   "episode": 131,
+   "fin": "Envoie-la à quelqu'un qui se sent sali par son passé.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Il pousse dans la boue. Il reste propre.",
+   "legende": "Tu as poussé dans la boue. Tu n'es pas obligé d'en être couvert. Et toi, quelle boue as-tu laissée rouler ? #motivation #pourtoi #nature #lotus #honte #resilience",
+   "phrases": [
+    [
+     "Le lotus pousse dans la *boue*. Et pourtant, ses feuilles restent toujours propres.",
+     1.4
+    ],
+    [
+     "Ses racines plongent dans la vase des étangs. Ses feuilles s'élèvent au-dessus de l'eau.",
+     1.2
+    ],
+    [
+     "En Asie, on en a fait le symbole de la pureté.",
+     1.2
+    ],
+    [
+     "Mais pourquoi la boue ne colle-t-elle pas ? Des scientifiques ont regardé ses feuilles au microscope.",
+     1.4
+    ],
+    [
+     "Ils ont découvert une surface couverte de minuscules bosses, enrobées de cire.",
+     1.4
+    ],
+    [
+     "L'eau ne peut pas s'y accrocher. Elle forme des perles qui roulent.",
+     1.4
+    ],
+    [
+     "Et en roulant, ces gouttes emportent la poussière et la saleté avec elles.",
+     1.6
+    ],
+    [
+     "On a appelé ça l'effet *lotus*. Des ingénieurs l'imitent pour fabriquer des peintures qui restent propres sous la pluie.",
+     1.6
+    ],
+    [
+     "Toi, tu as peut-être grandi dans la boue. Un échec, une rumeur, une humiliation.",
+     1.2
+    ],
+    [
+     "Et tu crois que ça te colle à la peau. Que tout le monde le voit.",
+     1.4
+    ],
+    [
+     "Mais la boue n'est pas toi. Elle est juste autour.",
+     1.6
+    ],
+    [
+     "Laisse la pluie faire son travail. Laisse rouler ce qui ne t'appartient pas.",
+     1.4
+    ],
+    [
+     "Tu as poussé dans la boue. Tu n'es pas obligé d'en être *couvert*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

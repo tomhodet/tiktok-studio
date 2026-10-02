@@ -1,0 +1,372 @@
+{
+ "nom": "j096",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j096_grandmere",
+   "perso": "grandmere",
+   "episode": 97,
+   "fin": "Envoie-la à quelqu'un qui parle toujours trop fort.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai crié dans le téléphone pendant un an.",
+   "legende": "Les choses importantes ne se disent pas en criant. Baisse la voix, c'est souvent là qu'on commence à t'entendre. Et toi, à qui tu devrais parler plus doucement ? #grandmere #humour #famille #ecoute #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Quand on a eu le téléphone, en mille neuf cent soixante-quatorze, j'ai *crié* dedans pendant un an.",
+     1.3
+    ],
+    [
+     "Ma sœur habitait à six cents kilomètres. Pour moi, c'était logique : loin, donc fort.",
+     1.2
+    ],
+    [
+     "Tous les dimanches, je l'appelais. Debout dans l'entrée, la fenêtre ouverte.",
+     1.2
+    ],
+    [
+     "Je hurlais les nouvelles. Les fiançailles, les disputes, les recettes, les secrets de famille.",
+     1.2
+    ],
+    [
+     "Toute la rue savait tout. Avant même que ma sœur ait raccroché.",
+     1.4
+    ],
+    [
+     "Le boulanger me félicitait pour des naissances que je venais d'annoncer.",
+     1.4
+    ],
+    [
+     "Ton grand-père répétait : elle t'entend très bien, ta sœur. Pas besoin de crier.",
+     1.4
+    ],
+    [
+     "Je ne le croyais pas. Jusqu'au jour où j'ai attrapé une extinction de voix.",
+     1.4
+    ],
+    [
+     "J'ai appelé ma sœur en chuchotant. Pour la première fois.",
+     1.6
+    ],
+    [
+     "Et ce jour-là, elle m'a raconté des choses qu'elle ne m'avait jamais *dites*.",
+     1.8
+    ],
+    [
+     "Pendant un an, elle n'avait pas osé. Toute ma rue écoutait.",
+     1.6
+    ],
+    [
+     "Les choses importantes ne se disent pas en criant.",
+     1.4
+    ],
+    [
+     "Plus tu parles fort, plus les autres se taisent.",
+     1.2
+    ],
+    [
+     "Baisse la voix. C'est souvent là qu'on commence à t'*entendre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j096_grandpere",
+   "perso": "grandpere",
+   "episode": 98,
+   "fin": "Envoie-la à quelqu'un qui rame avec toi depuis longtemps.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Notre voyage de noces, en barque.",
+   "legende": "Tout seul, même le plus fort tourne en rond. Et toi, avec qui tu rames ? #grandpere #couple #amour #mariage #humour #pourtoi",
+   "phrases": [
+    [
+     "Notre voyage de noces, on l'a fait en barque. À trois kilomètres de la *maison*.",
+     1.3
+    ],
+    [
+     "On s'est mariés en mille neuf cent soixante-huit. On n'avait pas un sou.",
+     1.2
+    ],
+    [
+     "J'avais promis l'Italie à ta grand-mère. On a eu la rivière.",
+     1.2
+    ],
+    [
+     "Alors j'ai loué une barque pour l'après-midi. Pour faire le malin.",
+     1.2
+    ],
+    [
+     "Je n'avais jamais ramé de ma vie. Ta grand-mère non plus.",
+     1.2
+    ],
+    [
+     "Je ramais fort, très fort. On tournait en rond.",
+     1.4
+    ],
+    [
+     "Mon bras droit tirait plus que le gauche. Deux heures à tourner autour du même saule.",
+     1.4
+    ],
+    [
+     "Les pêcheurs riaient sur la berge. Ta grand-mère, elle, regardait mes mains.",
+     1.6
+    ],
+    [
+     "Puis, sans rien dire, elle a pris une rame. Elle a ramé de son côté, moi du mien.",
+     1.6
+    ],
+    [
+     "Et la barque est enfin partie *droit*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai mieux compris le mariage qu'à la mairie.",
+     1.4
+    ],
+    [
+     "Tout seul, même le plus fort tourne en rond.",
+     1.4
+    ],
+    [
+     "Depuis cinquante-huit ans, on rame à deux. Pas toujours au même rythme.",
+     1.2
+    ],
+    [
+     "Mais toujours dans la même *barque*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j096_pere",
+   "perso": "pere",
+   "episode": 97,
+   "fin": "Envoie-la à quelqu'un qui vient d'emménager.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il restait quarante vis.",
+   "legende": "Il restera toujours des vis. Et ça tiendra quand même. Et toi, qu'est-ce que tu as peur de voir s'écrouler ? #papa #pere #humour #perfectionnisme #confiance #pourtoi",
+   "phrases": [
+    [
+     "Notre première cuisine, je l'ai montée tout seul. À la fin, il restait quarante *vis*.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent quatre-vingt-seize. Ta mère était enceinte de toi.",
+     1.2
+    ],
+    [
+     "Douze cartons, un plan incompréhensible, et une seule petite clé.",
+     1.2
+    ],
+    [
+     "J'ai tout monté en deux jours. Fier comme un roi.",
+     1.2
+    ],
+    [
+     "Puis j'ai vu le petit sachet. Quarante vis. Je ne savais pas d'où elles venaient.",
+     1.4
+    ],
+    [
+     "Pendant des semaines, à chaque placard ouvert, je retenais mon souffle.",
+     1.4
+    ],
+    [
+     "Rien n'est tombé. Ni la première année, ni les suivantes.",
+     1.4
+    ],
+    [
+     "Cette cuisine a tenu vingt-cinq ans. Elle a survécu à toute ton enfance.",
+     1.4
+    ],
+    [
+     "Le jour où tu as emménagé dans ton premier appartement, ta mère t'a offert un petit *bocal*.",
+     1.6
+    ],
+    [
+     "Dedans, il y avait les quarante vis. Elle les avait gardées tout ce temps.",
+     1.8
+    ],
+    [
+     "Sur l'étiquette, elle avait écrit : ça tiendra quand même.",
+     1.6
+    ],
+    [
+     "Ta première maison, ton premier travail, ton premier amour : il restera toujours des vis.",
+     1.4
+    ],
+    [
+     "Tu ne sauras pas d'où elles viennent. Tu auras peur que tout s'écroule.",
+     1.2
+    ],
+    [
+     "Ça *tiendra* quand même.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j096_mere",
+   "perso": "mere",
+   "episode": 97,
+   "fin": "Envoie-la à quelqu'un qui sort toujours les photos d'enfance.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "J'ai montré tes fesses à ta directrice.",
+   "legende": "Les gens qui t'aiment te feront honte. C'est leur façon maladroite de dire qu'ils sont fiers de toi. Et toi, qui sort encore l'album devant tout le monde ? #maman #mere #humour #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour où j'ai rencontré ta directrice, je lui ai montré tes *fesses*.",
+     1.3
+    ],
+    [
+     "Tu avais deux ans, dans la baignoire, avec de la mousse sur la tête.",
+     1.2
+    ],
+    [
+     "C'était à ta fête de trente ans. Tu voulais faire bonne impression.",
+     1.2
+    ],
+    [
+     "Moi, j'avais apporté l'album. Je l'apporte toujours.",
+     1.0
+    ],
+    [
+     "Je lui ai tout raconté. Ton doudou, ta peur des pigeons, ta coupe au bol.",
+     1.4
+    ],
+    [
+     "Tu es devenu blanc, puis rouge. Tu m'as pris l'album des mains.",
+     1.4
+    ],
+    [
+     "Tu es parti sans me dire au revoir.",
+     1.4
+    ],
+    [
+     "Le lundi, ta directrice t'a fait venir dans son bureau. Tu as cru que c'était fini.",
+     1.6
+    ],
+    [
+     "Elle t'a dit : ma mère faisait exactement pareil. Elle est partie l'an dernier.",
+     1.6
+    ],
+    [
+     "Elle a ajouté : je donnerais tout pour qu'elle me fasse honte *encore* une fois.",
+     1.8
+    ],
+    [
+     "Le soir même, tu m'as appelée. Tu m'as juste dit : continue, maman.",
+     1.6
+    ],
+    [
+     "Les gens qui t'aiment te feront honte. Avec des albums, des surnoms, des histoires.",
+     1.4
+    ],
+    [
+     "C'est leur façon maladroite de dire qu'ils sont fiers de toi.",
+     1.4
+    ],
+    [
+     "Profite de ceux qui te font rougir.",
+     1.0
+    ],
+    [
+     "Ils ne seront pas toujours là pour sortir l'*album*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j096_fou",
+   "perso": "fou",
+   "episode": 96,
+   "fin": "Envoie-la à quelqu'un qui doit encore peindre le deuxième œil.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Elle te regarde d'un seul œil.",
+   "legende": "Tombe sept fois, relève-toi huit. Et un jour, peins le deuxième œil. Et toi, quel rêve te regarde encore d'un seul œil ? #motivation #japon #conte #discipline #perseverance #pourtoi",
+   "phrases": [
+    [
+     "Au Japon, on vend une poupée sans bras ni jambes. Et ses yeux sont *vides*.",
+     1.3
+    ],
+    [
+     "Elle est ronde, rouge, avec un visage sévère. On l'appelle Daruma.",
+     1.2
+    ],
+    [
+     "La légende dit qu'elle représente un moine qui a médité neuf ans face à un mur.",
+     1.2
+    ],
+    [
+     "Si longtemps que ses bras et ses jambes ont disparu.",
+     1.4
+    ],
+    [
+     "Son fond est lesté. Quand on la pousse, elle se relève.",
+     1.4
+    ],
+    [
+     "Toujours. Tu peux la renverser cent fois, elle revient debout.",
+     1.4
+    ],
+    [
+     "Et ses yeux vides, c'est toi qui dois les peindre.",
+     1.4
+    ],
+    [
+     "Quand tu te fixes un but, tu peins le premier œil.",
+     1.2
+    ],
+    [
+     "Le second, tu ne le peins que le jour où tu as réussi.",
+     1.6
+    ],
+    [
+     "En attendant, elle te regarde d'un seul œil. Tous les jours.",
+     1.8
+    ],
+    [
+     "Il y a des poupées qui attendent leur deuxième œil depuis des années.",
+     1.4
+    ],
+    [
+     "Au Japon, on dit : tombe sept fois, relève-toi *huit*.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as un rêve qui te regarde d'un seul œil.",
+     1.4
+    ],
+    [
+     "Tu vas tomber. On va te pousser. C'est prévu.",
+     1.2
+    ],
+    [
+     "Relève-toi. Et un jour, peins le deuxième *œil*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

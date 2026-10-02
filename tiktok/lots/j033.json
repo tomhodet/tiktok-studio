@@ -1,0 +1,372 @@
+{
+ "nom": "j033",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j033_grandmere",
+   "perso": "grandmere",
+   "episode": 34,
+   "fin": "Envoie-la à quelqu'un qui a peur d'être remplacé.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Un bouton m'a remplacée.",
+   "legende": "Une machine peut te prendre ta place. Elle ne peut pas te prendre tes jambes. Et toi, tu as peur qu'une machine te remplace ? #grandmere #travail #reconversion #courage #motivation #pourtoi",
+   "phrases": [
+    [
+     "J'ai été liftière dans un grand magasin. Un lundi, un *bouton* m'a remplacée.",
+     1.3
+    ],
+    [
+     "J'avais dix-sept ans. Je passais mes journées dans l'ascenseur, en gants blancs.",
+     1.2
+    ],
+    [
+     "Premier étage, les chapeaux. Deuxième, la vaisselle. Troisième, les jouets.",
+     1.2
+    ],
+    [
+     "Je montais, je descendais. Huit heures par jour, sans jamais aller nulle part.",
+     1.4
+    ],
+    [
+     "Deux ans plus tard, la direction a installé des boutons. Les clients appuyaient tout seuls.",
+     1.4
+    ],
+    [
+     "On m'a donné une enveloppe et une poignée de main.",
+     1.6
+    ],
+    [
+     "J'ai pleuré dans l'ascenseur une dernière fois. Puis j'ai fait une chose que je n'avais jamais faite.",
+     1.6
+    ],
+    [
+     "J'ai pris l'*escalier*. Jusqu'au dernier étage.",
+     1.8
+    ],
+    [
+     "Là-haut, j'ai frappé à la porte de la comptabilité. J'ai dit : j'apprends vite.",
+     1.4
+    ],
+    [
+     "On m'a mise au classement. Le soir, j'apprenais les chiffres dans des livres empruntés.",
+     1.4
+    ],
+    [
+     "Vingt ans plus tard, c'est moi qui tenais les comptes de tout le magasin.",
+     1.6
+    ],
+    [
+     "Toi, on te parle de machines qui vont faire le travail des gens. Je connais ça.",
+     1.4
+    ],
+    [
+     "Une machine peut te prendre ta place. Elle ne peut pas te prendre tes jambes.",
+     1.2
+    ],
+    [
+     "Quand on te remplace par un bouton, prends l'*escalier*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j033_grandpere",
+   "perso": "grandpere",
+   "episode": 35,
+   "fin": "Envoie-la à quelqu'un qui a des mains qui grattent.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Je ne t'ai jamais pris dans mes bras.",
+   "legende": "Les bébés ne cherchent pas des mains douces. Ils cherchent des mains qui tiennent. Et toi, quelles mains t'ont tenu quand tu étais petit ? #grandpere #tendresse #mains #travail #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant ta première année, je ne t'ai jamais pris dans mes *bras*. Pas une fois.",
+     1.3
+    ],
+    [
+     "Tout le monde croyait que je n'aimais pas les bébés.",
+     1.2
+    ],
+    [
+     "J'ai été bûcheron pendant quarante ans. Mes mains, c'était de l'écorce.",
+     1.4
+    ],
+    [
+     "Des crevasses, des échardes, de la corne partout.",
+     1.2
+    ],
+    [
+     "J'avais peur de te griffer. Ta peau était si fine qu'on voyait tes veines.",
+     1.4
+    ],
+    [
+     "Ta grand-mère disait : prends-le. Je répondais : plus tard, quand il sera solide.",
+     1.4
+    ],
+    [
+     "Un soir, tu pleurais depuis des heures. Personne n'arrivait à te calmer.",
+     1.4
+    ],
+    [
+     "Ta grand-mère t'a posé dans mes mains. Sans me demander mon avis.",
+     1.6
+    ],
+    [
+     "Tu as attrapé mon doigt. Le plus tordu.",
+     1.6
+    ],
+    [
+     "Et tu t'es endormi. D'un coup. Contre l'*écorce*.",
+     1.8
+    ],
+    [
+     "Pendant deux ans, c'est moi qu'on appelait pour t'endormir.",
+     1.4
+    ],
+    [
+     "Les bébés ne cherchent pas des mains douces. Ils cherchent des mains qui *tiennent*.",
+     1.4
+    ],
+    [
+     "Ce que tu crois trop dur en toi, c'est peut-être exactement ce dont quelqu'un a besoin.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, tu dis encore que mes mains grattent comme du papier de verre.",
+     1.2
+    ],
+    [
+     "Mais quand tu me dis au revoir, c'est toujours mon doigt tordu que tu serres.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j033_pere",
+   "perso": "pere",
+   "episode": 34,
+   "fin": "Envoie-la à un collègue que tu connais trop peu.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Elle a dit : il parlait de vous.",
+   "legende": "Celui qui mange seul avec son livre t'a peut-être déjà choisi comme ami. Et toi, tu connais vraiment tes collègues ? #papa #pere #travail #collegues #amitie #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant quinze ans, j'ai partagé mon bureau avec un homme dont je ne savais *rien*.",
+     1.3
+    ],
+    [
+     "Il s'appelait Gérard. On parlait du temps, des chiffres, de la machine à café en panne.",
+     1.2
+    ],
+    [
+     "À midi, il mangeait seul, avec un livre. Je le trouvais sauvage.",
+     1.2
+    ],
+    [
+     "Un lundi, sa chaise est restée vide. Le mardi aussi.",
+     1.4
+    ],
+    [
+     "Le jeudi, on a appris qu'il était mort. Une crise cardiaque, dans son jardin.",
+     1.6
+    ],
+    [
+     "À l'enterrement, je suis resté au fond, sans savoir quoi dire.",
+     1.4
+    ],
+    [
+     "C'est sa femme qui est venue vers moi. Elle m'a appelé par mon prénom.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : il parlait de vous tous les soirs.",
+     1.6
+    ],
+    [
+     "Elle connaissait le prénom de ta mère. Le tien. Ta passion pour les dinosaures.",
+     1.4
+    ],
+    [
+     "Tout ce que je racontais à la machine à café, il le rapportait chez lui.",
+     1.6
+    ],
+    [
+     "Elle a dit : vous étiez son *seul* ami.",
+     1.8
+    ],
+    [
+     "Moi, je ne connaissais même pas son prénom à elle.",
+     1.6
+    ],
+    [
+     "Au travail, on passe plus de temps avec ses collègues qu'avec sa famille.",
+     1.2
+    ],
+    [
+     "Demande-leur comment ils vont. Vraiment. Et écoute la réponse.",
+     1.4
+    ],
+    [
+     "Celui qui mange seul avec son livre t'a peut-être déjà choisi comme *ami*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j033_mere",
+   "perso": "mere",
+   "episode": 34,
+   "fin": "Envoie-la à quelqu'un qui a commencé comme serveur.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Je suis venue t'espionner au travail.",
+   "legende": "Une mère n'espionne pas pour surveiller. Elle vient vérifier que tu vas t'en sortir. Et toi, c'était quoi ton premier travail ? #maman #mere #premieremploi #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Pour ton premier travail, tu étais serveur en terrasse. Je suis venue t'*espionner*.",
+     1.3
+    ],
+    [
+     "Tu m'avais interdit de venir. Tu avais dit : maman, si tu viens, je démissionne.",
+     1.2
+    ],
+    [
+     "Alors j'ai mis des lunettes de soleil, un foulard, et le chapeau de ta tante.",
+     1.4
+    ],
+    [
+     "Je me suis assise dans un coin, avec un journal. Je ne lisais pas une ligne.",
+     1.4
+    ],
+    [
+     "Tu portais trois assiettes sur un bras. Toi qui ne débarrassais jamais rien.",
+     1.4
+    ],
+    [
+     "Tu as ramassé le doudou d'un bébé sans qu'on te le demande.",
+     1.4
+    ],
+    [
+     "Un monsieur a crié parce que son café était froid. Tu es resté calme.",
+     1.4
+    ],
+    [
+     "Je ne t'avais jamais vu comme ça. Comme un adulte.",
+     1.6
+    ],
+    [
+     "Au bout de deux secondes, tu m'avais reconnue.",
+     1.4
+    ],
+    [
+     "Tu n'as rien dit. Tu m'as apporté un café que je n'avais pas commandé.",
+     1.6
+    ],
+    [
+     "Avec l'*addition*.",
+     1.8
+    ],
+    [
+     "Je l'ai payée. Je t'ai même laissé un pourboire. Tu l'as gardé.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai compris que je pouvais arrêter de m'inquiéter. Un peu.",
+     1.4
+    ],
+    [
+     "Une mère n'espionne pas pour surveiller. Elle vient vérifier que tu vas t'en sortir.",
+     1.2
+    ],
+    [
+     "Ton café était froid, d'ailleurs. Je ne me suis pas *plainte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j033_fou",
+   "perso": "fou",
+   "episode": 33,
+   "fin": "Envoie-la à quelqu'un qui tient ses promesses.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Il a vu son père pleurer.",
+   "legende": "Tu ne pourras pas effacer ses larmes. Mais tu pourras en faire une promesse. Quelle promesse tu as faite à quelqu'un que tu aimes ? #motivation #football #pele #promesse #emotion #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent cinquante, au Brésil, un garçon de neuf ans voit son père *pleurer*.",
+     1.3
+    ],
+    [
+     "Le Brésil organise la Coupe du monde. Au dernier match, il perd contre l'Uruguay.",
+     1.2
+    ],
+    [
+     "Chez lui, devant la radio, son père pleure.",
+     1.4
+    ],
+    [
+     "Son père a été joueur, lui aussi. Une blessure au genou a brisé sa carrière.",
+     1.4
+    ],
+    [
+     "Le garçon lui fait une promesse. Un jour, il gagnera la Coupe du monde. Pour lui.",
+     1.6
+    ],
+    [
+     "Sa famille est pauvre. Il joue avec une chaussette remplie de papier journal.",
+     1.4
+    ],
+    [
+     "Huit ans plus tard, en Suède, il a dix-sept ans. Il joue la finale.",
+     1.4
+    ],
+    [
+     "Il marque deux buts. Le Brésil est champion du monde pour la première fois.",
+     1.6
+    ],
+    [
+     "À la fin du match, il pleure. Cette fois, ce sont des larmes de *joie*.",
+     1.8
+    ],
+    [
+     "Il s'appelait Edson. Le monde entier l'appelle Pelé.",
+     1.6
+    ],
+    [
+     "Il gagnera trois Coupes du monde. Personne d'autre n'y est jamais arrivé.",
+     1.4
+    ],
+    [
+     "Un jour, tu verras pleurer quelqu'un que tu aimes. Tu ne pourras pas effacer ses larmes.",
+     1.2
+    ],
+    [
+     "Mais tu pourras en faire une *promesse*. Et la tenir, même si ça prend huit ans.",
+     0
+    ]
+   ]
+  }
+ ]
+}

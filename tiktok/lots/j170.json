@@ -1,0 +1,376 @@
+{
+ "nom": "j170",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j170_grandmere",
+   "perso": "grandmere",
+   "episode": 171,
+   "fin": "Envoie-la à quelqu'un qui commence demain matin.",
+   "lueurs": [
+    1,
+    13,
+    14
+   ],
+   "accroche": "Tu es resté bloqué aux genoux.",
+   "legende": "Il n'y a pas de nature. Il y a vingt-deux mille matins. Quel petit geste tu fais chaque matin, toi ? #grandmere #habitudes #discipline #humour #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Tous les matins, depuis soixante ans, je me penche et je touche mes *pieds*. Dix fois.",
+     1.3
+    ],
+    [
+     "J'ai commencé à vingt ans, le jour où ma mère n'a plus su lacer ses chaussures.",
+     1.2
+    ],
+    [
+     "Elle avait quarante-cinq ans. Elle pleurait sur une marche, ses lacets défaits.",
+     1.4
+    ],
+    [
+     "Le lendemain, avant le café, je me suis penchée. Et je n'ai jamais arrêté.",
+     1.2
+    ],
+    [
+     "Je l'ai fait le matin de mon mariage, en robe blanche.",
+     1.2
+    ],
+    [
+     "Je l'ai fait enceinte de ton père. Là, je ne touchais plus grand-chose.",
+     1.4
+    ],
+    [
+     "Ton grand-père appelait ça ma prière à l'envers.",
+     1.2
+    ],
+    [
+     "Lui n'a jamais fait d'effort. À soixante ans, c'est moi qui laçais ses chaussures.",
+     1.4
+    ],
+    [
+     "À Noël dernier, toute la famille a fait un concours dans le salon.",
+     1.2
+    ],
+    [
+     "J'ai posé mes deux mains à plat sur le tapis. À quatre-vingts ans.",
+     1.6
+    ],
+    [
+     "Toi, tu es resté bloqué aux genoux. Tu as vingt-cinq ans.",
+     1.6
+    ],
+    [
+     "Tu as dit : mamie, tu es souple de nature.",
+     1.4
+    ],
+    [
+     "Il n'y a pas de nature. Il y a près de vingt-deux mille *matins*.",
+     1.8
+    ],
+    [
+     "Un geste par jour, ça ne se voit pas. Jusqu'au jour où tu peux encore lacer tes *chaussures*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j170_grandpere",
+   "perso": "grandpere",
+   "episode": 172,
+   "fin": "Envoie-la à quelqu'un qui trouve que tu prends trop ton temps.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Il affûtait pendant que les autres fauchaient.",
+   "legende": "Le temps passé à affûter n'est jamais perdu. C'est lui qui fauche. Et toi, tu affûtes ou tu fonces ? #grandpere #patience #transmission #travail #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Mon père passait plus de temps à *affûter* sa faux qu'à faucher.",
+     1.3
+    ],
+    [
+     "L'été des foins, les voisins partaient au champ à l'aube. Lui restait assis contre la haie.",
+     1.2
+    ],
+    [
+     "Il tapait le fil de sa lame avec un petit marteau. Tic, tic, tic. Pendant une heure.",
+     1.2
+    ],
+    [
+     "Puis il passait la pierre, lentement, d'un bout à l'autre. Il crachait dessus.",
+     1.4
+    ],
+    [
+     "J'avais douze ans. J'avais honte. Les voisins nous croyaient paresseux.",
+     1.4
+    ],
+    [
+     "À midi, il avait fauché plus que tous les autres réunis. Sans transpirer.",
+     1.6
+    ],
+    [
+     "Moi, je n'ai rien retenu. J'ai voulu aller vite toute ma vie.",
+     1.2
+    ],
+    [
+     "À l'usine, je bâclais mes réglages pour sortir plus de pièces que les autres.",
+     1.2
+    ],
+    [
+     "Le chef me félicitait. Puis ma machine cassait, et je perdais la journée.",
+     1.4
+    ],
+    [
+     "Un jour, à quarante ans, j'ai vu un apprenti faire exactement comme moi.",
+     1.2
+    ],
+    [
+     "Je me suis entendu lui dire : assieds-toi. Affûte d'abord.",
+     1.6
+    ],
+    [
+     "C'était la voix de mon *père*. Mot pour mot.",
+     1.8
+    ],
+    [
+     "Ce qu'on prend pour de la lenteur, c'est souvent de la préparation.",
+     1.4
+    ],
+    [
+     "Le temps passé à affûter n'est jamais perdu. C'est lui qui *fauche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j170_pere",
+   "perso": "pere",
+   "episode": 171,
+   "fin": "Envoie-la à quelqu'un qui a peur d'avoir l'air ridicule.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Pendant dix étés, j'ai gardé les serviettes.",
+   "legende": "Le ridicule ne dure qu'un mardi. Le regret dure dix étés. Qu'est-ce que tu n'oses pas apprendre parce que tu te trouves trop vieux ? #papa #pere #humour #jamaistroptard #apprendre #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix étés, à la plage, j'ai gardé les *serviettes*.",
+     1.3
+    ],
+    [
+     "Ta mère se baignait avec toi. Moi, je disais que l'eau était trop froide.",
+     1.2
+    ],
+    [
+     "Même au mois d'août. Même quand elle était chaude comme une soupe.",
+     1.2
+    ],
+    [
+     "La vérité, c'est que je ne savais pas nager. Je n'ai jamais osé le dire.",
+     1.4
+    ],
+    [
+     "Un été, tu avais huit ans, ton ballon est parti vers le large.",
+     1.2
+    ],
+    [
+     "Tu m'as appelé. Je suis resté planté là, de l'eau jusqu'aux genoux.",
+     1.4
+    ],
+    [
+     "C'est un inconnu qui est allé le chercher. Tu l'as regardé comme un héros.",
+     1.6
+    ],
+    [
+     "En septembre, je me suis inscrit à la piscine municipale. Cours pour débutants.",
+     1.2
+    ],
+    [
+     "J'avais quarante-cinq ans. Les autres élèves en avaient *six*.",
+     1.6
+    ],
+    [
+     "Pendant un an, j'y suis allé tous les mardis midi.",
+     1.2
+    ],
+    [
+     "Le maître-nageur m'appelait le grand. Les petits me prêtaient leurs planches.",
+     1.4
+    ],
+    [
+     "L'été suivant, je suis entré dans l'eau avec toi. Tu n'as rien remarqué.",
+     1.4
+    ],
+    [
+     "Tu as juste dit : tiens, papa se baigne, cette année.",
+     1.6
+    ],
+    [
+     "J'ai perdu dix étés parce que j'avais peur d'avoir l'air ridicule.",
+     1.4
+    ],
+    [
+     "Le ridicule ne dure qu'un mardi. Le *regret*, lui, dure dix étés.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j170_mere",
+   "perso": "mere",
+   "episode": 171,
+   "fin": "Envoie-la à quelqu'un qui t'a appris quelque chose avec patience.",
+   "lueurs": [
+    1,
+    14,
+    15
+   ],
+   "accroche": "On attendait un lapin.",
+   "legende": "La patience, ça ne s'apprend pas. Ça se transmet, un matin après l'autre. Qui t'a appris à faire tes lacets, toi ? #maman #mere #patience #transmission #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Pour t'apprendre à faire tes *lacets*, j'ai mis trois mois. On a été en retard tous les matins.",
+     1.3
+    ],
+    [
+     "Tu avais cinq ans. Tu voulais des chaussures sans lacets.",
+     1.2
+    ],
+    [
+     "J'ai dit non. Je ne sais toujours pas pourquoi.",
+     1.2
+    ],
+    [
+     "Chaque matin, je m'asseyais par terre dans l'entrée, à côté de toi, et j'attendais.",
+     1.2
+    ],
+    [
+     "Je chantais une comptine. Le lapin fait le tour de l'arbre et rentre dans son terrier.",
+     1.4
+    ],
+    [
+     "Tu pleurais. Tu tirais trop fort. Le lapin s'échappait.",
+     1.4
+    ],
+    [
+     "La maîtresse m'a convoquée. Douze retards en un mois.",
+     1.2
+    ],
+    [
+     "Je n'ai rien dit. Comment lui expliquer qu'on attendait un lapin ?",
+     1.4
+    ],
+    [
+     "Un matin de décembre, tu as fait deux boucles parfaites. Tout seul.",
+     1.2
+    ],
+    [
+     "Tu as couru jusqu'à l'école sans même m'attendre.",
+     1.4
+    ],
+    [
+     "Le mois dernier, je suis passée chez toi. Ton fils était assis dans l'entrée.",
+     1.2
+    ],
+    [
+     "Tu étais par terre, à côté de lui. Tu chantais tout bas.",
+     1.4
+    ],
+    [
+     "Vous étiez en retard. Tu ne m'as pas vue pleurer dans le couloir.",
+     1.6
+    ],
+    [
+     "Tu lui as dit : ce n'est pas grave, on attend le *lapin*.",
+     1.8
+    ],
+    [
+     "La patience, ça ne s'apprend pas. Ça se *transmet*, un matin après l'autre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j170_fou",
+   "perso": "fou",
+   "episode": 170,
+   "fin": "Envoie-la à quelqu'un qui a du mal à se lever.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "L'empereur n'arrivait pas à se lever.",
+   "legende": "La discipline, ce n'est pas ne jamais avoir envie de rester au lit. C'est se lever quand même. Combien de minutes tu as négociées avec ton réveil, ce matin ? #motivation #stoicisme #marcaurele #discipline #philosophie #pourtoi",
+   "phrases": [
+    [
+     "L'homme le plus puissant du monde avait du mal à sortir de son *lit*.",
+     1.3
+    ],
+    [
+     "Il était empereur de Rome. Il commandait des millions de vies.",
+     1.2
+    ],
+    [
+     "Et le matin, comme toi, il traînait sous les couvertures.",
+     1.4
+    ],
+    [
+     "On le sait, parce qu'il l'a avoué lui-même. Dans des notes écrites pour lui seul.",
+     1.2
+    ],
+    [
+     "Pendant ses guerres, au bord du Danube, il remplissait ces pages. En grec.",
+     1.2
+    ],
+    [
+     "Pas des ordres. Des reproches, et des encouragements.",
+     1.4
+    ],
+    [
+     "Un matin, il se parle comme à un enfant.",
+     1.2
+    ],
+    [
+     "Il se demande : suis-je né pour rester au chaud sous mes couvertures ?",
+     1.6
+    ],
+    [
+     "Puis il se répond : je me lève pour faire mon *travail* d'homme.",
+     1.8
+    ],
+    [
+     "Dans ces pages, l'empereur ne donne d'ordres qu'à un seul homme. Lui-même.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Marc Aurèle. Ses notes ont traversé près de deux mille ans.",
+     1.4
+    ],
+    [
+     "On les lit encore. On les appelle Pensées pour moi-même.",
+     1.4
+    ],
+    [
+     "Toi aussi, demain matin, une petite voix te dira : encore cinq minutes.",
+     1.2
+    ],
+    [
+     "Ce n'est pas une faiblesse. Même un empereur l'entendait.",
+     1.6
+    ],
+    [
+     "La discipline, ce n'est pas ne jamais avoir envie de rester au lit. C'est se *lever* quand même.",
+     0
+    ]
+   ]
+  }
+ ]
+}

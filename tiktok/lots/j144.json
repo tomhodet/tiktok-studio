@@ -1,0 +1,364 @@
+{
+ "nom": "j144",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j144_grandmere",
+   "perso": "grandmere",
+   "episode": 145,
+   "fin": "Envoie-la à quelqu'un qui t'a appris à conduire.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Chaque dimanche, le réservoir était plein.",
+   "legende": "Il ne savait pas comment dire oui. Alors il l'a dit avec de l'essence. Qui t'a aidé sans jamais rien dire, toi ? #grandmere #humour #liberte #gentillesse #voisins #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-sept, ma voisine m'a appris à *conduire*. En cachette de son mari.",
+     1.3
+    ],
+    [
+     "À l'époque, une femme au volant, ça faisait rire tout le quartier.",
+     1.2
+    ],
+    [
+     "Ton grand-père ne voulait pas en entendre parler. Son mari non plus.",
+     1.2
+    ],
+    [
+     "Alors le dimanche, pendant la messe, on partait dans un champ avec sa vieille voiture.",
+     1.4
+    ],
+    [
+     "Je calais. Je pleurais. Elle riait. On recommençait.",
+     1.4
+    ],
+    [
+     "Elle me disait : un jour, tu auras besoin d'aller quelque part toute seule.",
+     1.4
+    ],
+    [
+     "Une chose m'intriguait. Chaque dimanche matin, le réservoir était plein.",
+     1.6
+    ],
+    [
+     "Six mois plus tard, j'ai eu mon permis. Du premier coup.",
+     1.2
+    ],
+    [
+     "Le soir même, son mari a frappé chez nous. Avec une bouteille.",
+     1.4
+    ],
+    [
+     "Il a dit à ton grand-père : nos femmes conduisent, il faut fêter ça.",
+     1.6
+    ],
+    [
+     "C'était lui. Depuis le début. Il faisait le plein tous les samedis soirs, sans rien dire.",
+     1.8
+    ],
+    [
+     "Il ne savait pas comment dire oui. Alors il l'a dit avec de l'*essence*.",
+     1.6
+    ],
+    [
+     "Deux ans plus tard, ton père est né en pleine nuit. C'est moi qui ai conduit.",
+     1.4
+    ],
+    [
+     "Il y a des gens qui t'aident en parlant. Et d'autres qui remplissent le *réservoir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j144_grandpere",
+   "perso": "grandpere",
+   "episode": 146,
+   "fin": "Envoie-la à quelqu'un qui a eu un atelier comme refuge.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il cassait son vélo exprès.",
+   "legende": "Il y avait un gamin dans un coin de l'atelier. Le frein dévissé. Qui t'a ouvert son atelier quand tu en avais besoin ? #grandpere #gentillesse #transmission #enfance #atelier #pourtoi",
+   "phrases": [
+    [
+     "Pendant trois ans, un gamin a cassé son *vélo* exprès. Tous les samedis.",
+     1.3
+    ],
+    [
+     "J'avais un petit garage au bout de la rue.",
+     1.2
+    ],
+    [
+     "La chaîne sautée. Un frein desserré. Une roue voilée.",
+     1.2
+    ],
+    [
+     "Je réparais. Il regardait. Il posait mille questions.",
+     1.2
+    ],
+    [
+     "Un samedi, je l'ai vu par la fenêtre. Il dévissait son frein avec une pièce de monnaie.",
+     1.6
+    ],
+    [
+     "Je n'ai rien dit. Je connaissais son père. Un homme qui ne rentrait que pour crier.",
+     1.4
+    ],
+    [
+     "Le samedi suivant, je lui ai tendu un tournevis. J'ai dit : à toi.",
+     1.6
+    ],
+    [
+     "Pendant des années, il a passé ses samedis dans mon garage. Les mains noires.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, il a cinquante ans. Il a son propre garage, à l'autre bout de la ville.",
+     1.4
+    ],
+    [
+     "Le mois dernier, je suis passé le voir.",
+     1.2
+    ],
+    [
+     "Dans un coin de l'atelier, il y avait un gamin. Avec un vélo. Le frein *dévissé*.",
+     1.8
+    ],
+    [
+     "Il m'a fait un clin d'œil. Il a dit : il casse tous les samedis.",
+     1.6
+    ],
+    [
+     "Un enfant qui casse quelque chose exprès, ce n'est pas toujours une bêtise.",
+     1.2
+    ],
+    [
+     "Parfois, c'est la seule façon qu'il a trouvée pour qu'on le *regarde*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j144_pere",
+   "perso": "pere",
+   "episode": 145,
+   "fin": "Envoie-la à un ami qui te doit quelque chose. Ou l'inverse.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il ne l'a jamais rendu.",
+   "legende": "Il ne m'a jamais rendu l'argent. Il m'a rendu beaucoup plus. Qu'est-ce qu'un ami t'a rendu autrement, toi ? #papa #pere #amitie #gentillesse #dette #pourtoi",
+   "phrases": [
+    [
+     "Il y a vingt ans, j'ai prêté de l'argent à mon meilleur ami. Il ne l'a jamais *rendu*.",
+     1.3
+    ],
+    [
+     "Il venait de perdre son entreprise. Il avait honte de demander.",
+     1.2
+    ],
+    [
+     "Ta mère et moi, on a vidé les économies prévues pour la cuisine.",
+     1.2
+    ],
+    [
+     "On a gardé la vieille. Tu te souviens de la porte du placard qui tombait ?",
+     1.4
+    ],
+    [
+     "Les années ont passé. Il n'en a jamais reparlé. Moi non plus.",
+     1.4
+    ],
+    [
+     "Ta mère, parfois, me regardait. Je répondais : laisse.",
+     1.2
+    ],
+    [
+     "Il y a cinq ans, je me suis fait opérer du dos. Trois mois sans pouvoir bouger.",
+     1.4
+    ],
+    [
+     "Le premier matin, il était devant la porte. À sept heures. Avec ses outils.",
+     1.6
+    ],
+    [
+     "Il a refait le toit du garage. Il a tondu, porté, conduit.",
+     1.4
+    ],
+    [
+     "Le dernier jour, il a sorti une feuille de sa poche.",
+     1.4
+    ],
+    [
+     "Il avait tout noté. Il a dit : on est quittes ? J'ai *déchiré* la feuille.",
+     1.8
+    ],
+    [
+     "Il ne m'a jamais rendu l'argent. Il m'a rendu beaucoup plus.",
+     1.4
+    ],
+    [
+     "Quand tu prêtes à un ami, oublie la date. Pas l'ami.",
+     1.2
+    ],
+    [
+     "Les vraies dettes ne se remboursent jamais dans la même *monnaie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j144_mere",
+   "perso": "mere",
+   "episode": 145,
+   "fin": "Envoie-la à quelqu'un qui a eu une voisine en or.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Tu avais une voisine parfaite.",
+   "legende": "Je lui avais demandé de veiller sur toi. Elle a fait beaucoup mieux. Elle t'a adopté. Tu as eu une voisine comme ça, toi ? #maman #mere #voisins #etudiant #gentillesse #pourtoi",
+   "phrases": [
+    [
+     "Ta première année d'études, tu avais une voisine *parfaite*. Tu ne t'es jamais demandé pourquoi.",
+     1.3
+    ],
+    [
+     "Tu partais à six cents kilomètres. Dix-huit ans. Tu ne savais pas faire cuire un œuf.",
+     1.2
+    ],
+    [
+     "Le jour du déménagement, pendant que tu montais les cartons, j'ai frappé à la porte d'en face.",
+     1.4
+    ],
+    [
+     "Une dame de soixante-dix ans m'a ouvert. Avec un chat sous le bras.",
+     1.2
+    ],
+    [
+     "Je lui ai donné mon numéro. Je lui ai dit : s'il a l'air triste, appelez-moi.",
+     1.4
+    ],
+    [
+     "Ensuite, tu m'appelais en disant : maman, j'ai une voisine géniale.",
+     1.2
+    ],
+    [
+     "Elle te montait de la soupe. Elle t'a appris le bœuf bourguignon.",
+     1.4
+    ],
+    [
+     "Tu croyais avoir de la chance. Tu avais une *mère*. Et une complice.",
+     1.6
+    ],
+    [
+     "Au début, elle m'appelait toutes les semaines. Puis de moins en moins.",
+     1.4
+    ],
+    [
+     "Un jour, elle m'a dit : je ne le surveille plus pour vous. Je l'aime pour moi.",
+     1.8
+    ],
+    [
+     "Tu es allé la voir chaque dimanche, jusqu'à son dernier hiver.",
+     1.6
+    ],
+    [
+     "À son enterrement, tu as pleuré comme un petit garçon. Moi, je n'ai rien dit.",
+     1.4
+    ],
+    [
+     "Je lui avais demandé de veiller sur toi. Elle a fait beaucoup mieux.",
+     1.2
+    ],
+    [
+     "Elle t'a *adopté*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j144_fou",
+   "perso": "fou",
+   "episode": 144,
+   "fin": "Envoie-la à quelqu'un qui regarde sa montagne en entier.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Il se donne vingt minutes.",
+   "legende": "Il choisit un rocher. Il se donne vingt minutes. Puis un autre. Et toi, c'est quoi ton prochain rocher ? #motivation #alpinisme #survie #histoirevraie #discipline #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-cinq, au Pérou, un alpiniste se *casse* la jambe en redescendant d'un sommet.",
+     1.3
+    ],
+    [
+     "Il s'appelle Joe Simpson. Là-haut, une jambe cassée, c'est une condamnation.",
+     1.2
+    ],
+    [
+     "Son ami Simon le descend quand même, au bout d'une corde, mètre par mètre.",
+     1.2
+    ],
+    [
+     "Mais dans la tempête, Joe glisse au-dessus du vide. Il reste suspendu dans le noir.",
+     1.4
+    ],
+    [
+     "Simon ne voit rien. Il est en train d'être arraché de la montagne.",
+     1.4
+    ],
+    [
+     "Alors il prend son couteau. Et il *coupe* la corde.",
+     1.8
+    ],
+    [
+     "Joe tombe dans une crevasse. Simon le croit mort. Il redescend seul.",
+     1.6
+    ],
+    [
+     "Mais Joe est vivant. Il réussit à sortir de la crevasse.",
+     1.4
+    ],
+    [
+     "Il reste des kilomètres jusqu'au camp. Sans nourriture. Avec une jambe qui ne le porte plus.",
+     1.4
+    ],
+    [
+     "Alors il regarde sa montre. Il choisit un rocher. Il se donne vingt minutes pour l'atteindre.",
+     1.6
+    ],
+    [
+     "Puis un autre rocher. Vingt minutes. Encore. Pendant des jours.",
+     1.4
+    ],
+    [
+     "Il arrive au camp une nuit, en rampant. Quelques heures avant que les autres repartent.",
+     1.8
+    ],
+    [
+     "Toi, tu regardes peut-être ta montagne en entier. Et elle t'écrase.",
+     1.2
+    ],
+    [
+     "Ne regarde pas le camp. Choisis un rocher. Et donne-toi *vingt* minutes.",
+     0
+    ]
+   ]
+  }
+ ]
+}

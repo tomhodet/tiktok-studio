@@ -1,0 +1,352 @@
+{
+ "nom": "j074",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j074_grandmere",
+   "perso": "grandmere",
+   "episode": 75,
+   "fin": "Envoie-la à quelqu'un qui te glisse encore un billet.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Je glisse un billet dans ta poche.",
+   "legende": "Ce billet, ce n'est pas pour toi. Il est pour moi. Et toi, ta grand-mère te glisse encore un billet quand tu pars ? #grandmere #tendresse #famille #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "Chaque fois que tu pars, je glisse un *billet* dans la poche de ton manteau.",
+     1.3
+    ],
+    [
+     "Plié en quatre, pendant que tu embrasses ton grand-père.",
+     1.2
+    ],
+    [
+     "À dix ans, c'était pour des bonbons. À vingt ans, pour l'essence.",
+     1.2
+    ],
+    [
+     "Aujourd'hui, tu gagnes trois fois ma retraite. Et je continue.",
+     1.4
+    ],
+    [
+     "La dernière fois, tu as senti ma main dans ta poche. Tu as ressorti le billet.",
+     1.2
+    ],
+    [
+     "Tu m'as dit gentiment : mamie, garde-le. Tu en as plus besoin que moi.",
+     1.4
+    ],
+    [
+     "Tu avais raison. Mais tu m'as fait de la peine.",
+     1.6
+    ],
+    [
+     "Après ton départ, je suis restée longtemps devant la porte.",
+     1.4
+    ],
+    [
+     "Tu crois que ce billet, c'est pour toi. Il est pour *moi*.",
+     1.8
+    ],
+    [
+     "À mon âge, on ne porte plus rien, on ne répare plus rien.",
+     1.4
+    ],
+    [
+     "Ce petit billet, c'est la dernière chose que je peux encore te donner. Avec mes mains.",
+     1.6
+    ],
+    [
+     "Alors la prochaine fois, laisse ma main dans ta poche. Fais semblant de ne rien sentir.",
+     1.4
+    ],
+    [
+     "Un jour, quelqu'un voudra te donner un peu de ce qu'il a.",
+     1.2
+    ],
+    [
+     "Prends-le. Ce n'est pas toi qui en as besoin. C'est *lui*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j074_grandpere",
+   "perso": "grandpere",
+   "episode": 76,
+   "fin": "Envoie-la à quelqu'un avec qui tu n'as pas assez de photos.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Cette photo m'a coûté une semaine de salaire.",
+   "legende": "On regrette souvent l'argent qu'on n'a pas dépensé pour ceux qu'on aime. Jamais l'inverse. Et toi, c'est quand ta dernière photo avec toute ta famille ? #grandpere #famille #souvenirs #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "La photo au-dessus du buffet m'a coûté une semaine de *salaire*.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-douze. On n'avait pas d'appareil photo.",
+     1.2
+    ],
+    [
+     "Ma mère vieillissait. Elle se fatiguait vite. Elle ne sortait plus beaucoup.",
+     1.2
+    ],
+    [
+     "Un dimanche, j'ai fait venir le photographe de la ville, avec son trépied.",
+     1.2
+    ],
+    [
+     "Ta grand-mère m'a traité d'inconscient. On a mangé de la soupe pendant une semaine.",
+     1.4
+    ],
+    [
+     "Ma mère a mis sa robe noire du dimanche. Elle a tenu ton père sur ses genoux.",
+     1.4
+    ],
+    [
+     "Il bougeait tout le temps. Il a fallu recommencer six fois.",
+     1.4
+    ],
+    [
+     "Deux mois plus tard, ma mère est partie. Dans son sommeil.",
+     1.8
+    ],
+    [
+     "C'est la seule photo de nous tous ensemble. La seule.",
+     1.6
+    ],
+    [
+     "Ta grand-mère ne m'a plus jamais parlé de cette semaine de soupe.",
+     1.4
+    ],
+    [
+     "Elle la dépoussière tous les samedis. Avec un chiffon rien que pour elle.",
+     1.4
+    ],
+    [
+     "On regrette souvent l'argent qu'on n'a pas dépensé pour ceux qu'on aime. Jamais l'*inverse*.",
+     1.6
+    ],
+    [
+     "Une semaine de salaire. C'est la seule semaine de ma vie qui dure *encore*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j074_pere",
+   "perso": "pere",
+   "episode": 75,
+   "fin": "Envoie-la à quelqu'un qui a fait beaucoup avec peu.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "J'ai doublé mon salaire devant toi.",
+   "legende": "J'ai menti sur mon salaire pour que tu sois fier de moi. Tu l'as été le jour où tu as connu le vrai. Et toi, tu sais combien gagnaient tes parents ? #papa #pere #argent #fierte #humour #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais dix ans, tu m'as demandé combien je gagnais. J'ai *doublé* le chiffre.",
+     1.3
+    ],
+    [
+     "Je ne sais pas pourquoi. Je voulais être grand dans tes yeux.",
+     1.2
+    ],
+    [
+     "Le lendemain, tu l'as répété à toute ta classe. Avec fierté.",
+     1.2
+    ],
+    [
+     "À la sortie de l'école, un père m'a regardé bizarrement. C'était mon chef d'équipe.",
+     1.4
+    ],
+    [
+     "Il m'a dit en riant : dis donc, tu gagnes plus que moi, toi.",
+     1.4
+    ],
+    [
+     "J'ai passé un mois à éviter son regard à la cantine de l'usine.",
+     1.4
+    ],
+    [
+     "L'an dernier, tu m'as aidé à remplir ma déclaration d'impôts sur l'ordinateur.",
+     1.2
+    ],
+    [
+     "Tu as vu passer la ligne. Mon vrai salaire. Celui de toute ma vie.",
+     1.4
+    ],
+    [
+     "Tu t'es tu longtemps. J'avais honte, comme ce jour-là à la sortie de l'école.",
+     1.6
+    ],
+    [
+     "Puis tu as dit : tu gagnais ça, et tu nous as payé les vacances, le permis, les études ?",
+     1.6
+    ],
+    [
+     "Tu ne me regardais pas comme un menteur. Tu me regardais comme un *magicien*.",
+     1.8
+    ],
+    [
+     "J'ai menti sur mon salaire pour que tu sois fier de moi.",
+     1.4
+    ],
+    [
+     "Tu l'as été le jour où tu as connu le *vrai*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j074_mere",
+   "perso": "mere",
+   "episode": 75,
+   "fin": "Envoie-la à quelqu'un qui garde tes cadeaux d'enfant.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Un parfum avec l'argent des vacances.",
+   "legende": "Certains cadeaux coûtent plus cher à celui qui les reçoit. Et toi, c'était quoi le premier cadeau que tu as offert à ta mère ? #maman #mere #fetedesmeres #enfance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pour la fête des mères, quand tu avais neuf ans, tu m'as offert un *parfum*.",
+     1.3
+    ],
+    [
+     "Un grand flacon doré, avec un nœud. Tu l'avais choisi toi-même.",
+     1.2
+    ],
+    [
+     "J'ai pleuré de joie. Puis j'ai ouvert la boîte en fer de la cuisine.",
+     1.2
+    ],
+    [
+     "C'était la boîte des vacances. Un an de petites économies pour louer une semaine à la mer.",
+     1.4
+    ],
+    [
+     "Il manquait quatre-vingts euros. Le prix exact du flacon.",
+     1.6
+    ],
+    [
+     "Tu avais pris l'argent des vacances pour me faire un cadeau. Sans savoir.",
+     1.4
+    ],
+    [
+     "Je ne t'ai rien dit. J'ai raconté que ton père devait travailler cet été-là.",
+     1.4
+    ],
+    [
+     "Tu as été déçu pour la mer. Et tellement fier de ton parfum.",
+     1.2
+    ],
+    [
+     "Je l'ai porté tout l'été. Tous les jours. Pour que tu le sentes en m'embrassant.",
+     1.4
+    ],
+    [
+     "Il avait l'odeur des *vacances* qu'on n'a pas eues.",
+     1.8
+    ],
+    [
+     "Le flacon est vide depuis longtemps. Il est toujours sur ma table de nuit.",
+     1.4
+    ],
+    [
+     "Certains cadeaux coûtent plus cher à celui qui les reçoit.",
+     1.4
+    ],
+    [
+     "C'est le cadeau le plus cher qu'on m'ait jamais fait. Je ne l'échangerais pour aucune *plage*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j074_fou",
+   "perso": "fou",
+   "episode": 74,
+   "fin": "Envoie-la à quelqu'un qui transforme sa peine en force.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Les routes étaient ensevelies sous la neige.",
+   "legende": "Ta douleur ne disparaîtra peut-être jamais. Mais elle peut devenir un chemin pour les autres. Et toi, qu'est-ce que ta douleur t'a donné envie de construire ? #motivation #histoirevraie #resilience #inventeur #courage #pourtoi",
+   "phrases": [
+    [
+     "Un hiver, dans un village du Québec, un enfant de deux ans tombe gravement *malade*.",
+     1.3
+    ],
+    [
+     "Il faut l'emmener à l'hôpital. Mais les routes sont ensevelies sous la neige.",
+     1.2
+    ],
+    [
+     "Aucune voiture ne peut passer.",
+     1.4
+    ],
+    [
+     "L'enfant meurt. Il s'appelait Yvon. Son père est mécanicien.",
+     1.8
+    ],
+    [
+     "Depuis des années, ce père bricole dans son garage des engins pour rouler sur la neige.",
+     1.2
+    ],
+    [
+     "Après la mort de son fils, il s'y consacre comme jamais.",
+     1.4
+    ],
+    [
+     "Il essaie, il rate, il recommence. Moteurs, chenilles, skis. Des hivers entiers.",
+     1.2
+    ],
+    [
+     "En mille neuf cent trente-sept, il met au point une autoneige qui passe partout.",
+     1.4
+    ],
+    [
+     "Ses véhicules deviennent des ambulances, des autobus scolaires, des voitures de médecin dans les campagnes.",
+     1.4
+    ],
+    [
+     "Plus tard, il invente une petite motoneige pour une ou deux personnes. Elle fait le tour du monde.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Joseph-Armand Bombardier.",
+     1.8
+    ],
+    [
+     "Son nom est devenu celui de l'une des plus grandes entreprises du Canada.",
+     1.4
+    ],
+    [
+     "Il n'a pas pu sauver son fils. Ses machines ont porté d'autres malades jusqu'à l'hôpital, à travers la *neige*.",
+     1.6
+    ],
+    [
+     "Ta douleur ne disparaîtra peut-être jamais. Mais elle peut devenir un *chemin* pour les autres.",
+     0
+    ]
+   ]
+  }
+ ]
+}

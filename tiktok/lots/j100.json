@@ -1,0 +1,360 @@
+{
+ "nom": "j100",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j100_grandmere",
+   "perso": "grandmere",
+   "episode": 101,
+   "fin": "Envoie-la à quelqu'un qui massacre les langues étrangères.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ton père, ma plus belle faute d'espagnol.",
+   "legende": "N'aie jamais peur de parler la langue des autres. Les gens oublient tes fautes, ils se souviennent que tu as essayé. Et toi, ta plus belle gaffe à l'étranger, c'était quoi ? #grandmere #humour #vacances #voyage #famille #pourtoi",
+   "phrases": [
+    [
+     "En Espagne, j'ai annoncé à tout un restaurant que j'étais *enceinte*. Je voulais dire que j'étais embarrassée.",
+     1.3
+    ],
+    [
+     "C'était l'été mille neuf cent soixante-neuf. Nos premières vacances à l'étranger.",
+     1.2
+    ],
+    [
+     "Ton grand-père venait de renverser la sauce sur la table voisine. J'ai voulu m'excuser.",
+     1.2
+    ],
+    [
+     "J'ai pris le mot espagnol qui ressemblait le plus à embarrassée. Grave erreur.",
+     1.4
+    ],
+    [
+     "Le serveur a crié la nouvelle jusqu'en cuisine. Le patron est sorti avec un gâteau.",
+     1.4
+    ],
+    [
+     "Toute la salle a applaudi. Des inconnus embrassaient ton grand-père. Il ne comprenait rien.",
+     1.4
+    ],
+    [
+     "Je n'ai pas osé les détromper. Toute la semaine, on nous a servi double ration.",
+     1.4
+    ],
+    [
+     "Le dernier soir, la patronne m'a glissé une petite médaille. Pour le bébé.",
+     1.6
+    ],
+    [
+     "Neuf mois plus tard, *ton père* est né.",
+     1.8
+    ],
+    [
+     "J'ai envoyé une photo au restaurant. La patronne me l'avait fait promettre.",
+     1.6
+    ],
+    [
+     "N'aie jamais peur de parler la langue des autres. Même mal.",
+     1.4
+    ],
+    [
+     "Les gens oublient tes fautes. Ils se souviennent que tu as essayé.",
+     1.4
+    ],
+    [
+     "Et parfois, une faute te porte bonheur.",
+     1.2
+    ],
+    [
+     "Ton père, c'est ma plus belle faute d'*espagnol*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j100_grandpere",
+   "perso": "grandpere",
+   "episode": 102,
+   "fin": "Envoie-la à quelqu'un qui se bat depuis trop longtemps.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Quarante ans de guerre contre une taupe.",
+   "legende": "Avant de faire la guerre à ce qui t'embête, regarde ce qu'il laisse derrière lui. Parfois, c'est de la bonne terre. Et toi, contre quoi tu te bats depuis trop longtemps ? #grandpere #humour #jardin #lacherprise #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Pendant quarante ans, j'ai fait la guerre à une *taupe*. Elle a gagné.",
+     1.3
+    ],
+    [
+     "Tous les matins, une nouvelle butte au milieu de ma pelouse. Toujours au même endroit.",
+     1.2
+    ],
+    [
+     "J'ai tout essayé. Les pièges, l'eau, la fumée, les bouteilles plantées dans la terre.",
+     1.2
+    ],
+    [
+     "Une nuit, je l'ai attendue dehors avec une pelle et une lampe. Ta grand-mère m'a apporté un café.",
+     1.2
+    ],
+    [
+     "Le village m'appelait le général. La taupe, elle, ne m'appelait pas.",
+     1.4
+    ],
+    [
+     "L'an dernier, le petit voisin m'a appris qu'une taupe ne vit que quelques années.",
+     1.4
+    ],
+    [
+     "Quarante ans. Je n'avais pas combattu une taupe. J'avais combattu toute une *famille*.",
+     1.8
+    ],
+    [
+     "Le grand-père, le père, les enfants. Et les enfants des enfants.",
+     1.6
+    ],
+    [
+     "Alors j'ai rangé mes pièges. J'ai fait la paix.",
+     1.4
+    ],
+    [
+     "Et j'ai découvert une chose. La terre de ses buttes est la plus fine du jardin.",
+     1.4
+    ],
+    [
+     "Depuis, je la ramasse pour mes semis. Mes tomates n'ont jamais été aussi belles.",
+     1.4
+    ],
+    [
+     "Il y a peut-être quelque chose qui t'embête depuis des années.",
+     1.2
+    ],
+    [
+     "Avant de lui faire la guerre, regarde ce qu'il laisse derrière lui.",
+     1.2
+    ],
+    [
+     "Parfois, c'est de la bonne *terre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j100_pere",
+   "perso": "pere",
+   "episode": 101,
+   "fin": "Envoie-la à quelqu'un qui doit savoir que tu es fier.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Quarante minutes de message. Depuis ma poche.",
+   "legende": "Dis aux gens que tu es fier d'eux. En face. Pas au boucher. Et toi, à qui tu n'as jamais dit que tu étais fier ? #papa #pere #humour #fierte #famille #pourtoi",
+   "phrases": [
+    [
+     "Le mois dernier, je t'ai envoyé un message vocal de quarante minutes. Depuis ma *poche*.",
+     1.3
+    ],
+    [
+     "Je ne sais toujours pas sur quel bouton j'ai appuyé.",
+     1.2
+    ],
+    [
+     "Il y a tout le marché du samedi. Le poissonnier, la fromagère, mes disputes sur le prix des tomates.",
+     1.2
+    ],
+    [
+     "Il y a moi qui chante faux dans la voiture. Et moi qui parle tout seul.",
+     1.2
+    ],
+    [
+     "Le soir, tu m'as appelé. Tu riais tellement que tu n'arrivais plus à parler.",
+     1.4
+    ],
+    [
+     "Puis tu as arrêté de rire. Tu as dit : papa, j'ai tout écouté. Jusqu'au bout.",
+     1.6
+    ],
+    [
+     "À la trente-deuxième minute, chez le boucher, on parlait de nos enfants.",
+     1.4
+    ],
+    [
+     "Et je lui disais que mon fils était l'homme le plus courageux que je connaisse.",
+     1.6
+    ],
+    [
+     "Ça, je ne te l'avais jamais dit. À *toi*.",
+     1.8
+    ],
+    [
+     "Le boucher le savait. Le poissonnier aussi. Toute la rue, probablement.",
+     1.4
+    ],
+    [
+     "Pas toi.",
+     1.6
+    ],
+    [
+     "Dis aux gens que tu es fier d'eux. En face. Pas au boucher.",
+     1.2
+    ],
+    [
+     "Sinon, il faudra compter sur ta *poche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j100_mere",
+   "perso": "mere",
+   "episode": 101,
+   "fin": "Envoie-la à quelqu'un qui croit toujours le pire.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Vingt minutes sur toi. Ce n'était pas toi.",
+   "legende": "Ceux qu'on aime méritent qu'on doute des autres avant de douter d'eux. Et toi, tu as déjà cru le pire trop vite ? #maman #mere #humour #ecole #confiance #pourtoi",
+   "phrases": [
+    [
+     "Un soir, ton professeur de maths m'a parlé de toi pendant vingt minutes. Ce n'était pas *toi*.",
+     1.3
+    ],
+    [
+     "C'était la réunion de parents, en quatrième. Il avait des cernes jusqu'au menton.",
+     1.2
+    ],
+    [
+     "Il m'a dit : votre fils dort au fond de la classe. Il ne rend jamais rien.",
+     1.2
+    ],
+    [
+     "Et la semaine dernière, il est sorti par la fenêtre. Pendant un contrôle.",
+     1.2
+    ],
+    [
+     "J'ai rougi jusqu'aux oreilles. J'ai promis des punitions. J'ai même demandé pardon pour toi.",
+     1.4
+    ],
+    [
+     "Dans la voiture, je préparais déjà mon discours. Trois mois sans sortie.",
+     1.4
+    ],
+    [
+     "Le lendemain, il a téléphoné. Il s'était trompé de dossier.",
+     1.6
+    ],
+    [
+     "Il y avait deux garçons avec le même prénom dans ta classe. Toi, tu étais au premier rang.",
+     1.6
+    ],
+    [
+     "Il a ajouté : le vôtre, c'est celui qui explique les exercices aux autres.",
+     1.8
+    ],
+    [
+     "J'ai raccroché, et j'ai eu *honte*. Pas de toi, de moi.",
+     1.6
+    ],
+    [
+     "Pendant vingt minutes, j'avais tout cru. Sans poser une seule question.",
+     1.4
+    ],
+    [
+     "Je ne t'en ai jamais parlé. Tu aurais trop ri.",
+     1.2
+    ],
+    [
+     "Ceux qu'on aime méritent qu'on doute des autres avant de *douter* d'eux.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j100_fou",
+   "perso": "fou",
+   "episode": 100,
+   "fin": "Envoie-la à quelqu'un qui méprise ses petits efforts.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Un grain de riz contre un roi.",
+   "legende": "Le roi a ri à la première case. Il a compris à la dernière. Et toi, quel petit effort tu fais chaque jour ? #motivation #discipline #conte #inde #habitudes #pourtoi",
+   "phrases": [
+    [
+     "Une vieille légende indienne raconte qu'un seul grain de *riz* a fait trembler un roi.",
+     1.3
+    ],
+    [
+     "Un sage venait de lui offrir un jeu nouveau : les échecs.",
+     1.2
+    ],
+    [
+     "Le roi, ravi, lui dit : demande ce que tu veux.",
+     1.2
+    ],
+    [
+     "Le sage répond : un grain de riz sur la première case.",
+     1.4
+    ],
+    [
+     "Deux sur la deuxième, quatre sur la troisième. Et ainsi de suite, en doublant.",
+     1.4
+    ],
+    [
+     "Le roi éclate de rire. Il fait apporter un sac de riz.",
+     1.4
+    ],
+    [
+     "À la dixième case, il faut déjà plus de cinq cents grains.",
+     1.2
+    ],
+    [
+     "À la vingt et unième, plus d'un million.",
+     1.2
+    ],
+    [
+     "À la moitié de l'échiquier, des milliards.",
+     1.4
+    ],
+    [
+     "Les trésoriers pâlissent.",
+     1.6
+    ],
+    [
+     "Pour la dernière case, il n'y a pas assez de riz dans le royaume. Ni dans le monde *entier*.",
+     1.8
+    ],
+    [
+     "Le roi a ri à la première case. Il a compris à la dernière.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu méprises peut-être tes petits efforts. Une page lue. Une minute de plus.",
+     1.4
+    ],
+    [
+     "Un grain ne fait rien. Mais un grain qui grandit chaque jour finit par tout dépasser.",
+     1.2
+    ],
+    [
+     "Ne te moque jamais de ta première *case*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

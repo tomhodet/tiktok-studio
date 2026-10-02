@@ -1,0 +1,364 @@
+{
+ "nom": "j152",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j152_grandmere",
+   "perso": "grandmere",
+   "episode": 153,
+   "fin": "Envoie-la à quelqu'un qui appelle juste pour entendre une voix.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il me demandait l'heure tous les soirs.",
+   "legende": "Il n'avait jamais eu besoin de l'heure. Il avait besoin d'une voix. À qui pourrais-tu donner cinq minutes ce soir ? #grandmere #solitude #gentillesse #telephone #emotion #pourtoi",
+   "phrases": [
+    [
+     "À dix-huit ans, un inconnu m'a demandé l'*heure* tous les soirs. Pendant deux ans.",
+     1.3
+    ],
+    [
+     "J'étais standardiste, la nuit, au central téléphonique de la ville.",
+     1.2
+    ],
+    [
+     "À dix heures pile, toujours la même voix. Un vieux monsieur, très poli.",
+     1.2
+    ],
+    [
+     "Mademoiselle, pourriez-vous me dire l'heure, s'il vous plaît ?",
+     1.4
+    ],
+    [
+     "Je lui disais. Il me remerciait. Puis il ajoutait une phrase. Sur la pluie, sur ses rosiers.",
+     1.4
+    ],
+    [
+     "Au bout de quelques mois, la phrase durait cinq minutes. Puis dix.",
+     1.4
+    ],
+    [
+     "Il me parlait de sa femme, partie depuis longtemps. Je lui parlais de mes examens.",
+     1.4
+    ],
+    [
+     "Le jour où j'ai changé de poste, je le lui ai dit. Il y a eu un long silence.",
+     1.6
+    ],
+    [
+     "Puis il a dit : je vais vous avouer quelque chose.",
+     1.4
+    ],
+    [
+     "J'ai une pendule au-dessus de mon téléphone. Elle n'a jamais retardé d'une *minute*.",
+     1.8
+    ],
+    [
+     "Il n'avait jamais eu besoin de l'heure. Il avait besoin d'une voix.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai pleuré dans mon casque. Mes collègues ont cru à une panne.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un te demande l'heure tous les jours, ce n'est pas l'heure qu'il veut.",
+     1.2
+    ],
+    [
+     "Regarde ta montre. Et donne-lui cinq *minutes* de plus.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j152_grandpere",
+   "perso": "grandpere",
+   "episode": 154,
+   "fin": "Envoie-la à quelqu'un qui garde bien les secrets de Noël.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il a reconnu mon doigt tordu.",
+   "legende": "Le plus beau cadeau qu'on peut faire à un enfant, ce n'est pas un jouet. C'est un secret à garder. Tu y as cru jusqu'à quel âge, toi ? #grandpere #noel #gentillesse #secret #humour #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai été le père *Noël* du village. Personne ne l'a jamais su.",
+     1.3
+    ],
+    [
+     "Une barbe en coton, et un manteau rouge cousu par ta grand-mère.",
+     1.2
+    ],
+    [
+     "Le vingt-quatre au soir, je passais chez les familles qui n'avaient pas grand-chose.",
+     1.2
+    ],
+    [
+     "Les jouets, je les achetais toute l'année. Un peu chaque mois, sur ma paie.",
+     1.4
+    ],
+    [
+     "Ta grand-mère disait que j'étais le seul ouvrier endetté chez le marchand de jouets.",
+     1.2
+    ],
+    [
+     "Le plus dur, c'était de rentrer avant ton père. Il avait sept ans.",
+     1.4
+    ],
+    [
+     "Un soir, je suis arrivé trop tard. Il était dans l'entrée. Il m'a regardé longtemps.",
+     1.6
+    ],
+    [
+     "Puis il a montré ma main. Mon doigt *tordu*, celui de la scierie.",
+     1.6
+    ],
+    [
+     "Il n'a rien dit. Il est allé se coucher.",
+     1.4
+    ],
+    [
+     "Le lendemain, il m'a demandé : je peux venir avec toi, l'année prochaine ?",
+     1.8
+    ],
+    [
+     "Il a été mon lutin pendant dix ans. Sans jamais rien dire.",
+     1.6
+    ],
+    [
+     "Cette année, c'est lui qui met la barbe. Moi, je porte la hotte.",
+     1.4
+    ],
+    [
+     "Le plus beau cadeau qu'on peut faire à un enfant, ce n'est pas un jouet.",
+     1.2
+    ],
+    [
+     "C'est un *secret* à garder. Et une hotte à porter.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j152_pere",
+   "perso": "pere",
+   "episode": 153,
+   "fin": "Envoie-la à quelqu'un qui aide sans jamais humilier.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Elle m'a donné une gifle.",
+   "legende": "La gifle, ce n'était pas pour moi. C'était pour tout ce qu'elle avait reçu avant. Tu as déjà eu du mal à accepter de l'aide ? #papa #pere #gentillesse #fierte #humour #pourtoi",
+   "phrases": [
+    [
+     "Un jour, j'ai payé l'essence d'une inconnue. Elle m'a donné une *gifle*.",
+     1.3
+    ],
+    [
+     "Station-service, un soir de pluie. Sa carte était refusée. Deux fois.",
+     1.2
+    ],
+    [
+     "Elle avait deux enfants à l'arrière. Elle s'est mise à pleurer devant la caisse.",
+     1.2
+    ],
+    [
+     "J'ai tendu un billet de vingt euros au caissier. J'ai dit : c'est pour la pompe trois.",
+     1.4
+    ],
+    [
+     "Elle s'est retournée. Elle m'a regardé. Et clac.",
+     1.6
+    ],
+    [
+     "Elle a crié : je n'ai pas besoin de votre pitié. Puis elle est partie avec son plein.",
+     1.4
+    ],
+    [
+     "Je suis rentré avec une joue rouge. Ta mère a ri pendant une heure.",
+     1.2
+    ],
+    [
+     "Deux semaines plus tard, une femme attendait devant mon atelier. C'était elle.",
+     1.4
+    ],
+    [
+     "Mon nom était écrit sur ma camionnette.",
+     1.2
+    ],
+    [
+     "Elle m'a rendu les vingt euros. Avec une boîte de gâteaux faits maison.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : mon mari venait de partir. Je croyais que plus personne ne m'aiderait sans rien attendre.",
+     1.8
+    ],
+    [
+     "La gifle, ce n'était pas pour moi. C'était pour tout ce qu'elle avait *reçu* avant.",
+     1.6
+    ],
+    [
+     "Quand tu aides quelqu'un, fais-le quand même. Mais fais-le doucement.",
+     1.2
+    ],
+    [
+     "La fierté aussi a besoin qu'on la *ménage*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j152_mere",
+   "perso": "mere",
+   "episode": 153,
+   "fin": "Envoie-la à quelqu'un qui fête son anniversaire loin des siens.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Une bougie éteinte dans ma crème caramel.",
+   "legende": "Je n'avais pas d'allumettes. Je suis restée là, avec ma bougie éteinte. Qui a allumé ta bougie un jour ? #maman #mere #anniversaire #gentillesse #inconnus #pourtoi",
+   "phrases": [
+    [
+     "Pour mes vingt-trois ans, deux inconnus m'ont chanté joyeux *anniversaire*.",
+     1.3
+    ],
+    [
+     "Je venais d'arriver à Paris pour mon premier travail. Je ne connaissais personne.",
+     1.2
+    ],
+    [
+     "Ce soir-là, je me suis offert un dîner dans une brasserie. Seule, avec un livre.",
+     1.2
+    ],
+    [
+     "Au dessert, j'ai planté dans ma crème caramel une bougie apportée de chez moi.",
+     1.4
+    ],
+    [
+     "Je n'avais pas d'allumettes. Je suis restée là, avec ma bougie éteinte.",
+     1.6
+    ],
+    [
+     "À la table d'à côté, un vieux couple m'observait depuis le début.",
+     1.4
+    ],
+    [
+     "Le monsieur s'est levé. Il a sorti son *briquet*. Il a allumé ma bougie.",
+     1.6
+    ],
+    [
+     "Puis sa femme a commencé à chanter. Toute la salle a suivi.",
+     1.8
+    ],
+    [
+     "J'étais rouge comme une tomate. J'ai pleuré dans ma crème caramel.",
+     1.4
+    ],
+    [
+     "Ils m'ont invitée à leur table pour le café. Ils fêtaient leurs quarante ans de mariage.",
+     1.4
+    ],
+    [
+     "La dame m'a dit : le soir où je suis arrivée à Paris, moi aussi, j'étais seule.",
+     1.6
+    ],
+    [
+     "Je ne les ai jamais revus. Depuis, je garde toujours un briquet dans mon sac.",
+     1.4
+    ],
+    [
+     "On ne sait jamais qui, à la table d'à côté, n'a pas d'allumettes.",
+     1.2
+    ],
+    [
+     "Ne laisse jamais quelqu'un souffler ses *bougies* tout seul.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j152_fou",
+   "perso": "fou",
+   "episode": 152,
+   "fin": "Envoie-la à quelqu'un qui court la course des autres.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Un message au lance-pierre.",
+   "legende": "Il abandonne la course. Parce qu'il est heureux en mer. Et toi, tu cours la course de qui ? #motivation #voile #moitessier #liberte #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-neuf, un marin français abandonne une course qu'il pouvait *gagner*.",
+     1.3
+    ],
+    [
+     "Le tour du monde à la voile, seul et sans escale. Personne n'a jamais réussi ça.",
+     1.2
+    ],
+    [
+     "Il s'appelle Bernard Moitessier. Il vient de passer le cap Horn. L'Angleterre l'attend en héros.",
+     1.2
+    ],
+    [
+     "Mais en mer, depuis des mois, quelque chose a changé en lui.",
+     1.4
+    ],
+    [
+     "Les journaux, la gloire, l'argent du prix. Tout ça lui semble de plus en plus lointain.",
+     1.4
+    ],
+    [
+     "Alors, au large de l'Afrique du Sud, il croise un navire.",
+     1.4
+    ],
+    [
+     "Avec un lance-pierre, il envoie un message sur le pont.",
+     1.6
+    ],
+    [
+     "Il abandonne la course. Il continue vers le Pacifique. Parce qu'il est heureux en mer.",
+     1.6
+    ],
+    [
+     "Et peut-être aussi, écrit-il, pour sauver son *âme*.",
+     1.8
+    ],
+    [
+     "Il navigue encore des mois, jusqu'à Tahiti. Près d'une fois et demie le tour du monde.",
+     1.4
+    ],
+    [
+     "Beaucoup n'ont pas compris.",
+     1.4
+    ],
+    [
+     "Lui savait une chose. Il n'avait pas abandonné. Il avait choisi sa route.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu cours peut-être une course qui n'est pas la tienne. Pour les applaudissements des autres.",
+     1.2
+    ],
+    [
+     "Arriver le premier ne sert à rien, si ce n'est pas là que tu voulais *aller*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

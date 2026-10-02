@@ -1,0 +1,360 @@
+{
+ "nom": "j084",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j084_grandmere",
+   "perso": "grandmere",
+   "episode": 85,
+   "fin": "Envoie-la à quelqu'un qui se sacrifie sans jamais rien dire.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Un ressort cassé, en plein milieu.",
+   "legende": "Les gens qui t'aiment vraiment ne te disent pas ce qu'ils endurent pour toi. Et toi, qui dort sur le ressort cassé pour toi ? #grandmere #grandpere #amour #deuil #couple #pourtoi",
+   "phrases": [
+    [
+     "Depuis que ton grand-père est parti, je dors de son côté du lit. Il y a un *ressort*.",
+     1.3
+    ],
+    [
+     "Un ressort cassé, en plein milieu. Il rentre dans les côtes toute la nuit.",
+     1.2
+    ],
+    [
+     "Au début de notre mariage, c'est moi qui dormais de ce côté-là.",
+     1.2
+    ],
+    [
+     "Je me plaignais tous les soirs.",
+     1.2
+    ],
+    [
+     "Un soir, il m'a dit : changeons de côté, moi, je dors n'importe où.",
+     1.4
+    ],
+    [
+     "Je l'ai cru. Ton grand-père s'endormait dans la minute.",
+     1.2
+    ],
+    [
+     "On n'a jamais changé ce matelas. Il disait qu'il était encore très bien.",
+     1.6
+    ],
+    [
+     "Je n'ai jamais rien su. Il ne s'est jamais plaint. Pas une fois.",
+     1.4
+    ],
+    [
+     "Cinquante-deux ans sur un ressort cassé. Pour que je *dorme* bien.",
+     1.8
+    ],
+    [
+     "La première nuit, j'ai pleuré. La deuxième, j'ai ri. Le vieux têtu.",
+     1.4
+    ],
+    [
+     "Je n'ai pas changé le matelas. Je dors sur son ressort, maintenant. C'est mon tour.",
+     1.6
+    ],
+    [
+     "Les gens qui t'aiment vraiment ne te disent pas ce qu'ils endurent pour toi.",
+     1.4
+    ],
+    [
+     "Ils dorment sur le ressort cassé. Sans *rien* dire.",
+     1.2
+    ],
+    [
+     "Alors de temps en temps, regarde qui dort du mauvais côté. Et dis merci.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j084_grandpere",
+   "perso": "grandpere",
+   "episode": 86,
+   "fin": "Envoie-la à quelqu'un qui a eu un professeur inoubliable.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Mon instituteur a cent ans.",
+   "legende": "On oublie vite ceux qui nous ont appris à lire. Eux ne nous oublient jamais. Et toi, quel professeur tu aimerais remercier ? #grandpere #ecole #gratitude #vieillesse #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon instituteur a cent ans. La semaine dernière, il m'a encore fait faire une *dictée*.",
+     1.3
+    ],
+    [
+     "Il s'appelle monsieur Bertin. Il m'a appris à lire, en mille neuf cent cinquante-deux.",
+     1.2
+    ],
+    [
+     "Pour ses cent ans, la mairie a organisé une fête. J'y suis allé en costume.",
+     1.2
+    ],
+    [
+     "Il était assis, tout petit, une couverture sur les genoux.",
+     1.2
+    ],
+    [
+     "Je me suis présenté. Il m'a regardé longtemps. Il a dit : chrysanthème.",
+     1.4
+    ],
+    [
+     "En mille neuf cent cinquante-trois, j'avais fait quatre fautes à chrysanthème. Un record.",
+     1.4
+    ],
+    [
+     "Soixante-treize ans plus tard, il s'en souvenait.",
+     1.6
+    ],
+    [
+     "Alors devant tout le monde, il m'a dicté le mot. Je l'ai écrit sur une serviette.",
+     1.4
+    ],
+    [
+     "Zéro faute. Il a dit : c'est bien, mon *petit*.",
+     1.8
+    ],
+    [
+     "J'ai quatre-vingts ans. J'avais les larmes aux yeux comme un écolier.",
+     1.4
+    ],
+    [
+     "Ses enfants m'ont dit qu'il parlait de ses élèves tous les jours.",
+     1.4
+    ],
+    [
+     "On oublie vite ceux qui nous ont appris à lire. Eux ne nous oublient jamais.",
+     1.4
+    ],
+    [
+     "Pense à tes professeurs. Pas aux mauvais. À celui qui croyait en toi.",
+     1.2
+    ],
+    [
+     "Va le voir. *Écris-lui*. N'attends pas qu'il ait cent ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j084_pere",
+   "perso": "pere",
+   "episode": 85,
+   "fin": "Envoie-la à quelqu'un qui te demande toujours si tu as mangé.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ses derniers mots : tu as mangé ?",
+   "legende": "Tu as mangé, ça voulait dire je t'aime. Elle n'a jamais su le dire autrement. Et toi, comment tes parents te disent je t'aime sans le dire ? #papa #pere #maman #deuil #amour #pourtoi",
+   "phrases": [
+    [
+     "Les derniers mots de ma mère, c'était une question. Tu as *mangé* ?",
+     1.3
+    ],
+    [
+     "J'étais assis à côté d'elle, dans sa chambre. Elle était très fatiguée.",
+     1.2
+    ],
+    [
+     "J'avais préparé des grandes phrases. Je voulais lui dire merci. Pour tout.",
+     1.2
+    ],
+    [
+     "Elle a ouvert les yeux. Elle m'a regardé. Elle a dit : tu as mangé ?",
+     1.4
+    ],
+    [
+     "J'ai ri. J'ai dit : oui, maman. C'était faux.",
+     1.6
+    ],
+    [
+     "Elle s'est rendormie. Elle ne s'est pas réveillée.",
+     1.8
+    ],
+    [
+     "Sur le moment, j'ai trouvé ça injuste. Une vie entière, et ses derniers mots parlent de nourriture.",
+     1.4
+    ],
+    [
+     "Et puis j'ai compté. Elle m'a posé cette question toute ma vie.",
+     1.2
+    ],
+    [
+     "Au retour de l'école. Au téléphone, quand j'étais étudiant. Le jour de mon mariage.",
+     1.2
+    ],
+    [
+     "Tu as mangé, ça voulait dire : *je t'aime*. Elle n'a jamais su le dire autrement.",
+     1.8
+    ],
+    [
+     "Ses derniers mots n'étaient pas petits. C'étaient les mêmes que tous les autres.",
+     1.4
+    ],
+    [
+     "Et l'autre jour, au téléphone, je me suis entendu te demander : tu as mangé ?",
+     1.4
+    ],
+    [
+     "Tu as soupiré. Tu as dit : oui, papa. Je sais que c'était faux.",
+     1.4
+    ],
+    [
+     "Alors la prochaine fois, comprends bien la *question*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j084_mere",
+   "perso": "mere",
+   "episode": 85,
+   "fin": "Envoie-la à quelqu'un qui a une grand-mère têtue.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Il y avait trop de vieux.",
+   "legende": "On ne vieillit pas avec des vieux. On vieillit avec des vivants. Et toi, tu passes du temps avec quelqu'un de beaucoup plus âgé ? #maman #mere #grandmere #vieillesse #humour #pourtoi",
+   "phrases": [
+    [
+     "À quatre-vingt-douze ans, ta grand-mère a refusé la maison de retraite. Il y avait trop de *vieux*.",
+     1.3
+    ],
+    [
+     "Ton oncle et moi, on avait tout préparé. La chambre, les papiers, le discours.",
+     1.2
+    ],
+    [
+     "Elle nous a écoutés jusqu'au bout. Puis elle a demandé si on voulait du café.",
+     1.4
+    ],
+    [
+     "Alors on a trouvé autre chose. Un étudiant qui cherchait une chambre pas chère.",
+     1.2
+    ],
+    [
+     "Karim avait dix-neuf ans. Il faisait des études d'architecture et il ne savait pas cuire un œuf.",
+     1.2
+    ],
+    [
+     "Le premier mois, ils se sont disputés pour la télévision. Le deuxième, pour le chauffage.",
+     1.4
+    ],
+    [
+     "Le troisième, elle lui apprenait le pot-au-feu. Il lui apprenait à tricher aux cartes.",
+     1.4
+    ],
+    [
+     "Elle a vécu trois ans de plus chez elle. Les plus drôles de sa vieillesse.",
+     1.4
+    ],
+    [
+     "Le jour de l'enterrement, Karim a porté le cercueil avec ton oncle.",
+     1.6
+    ],
+    [
+     "Il m'a dit : elle m'a appris à vivre *seul*. Moi, je l'ai empêchée de l'être.",
+     1.8
+    ],
+    [
+     "On croit protéger nos parents en les mettant à l'abri, entre vieux.",
+     1.4
+    ],
+    [
+     "Elle avait raison. On ne vieillit pas avec des vieux.",
+     1.4
+    ],
+    [
+     "On vieillit avec des *vivants*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j084_fou",
+   "perso": "fou",
+   "episode": 84,
+   "fin": "Envoie-la à quelqu'un qui protège les autres sans bruit.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Elle a enterré des prénoms d'enfants.",
+   "legende": "Le courage, parfois, c'est un crayon, un bout de papier, et un trou sous un arbre. Et toi, qui a eu un courage discret dans ta famille ? #motivation #histoire #irenasendler #courage #memoire #pourtoi",
+   "phrases": [
+    [
+     "Sous un pommier de Varsovie, une femme a enterré des *bocaux*.",
+     1.3
+    ],
+    [
+     "Dedans, pas d'argent. Pas de bijoux. Des prénoms d'enfants.",
+     1.4
+    ],
+    [
+     "Varsovie, pendant la guerre. Les nazis enferment les Juifs dans un ghetto.",
+     1.2
+    ],
+    [
+     "Irena Sendler est assistante sociale. Elle a le droit d'y entrer.",
+     1.2
+    ],
+    [
+     "Avec d'autres résistants, elle en fait sortir des enfants. En cachette, par tous les moyens.",
+     1.2
+    ],
+    [
+     "Dehors, on leur donne de faux noms et de nouvelles familles.",
+     1.2
+    ],
+    [
+     "Mais Irena note leurs vrais noms sur des petits papiers, cachés dans des bocaux.",
+     1.4
+    ],
+    [
+     "Pour qu'un jour, on puisse les rendre à leurs parents.",
+     1.4
+    ],
+    [
+     "En mille neuf cent quarante-trois, la Gestapo l'arrête. Elle ne donne *aucun* nom.",
+     1.6
+    ],
+    [
+     "Condamnée à mort, elle est sauvée par des résistants qui soudoient un garde.",
+     1.4
+    ],
+    [
+     "Après la guerre, elle déterre les bocaux. La plupart des parents ne sont jamais revenus.",
+     1.6
+    ],
+    [
+     "Mais les enfants, eux, ont grandi. Ils ont eu des enfants.",
+     1.6
+    ],
+    [
+     "Des centaines de vies tenaient dans quelques bocaux, sous un pommier.",
+     1.4
+    ],
+    [
+     "Le courage, parfois, c'est un crayon, un bout de papier, et un trou sous un *arbre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

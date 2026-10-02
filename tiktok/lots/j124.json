@@ -1,0 +1,348 @@
+{
+ "nom": "j124",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j124_grandmere",
+   "perso": "grandmere",
+   "episode": 125,
+   "fin": "Envoie-la à quelqu'un qui s'inquiète trop.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Toutes ces nuits. Et je n'étais pas là.",
+   "legende": "Ma peur ne l'a jamais protégé. Elle m'a juste volé trente ans de sommeil. Et toi, pour qui as-tu peur la nuit ? #grandmere #peur #amour #emotion #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Pendant trente ans, j'ai écouté ton grand-père *respirer*. Toutes les nuits.",
+     1.3
+    ],
+    [
+     "Il avait fait une crise cardiaque, dans le jardin, devant moi.",
+     1.2
+    ],
+    [
+     "Après ça, je ne dormais plus vraiment. Je comptais ses souffles dans le noir.",
+     1.2
+    ],
+    [
+     "Quand il ronflait, j'étais rassurée. Quand il s'arrêtait, je lui pinçais le bras.",
+     1.4
+    ],
+    [
+     "Il se réveillait en sursaut. Il grognait : je suis encore là, ma vieille.",
+     1.4
+    ],
+    [
+     "Parfois, il retenait sa respiration exprès. Pour me faire peur. Et il riait comme un gamin.",
+     1.4
+    ],
+    [
+     "Il est parti un mardi après-midi. Pendant que j'étais au marché.",
+     1.6
+    ],
+    [
+     "Il dormait dans son fauteuil, le journal sur les genoux. Il avait l'air de sourire.",
+     1.8
+    ],
+    [
+     "Toutes ces nuits à le surveiller. Et je n'étais pas là.",
+     1.6
+    ],
+    [
+     "J'ai mis longtemps à comprendre. Ma peur ne l'a jamais protégé. Pas une seule nuit.",
+     1.4
+    ],
+    [
+     "Elle m'a juste volé trente ans de *sommeil*.",
+     1.2
+    ],
+    [
+     "Toi aussi, tu as peur pour quelqu'un. Je le vois.",
+     1.2
+    ],
+    [
+     "Aime-le de toutes tes forces. Mais la nuit, *dors*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j124_grandpere",
+   "perso": "grandpere",
+   "episode": 126,
+   "fin": "Envoie-la à quelqu'un qui rêve de partir.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Elle est redescendue avec deux valises.",
+   "legende": "On croit qu'on est seul à vouloir partir. Pose la question. L'autre a peut-être déjà fait sa valise. Et toi, quel rêve gardes-tu dans ton grenier ? #grandpere #retraite #amour #voyage #humour #pourtoi",
+   "phrases": [
+    [
+     "Le jour de ma retraite, j'ai annoncé à ta grand-mère que je voulais tout vendre. Pour partir en *camping-car*.",
+     1.3
+    ],
+    [
+     "J'avais préparé mes arguments pendant un mois. J'avais peur qu'elle me prenne pour un vieil idiot.",
+     1.2
+    ],
+    [
+     "Quarante ans dans la même maison. Ses amies, son jardin, sa chorale.",
+     1.2
+    ],
+    [
+     "Je lui ai tout expliqué à table. Les routes, la mer, les montagnes.",
+     1.4
+    ],
+    [
+     "Elle n'a rien dit. Elle s'est levée. Elle est montée au grenier.",
+     1.6
+    ],
+    [
+     "J'étais sûr qu'elle allait pleurer là-haut.",
+     1.4
+    ],
+    [
+     "Elle est redescendue avec deux valises. Pleines. Couvertes de poussière.",
+     1.6
+    ],
+    [
+     "Elles étaient prêtes depuis mille neuf cent quatre-vingt-cinq.",
+     1.8
+    ],
+    [
+     "Elle m'a dit : je t'attendais. Je n'osais pas te le demander.",
+     1.4
+    ],
+    [
+     "Quarante ans qu'on rêvait de la même chose. Chacun dans son coin.",
+     1.4
+    ],
+    [
+     "On est partis trois mois plus tard. Elle a fait toute la route en chantant.",
+     1.4
+    ],
+    [
+     "Ses pulls de mille neuf cent quatre-vingt-cinq ne lui allaient plus. On en a ri jusqu'à Biarritz.",
+     1.4
+    ],
+    [
+     "On croit qu'on est seul à vouloir partir. On a peur de faire de la peine.",
+     1.2
+    ],
+    [
+     "Pose la *question*. L'autre a peut-être déjà fait sa valise.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j124_pere",
+   "perso": "pere",
+   "episode": 125,
+   "fin": "Envoie-la à quelqu'un qui repousse son rêve.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Vingt et un jours de mal de mer.",
+   "legende": "N'attends pas d'être prêt pour ton rêve. On ne l'est jamais. Et toi, quel rêve repousses-tu depuis tes quinze ans ? #papa #pere #reve #voile #humour #pourtoi",
+   "phrases": [
+    [
+     "À cinquante ans, j'ai traversé l'Atlantique en voilier. J'ai eu le mal de mer pendant vingt et un *jours*.",
+     1.3
+    ],
+    [
+     "C'était mon rêve depuis mes quinze ans.",
+     1.2
+    ],
+    [
+     "Pendant trente-cinq ans, j'ai trouvé des excuses. Le travail, le crédit, toi.",
+     1.2
+    ],
+    [
+     "Un soir, ta mère a posé une brochure sur la table. Une école de voile.",
+     1.4
+    ],
+    [
+     "Elle a dit : si tu attends encore, ce sera un regret.",
+     1.4
+    ],
+    [
+     "J'ai pris des cours le samedi, sur un lac, entre des enfants de douze ans.",
+     1.2
+    ],
+    [
+     "Puis je suis parti avec trois inconnus. Des Canaries jusqu'aux Antilles.",
+     1.4
+    ],
+    [
+     "Dès le premier jour, j'ai été malade comme un chien. Le troisième, je voulais rentrer à la nage.",
+     1.4
+    ],
+    [
+     "Le capitaine m'a confié la barre. Il a dit : à la barre, on a moins le mal de mer.",
+     1.6
+    ],
+    [
+     "Une nuit, des dauphins ont nagé à côté du bateau. J'ai pleuré comme un enfant.",
+     1.6
+    ],
+    [
+     "Je n'ai pas vaincu le mal de mer. Je l'ai emmené avec moi jusqu'au bout.",
+     1.4
+    ],
+    [
+     "N'attends pas d'être prêt pour ton rêve. On ne l'est jamais.",
+     1.2
+    ],
+    [
+     "Prends la *barre*, même malade. C'est encore là qu'on souffre le moins.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j124_mere",
+   "perso": "mere",
+   "episode": 125,
+   "fin": "Envoie-la à quelqu'un qui a eu le courage de partir.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Tu criais sur ton ours en peluche.",
+   "legende": "On croit qu'on reste pour les enfants. Les enfants, eux, apprennent ce qu'ils voient. Toi, qu'as-tu appris en regardant tes parents ? #maman #mere #courage #partir #emotion #pourtoi",
+   "phrases": [
+    [
+     "Une nuit de février, je suis partie avec toi dans les bras. Et un sac de *couches*.",
+     1.3
+    ],
+    [
+     "Tu avais deux ans. Ton père dormait. Je n'ai pas laissé de mot.",
+     1.2
+    ],
+    [
+     "Il ne me frappait pas. Il criait. Tous les soirs. Pour un plat trop froid, une porte mal fermée.",
+     1.2
+    ],
+    [
+     "Je me disais : je reste pour l'enfant. Un enfant a besoin de son père.",
+     1.4
+    ],
+    [
+     "Ce soir-là, tu jouais dans ta chambre. Je t'ai entendu crier.",
+     1.4
+    ],
+    [
+     "Tu criais sur ton ours en peluche. Avec ses mots à lui. Exactement sa voix.",
+     1.8
+    ],
+    [
+     "Tu ne savais pas encore bien dire maman. Mais tu savais déjà crier comme lui.",
+     1.6
+    ],
+    [
+     "Cette nuit-là, j'ai compris. Je ne restais pas pour toi. Je restais par *peur*.",
+     1.6
+    ],
+    [
+     "On a dormi chez ma sœur, sur un canapé, pendant six mois.",
+     1.4
+    ],
+    [
+     "On a mangé beaucoup de pâtes. J'ai fait des ménages. J'ai pleuré dans des escaliers.",
+     1.4
+    ],
+    [
+     "Mais tu n'as plus jamais crié sur ton ours.",
+     1.6
+    ],
+    [
+     "On croit qu'on reste pour les enfants. Les enfants, eux, apprennent ce qu'ils voient.",
+     1.2
+    ],
+    [
+     "Partir, ce n'est pas toujours casser une famille. Parfois, c'est la *sauver*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j124_fou",
+   "perso": "fou",
+   "episode": 124,
+   "fin": "Envoie-la à quelqu'un qui enseigne avec patience.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Une main sous l'eau froide.",
+   "legende": "Elle a répété les mêmes gestes pendant des semaines. Puis un matin, tout a changé. Et toi, quel professeur a changé ta vie ? #motivation #histoirevraie #patience #enseignement #inspiration #pourtoi",
+   "phrases": [
+    [
+     "En mille huit cent quatre-vingt-sept, une jeune femme de vingt ans arrive en Alabama. Pour une *enfant* impossible.",
+     1.3
+    ],
+    [
+     "L'enfant s'appelle Helen Keller. Elle a six ans. Elle ne voit pas et n'entend pas, depuis ses dix-neuf mois.",
+     1.2
+    ],
+    [
+     "La jeune femme s'appelle Anne Sullivan. Enfant, elle a vécu dans un hospice pour pauvres. Elle-même voit très mal.",
+     1.2
+    ],
+    [
+     "Chaque jour, elle écrit des mots dans la main d'Helen, avec ses doigts.",
+     1.4
+    ],
+    [
+     "Helen répète les gestes. Sans comprendre que ce sont des mots.",
+     1.4
+    ],
+    [
+     "Des semaines de colères, de coups, de crises. Anne ne lâche pas.",
+     1.6
+    ],
+    [
+     "Un matin, elle met la main d'Helen sous l'eau froide de la pompe.",
+     1.4
+    ],
+    [
+     "Dans l'autre main, elle épelle le mot eau. Encore. Et encore.",
+     1.6
+    ],
+    [
+     "Soudain, Helen s'immobilise. Elle a *compris*. Chaque chose a un nom.",
+     1.8
+    ],
+    [
+     "Ce jour-là, elle veut le nom de tout ce qu'elle touche. Même celui d'Anne : maîtresse.",
+     1.4
+    ],
+    [
+     "Helen deviendra la première personne sourde et aveugle diplômée d'une université. Anne restera à ses côtés près de cinquante ans.",
+     1.4
+    ],
+    [
+     "Toi, tu as peut-être l'impression de répéter la même chose sans que rien ne change.",
+     1.2
+    ],
+    [
+     "Continue. Un jour, quelqu'un sentira l'*eau*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

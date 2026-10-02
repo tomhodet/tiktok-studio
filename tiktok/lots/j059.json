@@ -1,0 +1,356 @@
+{
+ "nom": "j059",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j059_grandmere",
+   "perso": "grandmere",
+   "episode": 60,
+   "fin": "Envoie-la à l'amie qui t'a passé le volant.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai appris à conduire en cachette.",
+   "legende": "Choisis des amies qui te passent le volant. Et toi, quelle amie t'a appris à ne pas demander la permission ? #grandmere #amitie #humour #liberte #femmes #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-quinze, j'ai appris à conduire en *cachette*. Avec ma meilleure amie.",
+     1.3
+    ],
+    [
+     "Ton grand-père refusait de m'apprendre. Pour lui, une femme au volant, c'était un danger public.",
+     1.2
+    ],
+    [
+     "Alors Simone m'emmenait tous les dimanches derrière le cimetière, dans sa vieille voiture.",
+     1.2
+    ],
+    [
+     "Le premier dimanche, j'ai calé onze fois. Elle comptait à voix haute.",
+     1.4
+    ],
+    [
+     "Le troisième, j'ai fini dans un champ de betteraves. Elle a juste dit : on recommence.",
+     1.4
+    ],
+    [
+     "Pendant un an, ton grand-père a cru que j'allais aux vêpres.",
+     1.4
+    ],
+    [
+     "J'ai eu mon permis du premier coup. Je l'ai caché dans ma boîte à couture.",
+     1.4
+    ],
+    [
+     "Un soir d'hiver, la voiture de ton grand-père est tombée en panne à vingt kilomètres.",
+     1.2
+    ],
+    [
+     "Il a téléphoné pour qu'on envoie un voisin. C'est moi qui suis *arrivée*. Au volant.",
+     1.8
+    ],
+    [
+     "Il est monté sans un mot. Il n'a rien dit du trajet.",
+     1.4
+    ],
+    [
+     "En descendant, il a juste soufflé : tu conduis mieux que moi.",
+     1.6
+    ],
+    [
+     "Simone ne m'a pas seulement appris à conduire. Elle m'a appris à ne pas demander la permission.",
+     1.4
+    ],
+    [
+     "Choisis des amies qui te passent le *volant*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j059_grandpere",
+   "perso": "grandpere",
+   "episode": 61,
+   "fin": "Envoie-la à l'ami qui t'a déjà pris les clés.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Il a refusé de trinquer avec moi.",
+   "legende": "Un ami qui refuse de trinquer avec toi t'aime plus que dix qui remplissent ton verre. Et toi, quel ami t'a déjà dit non pour te protéger ? #grandpere #amitie #prudence #emotion #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Un soir de mille neuf cent soixante-quatorze, mon meilleur ami a refusé de *trinquer* avec moi.",
+     1.3
+    ],
+    [
+     "C'était la fête du village. J'avais bu plus que de raison. Comme souvent, à l'époque.",
+     1.2
+    ],
+    [
+     "Je lui ai tendu mon verre. Il a gardé le sien sur la table.",
+     1.4
+    ],
+    [
+     "Il a dit : je ne trinque pas avec un homme qui va reprendre sa voiture.",
+     1.6
+    ],
+    [
+     "Tout le monde a entendu. J'ai eu honte. Puis j'ai été furieux.",
+     1.4
+    ],
+    [
+     "Je me suis levé pour partir. Il m'a pris les clés dans la main.",
+     1.2
+    ],
+    [
+     "On a failli se battre devant toute la salle.",
+     1.4
+    ],
+    [
+     "Puis il m'a raccompagné à pied. Six kilomètres, dans la nuit, sans un mot.",
+     1.4
+    ],
+    [
+     "Le lendemain, je ne lui ai pas parlé. Ni la semaine suivante.",
+     1.4
+    ],
+    [
+     "Un mois plus tard, au même virage, un jeune du village s'est tué. Il rentrait d'un bal.",
+     1.8
+    ],
+    [
+     "Je suis allé frapper chez mon ami. Il a sorti deux verres. Et une carafe d'*eau*.",
+     1.6
+    ],
+    [
+     "Depuis ce soir-là, je n'ai plus jamais conduit après avoir bu.",
+     1.4
+    ],
+    [
+     "Un ami qui refuse de trinquer avec toi t'aime plus que dix qui remplissent ton *verre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j059_pere",
+   "perso": "pere",
+   "episode": 60,
+   "fin": "Envoie-la à l'ami qui t'attend depuis trop longtemps.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Quand tu es né, j'ai perdu un ami.",
+   "legende": "Les vrais amis ne partent pas. Ils attendent que tu reviennes. Et toi, quel ami as-tu laissé de côté sans le vouloir ? #papa #pere #amitie #parentalite #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu es né, j'ai perdu mon meilleur ami. Il n'est pas mort. Il n'avait pas d'*enfants*.",
+     1.3
+    ],
+    [
+     "Avec Thierry, on faisait tout ensemble. Les concerts, la moto, les nuits à refaire le monde.",
+     1.2
+    ],
+    [
+     "Puis tu es arrivé. Les biberons, les nuits blanches, les dimanches au parc.",
+     1.2
+    ],
+    [
+     "J'annulais nos sorties. Une fois, deux fois, dix fois.",
+     1.4
+    ],
+    [
+     "Il a arrêté d'appeler. Moi, je n'ai pas eu la force de le rappeler.",
+     1.4
+    ],
+    [
+     "Pendant dix-huit ans, on s'est envoyé des cartes de vœux. C'est tout.",
+     1.4
+    ],
+    [
+     "Le jour où tu es parti pour tes études, la maison est devenue si silencieuse.",
+     1.4
+    ],
+    [
+     "Le soir même, on a sonné à la porte.",
+     1.6
+    ],
+    [
+     "C'était Thierry, avec deux places de *concert* à la main.",
+     1.8
+    ],
+    [
+     "Il a dit : dix-huit ans que j'attends que tu sois libre. On y va ?",
+     1.6
+    ],
+    [
+     "Ta mère l'avait prévenu. Elle savait ce qui allait me manquer.",
+     1.4
+    ],
+    [
+     "On a chanté comme deux adolescents. On avait presque cinquante ans.",
+     1.4
+    ],
+    [
+     "Il ne m'a jamais reproché ces années. Il avait juste attendu.",
+     1.4
+    ],
+    [
+     "Les vrais amis ne partent pas. Ils attendent que tu *reviennes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j059_mere",
+   "perso": "mere",
+   "episode": 60,
+   "fin": "Envoie-la à l'amie qui reste au bout du fil.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Cinq heures au téléphone à parler de rosiers.",
+   "legende": "Une vraie amie ne te dit pas que tout ira bien. Elle reste au bout du fil jusqu'à ce que ce soit vrai. Et toi, qui appelles-tu quand tu as peur la nuit ? #maman #mere #amitie #humour #inquietude #pourtoi",
+   "phrases": [
+    [
+     "La nuit de ton premier concert, je suis restée cinq heures au téléphone. À parler de *rosiers*.",
+     1.3
+    ],
+    [
+     "Tu avais seize ans. Tu devais rentrer à minuit. Ton portable ne répondait plus.",
+     1.2
+    ],
+    [
+     "À minuit et demi, j'ai appelé Sylvie. Ma meilleure amie.",
+     1.2
+    ],
+    [
+     "Elle ne m'a pas dit que tout allait bien se passer. Elle m'a parlé de ses rosiers.",
+     1.4
+    ],
+    [
+     "La taille, les pucerons, le marc de café au pied, les variétés anciennes.",
+     1.2
+    ],
+    [
+     "Pendant cinq heures, elle n'a pas raccroché.",
+     1.4
+    ],
+    [
+     "À cinq heures du matin, tu es rentré, tes chaussures à la main.",
+     1.4
+    ],
+    [
+     "J'ai dit : il est là. Elle a dit : bon, je vais me coucher.",
+     1.2
+    ],
+    [
+     "Elle travaillait à huit heures.",
+     1.6
+    ],
+    [
+     "Le mois dernier, je lui ai demandé un conseil pour mes roses.",
+     1.4
+    ],
+    [
+     "Elle a éclaté de rire. Elle déteste le jardinage. Elle n'y connaît rien.",
+     1.8
+    ],
+    [
+     "Cette nuit-là, elle lisait le livre de jardinage de son mari. Page après page, pendant cinq heures.",
+     1.6
+    ],
+    [
+     "Une vraie amie ne te dit pas que tout ira bien.",
+     1.2
+    ],
+    [
+     "Elle reste au bout du fil jusqu'à ce que ce soit *vrai*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j059_fou",
+   "perso": "fou",
+   "episode": 59,
+   "fin": "Envoie-la à quelqu'un qui t'a ouvert sa porte.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Quelques jours. Il est resté vingt-deux ans.",
+   "legende": "N'oublie jamais qui t'a ouvert sa porte quand tu n'étais personne. Et toi, qui t'a ouvert sa porte quand tu n'avais rien ? #motivation #chanson #brassens #amitie #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quarante-quatre, une femme ouvre sa porte à un jeune homme de vingt-deux ans.",
+     1.3
+    ],
+    [
+     "Il doit rester quelques jours. Il restera *vingt-deux* ans.",
+     1.6
+    ],
+    [
+     "Il a fui le travail obligatoire en Allemagne. Il n'a nulle part où aller.",
+     1.2
+    ],
+    [
+     "Elle s'appelle Jeanne. Elle vit avec son mari dans une petite maison, au fond d'une impasse de Paris.",
+     1.4
+    ],
+    [
+     "Pas d'eau courante, pas d'électricité. Des chats partout. Et une cane.",
+     1.4
+    ],
+    [
+     "Le jeune homme écrit des poèmes et des chansons. Pendant des années, ils n'intéressent personne.",
+     1.2
+    ],
+    [
+     "Il vit de presque rien. Jeanne le nourrit comme elle peut.",
+     1.4
+    ],
+    [
+     "En mille neuf cent cinquante-deux, une chanteuse célèbre l'écoute et le pousse sur scène.",
+     1.4
+    ],
+    [
+     "Il est terriblement timide. Le succès arrive quand même.",
+     1.4
+    ],
+    [
+     "Riche et célèbre, il pourrait partir. Il reste chez Jeanne, au fond de l'impasse.",
+     1.8
+    ],
+    [
+     "Il lui écrit une chanson. Elle parle d'une auberge ouverte aux gens sans feu ni lieu.",
+     1.6
+    ],
+    [
+     "Cet homme s'appelait Georges Brassens.",
+     1.6
+    ],
+    [
+     "Un jour, toi aussi, tu réussiras peut-être.",
+     1.2
+    ],
+    [
+     "Ce jour-là, n'oublie jamais qui t'a ouvert sa *porte* quand tu n'étais personne.",
+     0
+    ]
+   ]
+  }
+ ]
+}

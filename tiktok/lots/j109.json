@@ -1,0 +1,356 @@
+{
+ "nom": "j109",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j109_grandmere",
+   "perso": "grandmere",
+   "episode": 110,
+   "fin": "Envoie-la à quelqu'un qui accuse toujours les autres trop vite.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai accusé mon frère pendant trente ans.",
+   "legende": "Avant d'accuser quelqu'un de ta famille, fouille d'abord tes propres tiroirs. Et toi, as-tu déjà accusé quelqu'un à tort ? #grandmere #frere #famille #pardon #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant trente ans, j'ai accusé mon frère d'avoir gardé l'*album* de famille.",
+     1.3
+    ],
+    [
+     "Toutes les photos de nos parents. Leur mariage, nos communions, la ferme.",
+     1.2
+    ],
+    [
+     "Après l'enterrement de notre mère, l'album avait disparu. Lui seul avait les clés.",
+     1.4
+    ],
+    [
+     "Il m'a dit une fois : cherche chez toi. J'ai raccroché.",
+     1.4
+    ],
+    [
+     "Trente ans sans un mot. Ni aux mariages, ni aux baptêmes.",
+     1.2
+    ],
+    [
+     "L'an dernier, j'ai vidé mon grenier pour déménager.",
+     1.2
+    ],
+    [
+     "Au fond d'une malle, sous des rideaux, il y avait l'album. Avec ma propre écriture sur l'étiquette.",
+     1.6
+    ],
+    [
+     "Je l'avais emporté moi-même, le soir de l'enterrement. Et j'avais oublié.",
+     1.6
+    ],
+    [
+     "J'ai appelé mon frère. Je lui ai dit pardon. Il n'a pas eu l'air surpris.",
+     1.4
+    ],
+    [
+     "Il a dit : je sais. Je t'ai vue le prendre, ce soir-là.",
+     1.8
+    ],
+    [
+     "J'ai demandé pourquoi il ne me l'avait jamais rappelé. Il a dit : tu avais tant de *chagrin*.",
+     1.6
+    ],
+    [
+     "Il a ajouté : tu en avais plus besoin que moi.",
+     1.4
+    ],
+    [
+     "Il a accepté trente ans d'accusation. Pour me laisser mes photos.",
+     1.4
+    ],
+    [
+     "Avant d'accuser quelqu'un de ta famille, fouille d'abord tes propres *tiroirs*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j109_grandpere",
+   "perso": "grandpere",
+   "episode": 111,
+   "fin": "Envoie-la à quelqu'un qui a un gendarme dans la famille.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon fils gendarme m'a mis une amende.",
+   "legende": "On peut faire son devoir et aimer son père. Le même jour. Et toi, as-tu déjà dû dire non à quelqu'un que tu aimes ? #grandpere #pere #fils #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "Ton oncle est gendarme. Moi, j'ai été *braconnier* toute ma vie.",
+     1.3
+    ],
+    [
+     "Des collets, des lapins, des truites à la main. Mon père faisait pareil. Et son père avant lui.",
+     1.2
+    ],
+    [
+     "Quand ton oncle est entré à la gendarmerie, je n'ai pas dormi de la nuit.",
+     1.4
+    ],
+    [
+     "Pendant vingt ans, à Noël, on évitait un sujet. La chasse.",
+     1.4
+    ],
+    [
+     "Un matin d'octobre, au bord de l'étang, une voiture bleue s'est arrêtée derrière moi.",
+     1.2
+    ],
+    [
+     "J'avais trois truites dans ma musette. Et c'est mon fils qui est descendu.",
+     1.6
+    ],
+    [
+     "Il m'a regardé. J'ai regardé les truites. Personne n'a parlé.",
+     1.4
+    ],
+    [
+     "Puis il a sorti son carnet. Et il m'a mis une amende. À moi. Son père.",
+     1.6
+    ],
+    [
+     "J'ai claqué la portière de ma camionnette. J'étais furieux.",
+     1.4
+    ],
+    [
+     "Le soir, il est venu dîner. Il a posé un papier sur la table.",
+     1.4
+    ],
+    [
+     "C'était le reçu de l'*amende*. Il l'avait payée lui-même.",
+     1.8
+    ],
+    [
+     "Il a dit : la loi, c'est mon travail. Toi, tu es mon père.",
+     1.6
+    ],
+    [
+     "On a mangé les truites ensemble. Je ne braconne plus. Enfin, presque plus.",
+     1.4
+    ],
+    [
+     "On peut faire son devoir et aimer son père. Le même *jour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j109_pere",
+   "perso": "pere",
+   "episode": 110,
+   "fin": "Envoie-la à quelqu'un qui joue le facteur entre ses parents.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Soupe dans un sens, miel dans l'autre.",
+   "legende": "Mes parents ne s'aiment plus. Mais ils n'ont jamais arrêté de se nourrir. Et toi, as-tu déjà joué le facteur entre tes parents ? #papa #pere #parents #divorce #humour #pourtoi",
+   "phrases": [
+    [
+     "À cinquante ans, j'ai vécu ma première garde *alternée*. Mes parents venaient de divorcer.",
+     1.3
+    ],
+    [
+     "Ils avaient soixante-quinze ans. Cinquante-deux ans de mariage. Ma mère est partie un mardi.",
+     1.2
+    ],
+    [
+     "Elle a dit : je veux finir ma vie sans la télévision à fond.",
+     1.4
+    ],
+    [
+     "Du jour au lendemain, je suis devenu l'enfant du divorce. À cinquante ans, avec des cheveux gris.",
+     1.4
+    ],
+    [
+     "Le samedi chez mon père, le dimanche chez ma mère. Deux déjeuners, deux desserts.",
+     1.2
+    ],
+    [
+     "À Noël, j'ai fait deux réveillons. J'ai pris trois kilos.",
+     1.4
+    ],
+    [
+     "Chacun me posait des questions sur l'autre. L'air de rien. En regardant ailleurs.",
+     1.4
+    ],
+    [
+     "Un dimanche, ma mère m'a donné une boîte de soupe. Pour ton père. Il ne mange rien de chaud.",
+     1.6
+    ],
+    [
+     "Le samedi suivant, mon père m'a donné un pot de miel. Pour ta mère. Elle tousse.",
+     1.6
+    ],
+    [
+     "Ils ne vivaient plus ensemble. Mais ils s'inquiétaient l'un pour l'*autre*. Par mon coffre de voiture.",
+     1.8
+    ],
+    [
+     "Aujourd'hui encore, je fais le facteur. Soupe dans un sens, miel dans l'autre.",
+     1.4
+    ],
+    [
+     "On peut se séparer et continuer à prendre soin de quelqu'un.",
+     1.2
+    ],
+    [
+     "Mes parents ne s'aiment plus. Mais ils n'ont jamais arrêté de se *nourrir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j109_mere",
+   "perso": "mere",
+   "episode": 110,
+   "fin": "Envoie-la à quelqu'un qui ne parle plus à sa belle-sœur.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Le meilleur café de ma vie était infect.",
+   "legende": "Il faut parfois une nuit d'hôpital pour découvrir qu'on est dans la même équipe. Et toi, avec qui dans ta famille devrais-tu boire un café ? #maman #mere #bellesoeur #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix ans, ta tante Christine ne m'a jamais adressé la *parole*. Sauf pour me corriger.",
+     1.3
+    ],
+    [
+     "C'est la sœur de ton père. Elle trouvait que je n'étais pas assez bien pour lui.",
+     1.2
+    ],
+    [
+     "Aux repas de famille, elle s'asseyait toujours le plus loin possible de moi.",
+     1.2
+    ],
+    [
+     "Une nuit d'hiver, ton père a eu un accident de voiture. On m'a appelée à deux heures du matin.",
+     1.4
+    ],
+    [
+     "Dans la salle d'attente de l'hôpital, il y avait déjà quelqu'un. Christine.",
+     1.6
+    ],
+    [
+     "On s'est assises chacune à un bout de la rangée. Sans un mot.",
+     1.4
+    ],
+    [
+     "Vers quatre heures, elle est allée à la machine. Elle est revenue avec deux cafés.",
+     1.4
+    ],
+    [
+     "Elle m'en a tendu un. Il était infect. C'est le meilleur café de ma vie.",
+     1.4
+    ],
+    [
+     "Quand le chirurgien est sorti, elle m'a pris la main. Sans réfléchir.",
+     1.4
+    ],
+    [
+     "Elle a dit : on va s'en sortir. Pour la première fois, elle me comptait dans la *famille*.",
+     1.8
+    ],
+    [
+     "Ton père s'en est sorti. Et moi, j'en suis sortie avec une sœur.",
+     1.4
+    ],
+    [
+     "Il faut parfois une nuit d'hôpital pour découvrir qu'on est dans la même équipe.",
+     1.2
+    ],
+    [
+     "N'attends pas la salle d'attente. Paie le café *avant*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j109_fou",
+   "perso": "fou",
+   "episode": 109,
+   "fin": "Envoie-la à quelqu'un qui souffle toujours trop fort.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Le premier qui lui retire son manteau.",
+   "legende": "La force fait serrer les manteaux. La douceur les fait tomber. Et toi, qui as-tu réussi à convaincre avec douceur ? #motivation #fable #esope #sagesse #famille #pourtoi",
+   "phrases": [
+    [
+     "Dans une fable d'Ésope, le Vent du Nord et le Soleil se disputent. Qui est le plus *fort* ?",
+     1.3
+    ],
+    [
+     "Sur la route, un voyageur marche, enveloppé dans son manteau.",
+     1.2
+    ],
+    [
+     "Ils font un pari : le premier qui lui retire son manteau a gagné.",
+     1.2
+    ],
+    [
+     "Le Vent commence. Il souffle fort. Puis plus fort encore.",
+     1.4
+    ],
+    [
+     "Les arbres plient. Les tuiles s'envolent. Le voyageur a froid.",
+     1.2
+    ],
+    [
+     "Alors il serre son manteau contre lui. De toutes ses forces.",
+     1.4
+    ],
+    [
+     "Plus le Vent souffle, plus l'homme s'accroche. Le Vent finit par abandonner.",
+     1.6
+    ],
+    [
+     "Le Soleil, lui, ne force rien. Il sort doucement des nuages. Il réchauffe.",
+     1.4
+    ],
+    [
+     "Le voyageur desserre son col. Puis il ouvre son manteau.",
+     1.4
+    ],
+    [
+     "Et bientôt, il l'enlève de lui-même. Sans que personne ne le lui *demande*.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu as peut-être quelqu'un à convaincre. Un enfant, un frère, un parent têtu.",
+     1.4
+    ],
+    [
+     "Plus tu cries, plus il serre son manteau.",
+     1.4
+    ],
+    [
+     "La force fait serrer les manteaux. La douceur les fait tomber.",
+     1.2
+    ],
+    [
+     "Ne souffle pas plus fort. *Réchauffe*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "nom": "j072",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j072_grandmere",
+   "perso": "grandmere",
+   "episode": 73,
+   "fin": "Envoie-la à quelqu'un qui va bientôt se marier.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Ma robe de mariée a servi douze fois.",
+   "legende": "Ce qu'on garde pour soi s'abîme dans une armoire. Ce qu'on prête devient une histoire. Et toi, qu'est-ce qui a fait le tour de ta famille ? #grandmere #mariage #generosite #souvenirs #famille #pourtoi",
+   "phrases": [
+    [
+     "Ma robe de mariée a été portée par douze *mariées*.",
+     1.3
+    ],
+    [
+     "Je l'avais payée avec deux ans d'économies. Un satin blanc, avec un col de dentelle.",
+     1.2
+    ],
+    [
+     "Après mon mariage, ma voisine Josette s'est mariée. Elle n'avait rien.",
+     1.2
+    ],
+    [
+     "Je lui ai prêté ma robe. Elle me l'a rendue avec un petit J brodé dans la doublure.",
+     1.4
+    ],
+    [
+     "Puis la fille du boulanger. Puis une cousine. Puis une inconnue du village voisin.",
+     1.2
+    ],
+    [
+     "Chaque fois, on l'ajustait. On reprenait la taille, on rallongeait l'ourlet.",
+     1.2
+    ],
+    [
+     "Et chaque fois, la mariée brodait son initiale dans la doublure. C'était devenu la règle.",
+     1.4
+    ],
+    [
+     "Ton grand-père disait : cette robe a plus de maris que toi de cheveux blancs.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, il y a onze initiales à l'intérieur. Plus la mienne.",
+     1.4
+    ],
+    [
+     "La dernière date de mille neuf cent quatre-vingt-dix-huit. C'est celle de ta *mère*.",
+     1.8
+    ],
+    [
+     "On croit qu'une belle robe sert une seule fois. La mienne a servi douze fois.",
+     1.4
+    ],
+    [
+     "Ce qu'on garde pour soi s'abîme dans une armoire. Ce qu'on prête devient une histoire.",
+     1.4
+    ],
+    [
+     "Elle t'attend dans l'armoire. Il reste de la place pour une *initiale*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j072_grandpere",
+   "perso": "grandpere",
+   "episode": 74,
+   "fin": "Envoie-la à quelqu'un avec qui tu dois recoller les morceaux.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai déchiré un billet de cinq cents francs.",
+   "legende": "Un billet coupé en deux ne vaut rien. Deux frères non plus. Et toi, avec qui tu as une moitié de billet à recoller ? #grandpere #heritage #freres #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Un dimanche, à table, j'ai déchiré un billet de cinq cents francs en *deux*.",
+     1.3
+    ],
+    [
+     "Ta grand-mère a crié. Ton père et ton oncle ont arrêté de manger.",
+     1.2
+    ],
+    [
+     "Ils venaient encore de se disputer. Pour un terrain, je crois.",
+     1.2
+    ],
+    [
+     "Depuis tout petits, ils se battaient pour tout. Le dernier biscuit, la meilleure place.",
+     1.2
+    ],
+    [
+     "J'ai donné une moitié à chacun. J'ai dit : un jour, vous vous disputerez pour mon héritage.",
+     1.4
+    ],
+    [
+     "Ce billet ne vaudra quelque chose que le jour où vous le recollerez *ensemble*.",
+     1.6
+    ],
+    [
+     "Ils ont ri. Ils ont rangé leur moitié.",
+     1.4
+    ],
+    [
+     "Il y a cinq ans, ils ne se parlaient plus. Une histoire d'argent, évidemment.",
+     1.2
+    ],
+    [
+     "Un soir de Noël, ton oncle a sonné chez ton père. Sans prévenir.",
+     1.4
+    ],
+    [
+     "Il a sorti sa moitié de billet, toute jaunie. Ton père a ouvert son portefeuille.",
+     1.4
+    ],
+    [
+     "La sienne y était encore. Pliée en quatre. Depuis trente ans.",
+     1.8
+    ],
+    [
+     "Ils l'ont recollé avec du ruban adhésif. Comme deux gamins.",
+     1.4
+    ],
+    [
+     "Le billet est encadré chez moi. Il ne vaut plus rien à la *banque*.",
+     1.4
+    ],
+    [
+     "Un billet coupé en deux ne vaut rien. Deux frères non plus.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j072_pere",
+   "perso": "pere",
+   "episode": 73,
+   "fin": "Envoie-la à quelqu'un qui comptait tout au supermarché.",
+   "lueurs": [
+    1,
+    10,
+    12
+   ],
+   "accroche": "Ce n'était pas un jeu.",
+   "legende": "Tu crois que je t'ai appris à compter. En vrai, tu comptais pour nous deux. Et toi, quel jeu de ton enfance tu comprends autrement aujourd'hui ? #papa #pere #enfance #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "Tous les samedis, au supermarché, je te donnais la *calculatrice*.",
+     1.3
+    ],
+    [
+     "Tu avais huit ans. Tu adorais ça. Tu te prenais pour un banquier.",
+     1.2
+    ],
+    [
+     "La règle du jeu était simple : on ne dépasse pas trente euros.",
+     1.2
+    ],
+    [
+     "Tu additionnais chaque article. Le lait, les pâtes, le jambon, la lessive.",
+     1.0
+    ],
+    [
+     "Quand on dépassait, tu choisissais toi-même ce qu'on reposait. Souvent, c'était tes biscuits.",
+     1.2
+    ],
+    [
+     "Un samedi, tu as crié dans le rayon : vingt-neuf euros soixante ! Il reste quarante centimes !",
+     1.4
+    ],
+    [
+     "Tu m'as demandé un sucre d'orge avec. J'ai dit oui. Tu étais le roi du magasin.",
+     1.4
+    ],
+    [
+     "Ta maîtresse disait que tu étais le meilleur en calcul mental. J'étais fier.",
+     1.4
+    ],
+    [
+     "Ce que tu ne savais pas, c'est que ce n'était pas un *jeu*.",
+     1.8
+    ],
+    [
+     "Dans mon portefeuille, il y avait trente euros. Pas un de plus. Pour toute la semaine.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu travailles dans une banque. Tu ne sais toujours pas d'où vient ta vocation.",
+     1.4
+    ],
+    [
+     "Tu crois que je t'ai appris à compter. En vrai, tu comptais pour nous *deux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j072_mere",
+   "perso": "mere",
+   "episode": 73,
+   "fin": "Envoie-la à quelqu'un qui vient de toucher son premier salaire.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai pleuré dans ma voiture.",
+   "legende": "Qu'il gagne plus que moi. Et qu'il se fatigue moins. C'était mon seul vœu. Et toi, tu gagnes déjà plus que tes parents ? #maman #mere #premierepaie #fierte #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour où tu m'as annoncé ton premier salaire, j'ai pleuré dans ma *voiture*.",
+     1.3
+    ],
+    [
+     "Tu m'as appelée à midi, tout fier. Tu m'as donné le chiffre.",
+     1.2
+    ],
+    [
+     "C'était plus que ce que je gagne aujourd'hui. Après trente ans de travail.",
+     1.2
+    ],
+    [
+     "J'ai dit : bravo, mon grand. Je suis fière de toi. Et j'ai raccroché vite.",
+     1.4
+    ],
+    [
+     "Puis je suis restée vingt minutes devant le supermarché, le front sur le volant.",
+     1.4
+    ],
+    [
+     "Tu as dû croire que j'étais jalouse. Un peu vexée, peut-être.",
+     1.2
+    ],
+    [
+     "Ce n'était pas ça. Pas du tout.",
+     1.6
+    ],
+    [
+     "Le jour de ta naissance, à la maternité, j'ai fait un seul vœu en te regardant.",
+     1.4
+    ],
+    [
+     "Qu'il gagne plus que moi. Et qu'il se fatigue *moins*.",
+     1.8
+    ],
+    [
+     "Pendant vingt-cinq ans, j'ai fait des ménages, des doubles journées, des nuits courtes.",
+     1.4
+    ],
+    [
+     "Et ce midi-là, au téléphone, mon vœu venait de se réaliser. À voix haute.",
+     1.6
+    ],
+    [
+     "On dit que les parents veulent que leurs enfants réussissent. C'est faux.",
+     1.2
+    ],
+    [
+     "On veut qu'ils réussissent mieux que nous. Plus loin, plus haut.",
+     1.4
+    ],
+    [
+     "Ton premier salaire, c'était mon vœu de maternité. Il m'a fallu vingt-cinq ans pour le *toucher*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j072_fou",
+   "perso": "fou",
+   "episode": 72,
+   "fin": "Envoie-la à quelqu'un qui doit repartir ailleurs.",
+   "lueurs": [
+    1,
+    7,
+    15
+   ],
+   "accroche": "Une seule ligne dans son bail.",
+   "legende": "Si on t'a pris ta place, ne passe pas ta vie à la réclamer. Va en construire une autre. Et toi, qu'est-ce que tu as reconstruit ailleurs ? #motivation #entrepreneur #echec #recommencer #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quarante-cinq, un jeune homme rachète un petit magasin, en Arkansas.",
+     1.3
+    ],
+    [
+     "Il a vingt-sept ans, et l'argent vient surtout de son beau-père.",
+     1.2
+    ],
+    [
+     "Il baisse les prix, il essaie tout, il copie les meilleurs.",
+     1.2
+    ],
+    [
+     "En cinq ans, son magasin devient le meilleur de toute la région.",
+     1.4
+    ],
+    [
+     "Mais il a fait une erreur. Une seule *ligne*, dans son bail.",
+     1.4
+    ],
+    [
+     "Le contrat ne prévoit aucun renouvellement. Et le propriétaire a vu son succès.",
+     1.2
+    ],
+    [
+     "Il refuse de renouveler. Il veut le magasin pour son propre fils.",
+     1.8
+    ],
+    [
+     "Il doit tout vendre et partir.",
+     1.4
+    ],
+    [
+     "Il dira que ce fut le pire moment de sa vie professionnelle.",
+     1.6
+    ],
+    [
+     "Il recommence de zéro, dans une ville encore plus petite.",
+     1.4
+    ],
+    [
+     "Douze ans plus tard, il ouvre un magasin plus grand, aux prix encore plus bas.",
+     1.2
+    ],
+    [
+     "Son entreprise deviendra la plus grande chaîne de magasins du *monde*.",
+     1.6
+    ],
+    [
+     "Cet homme s'appelait Sam Walton.",
+     1.6
+    ],
+    [
+     "Si on t'a pris ta place, ne passe pas ta vie à la réclamer.",
+     1.4
+    ],
+    [
+     "Va en construire une autre. Plus loin, plus petite d'abord. Et puis *immense*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

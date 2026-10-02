@@ -1,0 +1,356 @@
+{
+ "nom": "j071",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j071_grandmere",
+   "perso": "grandmere",
+   "episode": 72,
+   "fin": "Envoie-la à quelqu'un qui note encore tout dans un cahier.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Quarante cahiers de comptes dans l'armoire.",
+   "legende": "Les chiffres sont froids, paraît-il. Les miens racontent tout. Et toi, qu'est-ce que tes comptes raconteraient de ta vie ? #grandmere #famille #souvenirs #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "Depuis soixante ans, je note toutes mes dépenses dans des *cahiers* d'écolier.",
+     1.3
+    ],
+    [
+     "Il y en a quarante, dans l'armoire. Tu te moques de moi depuis que tu sais lire.",
+     1.2
+    ],
+    [
+     "Tu dis : mamie, plus personne ne fait ça. Il y a des applications.",
+     1.2
+    ],
+    [
+     "Alors écoute ce qu'il y a dedans.",
+     1.4
+    ],
+    [
+     "Mai soixante-huit : rien acheté pendant trois semaines. Ton grand-père était en grève.",
+     1.2
+    ],
+    [
+     "Juin soixante-dix : une poupée qui ferme les yeux. Ta mère avait deux ans.",
+     1.2
+    ],
+    [
+     "Mars quatre-vingt-un : un bouquet de roses. Le jour où ton grand-père est rentré de l'hôpital.",
+     1.4
+    ],
+    [
+     "Décembre quatre-vingt-quatorze : une couronne de fleurs. Ton arrière-grand-mère.",
+     1.6
+    ],
+    [
+     "Et juillet deux mille : un ours en peluche, et une bouteille de champagne. *Toi*.",
+     1.8
+    ],
+    [
+     "Les chiffres sont froids, paraît-il. Les miens racontent tout.",
+     1.4
+    ],
+    [
+     "Nos joies, nos peurs, nos deuils. Et ce qu'on était prêts à payer pour chacun.",
+     1.4
+    ],
+    [
+     "Quand je serai partie, ne jette pas mes cahiers. Lis-les.",
+     1.4
+    ],
+    [
+     "Tu verras combien on vous a aimés. Au *centime* près.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j071_grandpere",
+   "perso": "grandpere",
+   "episode": 73,
+   "fin": "Envoie-la à quelqu'un qui a eu honte de ses parents un jour.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Je suis entré à l'usine en sabots.",
+   "legende": "J'avais honte de ses sabots. Lui était fier de mes chaussures. Et toi, qu'est-ce que tes parents ont porté pour que tu aies mieux ? #grandpere #premierepaie #papa #fierte #emotion #pourtoi",
+   "phrases": [
+    [
+     "À quatorze ans, je suis entré à l'usine en *sabots*.",
+     1.3
+    ],
+    [
+     "Les autres apprentis avaient des chaussures de cuir. Ils m'ont surnommé le paysan.",
+     1.2
+    ],
+    [
+     "Toute la journée, j'entendais mes sabots claquer sur le béton. Comme une honte qui fait du bruit.",
+     1.4
+    ],
+    [
+     "À la fin du mois, j'ai reçu ma première paie. J'ai couru chez le cordonnier.",
+     1.2
+    ],
+    [
+     "Des chaussures noires, en vrai cuir. Presque tout mon salaire.",
+     1.2
+    ],
+    [
+     "Je suis rentré à la ferme en les portant. Je marchais comme un monsieur.",
+     1.4
+    ],
+    [
+     "Mon père était dans la cour. En sabots, comme toujours.",
+     1.2
+    ],
+    [
+     "Il a regardé mes chaussures. Puis ses sabots. Il n'a rien dit.",
+     1.6
+    ],
+    [
+     "J'ai cru que je l'avais blessé. Je n'ai pas dormi de la nuit.",
+     1.4
+    ],
+    [
+     "Le matin, mes chaussures étaient devant la porte. Cirées, brillantes comme des miroirs.",
+     1.6
+    ],
+    [
+     "Il s'était levé avant l'aube pour les cirer. Avec soin, comme un trésor.",
+     1.6
+    ],
+    [
+     "J'avais honte de ses sabots. Lui était *fier* de mes chaussures.",
+     1.8
+    ],
+    [
+     "Ses sabots, je les ai gardés. Ils sont dans le garage.",
+     1.4
+    ],
+    [
+     "Ne rougis jamais des sabots de ton père. C'est avec eux qu'il a payé tes *chaussures*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j071_pere",
+   "perso": "pere",
+   "episode": 72,
+   "fin": "Envoie-la à quelqu'un qui a grandi dans la même maison que toi.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Votre sœur nous a parlé du fantôme.",
+   "legende": "On croyait se disputer l'argent de la maison. On voulait juste ne pas la perdre. Et toi, quelle maison de famille tu ne voudrais jamais vendre ? #papa #pere #heritage #humour #famille #pourtoi",
+   "phrases": [
+    [
+     "La maison de tes grands-parents a été en vente pendant trois ans. Personne n'en a *voulu*.",
+     1.3
+    ],
+    [
+     "Ta tante et moi, on l'avait mise en vente après l'enterrement.",
+     1.2
+    ],
+    [
+     "Les visites s'enchaînaient. Les gens adoraient le jardin. Et ils ne rappelaient jamais.",
+     1.2
+    ],
+    [
+     "On accusait le marché, les taux, l'agence. On se disputait au téléphone.",
+     1.4
+    ],
+    [
+     "Un samedi, j'ai fait visiter à un jeune couple. J'ai insisté un peu sur l'humidité.",
+     1.2
+    ],
+    [
+     "Et sur le voisin qui joue de la trompette. Et sur la fissure du salon.",
+     1.4
+    ],
+    [
+     "La jeune femme m'a coupé : votre sœur nous a déjà parlé du *fantôme*.",
+     1.8
+    ],
+    [
+     "Je n'ai pas compris. Puis j'ai éclaté de rire, seul, dans la cuisine.",
+     1.6
+    ],
+    [
+     "Ta tante racontait à tout le monde qu'une dame en blanc vivait au grenier.",
+     1.4
+    ],
+    [
+     "Moi, j'inventais des fissures. Elle, des fantômes. Pendant trois ans.",
+     1.4
+    ],
+    [
+     "On croyait se disputer l'argent de la maison. On voulait juste ne pas la perdre.",
+     1.6
+    ],
+    [
+     "On l'a retirée de la vente. Aujourd'hui, on y passe tous les étés.",
+     1.4
+    ],
+    [
+     "Le fantôme du grenier, c'était nous. Deux enfants qui ne voulaient pas *partir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j071_mere",
+   "perso": "mere",
+   "episode": 72,
+   "fin": "Envoie-la à quelqu'un qui vient de devenir parent.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Tu m'as demandé combien tu coûtais.",
+   "legende": "Un enfant coûte une fortune. Mais il ne doit jamais rien. Et toi, tu as déjà demandé à tes parents combien tu coûtais ? #maman #mere #enfance #tendresse #argent #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais neuf ans, tu m'as demandé combien tu *coûtais*.",
+     1.3
+    ],
+    [
+     "Tu avais entendu à la radio qu'un enfant coûte une fortune jusqu'à ses dix-huit ans.",
+     1.2
+    ],
+    [
+     "Tu étais inquiet. Tu voulais savoir si on avait les moyens de te garder.",
+     1.4
+    ],
+    [
+     "Alors j'ai sorti une feuille, et je t'ai fait une facture. Très sérieuse.",
+     1.2
+    ],
+    [
+     "Couches, biberons, chaussures, cantine. Une fenêtre cassée avec un ballon.",
+     1.0
+    ],
+    [
+     "Trois cents nuits blanches. Une varicelle. Le vase préféré de ta grand-mère.",
+     1.2
+    ],
+    [
+     "En bas, j'ai écrit le total. Tu as ouvert de grands yeux.",
+     1.4
+    ],
+    [
+     "Puis j'ai ajouté une ligne : déjà payé le jour de ta naissance. Reste à payer : *rien*.",
+     1.8
+    ],
+    [
+     "Tu as gardé cette facture dans ta boîte à trésors. Je l'avais oubliée.",
+     1.4
+    ],
+    [
+     "Le mois dernier, ta fille est née. À la maternité, tu m'as tendu une enveloppe.",
+     1.4
+    ],
+    [
+     "Dedans, il y avait la vieille facture. Et un mot de ta main : à mon tour.",
+     1.8
+    ],
+    [
+     "Un enfant coûte une fortune. Mais il ne doit jamais rien.",
+     1.4
+    ],
+    [
+     "Garde cette facture. Et ne la présente jamais à *personne*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j071_fou",
+   "perso": "fou",
+   "episode": 71,
+   "fin": "Envoie-la à quelqu'un qui vient de perdre son travail.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Renvoyé de sa propre entreprise.",
+   "legende": "Si on vient de te mettre dehors, ce n'est peut-être pas une fin. C'est peut-être la première fois que tu es libre. Et toi, quelle porte fermée t'en a ouvert une autre ? #motivation #echec #entrepreneur #rebond #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "À trente ans, un homme est renvoyé de l'entreprise qu'il a lui-même *fondée*.",
+     1.3
+    ],
+    [
+     "Il l'avait créée à vingt et un ans, avec un ami.",
+     1.2
+    ],
+    [
+     "Il avait lui-même recruté le patron qui allait le mettre dehors.",
+     1.4
+    ],
+    [
+     "Le conseil d'administration choisit l'autre. Tout le pays l'apprend dans les journaux.",
+     1.4
+    ],
+    [
+     "Il se sent humilié. Il pense même à partir loin.",
+     1.4
+    ],
+    [
+     "Mais il se rend compte d'une chose : il aime toujours ce qu'il fait.",
+     1.4
+    ],
+    [
+     "Alors il recommence. Une nouvelle entreprise d'ordinateurs. Et un petit studio d'animation, qu'il rachète.",
+     1.2
+    ],
+    [
+     "Ce studio sort le premier long métrage entièrement fait par ordinateur. Un triomphe.",
+     1.4
+    ],
+    [
+     "Et onze ans après l'avoir renvoyé, son ancienne entreprise rachète la nouvelle.",
+     1.6
+    ],
+    [
+     "Il revient. Il reprend la tête de la maison qu'il avait fondée.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Steve Jobs.",
+     1.6
+    ],
+    [
+     "Des années plus tard, il dira : être renvoyé, c'est ce qui pouvait m'arriver de *mieux*.",
+     1.8
+    ],
+    [
+     "Le poids du succès avait laissé la place à la légèreté du débutant.",
+     1.4
+    ],
+    [
+     "Si on vient de te mettre dehors, ce n'est peut-être pas une fin.",
+     1.4
+    ],
+    [
+     "C'est peut-être la première fois depuis longtemps que tu es *libre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

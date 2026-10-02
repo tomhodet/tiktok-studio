@@ -1,0 +1,364 @@
+{
+ "nom": "j066",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j066_grandmere",
+   "perso": "grandmere",
+   "episode": 67,
+   "fin": "Envoie-la à quelqu'un qui garde le beau service pour plus tard.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Il n'a jamais bu dans ces tasses.",
+   "legende": "Ne garde rien pour plus tard. Les grandes occasions, c'est tous les matins où on est encore deux. Et toi, qu'est-ce que tu gardes pour une grande occasion ? #grandmere #couple #souvenirs #conseildevie #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant cinquante ans, j'ai gardé le beau *service* pour les grandes occasions.",
+     1.3
+    ],
+    [
+     "De la porcelaine blanche, avec un filet doré. Trois mois d'économies, l'année de notre mariage.",
+     1.2
+    ],
+    [
+     "Il dormait dans le buffet, enveloppé dans du papier journal.",
+     1.2
+    ],
+    [
+     "À Noël, on sortait la vaisselle ordinaire. On disait : le beau, c'est pour une vraie occasion.",
+     1.2
+    ],
+    [
+     "Les communions, les anniversaires, les fiançailles de ton père. Jamais assez grand.",
+     1.4
+    ],
+    [
+     "Ton grand-père est parti il y a deux ans. Un mardi, sans prévenir.",
+     1.6
+    ],
+    [
+     "Après l'enterrement, j'ai ouvert le buffet pour servir le café.",
+     1.2
+    ],
+    [
+     "Et j'ai compris qu'il n'avait jamais bu dans une seule de ces *tasses*.",
+     1.8
+    ],
+    [
+     "Cinquante ans à attendre une occasion. Elle était assise en face de moi, tous les matins.",
+     1.6
+    ],
+    [
+     "Depuis, je bois mon café dans le beau service. Tous les jours. Même le chat a sa soucoupe.",
+     1.4
+    ],
+    [
+     "Mardi, j'ai cassé une tasse. J'ai ri toute seule dans la cuisine.",
+     1.4
+    ],
+    [
+     "Enfin une tasse qui avait servi à quelque chose.",
+     1.6
+    ],
+    [
+     "Ne garde rien pour plus tard. Les grandes occasions, c'est tous les *matins* où on est encore deux.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j066_grandpere",
+   "perso": "grandpere",
+   "episode": 68,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas parler à quelqu'un.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai dépensé ma paie en fraises.",
+   "legende": "Si quelqu'un te plaît, parle-lui tout de suite. Ça coûte moins cher que les fraises. Et toi, qu'est-ce que tu as fait pour éviter de dire bonjour ? #grandpere #amour #humour #souvenirs #couple #pourtoi",
+   "phrases": [
+    [
+     "Pendant trois mois, j'ai dépensé la moitié de ma *paie* en fraises. Je déteste les fraises.",
+     1.3
+    ],
+    [
+     "C'était l'été mille neuf cent soixante-six. Ta grand-mère les vendait au marché, le samedi.",
+     1.2
+    ],
+    [
+     "Elle avait un chapeau de paille et un rire qu'on entendait depuis la fontaine.",
+     1.2
+    ],
+    [
+     "Moi, je n'osais pas lui parler. Alors j'achetais des fraises.",
+     1.2
+    ],
+    [
+     "Une barquette le premier samedi. Deux le suivant. À la fin, j'en prenais six.",
+     1.2
+    ],
+    [
+     "Ma mère en faisait de la confiture. Les voisins aussi. Tout le quartier sentait la fraise.",
+     1.4
+    ],
+    [
+     "Un samedi, j'ai tendu mon billet pour six barquettes, comme d'habitude.",
+     1.2
+    ],
+    [
+     "Elle a gardé le billet. Elle ne m'a donné aucune barquette.",
+     1.4
+    ],
+    [
+     "Elle a dit : vous savez, vous avez le droit de juste me *parler*.",
+     1.8
+    ],
+    [
+     "J'étais rouge comme sa marchandise.",
+     1.6
+    ],
+    [
+     "On s'est mariés l'année suivante. À la noce, il y avait une tarte aux fraises géante.",
+     1.4
+    ],
+    [
+     "Elle l'avait faite exprès. Elle a ri pendant tout le repas.",
+     1.2
+    ],
+    [
+     "Soixante ans plus tard, elle m'en sert encore chaque été. Et je les mange.",
+     1.4
+    ],
+    [
+     "Si quelqu'un te plaît, parle-lui tout de suite. Ça coûte moins cher que les *fraises*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j066_pere",
+   "perso": "pere",
+   "episode": 67,
+   "fin": "Envoie-la à quelqu'un qui a gardé une manie de son père.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Un billet dans sa chaussure gauche.",
+   "legende": "Les manies des pères ont l'air ridicules. Jusqu'au soir où elles te ramènent à la maison. Et toi, quelle manie de ton père tu as gardée ? #papa #pere #heritage #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon père cachait toujours un billet dans sa chaussure *gauche*. Je trouvais ça ridicule.",
+     1.3
+    ],
+    [
+     "Cent francs, plié en huit, sous la semelle. Toute sa vie.",
+     1.2
+    ],
+    [
+     "Il disait : un homme doit toujours pouvoir rentrer chez lui.",
+     1.4
+    ],
+    [
+     "Moi, je riais. J'avais une carte bancaire. J'étais moderne.",
+     1.2
+    ],
+    [
+     "L'été de tes six ans, on est partis en Espagne en voiture.",
+     1.2
+    ],
+    [
+     "Sur une aire d'autoroute, on m'a volé mon portefeuille. Les cartes, l'argent, tout.",
+     1.2
+    ],
+    [
+     "Le réservoir était presque vide. On était à mille kilomètres de la maison.",
+     1.4
+    ],
+    [
+     "Ta mère pleurait. Toi, tu me regardais. Moi, je ne savais plus quoi faire.",
+     1.4
+    ],
+    [
+     "Alors j'ai retiré ma chaussure gauche.",
+     1.6
+    ],
+    [
+     "Depuis la mort de ton grand-père, j'y cachais un billet. Par fidélité, pas par prudence.",
+     1.8
+    ],
+    [
+     "Cinquante euros, pliés en huit. Juste de quoi faire le plein et rentrer.",
+     1.6
+    ],
+    [
+     "Sur le chemin du retour, tu as retiré tes sandales pour vérifier. Tu étais déçu.",
+     1.4
+    ],
+    [
+     "Le jour de ton départ pour tes études, j'ai glissé un billet dans ta *chaussure*.",
+     1.4
+    ],
+    [
+     "Les manies des pères ont l'air ridicules. Jusqu'au soir où elles te ramènent à la *maison*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j066_mere",
+   "perso": "mere",
+   "episode": 67,
+   "fin": "Envoie-la à quelqu'un qui t'aidait en cachette.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Je t'envoyais de l'argent en cachette.",
+   "legende": "On croyait t'aider chacun dans notre coin. Tu nous as eus tous les deux, avec notre propre argent. Et toi, tes parents t'ont déjà aidé en cachette ? #maman #mere #humour #famille #argent #pourtoi",
+   "phrases": [
+    [
+     "Pendant deux ans, je t'ai envoyé de l'argent en cachette de ton *père*.",
+     1.3
+    ],
+    [
+     "Cent euros par mois, pour ton loyer d'étudiant.",
+     1.2
+    ],
+    [
+     "Ton père disait qu'à ton âge, il faut apprendre à se débrouiller seul.",
+     1.2
+    ],
+    [
+     "Alors je faisais les virements le mardi, pendant ma pause. Avec un petit cœur dans le libellé.",
+     1.2
+    ],
+    [
+     "Tu ne m'en as jamais parlé. Je trouvais ça très délicat de ta part.",
+     1.4
+    ],
+    [
+     "La deuxième année, ton père a oublié sa tablette ouverte sur la table de la cuisine.",
+     1.2
+    ],
+    [
+     "Un virement, chaque mois, pour toi. Cent euros. Avec un petit pouce levé.",
+     1.4
+    ],
+    [
+     "Il faisait exactement la même chose. *Lui* aussi, en cachette de moi.",
+     1.8
+    ],
+    [
+     "Depuis deux ans, tu touchais deux loyers. Et tu n'avais rien dit à personne.",
+     1.4
+    ],
+    [
+     "J'étais furieuse. J'ai préparé un grand discours.",
+     1.4
+    ],
+    [
+     "Et puis, pour nos vingt-cinq ans de mariage, tu nous as offert trois jours à Venise.",
+     1.6
+    ],
+    [
+     "Payé avec l'argent que tu avais mis de côté. Le nôtre. Deux fois.",
+     1.6
+    ],
+    [
+     "On croyait t'aider chacun dans notre coin. Tu nous as rassemblés.",
+     1.4
+    ],
+    [
+     "Tu nous as eus tous les deux. Avec notre propre *argent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j066_fou",
+   "perso": "fou",
+   "episode": 66,
+   "fin": "Envoie-la à quelqu'un qui partage tout ce qu'il a.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il a donné presque toute sa fortune.",
+   "legende": "Il a raté pour apprendre à gagner. Et il a gagné pour apprendre à donner. Et toi, qu'est-ce que tu ferais d'une fortune ? #motivation #entrepreneur #echec #generosite #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "À près de trente ans, un confiseur rentre chez lui ruiné. Après plusieurs *échecs*.",
+     1.3
+    ],
+    [
+     "À dix-huit ans, il avait ouvert sa propre boutique de bonbons à Philadelphie.",
+     1.2
+    ],
+    [
+     "Six ans de travail acharné. Puis la faillite.",
+     1.4
+    ],
+    [
+     "Il a tenté sa chance ailleurs. À New York, encore un échec.",
+     1.2
+    ],
+    [
+     "Mais en chemin, il a appris une recette : le caramel au lait frais.",
+     1.2
+    ],
+    [
+     "De retour chez lui, il recommence. Avec ce caramel.",
+     1.2
+    ],
+    [
+     "Cette fois, ça marche. Et très bien.",
+     1.4
+    ],
+    [
+     "En mille neuf cent, il vend tout. Pour un million de dollars.",
+     1.4
+    ],
+    [
+     "Avec cet argent, il se lance dans le chocolat. Il construit une usine, puis une ville pour ses ouvriers.",
+     1.2
+    ],
+    [
+     "Avec sa femme, il n'a pas pu avoir d'enfants.",
+     1.2
+    ],
+    [
+     "Alors ils ouvrent une école pour des garçons orphelins.",
+     1.4
+    ],
+    [
+     "Et en mille neuf cent dix-huit, il lui donne presque toute sa *fortune*.",
+     1.8
+    ],
+    [
+     "Cet homme s'appelait Milton Hershey. L'école existe toujours.",
+     1.6
+    ],
+    [
+     "Toi, tu crois peut-être que réussir, c'est garder.",
+     1.4
+    ],
+    [
+     "Lui a raté pour apprendre à gagner. Et il a gagné pour apprendre à *donner*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "nom": "j083",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j083_grandmere",
+   "perso": "grandmere",
+   "episode": 84,
+   "fin": "Envoie-la à quelqu'un qui tient toujours ses promesses.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'étais la seule en rouge.",
+   "legende": "Les promesses faites aux morts, personne ne vient les vérifier. C'est pour ça qu'il faut les tenir. Et toi, quelle couleur tu veux à ton enterrement ? #grandmere #amitie #deuil #promesse #humour #pourtoi",
+   "phrases": [
+    [
+     "À l'enterrement de ma meilleure amie, j'étais la seule en *rouge*.",
+     1.3
+    ],
+    [
+     "Quarante personnes en noir. Et moi, au premier rang, en robe rouge à pois.",
+     1.2
+    ],
+    [
+     "Le curé a toussé. Ta mère a fait semblant de ne pas me connaître.",
+     1.4
+    ],
+    [
+     "Josette et moi, on se connaissait depuis l'école. Soixante-quinze ans d'amitié.",
+     1.2
+    ],
+    [
+     "Un jour, elle m'avait dit : à mon enterrement, je veux qu'on soit en couleur. Promets-moi.",
+     1.2
+    ],
+    [
+     "J'avais promis en riant. On avait bu un peu trop de cidre.",
+     1.4
+    ],
+    [
+     "Le matin de l'enterrement, j'ai ouvert mon armoire. J'ai hésité longtemps.",
+     1.4
+    ],
+    [
+     "Et puis j'ai pensé à elle, à son rire, à ses chapeaux impossibles.",
+     1.4
+    ],
+    [
+     "Après la messe, son mari est venu vers moi. Il a pris mes mains.",
+     1.4
+    ],
+    [
+     "Il a dit : elle l'avait demandé à tout le monde. Vous êtes la seule à l'avoir *fait*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai compris une chose. Les promesses faites aux morts, personne ne vient les vérifier.",
+     1.4
+    ],
+    [
+     "C'est pour ça qu'il faut les tenir. Elles prouvent qu'on aimait vraiment.",
+     1.4
+    ],
+    [
+     "Et pour mon enterrement, je te préviens : je veux du *jaune*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j083_grandpere",
+   "perso": "grandpere",
+   "episode": 85,
+   "fin": "Envoie-la à quelqu'un qui a perdu quelque chose de précieux.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Mon alliance, autour d'une carotte.",
+   "legende": "Ce qu'on perd par amour ne disparaît pas. Ça attend sous la terre, le temps qu'il faut. Et toi, tu as déjà retrouvé un objet perdu depuis des années ? #grandpere #grandmere #humour #amour #jardin #pourtoi",
+   "phrases": [
+    [
+     "L'an dernier, j'ai retrouvé mon *alliance*. Elle avait poussé autour d'une carotte.",
+     1.3
+    ],
+    [
+     "Je l'avais perdue en mille neuf cent soixante-dix-neuf, en bêchant le potager.",
+     1.2
+    ],
+    [
+     "Ta grand-mère ne m'a pas parlé pendant trois jours. Elle croyait que je l'avais enlevée exprès.",
+     1.4
+    ],
+    [
+     "On a retourné tout le jardin. À genoux. Avec une passoire. Rien.",
+     1.2
+    ],
+    [
+     "J'en ai racheté une autre, plus fine. Ce n'était pas pareil.",
+     1.2
+    ],
+    [
+     "Pendant plus de quarante ans, j'ai planté des carottes au même endroit. Sans rien savoir.",
+     1.4
+    ],
+    [
+     "Et l'automne dernier, j'en arrache une. Elle est toute tordue, avec une taille de guêpe.",
+     1.4
+    ],
+    [
+     "Autour de sa taille, il y avait mon alliance.",
+     1.8
+    ],
+    [
+     "Ta grand-mère était partie depuis six mois. Elle n'a pas vu ça.",
+     1.6
+    ],
+    [
+     "Je suis resté assis dans la terre, une carotte à la main, à *rire* tout seul.",
+     1.4
+    ],
+    [
+     "Je l'entendais d'ici : tu vois bien que tu ne l'avais pas enlevée exprès.",
+     1.4
+    ],
+    [
+     "Maintenant, je porte les deux alliances au même doigt.",
+     1.4
+    ],
+    [
+     "Ce qu'on perd par amour ne disparaît pas. Ça attend sous la terre, le temps qu'il faut.",
+     1.4
+    ],
+    [
+     "Parfois, ça revient au moment où on en a le plus *besoin*. Autour d'une carotte.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j083_pere",
+   "perso": "pere",
+   "episode": 84,
+   "fin": "Envoie-la à quelqu'un qui appelle ses parents le dimanche.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "À midi pile, il a sonné.",
+   "legende": "Certaines choses ne s'apprennent pas. Elles se transmettent, sans que personne ne le sache. Et toi, tu appelles tes parents quel jour ? #papa #pere #deuil #transmission #famille #pourtoi",
+   "phrases": [
+    [
+     "Pendant trente ans, mon père m'a appelé tous les dimanches. À midi *pile*.",
+     1.3
+    ],
+    [
+     "Toujours la même question : alors, quoi de neuf ? Et il n'écoutait jamais la réponse.",
+     1.2
+    ],
+    [
+     "Il me parlait du temps qu'il faisait chez lui. Le même que chez moi.",
+     1.4
+    ],
+    [
+     "Il est mort un jeudi. Le dimanche suivant, à midi, j'ai regardé mon téléphone.",
+     1.6
+    ],
+    [
+     "Je savais qu'il ne sonnerait pas. Je l'ai regardé quand même.",
+     1.4
+    ],
+    [
+     "À midi pile, il a *sonné*.",
+     1.8
+    ],
+    [
+     "C'était toi. Tu étais en colocation, à l'autre bout de la France.",
+     1.4
+    ],
+    [
+     "Tu m'as dit : alors, papa, quoi de neuf ? Il pleut chez toi ?",
+     1.6
+    ],
+    [
+     "Tu ne savais rien des dimanches de ton grand-père.",
+     1.4
+    ],
+    [
+     "Je n'ai pas pu répondre tout de suite. Tu as cru que ça avait coupé.",
+     1.4
+    ],
+    [
+     "Depuis, c'est toi qui appelles. Le dimanche, à midi pile.",
+     1.4
+    ],
+    [
+     "Certaines choses ne s'apprennent pas. Elles se transmettent, sans que personne ne le sache.",
+     1.2
+    ],
+    [
+     "Alors continue d'appeler. Même pour me parler de la *pluie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j083_mere",
+   "perso": "mere",
+   "episode": 84,
+   "fin": "Envoie-la à quelqu'un qui avait honte de ses parents.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'avais honte de ma mère.",
+   "legende": "Les parents n'ont jamais honte. Ils attendent au coin de la rue. Et toi, de quoi tu avais honte quand tu étais petit ? #maman #mere #regret #deuil #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand j'étais petite, j'avais *honte* de ma mère. Elle était trop vieille.",
+     1.3
+    ],
+    [
+     "Elle m'a eue à quarante-trois ans. À l'école, on la prenait pour ma grand-mère.",
+     1.2
+    ],
+    [
+     "Les autres mamans portaient des jeans. La mienne, un chignon et un manteau gris.",
+     1.2
+    ],
+    [
+     "Un jour, je lui ai demandé de m'attendre au coin de la rue. Pas devant l'école.",
+     1.4
+    ],
+    [
+     "Elle n'a rien dit. Elle a juste répondu : d'accord, ma chérie.",
+     1.6
+    ],
+    [
+     "Pendant trois ans, elle m'a attendue au coin de la rue. Même sous la neige.",
+     1.4
+    ],
+    [
+     "Je n'y ai plus jamais pensé. Jusqu'à son enterrement.",
+     1.4
+    ],
+    [
+     "Une vieille dame est venue me voir. Elle habitait au coin de cette rue.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : votre mère s'abritait sous mon porche, tous les soirs.",
+     1.4
+    ],
+    [
+     "Elle disait : ma fille a besoin d'être comme les autres.",
+     1.8
+    ],
+    [
+     "J'ai mis quarante ans à *comprendre* ce qu'elle avait compris en une seconde.",
+     1.4
+    ],
+    [
+     "Les parents, eux, n'ont jamais honte. Ils attendent au coin de la rue.",
+     1.4
+    ],
+    [
+     "Alors si un jour tu as honte de moi, dis-le-moi. J'attendrai au *coin* de la rue.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j083_fou",
+   "perso": "fou",
+   "episode": 83,
+   "fin": "Envoie-la à quelqu'un qui ose dire quand c'est injuste.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il a tout risqué pour un inconnu.",
+   "legende": "La vérité est en marche. Mais elle ne marche jamais seule. Et toi, tu as déjà défendu quelqu'un que tu ne connaissais pas ? #motivation #histoire #zola #courage #justice #pourtoi",
+   "phrases": [
+    [
+     "Le treize janvier mille huit cent quatre-vingt-dix-huit, un journal titre en énormes lettres : *J'accuse*.",
+     1.3
+    ],
+    [
+     "L'auteur est l'un des écrivains les plus célèbres de France. Émile Zola.",
+     1.2
+    ],
+    [
+     "Il défend un homme qu'il ne connaît même pas. Le capitaine Alfred Dreyfus.",
+     1.2
+    ],
+    [
+     "Dreyfus est juif. Condamné à tort pour trahison, il est envoyé au bagne, sur l'île du Diable.",
+     1.4
+    ],
+    [
+     "Des officiers savent qu'il est innocent. L'armée préfère étouffer l'affaire.",
+     1.4
+    ],
+    [
+     "Zola a tout à perdre. Il écrit quand même une lettre ouverte au président de la République.",
+     1.4
+    ],
+    [
+     "Résultat : un procès. Il est condamné. Il doit s'exiler en Angleterre.",
+     1.4
+    ],
+    [
+     "Pendant son procès, des foules hurlent contre lui.",
+     1.4
+    ],
+    [
+     "Il meurt en mille neuf cent deux. Sans avoir vu la fin de l'affaire.",
+     1.6
+    ],
+    [
+     "Quatre ans plus tard, Dreyfus est enfin réhabilité. Il retrouve son grade et son honneur.",
+     1.6
+    ],
+    [
+     "Zola avait écrit : la vérité est en *marche*, et rien ne l'arrêtera.",
+     1.8
+    ],
+    [
+     "Toi aussi, un jour, tu verras une injustice. Tu te diras : ça ne me regarde pas.",
+     1.2
+    ],
+    [
+     "Zola aurait pu se dire la même chose.",
+     1.4
+    ],
+    [
+     "La vérité est en marche. Mais elle ne marche jamais *seule*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

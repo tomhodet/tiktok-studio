@@ -1,0 +1,356 @@
+{
+ "nom": "j177",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j177_grandmere",
+   "perso": "grandmere",
+   "episode": 178,
+   "fin": "Envoie-la à quelqu'un qui trouve sa vie grise.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Même là, mamie ? Même là.",
+   "legende": "Le malheur se souvient tout seul. Le bonheur, il faut l'écrire. Quelle est ta ligne d'aujourd'hui ? #grandmere #gratitude #habitudes #emotion #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Tous les soirs depuis soixante ans, j'écris une seule ligne dans un *carnet*. Une chose bonne de la journée.",
+     1.3
+    ],
+    [
+     "C'est ma mère qui m'a appris ça. Elle disait : le malheur, pas besoin de le noter.",
+     1.2
+    ],
+    [
+     "Il y a des jours faciles. Le premier sourire de ton père.",
+     1.2
+    ],
+    [
+     "Et il y a les autres.",
+     1.4
+    ],
+    [
+     "Le soir de l'accident de ton grand-père à l'usine, je n'avais rien à écrire.",
+     1.4
+    ],
+    [
+     "Je suis restée une heure devant la page blanche. J'ai cherché.",
+     1.6
+    ],
+    [
+     "J'ai écrit : la voisine a gardé les enfants sans que je demande.",
+     1.4
+    ],
+    [
+     "Le lendemain : le chirurgien avait des mains calmes.",
+     1.2
+    ],
+    [
+     "Pendant trois mois d'hôpital, je n'ai pas raté un soir. Il y avait toujours une ligne.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu m'as dit que ta vie était grise. Que rien n'allait.",
+     1.2
+    ],
+    [
+     "Je t'ai donné le carnet de cette année-là. Tu l'as lu dans le train.",
+     1.4
+    ],
+    [
+     "En arrivant, tu m'as écrit : même là, mamie ? Oui. Même là.",
+     1.8
+    ],
+    [
+     "Le malheur se souvient tout seul. Le bonheur, il faut l'*écrire*.",
+     1.4
+    ],
+    [
+     "Ce soir, une ligne. Une seule. Commence.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j177_grandpere",
+   "perso": "grandpere",
+   "episode": 179,
+   "fin": "Envoie-la à quelqu'un qui répare toujours les affaires des autres.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai dessiné ton pied pendant ta sieste.",
+   "legende": "Toute ta vie, tu peux réparer ce que les autres ont fait. Un jour, fabrique le tien. Qu'est-ce que tu rêves de fabriquer de tes mains ? #grandpere #metier #jamaistroptard #humour #mariage #pourtoi",
+   "phrases": [
+    [
+     "À soixante-dix-huit ans, j'ai fabriqué ma première paire de *chaussures*. Pour ton mariage.",
+     1.3
+    ],
+    [
+     "J'ai été cordonnier cinquante ans. J'ai ressemelé tout le quartier.",
+     1.2
+    ],
+    [
+     "Mais je n'avais jamais fabriqué une paire entière. Pas une seule.",
+     1.4
+    ],
+    [
+     "Quand tu as annoncé ton mariage, j'ai ressorti mes outils. Et des livres de la bibliothèque.",
+     1.2
+    ],
+    [
+     "Il me fallait ta pointure exacte. Je ne voulais pas te le demander.",
+     1.2
+    ],
+    [
+     "À Noël, tu t'es endormi sur le canapé. J'ai dessiné ton pied sur une feuille, au crayon.",
+     1.4
+    ],
+    [
+     "Tu as bougé deux fois. J'ai cru que mon cœur allait lâcher.",
+     1.4
+    ],
+    [
+     "Tous les soirs, pendant un an, j'ai travaillé dans le garage.",
+     1.2
+    ],
+    [
+     "J'ai raté trois paires. La deuxième avait un pied gauche plus grand que le droit.",
+     1.4
+    ],
+    [
+     "Le matin de ton mariage, je t'ai tendu la boîte. Tu les as enfilées.",
+     1.6
+    ],
+    [
+     "Elles t'allaient. Tu as marché dans la chambre sans rien dire. Puis tu m'as *serré* fort.",
+     1.8
+    ],
+    [
+     "Tu as dansé toute la nuit avec. Moi, je regardais tes pieds.",
+     1.4
+    ],
+    [
+     "Toute ta vie, tu peux réparer ce que les autres ont fait.",
+     1.2
+    ],
+    [
+     "Un jour, fabrique le *tien*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j177_pere",
+   "perso": "pere",
+   "episode": 178,
+   "fin": "Envoie-la à quelqu'un qui veille sur toi sans bruit.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Trois heures du matin. Pendant douze ans.",
+   "legende": "Il y a des amours qui ne font pas de bruit. Elles se lèvent à trois heures. Qui veillait sur toi pendant que tu dormais ? #papa #pere #emotion #amour #sacrifice #pourtoi",
+   "phrases": [
+    [
+     "Pendant douze ans, j'ai mis mon réveil à trois heures du *matin*. Tu ne l'as jamais entendu.",
+     1.3
+    ],
+    [
+     "Tu avais six ans quand on a découvert ton diabète.",
+     1.4
+    ],
+    [
+     "Le médecin a dit : la nuit, il faut vérifier son sucre. Une piqûre au bout du doigt.",
+     1.2
+    ],
+    [
+     "Ta mère le faisait les premiers mois. Elle s'est épuisée. Alors j'ai pris les nuits.",
+     1.2
+    ],
+    [
+     "Trois heures du matin. Je venais sans allumer, avec une petite lampe.",
+     1.2
+    ],
+    [
+     "Je prenais ta main. Tu ne te réveillais pas. Tu serrais mon doigt, comme un bébé.",
+     1.4
+    ],
+    [
+     "Si le chiffre était bas, je te faisais boire un jus de pomme. Tu buvais en dormant.",
+     1.4
+    ],
+    [
+     "Le matin, je partais au travail à six heures.",
+     1.2
+    ],
+    [
+     "Tu as grandi. À dix-huit ans, tu es parti faire tes études.",
+     1.4
+    ],
+    [
+     "Le premier soir sans toi, mon réveil a sonné à trois heures. Par habitude.",
+     1.6
+    ],
+    [
+     "Je suis allé dans ta chambre. J'ai tendu la main. Il n'y avait *personne*.",
+     1.8
+    ],
+    [
+     "Tu crois que tu as toujours bien dormi. C'est vrai. Quelqu'un veillait.",
+     1.4
+    ],
+    [
+     "Il y a des amours qui ne font pas de bruit. Elles se lèvent à trois *heures*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j177_mere",
+   "perso": "mere",
+   "episode": 178,
+   "fin": "Envoie-la à quelqu'un qui évite quelque chose depuis des années.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Vingt ans sans faire un seul créneau.",
+   "legende": "Ce que tu fuis depuis vingt ans s'apprend peut-être en six dimanches. Et toi, qu'est-ce que tu évites depuis trop longtemps ? #maman #mere #humour #peur #apprendre #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai fait le tour du quartier pour ne jamais faire de *créneau*.",
+     1.3
+    ],
+    [
+     "Je cherchais une place où entrer tout droit. Parfois à un kilomètre.",
+     1.2
+    ],
+    [
+     "Ton père croyait que j'aimais la marche.",
+     1.4
+    ],
+    [
+     "Un jour, devant ton école, j'ai essayé. Quatre voitures attendaient derrière moi.",
+     1.2
+    ],
+    [
+     "J'ai touché le trottoir, puis la voiture de derrière. Tu t'es caché sous le siège.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai décidé que ça suffisait.",
+     1.2
+    ],
+    [
+     "Tous les dimanches matin, je m'entraînais devant le supermarché fermé. Avec deux cartons.",
+     1.2
+    ],
+    [
+     "Je me garais entre les deux. Cent fois. Les vigiles me faisaient coucou.",
+     1.4
+    ],
+    [
+     "Il m'a fallu six dimanches. Six dimanches, pour vingt ans de *peur*.",
+     1.8
+    ],
+    [
+     "Des années plus tard, tu as appris à conduire. Tu ratais tous tes créneaux.",
+     1.4
+    ],
+    [
+     "C'est moi qui t'ai emmené devant le supermarché. Avec les deux cartons.",
+     1.4
+    ],
+    [
+     "Tu m'as demandé comment je faisais pour être aussi patiente. J'ai juste souri.",
+     1.4
+    ],
+    [
+     "Ce que tu fuis depuis vingt ans s'apprend peut-être en six *dimanches*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j177_fou",
+   "perso": "fou",
+   "episode": 177,
+   "fin": "Envoie-la à quelqu'un qui travaille dans l'ombre.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il préférait polir des lentilles.",
+   "legende": "Tout ce qui est précieux est aussi difficile que rare. Qu'est-ce que tu polis dans l'ombre, en ce moment ? #motivation #philosophie #spinoza #patience #liberte #pourtoi",
+   "phrases": [
+    [
+     "Un philosophe a passé sa vie à polir des *lentilles*. Pour des lunettes et des microscopes.",
+     1.3
+    ],
+    [
+     "À vingt-trois ans, il est chassé de sa communauté, à Amsterdam. Pour ses idées.",
+     1.2
+    ],
+    [
+     "Plus personne n'a le droit de lui parler. Même pas sa famille.",
+     1.4
+    ],
+    [
+     "Alors il vit d'un métier de patience. Tailler le verre, le frotter, des heures durant.",
+     1.2
+    ],
+    [
+     "Entre deux lentilles, il écrit un livre. Pendant plus de dix ans.",
+     1.4
+    ],
+    [
+     "Un jour, une grande université lui offre un poste de professeur. La gloire, un vrai salaire.",
+     1.2
+    ],
+    [
+     "Il refuse. Il a peur de ne plus pouvoir penser librement.",
+     1.6
+    ],
+    [
+     "Il préfère sa petite chambre louée, ses outils et sa liberté.",
+     1.4
+    ],
+    [
+     "Il meurt à quarante-quatre ans, les poumons malades. Peut-être à cause de la poussière de verre.",
+     1.4
+    ],
+    [
+     "Son livre paraît après sa mort. C'est l'Éthique. Cet homme s'appelait Spinoza.",
+     1.6
+    ],
+    [
+     "La dernière phrase de ce livre, la voici.",
+     1.6
+    ],
+    [
+     "Tout ce qui est précieux est aussi difficile que *rare*.",
+     1.8
+    ],
+    [
+     "Ce que tu polis dans l'ombre, grain après grain, personne ne le voit encore.",
+     1.4
+    ],
+    [
+     "C'est normal. Ce qui est précieux prend du *temps*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

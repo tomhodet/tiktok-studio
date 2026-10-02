@@ -1,0 +1,352 @@
+{
+ "nom": "j065",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j065_grandmere",
+   "perso": "grandmere",
+   "episode": 66,
+   "fin": "Envoie-la à quelqu'un qui t'a toujours laissé le meilleur morceau.",
+   "lueurs": [
+    1,
+    10,
+    12
+   ],
+   "accroche": "Ma mère détestait le blanc de poulet.",
+   "legende": "Elle avait quarante ans. Elle n'avait jamais mangé de blanc de poulet de sa vie. Et toi, qui te laissait toujours le meilleur morceau ? #grandmere #maman #famille #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ma mère détestait le blanc de *poulet*. Elle nous l'a répété pendant quinze ans.",
+     1.3
+    ],
+    [
+     "Le dimanche, on avait un poulet pour six. Elle prenait toujours le cou et les ailes.",
+     1.2
+    ],
+    [
+     "Elle disait : le blanc, c'est sec. Moi, j'aime ce qui croustille.",
+     1.2
+    ],
+    [
+     "On la croyait. Les enfants croient tout ce qui les arrange.",
+     1.4
+    ],
+    [
+     "À quinze ans, je suis entrée à la filature. Avec ma première paie, j'ai acheté un poulet entier.",
+     1.2
+    ],
+    [
+     "Rien que pour elle. Je l'ai fait rôtir un mercredi, sans raison.",
+     1.2
+    ],
+    [
+     "Elle a tendu la main vers une aile. J'ai posé les deux blancs dans son assiette.",
+     1.4
+    ],
+    [
+     "Elle a dit : tu sais bien que je n'aime pas ça. J'ai dit : goûte.",
+     1.4
+    ],
+    [
+     "Elle a pris une bouchée. Puis une autre. Et elle s'est mise à pleurer.",
+     1.6
+    ],
+    [
+     "Elle avait quarante ans. Elle n'avait jamais mangé de blanc de poulet de sa *vie*.",
+     1.8
+    ],
+    [
+     "Quand quelqu'un te laisse toujours le meilleur morceau, ce n'est pas qu'il n'aime pas ça.",
+     1.6
+    ],
+    [
+     "Ma mère ne détestait pas le blanc de poulet. Elle nous aimait plus que sa *faim*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j065_grandpere",
+   "perso": "grandpere",
+   "episode": 67,
+   "fin": "Envoie-la à quelqu'un qui a veillé sur un parent.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Elle a laissé la maison à ma sœur.",
+   "legende": "On réclame toujours sa part de l'héritage. Jamais sa part des nuits. Et toi, qui a porté pour ta famille ce que personne n'a vu ? #grandpere #heritage #famille #soeur #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand ma mère est morte, elle a laissé la *maison* à ma sœur. Rien qu'à elle.",
+     1.3
+    ],
+    [
+     "Moi, j'ai eu une pendule et une boîte de photos.",
+     1.2
+    ],
+    [
+     "J'étais furieux. J'étais l'aîné. J'avais aidé à payer le toit.",
+     1.2
+    ],
+    [
+     "Je n'ai plus parlé à ma sœur pendant un an. Pas un mot. Pas une carte.",
+     1.4
+    ],
+    [
+     "En vidant la maison, j'ai trouvé des calendriers dans un tiroir de la cuisine.",
+     1.2
+    ],
+    [
+     "Sur chaque case, une croix au crayon. Et souvent, une heure.",
+     1.4
+    ],
+    [
+     "Trois heures du matin. Quatre heures. Cinq heures et demie.",
+     1.6
+    ],
+    [
+     "C'étaient les nuits où ma mère l'avait appelée. Les nuits où ma sœur s'était *levée*.",
+     1.8
+    ],
+    [
+     "Moi, pendant ces années, je venais le dimanche. Avec des fleurs. Je repartais avant le dîner.",
+     1.6
+    ],
+    [
+     "J'ai compté les croix, assis par terre. J'ai arrêté à mille.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai appelé ma sœur. J'ai dit seulement : pardon.",
+     1.6
+    ],
+    [
+     "On réclame toujours sa part de l'héritage. Jamais sa part des nuits.",
+     1.4
+    ],
+    [
+     "Avant de compter ce qu'on t'a laissé, compte ce que les autres ont *porté*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j065_pere",
+   "perso": "pere",
+   "episode": 66,
+   "fin": "Envoie-la à quelqu'un qui t'a protégé sans rien dire.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il manquait une lettre sur tes chaussures.",
+   "legende": "Tu n'avais pas honte de ton père. Tu le protégeais. Et toi, qu'est-ce que tu as porté fièrement sans jamais rien dire ? #papa #pere #enfance #argent #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pour tes douze ans, je t'ai offert de fausses chaussures de *marque*.",
+     1.3
+    ],
+    [
+     "Tous tes copains avaient les mêmes. Les vraies coûtaient nos courses du mois.",
+     1.2
+    ],
+    [
+     "Je les ai trouvées au marché, dans le coffre d'une voiture.",
+     1.2
+    ],
+    [
+     "Tu as ouvert la boîte. Tu m'as serré très fort.",
+     1.2
+    ],
+    [
+     "Le soir, j'ai vu le problème. Le nom de la marque était mal écrit.",
+     1.4
+    ],
+    [
+     "Il manquait une lettre. Une seule. Mais elle se voyait de loin.",
+     1.4
+    ],
+    [
+     "J'ai cru que tu allais te faire massacrer à l'école.",
+     1.2
+    ],
+    [
+     "Une semaine plus tard, je suis venu te chercher. Tu étais dans la cour, entouré.",
+     1.2
+    ],
+    [
+     "Un garçon a ricané : il manque une lettre.",
+     1.6
+    ],
+    [
+     "Et toi, tranquille, tu as répondu : c'est une édition *spéciale*. Il n'y en a que dix.",
+     1.8
+    ],
+    [
+     "Ils se sont tous penchés sur tes pieds. Avec respect.",
+     1.6
+    ],
+    [
+     "Tu les as portées jusqu'à les trouer. Sans jamais m'en parler.",
+     1.4
+    ],
+    [
+     "Tu n'avais pas honte de ton père. Tu le protégeais.",
+     1.6
+    ],
+    [
+     "Il manquait une lettre à tes chaussures. À toi, il ne manquait *rien*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j065_mere",
+   "perso": "mere",
+   "episode": 66,
+   "fin": "Envoie-la à quelqu'un qui t'a déjà prêté de l'argent.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai prêté deux mille euros à mon amie.",
+   "legende": "Ce n'est pas l'argent qui a abîmé notre amitié. C'est moi, à force de compter. Et toi, tu as déjà prêté de l'argent à quelqu'un que tu aimes ? #maman #mere #amitie #argent #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Il y a quinze ans, j'ai prêté deux mille euros à ma meilleure *amie*.",
+     1.3
+    ],
+    [
+     "Sophie venait de se séparer. Elle pleurait dans ma cuisine. Je n'ai pas hésité une seconde.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : je te rembourse dans six mois. Je l'ai crue.",
+     1.2
+    ],
+    [
+     "Six mois ont passé. Puis un an. Elle n'en parlait jamais.",
+     1.2
+    ],
+    [
+     "Alors j'ai commencé à compter. Sans le vouloir.",
+     1.4
+    ],
+    [
+     "Quand elle avait un nouveau manteau, je pensais : mes deux mille euros.",
+     1.0
+    ],
+    [
+     "Quand elle partait en vacances, je pensais : mes deux mille euros.",
+     1.4
+    ],
+    [
+     "J'ai arrêté de l'appeler. Ses messages m'agaçaient. Ses rires aussi.",
+     1.4
+    ],
+    [
+     "Trois ans plus tard, j'ai reçu un virement. Deux mille euros, et un petit mot.",
+     1.4
+    ],
+    [
+     "Merci de m'avoir attendue sans jamais rien me *réclamer*.",
+     1.6
+    ],
+    [
+     "Elle ne savait pas. Pendant trois ans, je lui avais tout réclamé. En silence.",
+     1.8
+    ],
+    [
+     "On se voit encore, parfois. Mais quelque chose s'est cassé, et ce n'est pas elle.",
+     1.6
+    ],
+    [
+     "Si tu prêtes à quelqu'un que tu aimes, prête seulement ce que tu peux perdre.",
+     1.4
+    ],
+    [
+     "Et dans ta tête, compte-le tout de suite comme *donné*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j065_fou",
+   "perso": "fou",
+   "episode": 65,
+   "fin": "Envoie-la à quelqu'un qui a raté deux fois.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Sa voiture ne passait pas la porte.",
+   "legende": "Tu as peut-être déjà raté deux fois. Ce n'est pas un verdict. C'est un brouillon. Et toi, tu en es à quel essai ? #motivation #echec #entrepreneur #recommencer #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "Un homme construit sa première voiture dans une remise. Elle ne passe pas la *porte*.",
+     1.3
+    ],
+    [
+     "Nous sommes en mille huit cent quatre-vingt-seize, à Detroit.",
+     1.2
+    ],
+    [
+     "Il casse une partie du mur, et il sort sa machine dans la rue.",
+     1.4
+    ],
+    [
+     "Trois ans plus tard, il fonde sa première entreprise. Elle ferme moins de deux ans après.",
+     1.4
+    ],
+    [
+     "Il recommence. Mais il quitte sa deuxième entreprise après quelques mois, fâché avec ses associés.",
+     1.2
+    ],
+    [
+     "Ses associés gardent l'usine et lui donnent un autre nom.",
+     1.0
+    ],
+    [
+     "Elle deviendra l'une des marques de luxe les plus célèbres d'Amérique.",
+     1.6
+    ],
+    [
+     "Lui a près de quarante ans, et deux échecs derrière lui.",
+     1.4
+    ],
+    [
+     "En mille neuf cent trois, il fonde une troisième entreprise. Avec son nom dessus.",
+     1.2
+    ],
+    [
+     "Cinq ans plus tard, il lance une voiture simple et solide, faite pour les gens ordinaires.",
+     1.2
+    ],
+    [
+     "Puis il fait avancer ses voitures sur une chaîne. Plus de quinze millions en sortiront.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Henry Ford.",
+     1.8
+    ],
+    [
+     "Tu as peut-être déjà raté deux fois. Ce n'est pas un verdict. C'est un *brouillon*.",
+     1.4
+    ],
+    [
+     "Et si la porte est trop petite pour ce que tu construis, casse le *mur*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "nom": "j034",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j034_grandmere",
+   "perso": "grandmere",
+   "episode": 35,
+   "fin": "Envoie-la à quelqu'un qui se laisse trop impressionner.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je les ai tous vus naître.",
+   "legende": "Tous ceux qui te prennent de haut sont arrivés comme toi. Tout petits, en criant. Qui t'impressionne trop, en ce moment ? #grandmere #sagefemme #humour #confiance #travail #pourtoi",
+   "phrases": [
+    [
+     "Le directeur de ma banque, je l'ai vu *naître*. Il est arrivé les fesses en premier.",
+     1.3
+    ],
+    [
+     "J'ai été sage-femme pendant quarante ans. J'ai fait naître la moitié du village.",
+     1.2
+    ],
+    [
+     "Le maire, le notaire, le curé. Je les ai tous vus arriver tout nus, en hurlant.",
+     1.2
+    ],
+    [
+     "Alors tu comprends, personne ne m'a jamais beaucoup impressionnée.",
+     1.4
+    ],
+    [
+     "En mille neuf cent quatre-vingt-cinq, je suis allée lui demander un prêt.",
+     1.4
+    ],
+    [
+     "Il m'a parlé de haut, derrière son grand bureau, avec sa montre en or.",
+     1.4
+    ],
+    [
+     "Il m'a dit que mon dossier était trop risqué.",
+     1.4
+    ],
+    [
+     "Je l'ai laissé finir. Puis j'ai dit : jeune homme, c'est moi qui vous ai mis au monde.",
+     1.6
+    ],
+    [
+     "Vous étiez tout rouge, et vous hurliez comme un veau.",
+     1.6
+    ],
+    [
+     "Il est devenu tout *rouge*. Exactement comme ce jour-là.",
+     1.8
+    ],
+    [
+     "J'ai eu mon prêt le lendemain. Je ne te conseille pas la méthode.",
+     1.6
+    ],
+    [
+     "Mais retiens ceci. Tous ceux qui te prennent de haut sont arrivés comme toi. Tout petits, en criant.",
+     1.4
+    ],
+    [
+     "Les grands bureaux et les montres en or, ça vient après.",
+     1.2
+    ],
+    [
+     "Le jour où quelqu'un t'impressionne trop, imagine-le à sa naissance. Ça aide *beaucoup*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j034_grandpere",
+   "perso": "grandpere",
+   "episode": 36,
+   "fin": "Envoie-la à un patron qui mange en dernier.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Trois enveloppes dans ma caisse à outils.",
+   "legende": "Un patron mange en dernier. Et le jour où ton assiette est vide, tu vois qui partage la sienne. Et toi, qui a déjà partagé son assiette avec toi ? #grandpere #travail #patron #solidarite #emotion #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-treize, je ne me suis pas payé pendant six mois. J'étais le *patron*.",
+     1.3
+    ],
+    [
+     "J'avais une petite entreprise de plomberie. Trois ouvriers. Des pères de famille, comme moi.",
+     1.2
+    ],
+    [
+     "Cette année-là, les chantiers se sont arrêtés d'un coup. Plus de commandes.",
+     1.4
+    ],
+    [
+     "J'avais de quoi payer les salaires. Les leurs. Pas le mien.",
+     1.4
+    ],
+    [
+     "Ta grand-mère a fait de la soupe pendant six mois. Elle ne s'est jamais plainte.",
+     1.4
+    ],
+    [
+     "Aux gars, je disais que tout allait bien.",
+     1.4
+    ],
+    [
+     "Un vendredi soir, j'ai ouvert ma caisse à outils. Il y avait trois enveloppes.",
+     1.6
+    ],
+    [
+     "Dans chacune, un billet de deux cents francs. Et pas un mot.",
+     1.6
+    ],
+    [
+     "Ils avaient tout *compris*. Ils me rendaient un morceau de leur paie.",
+     1.8
+    ],
+    [
+     "Je n'ai jamais su lequel avait eu l'idée. Je n'ai jamais osé demander.",
+     1.4
+    ],
+    [
+     "Au printemps, le travail est revenu. Je leur ai tout rendu, en douce, dans leurs caisses à outils.",
+     1.4
+    ],
+    [
+     "Si un jour tu commandes des gens, souviens-toi d'une chose.",
+     1.2
+    ],
+    [
+     "Un patron mange en *dernier*. Toujours.",
+     1.6
+    ],
+    [
+     "Et le jour où tu n'as plus rien dans ton assiette, tu verras qui partage la sienne.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j034_pere",
+   "perso": "pere",
+   "episode": 35,
+   "fin": "Envoie-la à quelqu'un dont le père ne parlait jamais de son travail.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Mon père m'a mis au pire poste.",
+   "legende": "Il ne voulait pas me faire la morale. Il voulait que je voie. Trois semaines, pour que je n'y passe pas quinze ans. Et toi, tu sais vraiment ce que faisait ton père ? #papa #pere #usine #travail #emotion #pourtoi",
+   "phrases": [
+    [
+     "À seize ans, j'ai voulu quitter l'*école*. Mon père m'a dit : d'accord, viens travailler avec moi cet été.",
+     1.3
+    ],
+    [
+     "Il travaillait à la fonderie. À la maison, il ne parlait jamais de son travail.",
+     1.2
+    ],
+    [
+     "Le premier jour, on m'a mis à l'ébarbage. Le pire poste de l'usine.",
+     1.4
+    ],
+    [
+     "Le bruit des meules. La poussière de fer dans la bouche. Les pièces brûlantes.",
+     1.4
+    ],
+    [
+     "Le soir, je m'endormais tout habillé, sans manger.",
+     1.4
+    ],
+    [
+     "Au bout de trois semaines, j'ai dit à mon père que je retournais au lycée.",
+     1.6
+    ],
+    [
+     "Il a juste hoché la tête. Il avait l'air soulagé.",
+     1.4
+    ],
+    [
+     "Vingt ans plus tard, à son pot de départ, un collègue m'a pris à part.",
+     1.4
+    ],
+    [
+     "Il m'a dit : c'est ton père qui avait demandé qu'on te mette à l'ébarbage.",
+     1.6
+    ],
+    [
+     "Ce poste, il l'avait tenu quinze ans. Sans jamais en parler à personne.",
+     1.6
+    ],
+    [
+     "Il ne voulait pas me faire la morale. Il voulait que je voie.",
+     1.6
+    ],
+    [
+     "Trois semaines, pour que je n'y passe pas *quinze* ans.",
+     1.8
+    ],
+    [
+     "Les pères ne racontent pas ce qu'ils endurent. Ils le cachent.",
+     1.4
+    ],
+    [
+     "Le mien m'a prêté son enfer trois semaines. Pour que j'aie le *choix*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j034_mere",
+   "perso": "mere",
+   "episode": 35,
+   "fin": "Envoie-la à quelqu'un qui cache ses chutes à sa mère.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ce livret n'a jamais existé.",
+   "legende": "Tu n'as pas besoin de me cacher tes chutes. Je les entends toujours, de toute façon. Et toi, qu'est-ce que tu caches à ta mère en ce moment ? #maman #mere #chomage #travail #emotion #pourtoi",
+   "phrases": [
+    [
+     "Tu as perdu ton travail en mars. Tu me l'as dit en juin. Je le *savais* depuis mars.",
+     1.3
+    ],
+    [
+     "Un mardi, tu es venu déjeuner à la maison. Sans regarder ta montre une seule fois.",
+     1.2
+    ],
+    [
+     "Tu avais la voix trop gaie. Tu parlais trop de tes collègues.",
+     1.4
+    ],
+    [
+     "Une mère entend ces choses-là. Même quand on les cache.",
+     1.4
+    ],
+    [
+     "Je n'ai rien dit. Je savais que tu voulais t'en sortir seul.",
+     1.4
+    ],
+    [
+     "Alors je t'ai envoyé un chèque. Avec une lettre très officielle.",
+     1.4
+    ],
+    [
+     "Je t'ai écrit que ta grand-mère t'avait ouvert un livret à ta naissance. Et qu'on venait de le retrouver.",
+     1.6
+    ],
+    [
+     "Tu m'as appelée, tout surpris. Tu as dit : elle pensait à tout, mamie.",
+     1.6
+    ],
+    [
+     "Ce livret n'a jamais *existé*.",
+     1.8
+    ],
+    [
+     "C'étaient mes économies. Celles des vacances que je ne prends jamais.",
+     1.4
+    ],
+    [
+     "En septembre, tu as retrouvé du travail. Tu m'as invitée au restaurant pour fêter ça.",
+     1.4
+    ],
+    [
+     "Tu as voulu payer. Je t'ai laissé faire. C'était important pour toi.",
+     1.4
+    ],
+    [
+     "Tu n'as pas besoin de me cacher tes chutes. Je les entends toujours, de toute façon.",
+     1.2
+    ],
+    [
+     "La prochaine fois, appelle-moi en mars. Ta grand-mère n'a pas d'autre *livret*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j034_fou",
+   "perso": "fou",
+   "episode": 34,
+   "fin": "Envoie-la à quelqu'un qui s'entraîne quand personne ne regarde.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il ne voyait plus rien. Il a compté.",
+   "legende": "Le jour où tu ne vois plus rien, tu ne peux compter que sur ce que tu as répété. Et toi, qu'est-ce que tu répètes chaque jour ? #motivation #sport #natation #phelps #discipline #pourtoi",
+   "phrases": [
+    [
+     "En pleine finale olympique, un nageur ne voit plus *rien*. Ses lunettes sont pleines d'eau.",
+     1.3
+    ],
+    [
+     "Pékin, deux mille huit. Le deux cents mètres papillon.",
+     1.2
+    ],
+    [
+     "Le nageur s'appelle Michael Phelps. Il veut gagner huit médailles d'or. Personne n'y a jamais réussi.",
+     1.2
+    ],
+    [
+     "Pendant la course, l'eau envahit ses lunettes. Bientôt, tout devient flou.",
+     1.4
+    ],
+    [
+     "Il ne voit plus la ligne au fond du bassin. Ni le mur. Ni les autres.",
+     1.4
+    ],
+    [
+     "N'importe qui paniquerait. Lui se met à *compter*.",
+     1.8
+    ],
+    [
+     "Ses mouvements de bras. Un par un. Il sait combien il en faut pour toucher le mur.",
+     1.4
+    ],
+    [
+     "Depuis des années, chaque soir, il se repasse ses courses dans la tête. Mouvement par mouvement.",
+     1.4
+    ],
+    [
+     "Il les a nagées des milliers de fois, les yeux fermés.",
+     1.6
+    ],
+    [
+     "Il touche le mur en premier. Avec un nouveau record du monde.",
+     1.8
+    ],
+    [
+     "Quelques jours plus tard, il a ses huit médailles d'or.",
+     1.4
+    ],
+    [
+     "Un jour, toi aussi, tu ne verras plus rien. La peur, la fatigue, la panique.",
+     1.2
+    ],
+    [
+     "Ce jour-là, tu ne pourras compter que sur ce que tu as répété.",
+     1.4
+    ],
+    [
+     "Alors répète. Encore et encore. Pour le jour où tu nageras dans le *noir*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

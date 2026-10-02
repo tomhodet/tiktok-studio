@@ -1,0 +1,360 @@
+{
+ "nom": "j122",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j122_grandmere",
+   "perso": "grandmere",
+   "episode": 123,
+   "fin": "Envoie-la à quelqu'un qui porte une vieille honte.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Quelqu'un avait écrit au crayon : rendu.",
+   "legende": "J'ai porté soixante-dix ans de honte pour une dette qui n'existait pas. Et toi, quelle vieille faute n'as-tu jamais avouée ? #grandmere #honte #pardon #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "La semaine dernière, j'ai rendu un livre à la *bibliothèque*. Je l'avais emprunté en mille neuf cent cinquante-huit.",
+     1.3
+    ],
+    [
+     "J'avais douze ans. Un livre sur les étoiles.",
+     1.2
+    ],
+    [
+     "Je l'avais fait tomber dans une flaque. La couverture était toute gondolée.",
+     1.2
+    ],
+    [
+     "J'avais tellement peur de la bibliothécaire que je ne l'ai jamais rapporté.",
+     1.4
+    ],
+    [
+     "Elle avait un chignon gris et disait chut à tout le monde.",
+     1.2
+    ],
+    [
+     "Pendant près de soixante-dix ans, ce livre a déménagé avec moi.",
+     1.4
+    ],
+    [
+     "Chaque fois que je le voyais, j'avais encore douze ans.",
+     1.4
+    ],
+    [
+     "À quatre-vingts ans, j'ai pris le bus avec le livre. Et de quoi payer l'amende.",
+     1.6
+    ],
+    [
+     "Au comptoir, une jeune femme est allée chercher les vieux registres.",
+     1.4
+    ],
+    [
+     "À côté de mon nom, quelqu'un avait écrit au crayon : rendu.",
+     1.6
+    ],
+    [
+     "Et en dessous : payé. Avec les initiales de la vieille bibliothécaire au chignon.",
+     1.8
+    ],
+    [
+     "Elle avait payé mon livre de sa poche. Pour qu'une gamine de douze ans n'ait pas d'ennuis.",
+     1.4
+    ],
+    [
+     "J'ai porté près de soixante-dix ans de honte pour une dette qui n'existait pas.",
+     1.2
+    ],
+    [
+     "Avoue tes fautes tôt. Souvent, quelqu'un les a déjà *pardonnées*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j122_grandpere",
+   "perso": "grandpere",
+   "episode": 124,
+   "fin": "Envoie-la à quelqu'un qui a peur d'y aller.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'avais dix ans. J'avais peur des loups.",
+   "legende": "La plupart des loups qui te font peur n'existent pas. Mais pour le savoir, il faut traverser la forêt. Et toi, quel est ton loup ? #grandpere #peur #courage #enfance #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "En février mille neuf cent cinquante-six, j'ai traversé la forêt de nuit. J'avais dix ans. J'avais peur des *loups*.",
+     1.3
+    ],
+    [
+     "Cet hiver-là, il a fait si froid que le vin gelait dans les bouteilles.",
+     1.2
+    ],
+    [
+     "Ma petite sœur avait une fièvre terrible. Elle respirait mal.",
+     1.2
+    ],
+    [
+     "Mon père était bloqué à la scierie. La neige avait coupé la route.",
+     1.4
+    ],
+    [
+     "Ma mère ne pouvait pas laisser ma sœur. Elle m'a regardé. Elle n'a rien demandé.",
+     1.4
+    ],
+    [
+     "J'ai mis deux paires de chaussettes, le manteau de mon père, et je suis parti.",
+     1.4
+    ],
+    [
+     "Le médecin habitait à six kilomètres. Par la forêt.",
+     1.4
+    ],
+    [
+     "À chaque craquement, je voyais des yeux jaunes. Je chantais des cantiques pour faire du bruit.",
+     1.6
+    ],
+    [
+     "Le médecin a pris sa sacoche. Il m'a ramené sur son cheval.",
+     1.4
+    ],
+    [
+     "Ma sœur s'en est sortie.",
+     1.6
+    ],
+    [
+     "Des années plus tard, j'ai appris une chose. Il n'y avait plus de loups en France depuis longtemps.",
+     1.8
+    ],
+    [
+     "Personne ne me l'avait dit. J'ai eu peur pour rien pendant six kilomètres.",
+     1.4
+    ],
+    [
+     "La plupart des loups qui te font peur n'existent pas.",
+     1.2
+    ],
+    [
+     "Mais pour le savoir, il faut traverser la *forêt*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j122_pere",
+   "perso": "pere",
+   "episode": 123,
+   "fin": "Envoie-la à quelqu'un qui reste honnête quand personne ne regarde.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'ai rayé la voiture du voisin.",
+   "legende": "Ce que tu fais quand personne ne regarde, quelqu'un le voit toujours. Et toi, qu'aurais-tu fait ce soir-là ? #papa #pere #honnetete #exemple #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais huit ans, j'ai rayé la voiture du voisin. Personne ne m'avait *vu*.",
+     1.3
+    ],
+    [
+     "C'était un dimanche soir, en reculant. Un long trait sur toute la portière.",
+     1.2
+    ],
+    [
+     "Le voisin, c'était monsieur Garnier. Le plus grincheux de la rue.",
+     1.2
+    ],
+    [
+     "Il était huit heures du soir. La rue était vide. Tu étais assis à l'arrière.",
+     1.4
+    ],
+    [
+     "J'ai pensé à repartir. Une seconde. Peut-être deux.",
+     1.4
+    ],
+    [
+     "Puis je t'ai vu dans le rétroviseur. Tu me regardais.",
+     1.6
+    ],
+    [
+     "Alors j'ai écrit un mot, avec mon nom et notre numéro. Je l'ai glissé sous son essuie-glace.",
+     1.4
+    ],
+    [
+     "Le lendemain, monsieur Garnier a sonné. J'étais prêt à payer le double.",
+     1.4
+    ],
+    [
+     "Il m'a dit : je vous ai vu reculer. J'étais à ma fenêtre.",
+     1.6
+    ],
+    [
+     "Il a ajouté : je voulais savoir quel genre d'homme habitait en face.",
+     1.8
+    ],
+    [
+     "Il n'a jamais voulu un centime. Depuis, il te donnait des bonbons par-dessus la haie.",
+     1.4
+    ],
+    [
+     "Ce que tu fais quand personne ne regarde, quelqu'un le voit toujours.",
+     1.2
+    ],
+    [
+     "Parfois un voisin à sa fenêtre. Souvent un enfant à l'arrière. Et toujours *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j122_mere",
+   "perso": "mere",
+   "episode": 123,
+   "fin": "Envoie-la à quelqu'un qui a été harcelé à l'école.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Je suis allée chez lui pour crier.",
+   "legende": "Les enfants qui font mal ont souvent mal quelque part. Et toi, ton pire ennemi est-il devenu ton ami ? #maman #mere #harcelement #ecole #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais onze ans, je suis allée chez le garçon qui te frappait. Pour lui *crier* dessus.",
+     1.3
+    ],
+    [
+     "Il s'appelait Mickaël. Il te volait ton goûter et te poussait dans les escaliers.",
+     1.2
+    ],
+    [
+     "Un samedi, j'ai trouvé son adresse. Une petite maison au bout de la cité.",
+     1.4
+    ],
+    [
+     "J'avais préparé tout mon discours dans la voiture. J'étais furieuse.",
+     1.4
+    ],
+    [
+     "C'est lui qui a ouvert la porte. Il avait un bleu sur la joue.",
+     1.6
+    ],
+    [
+     "Derrière lui, un frigo vide. Un père qui dormait sur le canapé, à midi.",
+     1.4
+    ],
+    [
+     "Mon discours s'est envolé. Je lui ai demandé s'il avait mangé.",
+     1.6
+    ],
+    [
+     "Il a dit non. Alors je l'ai emmené manger une crêpe. Il n'a pas dit un mot.",
+     1.4
+    ],
+    [
+     "Le samedi suivant, il est venu à la maison. Puis le suivant.",
+     1.4
+    ],
+    [
+     "Tu étais furieux. Tu disais : maman, c'est mon pire ennemi.",
+     1.4
+    ],
+    [
+     "Trois mois plus tard, c'était ton meilleur ami.",
+     1.6
+    ],
+    [
+     "Je suis allée chez lui pour crier. J'en suis repartie avec lui.",
+     1.8
+    ],
+    [
+     "Les enfants qui font mal ont souvent mal quelque part.",
+     1.2
+    ],
+    [
+     "Avant de crier, regarde ce qu'il y a derrière la *porte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j122_fou",
+   "perso": "fou",
+   "episode": 122,
+   "fin": "Envoie-la à quelqu'un qui panique dans le noir.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Dans le noir, il leur apprend à respirer.",
+   "legende": "Dans le noir, ce n'est pas la force qui les a sauvés. C'est le calme. Et toi, qu'est-ce qui t'aide à garder ton calme ? #motivation #histoirevraie #calme #espoir #thailande #pourtoi",
+   "phrases": [
+    [
+     "Le vingt-trois juin deux mille dix-huit, en Thaïlande, douze garçons et leur entraîneur entrent dans une *grotte*.",
+     1.3
+    ],
+    [
+     "Les garçons ont entre onze et seize ans. Leur entraîneur en a vingt-cinq.",
+     1.2
+    ],
+    [
+     "Dehors, une pluie violente tombe. L'eau monte et leur coupe la sortie.",
+     1.2
+    ],
+    [
+     "Ils reculent dans le noir, de plus en plus loin. Jusqu'à un rocher au sec.",
+     1.4
+    ],
+    [
+     "Presque pas de nourriture. Presque pas de lumière. Personne ne sait s'ils sont vivants.",
+     1.4
+    ],
+    [
+     "L'entraîneur s'appelle Ekkapol. Plus jeune, il a été moine.",
+     1.4
+    ],
+    [
+     "Alors, dans le noir, il leur apprend à méditer. Respirer lentement. Garder ses forces. Ne pas paniquer.",
+     1.6
+    ],
+    [
+     "Au bout de neuf jours, deux plongeurs britanniques surgissent de l'eau.",
+     1.6
+    ],
+    [
+     "Ils trouvent les treize, maigres, assis sur leur rocher. *Vivants*.",
+     1.8
+    ],
+    [
+     "Il faudra encore une semaine et des dizaines de plongeurs pour les sortir. Un plongeur thaïlandais y perdra la vie.",
+     1.4
+    ],
+    [
+     "Mais les treize sortiront vivants.",
+     1.6
+    ],
+    [
+     "Dans le noir, ce n'est pas la force qui les a sauvés. C'est le calme.",
+     1.4
+    ],
+    [
+     "Toi aussi, un jour, l'eau montera et tu ne verras plus la sortie.",
+     1.2
+    ],
+    [
+     "Ne gaspille pas tes forces à paniquer. Respire. Et attends la *lumière*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

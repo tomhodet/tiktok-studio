@@ -1,0 +1,364 @@
+{
+ "nom": "j077",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j077_grandmere",
+   "perso": "grandmere",
+   "episode": 78,
+   "fin": "Envoie-la à quelqu'un qui ne dit jamais je t'aime.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Son perroquet parle avec sa voix.",
+   "legende": "Les gens pudiques ne disent pas je t'aime. Ils le disent à côté. Et toi, à qui tu ne l'as jamais dit en face ? #grandmere #grandpere #deuil #amour #humour #pourtoi",
+   "phrases": [
+    [
+     "Ton grand-père est mort il y a trois ans. Son perroquet parle encore avec sa *voix*.",
+     1.3
+    ],
+    [
+     "Il l'avait acheté en mille neuf cent quatre-vingt-six. Il l'avait appelé Coco.",
+     1.2
+    ],
+    [
+     "Pendant près de quarante ans, cet oiseau a tout répété. La cafetière, la porte du garage.",
+     1.2
+    ],
+    [
+     "Et ses phrases. Où sont mes clés ? Qui a fini le pain ?",
+     1.4
+    ],
+    [
+     "Après l'enterrement, je ne supportais plus de l'entendre. Ta mère l'a emporté.",
+     1.2
+    ],
+    [
+     "Elle est revenue dix minutes plus tard, toute pâle, avec la cage.",
+     1.4
+    ],
+    [
+     "Dans la voiture, Coco avait dit une phrase que je n'avais jamais entendue.",
+     1.4
+    ],
+    [
+     "Avec la voix de ton grand-père : *je t'aime*, ma Jeannette.",
+     1.8
+    ],
+    [
+     "En cinquante-sept ans de mariage, il ne me l'a jamais dit. Pas une fois.",
+     1.4
+    ],
+    [
+     "Il le disait au perroquet. Quand j'étais au marché. Assez souvent pour qu'il l'apprenne.",
+     1.6
+    ],
+    [
+     "Coco est resté. Il me le dit tous les matins, maintenant.",
+     1.4
+    ],
+    [
+     "Les gens pudiques ne disent pas je t'aime. Ils le disent à côté.",
+     1.2
+    ],
+    [
+     "Toi, ne laisse pas un animal répéter tes plus beaux mots.",
+     1.0
+    ],
+    [
+     "Dis-les en face. Tout le monde n'a pas un *perroquet*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j077_grandpere",
+   "perso": "grandpere",
+   "episode": 79,
+   "fin": "Envoie-la à quelqu'un qui garde un objet de son père.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "La cravate que je ne défais jamais.",
+   "legende": "Mon père n'a jamais fait de discours. Il m'a laissé un nœud de travers. Et toi, quel geste de ton père tu gardes encore ? #grandpere #pere #deuil #transmission #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ma *cravate* est nouée depuis mille neuf cent soixante-huit. Je ne l'ai jamais défaite.",
+     1.3
+    ],
+    [
+     "Le matin de mon mariage, c'est mon père qui me l'a nouée. Dans la cuisine.",
+     1.2
+    ],
+    [
+     "Un homme qui ne m'avait jamais pris dans ses bras. Ses doigts tremblaient sur mon col.",
+     1.4
+    ],
+    [
+     "Il a serré le nœud, il a dit : voilà. Et il est sorti fumer.",
+     1.4
+    ],
+    [
+     "Le soir, j'ai fait glisser la cravate par-dessus ma tête, sans la dénouer. Par paresse.",
+     1.2
+    ],
+    [
+     "Je l'ai remise comme ça pour tous les mariages, les baptêmes, les enterrements.",
+     1.2
+    ],
+    [
+     "Mon père est mort trois ans plus tard. Le nœud, lui, est resté.",
+     1.6
+    ],
+    [
+     "Ta grand-mère a voulu le refaire cent fois. Elle disait qu'il était de travers.",
+     1.2
+    ],
+    [
+     "J'ai toujours refusé. C'est la dernière chose que ses *mains* ont faite pour moi.",
+     1.8
+    ],
+    [
+     "Cinquante-huit ans que je passe la tête dans le nœud de mon père.",
+     1.4
+    ],
+    [
+     "Mon père n'a jamais fait de discours. Il m'a laissé un nœud de travers.",
+     1.4
+    ],
+    [
+     "Le jour de mon enterrement, je la porterai. Ne laisse personne la refaire.",
+     1.4
+    ],
+    [
+     "Il y a des nœuds qu'on passe sa vie à ne pas *défaire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j077_pere",
+   "perso": "pere",
+   "episode": 78,
+   "fin": "Envoie-la à quelqu'un qui rate toujours les photos de famille.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ton grand-père est flou.",
+   "legende": "On ne garde pas les photos parfaites. On garde celles où on rit. Et toi, c'est quoi ta photo de famille préférée ? #papa #pere #famille #souvenir #emotion #pourtoi",
+   "phrases": [
+    [
+     "Sur notre dernière photo de famille, ton grand-père est *flou*.",
+     1.3
+    ],
+    [
+     "C'était à Noël. Il avait sorti son vieil appareil, celui avec le retardateur.",
+     1.2
+    ],
+    [
+     "Il voulait une vraie photo, tout le monde sur le canapé.",
+     1.2
+    ],
+    [
+     "Il réglait, il appuyait, et il courait nous rejoindre. Dix secondes pour traverser le salon.",
+     1.2
+    ],
+    [
+     "La première fois, il est arrivé trop tard. La deuxième, il a glissé sur le tapis.",
+     1.4
+    ],
+    [
+     "À la cinquième, ta grand-mère pleurait de rire. Toi, tu avais le hoquet.",
+     1.2
+    ],
+    [
+     "Il a pris onze photos. Il répétait : la prochaine sera la bonne.",
+     1.4
+    ],
+    [
+     "Il est parti au printemps suivant.",
+     1.6
+    ],
+    [
+     "Quand on a fait développer la pellicule, il n'était net sur aucune.",
+     1.4
+    ],
+    [
+     "Sur la dernière, on rit tous. Lui n'est qu'une tache floue qui *court* vers nous.",
+     1.8
+    ],
+    [
+     "C'est celle qu'on a encadrée. C'était lui, toute sa vie : il courait vers nous.",
+     1.4
+    ],
+    [
+     "Un jour, c'est toi qui régleras l'appareil. Tu glisseras. Tu rateras.",
+     1.2
+    ],
+    [
+     "Ce n'est pas grave. On ne garde pas les photos parfaites. On garde celles où on rit.",
+     1.4
+    ],
+    [
+     "Et moi, sur la dernière, je veux être flou. En train de courir vers *vous*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j077_mere",
+   "perso": "mere",
+   "episode": 78,
+   "fin": "Envoie-la à quelqu'un qui se fait des amis à tout âge.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Presque tous les noms sont barrés.",
+   "legende": "Vieillir, c'est barrer des noms. Bien vieillir, c'est continuer à en écrire. Et toi, c'est quand la dernière fois que tu t'es fait un nouvel ami ? #maman #mere #vieillesse #amitie #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans le carnet d'adresses de ta grand-mère, presque tous les noms sont *barrés*.",
+     1.3
+    ],
+    [
+     "Je l'ai trouvé dans le tiroir du téléphone, après sa mort. Un petit carnet rouge, usé.",
+     1.2
+    ],
+    [
+     "Des cousines, des voisines, des amies de l'usine. Toutes rayées d'un trait de stylo.",
+     1.2
+    ],
+    [
+     "Chaque trait, c'était un enterrement. Elle ne m'en parlait jamais.",
+     1.4
+    ],
+    [
+     "Elle a passé ses dernières années à barrer des noms. Toute seule, dans sa cuisine.",
+     1.4
+    ],
+    [
+     "J'ai eu honte. Je ne l'appelais pas assez. Je me disais qu'elle était seule au monde.",
+     1.4
+    ],
+    [
+     "Et puis j'ai tourné les dernières pages.",
+     1.6
+    ],
+    [
+     "Il y avait des noms nouveaux. Écrits récemment, d'une main tremblante.",
+     1.2
+    ],
+    [
+     "La boulangère. Le petit voisin qui montait ses courses. Le facteur. Une dame du marché.",
+     1.2
+    ],
+    [
+     "À quatre-vingt-cinq ans, elle se faisait encore des *amis*.",
+     1.8
+    ],
+    [
+     "Le jour de l'enterrement, ils étaient tous là. Je ne connaissais aucun d'eux.",
+     1.4
+    ],
+    [
+     "Le facteur a pleuré plus que moi.",
+     1.6
+    ],
+    [
+     "Vieillir, c'est barrer des noms. On n'y peut rien.",
+     1.2
+    ],
+    [
+     "Bien vieillir, c'est continuer à en *écrire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j077_fou",
+   "perso": "fou",
+   "episode": 77,
+   "fin": "Envoie-la à quelqu'un qui fait le bien sans le dire.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il s'est tu pendant cinquante ans.",
+   "legende": "Il a sauvé six cent soixante-neuf enfants. Puis il s'est tu pendant près de cinquante ans. Et toi, pour qui tu te lèverais ? #motivation #histoire #nicholaswinton #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-huit, une femme trouve un vieux *cahier* au grenier.",
+     1.3
+    ],
+    [
+     "Dedans, des photos d'enfants, avec leurs noms et l'adresse d'une famille anglaise.",
+     1.2
+    ],
+    [
+     "Il appartient à son mari, Nicholas Winton. Il n'en parle presque jamais.",
+     1.4
+    ],
+    [
+     "Cinquante ans plus tôt, il a vingt-neuf ans. Il travaille à la Bourse de Londres.",
+     1.2
+    ],
+    [
+     "Au lieu de partir au ski, il va à Prague, où des enfants juifs sont menacés.",
+     1.2
+    ],
+    [
+     "Il rentre à Londres, organise des trains, trouve des familles d'accueil.",
+     1.2
+    ],
+    [
+     "Six cent soixante-neuf enfants arrivent en Angleterre.",
+     1.4
+    ],
+    [
+     "Le dernier train devait partir le premier septembre mille neuf cent trente-neuf. La guerre éclate. Il ne part jamais.",
+     1.6
+    ],
+    [
+     "Après la guerre, il range le cahier. Et il se tait près de cinquante ans.",
+     1.4
+    ],
+    [
+     "La même année, une émission de télévision l'invite dans son public.",
+     1.2
+    ],
+    [
+     "La présentatrice demande si quelqu'un, dans la salle, lui doit la vie. Qu'il se lève.",
+     1.4
+    ],
+    [
+     "Autour de lui, des dizaines de personnes se *lèvent*.",
+     1.8
+    ],
+    [
+     "Les enfants des trains. Tous ont grandi.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu fais peut-être du bien sans que personne le voie.",
+     1.2
+    ],
+    [
+     "Continue. Un jour, quelqu'un se lèvera pour *toi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

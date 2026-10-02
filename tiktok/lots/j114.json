@@ -1,0 +1,348 @@
+{
+ "nom": "j114",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j114_grandmere",
+   "perso": "grandmere",
+   "episode": 115,
+   "fin": "Envoie-la à quelqu'un qui est jaloux de sa sœur.",
+   "lueurs": [
+    1,
+    9,
+    12
+   ],
+   "accroche": "Soixante écharpes, bien pliées.",
+   "legende": "Aimer la même personne, ce n'est pas une guerre. C'est un point commun. Et toi, avec qui dans ta famille partages-tu un amour ? #grandmere #soeurs #famille #emotion #jalousie #pourtoi",
+   "phrases": [
+    [
+     "Ma sœur Jeannine a été *amoureuse* de ton grand-père pendant soixante ans.",
+     1.3
+    ],
+    [
+     "Il l'avait fait danser une fois, au bal de mille neuf cent soixante-trois. Puis il m'a épousée, moi.",
+     1.2
+    ],
+    [
+     "Jeannine ne s'est jamais mariée. Chaque Noël, elle lui tricotait une écharpe.",
+     1.4
+    ],
+    [
+     "Il la portait tout l'hiver. Pour me faire enrager, je crois.",
+     1.4
+    ],
+    [
+     "Pendant soixante ans, j'ai été jalouse d'une sœur qui n'avait rien. Juste des écharpes.",
+     1.4
+    ],
+    [
+     "On se disputait pour tout. Les recettes, les enfants, la place à table.",
+     1.2
+    ],
+    [
+     "Quand ton grand-père est mort, elle s'est assise au fond de l'église. Toute seule.",
+     1.4
+    ],
+    [
+     "Le matin de l'enterrement, j'avais ouvert l'armoire. Il y avait soixante écharpes, bien pliées.",
+     1.4
+    ],
+    [
+     "J'ai pris la *rouge*, la première. Et je la lui ai mise autour du cou, dans le cercueil.",
+     1.8
+    ],
+    [
+     "Quand Jeannine l'a vue, elle s'est effondrée dans mes bras. Pour la première fois depuis soixante ans.",
+     1.6
+    ],
+    [
+     "Aimer la même personne, ce n'est pas une guerre. C'est un point commun.",
+     1.4
+    ],
+    [
+     "Il est parti avec mon alliance au doigt. Et son écharpe au *cou*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j114_grandpere",
+   "perso": "grandpere",
+   "episode": 116,
+   "fin": "Envoie-la à quelqu'un qui a épousé l'ennemi de sa famille.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une poule avec un nœud rouge.",
+   "legende": "Les guerres de famille finissent toujours par un mariage ou par un enterrement. Choisis le mariage. Et toi, quelle vieille histoire divise encore ta famille ? #grandpere #famille #humour #mariage #village #pourtoi",
+   "phrases": [
+    [
+     "Pendant quarante ans, ma famille et les Lebrun ne se sont pas parlé. À cause d'une *poule*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent cinquante-huit, leur poule est passée sous notre grillage. Mon père l'a mangée.",
+     1.2
+    ],
+    [
+     "Leur père a dit que c'était du vol. Le mien a dit que c'était de la chasse.",
+     1.4
+    ],
+    [
+     "Au village, il y avait deux camps. Deux cafés. Deux bancs à l'église.",
+     1.4
+    ],
+    [
+     "On m'avait appris à changer de trottoir quand je croisais un Lebrun.",
+     1.2
+    ],
+    [
+     "Et puis un soir, ton père est rentré avec une fiancée. Elle s'appelait Martine.",
+     1.4
+    ],
+    [
+     "Martine *Lebrun*.",
+     1.8
+    ],
+    [
+     "Ta grand-mère a lâché la soupière. Mon père a failli s'étrangler.",
+     1.4
+    ],
+    [
+     "Le jour du mariage, les deux familles se regardaient comme des chiens de faïence.",
+     1.4
+    ],
+    [
+     "Au dessert, le vieux Lebrun s'est levé. Il a posé un panier sur la table de mon père.",
+     1.6
+    ],
+    [
+     "Dedans, il y avait une poule. Vivante. Avec un nœud rouge autour du cou.",
+     1.8
+    ],
+    [
+     "Mon père a ri aux larmes. Les deux vieux ont fini la nuit ensemble.",
+     1.4
+    ],
+    [
+     "Les guerres de famille finissent toujours par un mariage ou par un enterrement.",
+     1.2
+    ],
+    [
+     "Choisis le *mariage*. Il y a plus de gâteau.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j114_pere",
+   "perso": "pere",
+   "episode": 115,
+   "fin": "Envoie-la à quelqu'un qui hésite à aller voir son frère.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Il t'avait gardé une part.",
+   "legende": "Les invitations qu'on refuse, on ne sait jamais laquelle était la dernière. Et toi, quelle invitation as-tu refusée par fierté ? #papa #pere #frere #famille #pardon #pourtoi",
+   "phrases": [
+    [
+     "Mon frère m'a invité à ses cinquante ans. J'ai répondu que j'étais *pris*.",
+     1.3
+    ],
+    [
+     "Je n'étais pas pris. On était fâchés depuis quatre ans. Une histoire bête, devenue une montagne.",
+     1.2
+    ],
+    [
+     "Il avait insisté : viens, même une heure. Il y aura le gâteau au café de maman.",
+     1.4
+    ],
+    [
+     "Ce samedi-là, je suis resté chez moi. J'ai tondu la pelouse. Deux fois.",
+     1.4
+    ],
+    [
+     "Trois mois plus tard, il est mort. D'un coup, un mardi matin.",
+     1.6
+    ],
+    [
+     "À l'enterrement, sa femme m'a dit : il t'avait gardé une part. Elle est encore au congélateur.",
+     1.8
+    ],
+    [
+     "Le soir, je l'ai mangée seul, dans ma voiture, devant chez eux.",
+     1.6
+    ],
+    [
+     "Ce n'était pas le gâteau de maman. C'était bien meilleur. Et c'était trop tard.",
+     1.4
+    ],
+    [
+     "Samedi, ton frère fête ses trente ans. Tu m'as dit que tu n'irais pas.",
+     1.4
+    ],
+    [
+     "Je sais. Il t'a blessé. Tu as tes raisons. J'avais les miennes aussi.",
+     1.4
+    ],
+    [
+     "Mais les invitations qu'on refuse, on ne sait jamais laquelle était la *dernière*.",
+     1.8
+    ],
+    [
+     "Vas-y. Même une heure. Mange une part de gâteau.",
+     1.2
+    ],
+    [
+     "Ne laisse jamais ton frère te garder une part dans le *congélateur*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j114_mere",
+   "perso": "mere",
+   "episode": 115,
+   "fin": "Envoie-la à quelqu'un qui a élevé son petit frère.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "C'est toi, ma maman.",
+   "legende": "Ceux qu'on a élevés sans en avoir le titre s'en souviennent. Même quand ils oublient les dates. Et toi, qui t'a élevé sans être ton parent ? #maman #mere #frere #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "J'avais douze ans quand ton oncle est né. C'est moi qui l'ai *élevé*.",
+     1.3
+    ],
+    [
+     "Notre mère travaillait de nuit à l'usine. Notre père, de jour. Il restait moi.",
+     1.2
+    ],
+    [
+     "Les biberons, les devoirs, les genoux écorchés. Je faisais mes propres devoirs à minuit.",
+     1.4
+    ],
+    [
+     "Quand il a eu vingt ans, il est parti à Lyon. Et il a oublié mon anniversaire.",
+     1.4
+    ],
+    [
+     "Chaque année. Pendant quinze ans. Pas une carte, pas un appel.",
+     1.4
+    ],
+    [
+     "Je disais à tout le monde que ça m'était égal. Je mentais très bien.",
+     1.2
+    ],
+    [
+     "Puis il s'est marié. Au moment de la danse avec sa mère, la musique a commencé.",
+     1.4
+    ],
+    [
+     "Notre mère s'est levée. Il est passé devant elle. Il est venu vers moi.",
+     1.6
+    ],
+    [
+     "Il m'a tendu la main. Il a dit, devant tout le monde : c'est toi, ma *maman*.",
+     1.8
+    ],
+    [
+     "Notre mère a souri. Elle savait. Elle a applaudi la première.",
+     1.4
+    ],
+    [
+     "Il oublie toujours mon anniversaire. Ce n'est plus grave.",
+     1.4
+    ],
+    [
+     "Ceux qu'on a élevés sans en avoir le titre s'en souviennent. Même quand ils oublient les dates.",
+     1.2
+    ],
+    [
+     "Lui, il oublie le jour de ma naissance. Mais il n'a jamais oublié qui l'a *bercé*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j114_fou",
+   "perso": "fou",
+   "episode": 114,
+   "fin": "Envoie-la à quelqu'un qui traverse un moment difficile.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Trois mots gravés sur une bague.",
+   "legende": "Dans la gloire, ces trois mots rendent humble. Dans le malheur, ils rendent l'espoir. Et toi, qu'est-ce qui doit passer en ce moment ? #motivation #conte #sagesse #espoir #resilience #pourtoi",
+   "phrases": [
+    [
+     "Dans un vieux conte d'Orient, un roi exige une bague *impossible*.",
+     1.3
+    ],
+    [
+     "Il dit à ses sages : je veux une bague qui rende joyeux l'homme triste.",
+     1.2
+    ],
+    [
+     "Et qui rende triste l'homme joyeux. Vous avez six mois.",
+     1.4
+    ],
+    [
+     "Les sages cherchent partout. Chez les bijoutiers, chez les mages, dans les vieux livres.",
+     1.2
+    ],
+    [
+     "Rien. Une telle bague n'existe pas.",
+     1.4
+    ],
+    [
+     "La veille de la date, l'un d'eux erre dans le quartier le plus pauvre de la ville.",
+     1.4
+    ],
+    [
+     "Un vieil artisan l'écoute. Il prend une bague toute simple. Et il grave quelque chose dessus.",
+     1.6
+    ],
+    [
+     "Le lendemain, le roi lit l'inscription. Il pâlit. Puis il sourit.",
+     1.6
+    ],
+    [
+     "Il y avait trois mots : cela aussi *passera*.",
+     1.8
+    ],
+    [
+     "Dans la gloire, ces trois mots rendent humble. Dans le malheur, ils rendent l'espoir.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu traverses peut-être un moment terrible. Une rupture, un échec, une famille qui se déchire.",
+     1.4
+    ],
+    [
+     "Cela aussi passera.",
+     1.6
+    ],
+    [
+     "Et si tout va bien en ce moment, savoure. Parce que cela aussi passera.",
+     1.2
+    ],
+    [
+     "Grave ces trois mots quelque part. Pas sur une bague. Dans ta *tête*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

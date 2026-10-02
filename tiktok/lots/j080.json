@@ -1,0 +1,364 @@
+{
+ "nom": "j080",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j080_grandmere",
+   "perso": "grandmere",
+   "episode": 81,
+   "fin": "Envoie-la à quelqu'un qui refuse toujours qu'on l'aide.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "J'ai eu envie de le gifler.",
+   "legende": "Vieillir, ce n'est pas devenir faible. C'est apprendre à se laisser aider. Et toi, tu laisses ta place dans le bus ? #grandmere #vieillesse #humour #sagesse #famille #pourtoi",
+   "phrases": [
+    [
+     "La première fois qu'un jeune homme m'a laissé sa place dans le bus, j'ai eu envie de le *gifler*.",
+     1.3
+    ],
+    [
+     "J'avais soixante-deux ans. Je sortais de chez le coiffeur.",
+     1.2
+    ],
+    [
+     "Il s'est levé d'un bond. Il a dit : asseyez-vous, madame. Tout le bus a regardé.",
+     1.4
+    ],
+    [
+     "J'ai répondu : non merci, je ne suis pas encore une vieille dame.",
+     1.2
+    ],
+    [
+     "Au virage suivant, le bus a freiné. Je suis tombée assise sur ses genoux.",
+     1.6
+    ],
+    [
+     "Le bus entier a éclaté de rire. Lui aussi. Moi, j'étais écarlate.",
+     1.4
+    ],
+    [
+     "Je me suis relevée avec toute ma dignité. Et je me suis assise à sa place.",
+     1.4
+    ],
+    [
+     "Ce jour-là, je n'ai pas vieilli d'un coup. J'ai arrêté de faire semblant.",
+     1.6
+    ],
+    [
+     "Depuis, j'accepte toutes les places. Les bras qu'on me tend. Les portes qu'on me tient.",
+     1.2
+    ],
+    [
+     "Et je dis merci. Ça leur fait tellement plaisir, à ces petits.",
+     1.4
+    ],
+    [
+     "Vieillir, ce n'est pas devenir faible. C'est apprendre à se laisser *aider*.",
+     1.8
+    ],
+    [
+     "La semaine dernière, dans le bus, j'ai vu une jeune femme enceinte debout.",
+     1.2
+    ],
+    [
+     "Je me suis levée. Elle a refusé, vexée. Je lui ai dit : asseyez-vous, je connais ce *virage*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j080_grandpere",
+   "perso": "grandpere",
+   "episode": 82,
+   "fin": "Envoie-la à quelqu'un qui garde une boîte pleine de souvenirs.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Mille dimanches dans une boîte de cacao.",
+   "legende": "Chaque pièce, c'est un dimanche où j'ai pensé à toi. Et toi, qu'est-ce que ton grand-père gardait pour toi en secret ? #grandpere #tendresse #famille #transmission #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans ma vieille boîte de cacao, il y a mille *dimanches*.",
+     1.3
+    ],
+    [
+     "Le jour de ta naissance, j'ai pris une boîte en fer. J'ai fait une fente dans le couvercle.",
+     1.2
+    ],
+    [
+     "Chaque dimanche, après le déjeuner, j'y glissais une pièce. Une seule.",
+     1.2
+    ],
+    [
+     "Même les mois difficiles, je n'ai pas sauté un dimanche.",
+     1.2
+    ],
+    [
+     "Je voulais te la donner pour tes dix-huit ans. J'ai oublié.",
+     1.2
+    ],
+    [
+     "Alors je te la donne aujourd'hui. Pendant que je vois encore ta tête.",
+     1.4
+    ],
+    [
+     "Je te préviens tout de suite. Les premières pièces sont des francs.",
+     1.6
+    ],
+    [
+     "Ça ne vaut plus rien depuis deux mille deux. Les autres, pas grand-chose.",
+     1.4
+    ],
+    [
+     "Ne fais pas le calcul. Je l'ai fait. Tu pourras t'offrir un repas. Petit.",
+     1.6
+    ],
+    [
+     "Chaque pièce, c'est un dimanche où j'ai *pensé* à toi. Même ceux où tu ne venais pas.",
+     1.8
+    ],
+    [
+     "Les francs, c'est quand tu étais petit. Les euros, quand tu es devenu grand.",
+     1.4
+    ],
+    [
+     "Garde-la. Et le jour où tu auras un enfant, refais une fente dans le couvercle.",
+     1.4
+    ],
+    [
+     "Ce n'est pas de l'argent que je te donne.",
+     1.2
+    ],
+    [
+     "Toi, tu ne pourras rien acheter avec. Moi, ça m'a acheté mille dimanches *heureux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j080_pere",
+   "perso": "pere",
+   "episode": 81,
+   "fin": "Envoie-la à quelqu'un qui sait écouter.",
+   "lueurs": [
+    1,
+    8,
+    15
+   ],
+   "accroche": "Quelqu'un a décroché.",
+   "legende": "Si un jour quelqu'un se trompe de numéro en pleurant, ne raccroche pas. Et toi, qui t'a déjà écouté sans te connaître ? #papa #pere #deuil #bienveillance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Deux ans après la mort de mon père, j'ai appelé son *portable*. Quelqu'un a décroché.",
+     1.3
+    ],
+    [
+     "Un soir, seul dans la voiture, je ne sais pas pourquoi.",
+     1.2
+    ],
+    [
+     "Je voulais juste entendre sa voix sur le répondeur.",
+     1.2
+    ],
+    [
+     "Mais ça a sonné. Et un jeune homme a dit : allô ?",
+     1.6
+    ],
+    [
+     "Le numéro avait été donné à quelqu'un d'autre. Évidemment.",
+     1.2
+    ],
+    [
+     "J'ai bafouillé. J'ai dit : pardon, c'était le numéro de mon père. Il est mort.",
+     1.4
+    ],
+    [
+     "Il y a eu un silence. J'ai cru qu'il allait raccrocher.",
+     1.4
+    ],
+    [
+     "Il a dit : vous voulez me *parler* de lui ?",
+     1.8
+    ],
+    [
+     "Je suis resté vingt minutes au téléphone avec un inconnu. Je lui ai tout raconté.",
+     1.4
+    ],
+    [
+     "Ses chemises à carreaux, ses blagues nulles, notre dernière dispute.",
+     1.2
+    ],
+    [
+     "Il écoutait. Il disait juste : d'accord. Et il riait aux bons endroits.",
+     1.4
+    ],
+    [
+     "Un an plus tard, jour pour jour, j'ai reçu un message de ce numéro.",
+     1.4
+    ],
+    [
+     "Je pense à votre père aujourd'hui.",
+     1.8
+    ],
+    [
+     "Il y a des inconnus qui prennent ton chagrin au téléphone. Sans rien demander.",
+     1.4
+    ],
+    [
+     "Si un jour quelqu'un se trompe de numéro en pleurant, ne raccroche pas. *Écoute*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j080_mere",
+   "perso": "mere",
+   "episode": 81,
+   "fin": "Envoie-la à quelqu'un qui fête chaque anniversaire en grand.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Les pompiers sont venus.",
+   "legende": "Elle voulait toutes ses bougies. Elle était fière de chacune. Et toi, quel est l'anniversaire le plus mémorable de ta famille ? #maman #mere #grandmere #humour #vieillesse #pourtoi",
+   "phrases": [
+    [
+     "Pour les quatre-vingt-dix ans de ta grand-mère, on a mis quatre-vingt-dix *bougies*. Les pompiers sont venus.",
+     1.3
+    ],
+    [
+     "C'était son idée. Elle voulait toutes ses années, pas des chiffres en cire.",
+     1.2
+    ],
+    [
+     "Ton oncle a mis vingt minutes à les allumer.",
+     1.2
+    ],
+    [
+     "La fumée est montée jusqu'au plafond. Et l'alarme s'est mise à hurler.",
+     1.2
+    ],
+    [
+     "Une voisine a appelé les pompiers. Ils sont arrivés à six.",
+     1.4
+    ],
+    [
+     "Ta grand-mère les a accueillis en robe à fleurs. Elle a dit : vous tombez bien, messieurs.",
+     1.4
+    ],
+    [
+     "Elle les a obligés à chanter. Puis à manger du gâteau. Un peu brûlé.",
+     1.2
+    ],
+    [
+     "Le plus jeune a dansé avec elle dans le salon. Elle riait comme une gamine.",
+     1.6
+    ],
+    [
+     "C'était son *dernier* anniversaire. Elle est partie au printemps.",
+     1.8
+    ],
+    [
+     "À l'enterrement, il y avait un bouquet sans carte. Avec un petit casque de pompier en plastique.",
+     1.6
+    ],
+    [
+     "Comment oublier une dame de quatre-vingt-dix ans qui vous fait danser ?",
+     1.4
+    ],
+    [
+     "On compte souvent les années de nos vieux en silence, comme une mauvaise nouvelle.",
+     1.2
+    ],
+    [
+     "Elle, elle voulait toutes ses bougies. Elle était fière de chacune.",
+     1.4
+    ],
+    [
+     "Alors fête tes années. Toutes. Même s'il faut appeler les *pompiers*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j080_fou",
+   "perso": "fou",
+   "episode": 80,
+   "fin": "Envoie-la à quelqu'un qui n'arrête jamais d'apprendre.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il a échangé son pain contre l'alphabet.",
+   "legende": "Il avait payé son savoir avec son pain. Toi, tu as tout le savoir du monde dans ta poche. Qu'est-ce que tu as appris cette semaine ? #motivation #histoire #frederickdouglass #lecture #liberte #pourtoi",
+   "phrases": [
+    [
+     "Un enfant esclave a échangé son *pain* contre des leçons de lecture.",
+     1.3
+    ],
+    [
+     "Baltimore, dans les années mille huit cent vingt. La femme de son maître lui apprend l'alphabet.",
+     1.2
+    ],
+    [
+     "Le maître l'interdit. Il dit : s'il sait lire, on ne pourra plus le garder.",
+     1.4
+    ],
+    [
+     "L'enfant a tout entendu. Il vient de comprendre où se trouve la porte.",
+     1.8
+    ],
+    [
+     "Alors il remplit ses poches de pain et le donne aux gamins pauvres du quartier.",
+     1.2
+    ],
+    [
+     "En échange, ils lui apprennent à lire. Un mot par-ci, un mot par-là.",
+     1.2
+    ],
+    [
+     "Il apprend à écrire en recopiant les lettres tracées sur les planches du chantier naval.",
+     1.4
+    ],
+    [
+     "À vingt ans, il s'enfuit vers le Nord. Il change de nom.",
+     1.4
+    ],
+    [
+     "Il devient l'un des plus grands orateurs de son temps.",
+     1.2
+    ],
+    [
+     "Pendant la guerre de Sécession, le président Lincoln le reçoit à la Maison-Blanche.",
+     1.6
+    ],
+    [
+     "Cet enfant s'appelait Frederick *Douglass*.",
+     1.6
+    ],
+    [
+     "Il avait payé son savoir avec son pain. Le meilleur échange de sa vie.",
+     1.4
+    ],
+    [
+     "Toi, tu as tout le savoir du monde dans ta poche. Gratuit. Sans te cacher.",
+     1.4
+    ],
+    [
+     "Qu'est-ce que tu en fais ? Lis. Apprends. Personne ne pourra plus te *garder*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

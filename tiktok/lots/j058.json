@@ -1,0 +1,344 @@
+{
+ "nom": "j058",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j058_grandmere",
+   "perso": "grandmere",
+   "episode": 59,
+   "fin": "Envoie-la à l'amie qui t'a toujours laissé la plus grosse part.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Un seul manteau pour deux.",
+   "legende": "Une vraie amie partage. Et quand personne ne regarde, elle te laisse la plus grosse part. Et toi, qui a triché pour que tu aies moins froid ? #grandmere #amitie #enfance #emotion #partage #pourtoi",
+   "phrases": [
+    [
+     "L'hiver de mille neuf cent cinquante-six, ma meilleure amie et moi, on n'avait qu'un *manteau* pour deux.",
+     1.3
+    ],
+    [
+     "J'avais dix ans. Chez nous, il n'y avait pas d'argent pour m'en acheter un.",
+     1.2
+    ],
+    [
+     "Lucienne, elle, avait un manteau rouge, en laine, avec des boutons dorés.",
+     1.2
+    ],
+    [
+     "Un matin, devant l'école, elle me l'a mis sur les épaules. Elle a dit : demain, c'est mon tour.",
+     1.4
+    ],
+    [
+     "Tout l'hiver, on l'a porté un jour chacune. Un jour au chaud, un jour à grelotter.",
+     1.2
+    ],
+    [
+     "Cet hiver-là, il a fait si froid que le puits a gelé.",
+     1.4
+    ],
+    [
+     "L'an dernier, pour ses quatre-vingts ans, on a reparlé du manteau rouge.",
+     1.4
+    ],
+    [
+     "Elle a souri : tu n'as jamais remarqué que tu l'avais toujours les jours de *neige* ?",
+     1.8
+    ],
+    [
+     "Je n'avais rien remarqué. J'avais dix ans.",
+     1.4
+    ],
+    [
+     "Chaque matin, elle regardait le ciel. S'il allait neiger, elle me donnait le manteau.",
+     1.4
+    ],
+    [
+     "Tout l'hiver, elle a triché. Pour que j'aie moins froid qu'elle.",
+     1.6
+    ],
+    [
+     "Une vraie amie partage. Et quand personne ne regarde, elle te laisse la plus grosse part.",
+     1.4
+    ],
+    [
+     "Les jours de neige, c'était toujours mon *tour*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j058_grandpere",
+   "perso": "grandpere",
+   "episode": 60,
+   "fin": "Envoie-la à l'ami qui t'a aidé sans te le faire sentir.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Elle ne donnait plus une goutte de lait.",
+   "legende": "Un vrai ami sait quand tu le trompes. Et il t'aide quand même, sans t'humilier. Et toi, qui t'a aidé en faisant semblant de ne rien voir ? #grandpere #amitie #ferme #humour #honneur #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, j'ai vendu une *vache* à mon meilleur ami.",
+     1.3
+    ],
+    [
+     "Elle ne donnait plus une goutte de lait. Je le savais.",
+     1.4
+    ],
+    [
+     "Mon père venait de mourir. Je n'avais pas de quoi payer l'enterrement.",
+     1.2
+    ],
+    [
+     "Alors j'ai vendu la Blanchette à René. Au prix d'une bonne laitière.",
+     1.2
+    ],
+    [
+     "Je lui ai juré qu'elle donnait vingt litres par jour. En le regardant dans les yeux.",
+     1.4
+    ],
+    [
+     "René a payé sans discuter. Il a même offert une tournée au café.",
+     1.4
+    ],
+    [
+     "Pendant trente ans, il ne m'a jamais parlé du lait. Pas une fois.",
+     1.4
+    ],
+    [
+     "La Blanchette est morte de vieillesse dans son pré, grasse comme un notaire.",
+     1.4
+    ],
+    [
+     "Un soir, au café, j'ai fini par tout avouer. Trente ans de honte.",
+     1.4
+    ],
+    [
+     "René a vidé son verre. Il a dit : je le savais. Je suis paysan, pas *idiot*.",
+     1.8
+    ],
+    [
+     "Il avait acheté une vache inutile pour que je n'aie pas à lui demander l'aumône.",
+     1.6
+    ],
+    [
+     "Un vrai ami sait quand tu le trompes. Et il t'aide quand même, sans t'humilier.",
+     1.4
+    ],
+    [
+     "Cette vache ne lui a jamais donné de lait. Mais elle m'a donné un *ami*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j058_pere",
+   "perso": "pere",
+   "episode": 59,
+   "fin": "Envoie-la à l'ami qui t'aurait caché dans son garage.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Trois jours caché dans un garage.",
+   "legende": "Quand tu crois t'enfuir, il y a souvent des adultes qui tiennent le filet. Et toi, chez quel ami te serais-tu caché à seize ans ? #papa #pere #amitie #humour #adolescence #pourtoi",
+   "phrases": [
+    [
+     "À seize ans, j'ai fait une *fugue*. Trois jours. Personne ne m'a retrouvé.",
+     1.3
+    ],
+    [
+     "Après une dispute avec ton grand-père, j'ai claqué la porte avec un sac.",
+     1.2
+    ],
+    [
+     "Je me suis caché chez Pascal, mon meilleur ami. Dans le garage de ses parents.",
+     1.2
+    ],
+    [
+     "Il m'a monté une couverture, une lampe et ses bandes dessinées.",
+     1.2
+    ],
+    [
+     "Pendant trois jours, il a menti à sa mère. Il disait qu'il révisait au garage.",
+     1.4
+    ],
+    [
+     "Le soir, des tartines apparaissaient sur le rebord de la fenêtre. Pascal disait qu'il les volait.",
+     1.4
+    ],
+    [
+     "Le troisième jour, je suis rentré, la tête basse. Ta grand-mère n'a même pas crié.",
+     1.4
+    ],
+    [
+     "L'an dernier, la mère de Pascal m'a pris à part, en souriant.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : le premier soir, j'ai appelé ta mère. On s'est mises d'accord.",
+     1.6
+    ],
+    [
+     "Les deux mères savaient tout. Depuis le premier soir. Les *tartines*, c'était elle.",
+     1.8
+    ],
+    [
+     "Pascal, lui, ne l'a jamais su. Il croit encore qu'il m'a caché trois jours.",
+     1.4
+    ],
+    [
+     "Quand tu crois t'enfuir, il y a souvent des adultes qui tiennent le filet.",
+     1.4
+    ],
+    [
+     "Et si un jour ton enfant fugue, appelle la mère de son meilleur *ami*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j058_mere",
+   "perso": "mere",
+   "episode": 59,
+   "fin": "Envoie-la à l'amie qui ose te confisquer ton téléphone.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Elle m'a confisqué mon téléphone.",
+   "legende": "Une amie, c'est quelqu'un qui te rappelle qui tu avais juré de ne pas devenir. Et toi, qui te remet à ta place quand tu exagères ? #maman #mere #amitie #humour #grandmere #pourtoi",
+   "phrases": [
+    [
+     "Le jour où ton bébé est né, ma meilleure amie m'a confisqué mon *téléphone*.",
+     1.3
+    ],
+    [
+     "Je t'avais appelé quatre fois avant midi. Le bain, le sommeil, la température du biberon.",
+     1.2
+    ],
+    [
+     "À la cinquième, Christine m'a pris le téléphone des mains. Elle l'a rangé dans son sac.",
+     1.4
+    ],
+    [
+     "Elle a dit : tu le récupéreras dans trois jours.",
+     1.4
+    ],
+    [
+     "J'ai protesté. J'étais la grand-mère, j'avais le droit.",
+     1.2
+    ],
+    [
+     "Elle m'a demandé : tu te souviens de ta mère, quand tu as accouché ?",
+     1.6
+    ],
+    [
+     "Je m'en souvenais. Elle m'appelait dix fois par jour. J'en pleurais de rage.",
+     1.4
+    ],
+    [
+     "Et j'avais juré que je ne ferais jamais *pareil*.",
+     1.8
+    ],
+    [
+     "Trois jours plus tard, Christine m'a rendu le téléphone avec un papier plié.",
+     1.4
+    ],
+    [
+     "La liste de tous les conseils que j'avais voulu te donner.",
+     1.2
+    ],
+    [
+     "Elle avait écrit dessus : à sortir le jour où on te les demandera.",
+     1.6
+    ],
+    [
+     "Tu ne me les as jamais demandés. Tu t'en sors très bien sans moi.",
+     1.4
+    ],
+    [
+     "Une amie, c'est quelqu'un qui te rappelle qui tu avais juré de ne pas *devenir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j058_fou",
+   "perso": "fou",
+   "episode": 58,
+   "fin": "Envoie-la à l'ami qui ose te dire que c'est raté.",
+   "lueurs": [
+    1,
+    5,
+    13
+   ],
+   "accroche": "Leur verdict : c'est raté.",
+   "legende": "Si c'est un ennemi, oublie-le. Si c'est un vrai ami, écoute-le. Et toi, qui ose te dire que ton travail est raté ? #motivation #litterature #flaubert #amitie #verite #pourtoi",
+   "phrases": [
+    [
+     "Pendant quatre jours, un jeune écrivain lit son *roman* à voix haute à ses deux meilleurs amis.",
+     1.3
+    ],
+    [
+     "Il y a passé plus d'un an. Il est sûr de tenir un chef-d'œuvre.",
+     1.2
+    ],
+    [
+     "Des heures et des heures. Ses amis écoutent sans rien dire.",
+     1.2
+    ],
+    [
+     "Le dernier soir, il pose son manuscrit et leur demande ce qu'ils en pensent.",
+     1.6
+    ],
+    [
+     "Leur verdict tombe : c'est raté. Il faut le ranger et ne plus jamais en parler.",
+     1.8
+    ],
+    [
+     "Le jeune homme est anéanti. Mais il ne se brouille pas avec eux. Il les écoute.",
+     1.4
+    ],
+    [
+     "L'un d'eux lui conseille un sujet plus simple. Une histoire vraie, banale, arrivée en Normandie.",
+     1.4
+    ],
+    [
+     "Il y travaille près de cinq ans. Il hurle ses phrases à voix haute pour les éprouver.",
+     1.4
+    ],
+    [
+     "Parfois, une seule page lui prend des jours.",
+     1.4
+    ],
+    [
+     "Le livre s'appelle Madame Bovary. Il s'appelait Gustave Flaubert.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, quelqu'un te dira que ton travail est raté.",
+     1.2
+    ],
+    [
+     "Si c'est un ennemi, oublie-le.",
+     1.2
+    ],
+    [
+     "Si c'est un vrai ami, écoute-le. Il vient peut-être de t'offrir ton *chef-d'œuvre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

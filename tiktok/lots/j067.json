@@ -1,0 +1,356 @@
+{
+ "nom": "j067",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j067_grandmere",
+   "perso": "grandmere",
+   "episode": 68,
+   "fin": "Envoie-la à quelqu'un qui achète tout à crédit.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Une télévision à crédit pour voir la Lune.",
+   "legende": "Ne t'endette jamais pour regarder les rêves des autres. Garde ton argent pour vivre les tiens. Et toi, tu as déjà acheté à crédit quelque chose que tu regrettes ? #grandmere #humour #argent #souvenirs #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-neuf, on a acheté une télévision à *crédit*. Pour voir un homme marcher sur la Lune.",
+     1.3
+    ],
+    [
+     "Ton grand-père avait signé chez le marchand sans me demander. Vingt-quatre mensualités.",
+     1.2
+    ],
+    [
+     "Toute la rue est venue la regarder chez nous. Même la voisine qui ne nous parlait plus.",
+     1.2
+    ],
+    [
+     "La grande nuit, on était quinze dans le salon, sur des chaises empruntées.",
+     1.2
+    ],
+    [
+     "Vers quatre heures du matin, l'homme a posé le pied sur la Lune. Toute la rue a crié.",
+     1.6
+    ],
+    [
+     "Ton grand-père pleurait. Il répétait : on a vu ça chez nous.",
+     1.4
+    ],
+    [
+     "Le lendemain, la fête était finie. Pas les mensualités.",
+     1.4
+    ],
+    [
+     "Un soir d'hiver, la télévision a fait pouf. Une fumée grise, et plus rien.",
+     1.4
+    ],
+    [
+     "Il restait sept mensualités. Pour une boîte qui ne montrait plus que notre reflet.",
+     1.6
+    ],
+    [
+     "On a fini de la payer quand elle était déjà à la *cave*.",
+     1.8
+    ],
+    [
+     "Un homme a fait un petit pas sur la Lune. Nous, on a mangé des lentilles pendant deux ans.",
+     1.6
+    ],
+    [
+     "Ne t'endette jamais pour regarder les rêves des autres.",
+     1.4
+    ],
+    [
+     "Garde ton argent pour vivre les *tiens*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j067_grandpere",
+   "perso": "grandpere",
+   "episode": 69,
+   "fin": "Envoie-la à quelqu'un qui t'a appris à compter.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Elle me payait avec des boutons.",
+   "legende": "Elle m'a appris à compter. Moi, je lui ai prouvé que certaines choses ne se comptent pas. Et toi, qui t'a appris à compter ? #grandpere #dignite #generosite #souvenirs #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant trois ans, une vieille dame m'a payé mes légumes avec des *boutons*.",
+     1.3
+    ],
+    [
+     "Le samedi, je vendais au marché. Des poireaux, des pommes de terre, des œufs.",
+     1.2
+    ],
+    [
+     "Elle venait toujours à la fin, quand les autres étaient partis.",
+     1.2
+    ],
+    [
+     "Elle choisissait trois poireaux. Puis elle sortait de son porte-monnaie un bouton de nacre.",
+     1.2
+    ],
+    [
+     "Elle le posait dans ma main, très droite, et disait : voilà, jeune homme.",
+     1.4
+    ],
+    [
+     "Moi, je répondais : merci, madame. Et je lui rendais la monnaie. En vraies pièces.",
+     1.6
+    ],
+    [
+     "Les autres marchands se moquaient de moi. Ils disaient que je finirais ruiné.",
+     1.2
+    ],
+    [
+     "Elle savait. Je savais. On n'en a jamais parlé.",
+     1.6
+    ],
+    [
+     "Un hiver, elle n'est plus venue. Au cimetière, j'ai vu son nom.",
+     1.4
+    ],
+    [
+     "C'était mon ancienne institutrice. Celle qui m'avait appris à *compter*.",
+     1.8
+    ],
+    [
+     "Elle n'avait plus rien. Mais elle avait encore sa dignité. Je n'allais pas la lui prendre.",
+     1.6
+    ],
+    [
+     "Sur l'étagère, il y a un bocal plein de boutons. C'est la plus belle paie de ma vie.",
+     1.4
+    ],
+    [
+     "Elle m'a appris à compter. Moi, je lui ai prouvé que certaines choses ne se *comptent* pas.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j067_pere",
+   "perso": "pere",
+   "episode": 68,
+   "fin": "Envoie-la à quelqu'un qui a tout quitté pour son vrai métier.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je ne t'ai pas parlé pendant un mois.",
+   "legende": "Je n'étais pas en colère contre toi. J'étais jaloux. Et toi, tu as déjà lâché un bon salaire pour un métier qui te rend heureux ? #papa #pere #metier #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le jour où tu as quitté ton travail, je ne t'ai pas parlé pendant un *mois*.",
+     1.3
+    ],
+    [
+     "Tu avais un bureau, un bon salaire, un avenir tout tracé.",
+     1.2
+    ],
+    [
+     "Et tu as tout lâché pour devenir menuisier. À vingt-huit ans.",
+     1.2
+    ],
+    [
+     "Au téléphone, j'ai dit que tu gâchais tout. Que tu le regretterais.",
+     1.4
+    ],
+    [
+     "Ta mère m'a demandé pourquoi j'étais si en colère. Je n'ai pas su.",
+     1.2
+    ],
+    [
+     "La réponse, je l'ai trouvée dans le grenier, en cherchant une valise.",
+     1.2
+    ],
+    [
+     "Une vieille boîte à outils. La mienne. Celle de mes dix-sept ans.",
+     1.4
+    ],
+    [
+     "À ton âge, moi aussi, je voulais travailler le bois. J'avais même trouvé un apprentissage.",
+     1.2
+    ],
+    [
+     "Mon père m'a dit : un métier de pauvre. Alors j'ai pris un bureau, et un bon salaire.",
+     1.6
+    ],
+    [
+     "Je n'étais pas en colère contre toi. J'étais *jaloux*.",
+     1.8
+    ],
+    [
+     "Tu as fait ce que je n'avais pas osé. Sans demander la permission à personne.",
+     1.6
+    ],
+    [
+     "Samedi, je suis passé à ton atelier. Tu ne m'as pas vu. Tu sifflais.",
+     1.4
+    ],
+    [
+     "Je ne t'ai jamais entendu siffler au bureau.",
+     1.6
+    ],
+    [
+     "Pardon pour ce mois de silence. Merci d'avoir eu le *courage* que je n'ai pas eu.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j067_mere",
+   "perso": "mere",
+   "episode": 68,
+   "fin": "Envoie-la à quelqu'un qui donne sans jamais le dire.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Je t'ai puni pour la plus belle chose.",
+   "legende": "Le plus beau manteau que je t'aie acheté, c'est un autre enfant qui l'a porté. Et toi, tu as déjà été puni pour une bonne action ? #maman #mere #generosite #enfance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais onze ans, je t'ai puni pour la plus belle chose que tu aies *faite*.",
+     1.3
+    ],
+    [
+     "En novembre, je t'avais acheté un manteau neuf. Bleu, chaud, beaucoup trop cher.",
+     1.2
+    ],
+    [
+     "Trois semaines plus tard, tu es rentré de l'école en pull.",
+     1.2
+    ],
+    [
+     "Tu m'as dit que tu l'avais perdu. Tu ne savais pas où.",
+     1.2
+    ],
+    [
+     "J'ai crié comme jamais. Privé de télévision, et le vieux blouson de ton cousin.",
+     1.4
+    ],
+    [
+     "Tu n'as pas protesté. Pas une seule fois.",
+     1.4
+    ],
+    [
+     "En décembre, à la sortie de l'école, une maman est venue me voir.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : merci pour le *manteau*. Mon fils n'en avait pas.",
+     1.8
+    ],
+    [
+     "Je ne savais pas de quoi elle parlait. Puis j'ai vu son fils. En bleu.",
+     1.6
+    ],
+    [
+     "Tu ne m'avais rien dit pour qu'il n'ait pas honte. Tu as préféré la punition.",
+     1.6
+    ],
+    [
+     "Le soir, je t'ai demandé pardon. Tu as haussé les épaules : il avait froid, maman.",
+     1.6
+    ],
+    [
+     "Tu as eu froid tout l'hiver pour qu'un autre garçon n'ait pas *honte*.",
+     1.4
+    ],
+    [
+     "Le plus beau manteau que je t'aie acheté, c'est un autre enfant qui l'a porté.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j067_fou",
+   "perso": "fou",
+   "episode": 67,
+   "fin": "Envoie-la à quelqu'un qui repart de zéro.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Son premier client l'a refusé.",
+   "legende": "Ramasse ce qui reste. Même un petit moteur suffit pour repartir. Et toi, qu'est-ce qui te reste quand tout s'écroule ? #motivation #echec #entrepreneur #resilience #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "Un mécanicien japonais fabrique des segments de piston. Son premier grand client les *refuse*.",
+     1.3
+    ],
+    [
+     "La qualité est jugée insuffisante.",
+     1.2
+    ],
+    [
+     "Alors il retourne à l'école, à trente ans, pour apprendre le métal.",
+     1.2
+    ],
+    [
+     "Il ne vient pas chercher un diplôme. Il vient chercher la solution.",
+     1.4
+    ],
+    [
+     "Ses segments finissent par être acceptés. Puis la guerre arrive.",
+     1.2
+    ],
+    [
+     "Une de ses usines est bombardée. Une autre s'effondre dans un tremblement de terre.",
+     1.4
+    ],
+    [
+     "Il vend ce qui reste. À l'entreprise qui l'avait refusé au début.",
+     1.6
+    ],
+    [
+     "Après la guerre, le Japon manque de tout. Les gens marchent, ou pédalent.",
+     1.2
+    ],
+    [
+     "Il récupère de petits moteurs de l'armée. Et il les fixe sur des vélos.",
+     1.4
+    ],
+    [
+     "Les gens font la queue pour les acheter.",
+     1.2
+    ],
+    [
+     "Deux ans plus tard, il fonde son entreprise.",
+     1.2
+    ],
+    [
+     "Elle deviendra le plus grand fabricant de motos du *monde*.",
+     1.8
+    ],
+    [
+     "Cet homme s'appelait Soichiro Honda.",
+     1.6
+    ],
+    [
+     "Toi aussi, on t'a peut-être dit : pas assez bon. Toi aussi, tout s'est peut-être écroulé.",
+     1.4
+    ],
+    [
+     "Ramasse ce qui reste. Même un petit moteur suffit pour *repartir*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

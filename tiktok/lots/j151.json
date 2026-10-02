@@ -1,0 +1,360 @@
+{
+ "nom": "j151",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j151_grandmere",
+   "perso": "grandmere",
+   "episode": 152,
+   "fin": "Envoie-la à quelqu'un qui tricote pour les autres.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Un petit point rouge.",
+   "legende": "On croit tricoter pour des inconnus. En fait, on tricote toujours pour quelqu'un qu'on aimera. Tu as déjà fait quelque chose pour un inconnu ? #grandmere #tricot #gentillesse #naissance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Depuis vingt ans, je tricote des *bonnets* pour des bébés que je ne connaîtrai jamais.",
+     1.3
+    ],
+    [
+     "Des tout petits bonnets, pour les prématurés. Je les dépose à la maternité une fois par mois.",
+     1.2
+    ],
+    [
+     "Ton grand-père se moquait. Il disait que j'habillais tout l'hôpital.",
+     1.2
+    ],
+    [
+     "Sur chacun, je fais un petit point rouge, à l'intérieur. C'est ma signature.",
+     1.4
+    ],
+    [
+     "J'en ai tricoté des centaines. Je n'ai jamais su à qui ils allaient.",
+     1.4
+    ],
+    [
+     "L'été dernier, ta cousine a accouché deux mois trop tôt. Une petite fille d'un kilo et demi.",
+     1.4
+    ],
+    [
+     "Trois semaines de couveuse. Toute la famille retenait son souffle.",
+     1.4
+    ],
+    [
+     "Le jour de la sortie, ta cousine m'a envoyé une photo. La petite, dans son siège auto.",
+     1.2
+    ],
+    [
+     "Elle portait un bonnet jaune. Trop grand pour elle.",
+     1.6
+    ],
+    [
+     "Le bord était retourné. Et dans le revers, il y avait un petit point *rouge*.",
+     1.8
+    ],
+    [
+     "Ta cousine ne savait pas. Les infirmières non plus.",
+     1.4
+    ],
+    [
+     "Moi, j'ai pleuré toute la soirée dans mon fauteuil, avec mes aiguilles sur les genoux.",
+     1.4
+    ],
+    [
+     "On croit tricoter pour des inconnus.",
+     1.2
+    ],
+    [
+     "En fait, on tricote toujours pour quelqu'un qu'on *aimera*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j151_grandpere",
+   "perso": "grandpere",
+   "episode": 153,
+   "fin": "Envoie-la à quelqu'un qui sait quand oublier le règlement.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Mon seul blâme. J'en suis fier.",
+   "legende": "Le règlement, c'est pour les jours ordinaires. Il y a des jours qui ne le sont pas. Tu as déjà désobéi pour la bonne cause ? #grandpere #train #gentillesse #conscience #travail #pourtoi",
+   "phrases": [
+    [
+     "En trente-cinq ans de chemin de fer, j'ai eu un seul *blâme*. J'en suis fier.",
+     1.3
+    ],
+    [
+     "J'étais contrôleur. Les fraudeurs, je les connaissais tous. Je ne laissais rien passer.",
+     1.2
+    ],
+    [
+     "Un soir de mille neuf cent soixante-dix, dans le train de nuit, un jeune soldat sans billet.",
+     1.2
+    ],
+    [
+     "Il a sorti un télégramme froissé. Sa mère était au plus mal. Il voulait arriver à temps.",
+     1.4
+    ],
+    [
+     "Il n'avait pas un sou. Il était parti de la caserne en courant.",
+     1.4
+    ],
+    [
+     "Le règlement, c'était l'amende. Ou la descente à la prochaine gare.",
+     1.4
+    ],
+    [
+     "J'ai rangé mon carnet. Je lui ai dit : dors, je te réveille à ta gare.",
+     1.6
+    ],
+    [
+     "Un voyageur a tout vu. Il a écrit à la compagnie pour se plaindre.",
+     1.4
+    ],
+    [
+     "J'ai eu un blâme dans mon dossier. Ta grand-mère était furieuse.",
+     1.4
+    ],
+    [
+     "Je ne sais pas s'il est arrivé à temps. Je ne le saurai jamais.",
+     1.6
+    ],
+    [
+     "Mais je sais une chose. S'il est arrivé trop tard, ce n'est pas à cause de *moi*.",
+     1.8
+    ],
+    [
+     "Le règlement, c'est pour les jours ordinaires. Il y a des jours qui ne le sont pas.",
+     1.2
+    ],
+    [
+     "J'ai un blâme dans mon dossier. Et la conscience *tranquille*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j151_pere",
+   "perso": "pere",
+   "episode": 152,
+   "fin": "Envoie-la à quelqu'un qui part quand le bip sonne.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai quitté ta fête en courant.",
+   "legende": "Je ne pouvais pas lui rendre cette nuit. Alors je l'ai rendue à d'autres. Qui t'a sauvé un jour, toi ? #papa #pere #pompier #gratitude #courage #pourtoi",
+   "phrases": [
+    [
+     "Le soir de tes dix ans, j'ai quitté ta fête d'*anniversaire* en courant. Tu m'en as voulu longtemps.",
+     1.3
+    ],
+    [
+     "Mon bip avait sonné au moment des bougies. Tu croyais que c'était mon travail.",
+     1.2
+    ],
+    [
+     "C'était vrai, en partie. J'étais pompier volontaire. Le soir, et le dimanche.",
+     1.2
+    ],
+    [
+     "Ce soir-là, une maison brûlait à dix kilomètres. Une famille, trois enfants.",
+     1.4
+    ],
+    [
+     "On les a tous sortis. Le plus petit avait ton âge. Il serrait un ballon contre lui.",
+     1.4
+    ],
+    [
+     "Je suis rentré à minuit. Les invités étaient partis. Tu dormais, encore fâché.",
+     1.4
+    ],
+    [
+     "Je ne t'ai jamais expliqué pourquoi je faisais ça. Je vais le faire maintenant.",
+     1.2
+    ],
+    [
+     "Quand j'avais sept ans, notre ferme a pris feu. Un pompier volontaire m'a sorti par la fenêtre.",
+     1.6
+    ],
+    [
+     "Il s'appelait Roger. Il était boulanger au village.",
+     1.4
+    ],
+    [
+     "Des années plus tard, sa fille m'a raconté cette nuit-là. C'était son anniversaire.",
+     1.6
+    ],
+    [
+     "Il avait quitté la fête au moment des *bougies*.",
+     1.8
+    ],
+    [
+     "Je ne pouvais pas lui rendre cette nuit. Alors je l'ai rendue à d'autres.",
+     1.4
+    ],
+    [
+     "Certains soirs, il faut quitter une fête.",
+     1.2
+    ],
+    [
+     "Pour qu'une autre famille ait encore des *anniversaires*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j151_mere",
+   "perso": "mere",
+   "episode": 152,
+   "fin": "Envoie-la à quelqu'un qui cède toujours sa place.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Un ange gardien dans le métro.",
+   "legende": "Ma mère m'a eu toute seule. Personne ne s'est jamais levé pour elle. Tu cèdes ta place, toi ? #maman #mere #grossesse #gentillesse #metro #pourtoi",
+   "phrases": [
+    [
+     "Quand j'étais enceinte de toi, j'avais un *ange* gardien dans le métro. Il avait vingt ans.",
+     1.3
+    ],
+    [
+     "Huit heures du matin. Des gens serrés comme des sardines.",
+     1.2
+    ],
+    [
+     "Personne ne se levait pour moi. Les gens regardaient leurs pieds.",
+     1.2
+    ],
+    [
+     "Sauf lui. Un grand garçon en survêtement, avec un casque sur les oreilles.",
+     1.4
+    ],
+    [
+     "Chaque matin, il me voyait monter. Il se levait sans un mot et me montrait son siège.",
+     1.4
+    ],
+    [
+     "Il ne me regardait même pas. Je le trouvais un peu mal élevé.",
+     1.2
+    ],
+    [
+     "Pendant quatre mois, chaque matin, le même siège. Le même garçon.",
+     1.4
+    ],
+    [
+     "Le dernier jour avant mon congé, je lui ai enfin dit merci.",
+     1.4
+    ],
+    [
+     "Il a enlevé son casque. Il a dit : ma mère m'a eu toute seule.",
+     1.6
+    ],
+    [
+     "Elle faisait ce trajet debout, enceinte de moi. Personne ne s'est jamais *levé* pour elle.",
+     1.8
+    ],
+    [
+     "Alors moi, je me lève. Pour toutes les femmes qui sont restées debout.",
+     1.6
+    ],
+    [
+     "Je ne connais pas son nom. Il ne connaît pas le tien.",
+     1.4
+    ],
+    [
+     "Si un jour tu vois une femme enceinte debout, ne regarde pas tes pieds.",
+     1.2
+    ],
+    [
+     "Lève-toi. Pour elle. Et pour toutes celles qui sont restées *debout*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j151_fou",
+   "perso": "fou",
+   "episode": 151,
+   "fin": "Envoie-la à quelqu'un qui croit que tu marches encore.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Elle le croit en train de marcher.",
+   "legende": "Si elle le croit vivant, elle le croit en train de marcher. Et toi, qui te croit en train de marcher ? #motivation #guillaumet #saintexupery #survie #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "En juin mille neuf cent trente, un avion postal s'écrase dans la *neige*, au milieu des Andes.",
+     1.3
+    ],
+    [
+     "Le pilote, Henri Guillaumet, survit au choc. Autour de lui, la tempête.",
+     1.2
+    ],
+    [
+     "Alors il marche. Sans équipement, dans le froid de la haute montagne.",
+     1.2
+    ],
+    [
+     "Il marche pendant près d'une semaine.",
+     1.4
+    ],
+    [
+     "Un jour, il tombe. Il a envie de dormir. Dans la neige, le sommeil est doux. Et mortel.",
+     1.6
+    ],
+    [
+     "Alors il pense à sa femme.",
+     1.4
+    ],
+    [
+     "Si elle le croit vivant, elle le croit en train de marcher. Il ne peut pas la décevoir.",
+     1.6
+    ],
+    [
+     "Si on ne retrouve pas son corps, elle attendra des années avant de toucher l'assurance.",
+     1.4
+    ],
+    [
+     "Alors il se relève. Au moins pour mourir là où on le trouvera.",
+     1.8
+    ],
+    [
+     "Et à force de marcher, il finit par atteindre les hommes. Vivant.",
+     1.6
+    ],
+    [
+     "Son ami Antoine de Saint-Exupéry a raconté cette histoire. Avec une phrase de Guillaumet.",
+     1.4
+    ],
+    [
+     "Ce que j'ai fait, je te le jure, jamais aucune bête ne l'aurait *fait*.",
+     1.8
+    ],
+    [
+     "Toi aussi, un jour, tu voudras te coucher dans la neige.",
+     1.2
+    ],
+    [
+     "Ce jour-là, pense à ceux qui te croient en train de *marcher*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

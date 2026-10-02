@@ -1,0 +1,348 @@
+{
+ "nom": "j075",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j075_grandmere",
+   "perso": "grandmere",
+   "episode": 76,
+   "fin": "Envoie-la à quelqu'un qui donne un peu chaque mois.",
+   "lueurs": [
+    1,
+    9,
+    12
+   ],
+   "accroche": "J'ai un autre fils.",
+   "legende": "On croit que donner un peu, ça ne change rien. Demande à deux cents enfants. Et toi, tu as déjà aidé quelqu'un que tu n'as jamais vu ? #grandmere #generosite #parrainage #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "J'ai un autre *fils*. Ton grand-père est au courant. Ton père, pas du tout.",
+     1.3
+    ],
+    [
+     "Il s'appelle Issa. Il est né au Burkina Faso, il y a quarante ans.",
+     1.2
+    ],
+    [
+     "Quand il avait six ans, j'ai vu une affiche à la mairie. Parrainez un enfant, pour cent francs par mois.",
+     1.2
+    ],
+    [
+     "Cent francs, c'était beaucoup pour nous. Ton grand-père a dit : on mangera moins de viande.",
+     1.4
+    ],
+    [
+     "Chaque année, Issa m'envoyait une lettre et une photo. Je les gardais dans une boîte à biscuits.",
+     1.2
+    ],
+    [
+     "Je l'ai vu grandir sur papier. Ses dents de lait, son premier cartable, son diplôme.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, il est instituteur dans son village. Il enseigne à deux cents enfants.",
+     1.4
+    ],
+    [
+     "L'été dernier, il est venu me voir. Pour la première fois. Avec sa petite fille.",
+     1.4
+    ],
+    [
+     "Il me l'a présentée. Elle s'appelle *Odette*. Comme moi.",
+     1.8
+    ],
+    [
+     "Ton grand-père a dû sortir dans le jardin. Il avait quelque chose dans l'œil.",
+     1.6
+    ],
+    [
+     "Trente-quatre ans de petits virements. Le meilleur placement de ma vie.",
+     1.4
+    ],
+    [
+     "On croit que donner un peu, ça ne change rien. Demande à deux cents *enfants*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j075_grandpere",
+   "perso": "grandpere",
+   "episode": 77,
+   "fin": "Envoie-la à quelqu'un qui a commencé avec rien.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Un banquier s'est moqué de mes mains.",
+   "legende": "Ta garantie, ce n'est pas ce que tu possèdes. C'est ce que tu sais faire. Et toi, c'est quoi ta vraie garantie ? #grandpere #artisan #fierte #travail #argent #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-douze, un banquier s'est moqué de mes *mains*.",
+     1.3
+    ],
+    [
+     "Je voulais ouvrir ma menuiserie. Il me fallait de l'argent pour les machines.",
+     1.2
+    ],
+    [
+     "Il m'a demandé : qu'est-ce que vous avez en garantie ? J'ai montré mes mains.",
+     1.4
+    ],
+    [
+     "Il a ri. Poliment. Puis il a refermé mon dossier.",
+     1.4
+    ],
+    [
+     "J'ai commencé dans une grange, avec des outils d'occasion. Le soir, après le travail.",
+     1.2
+    ],
+    [
+     "Pas de crédit. Une scie, un rabot, et ta grand-mère qui tenait les comptes.",
+     1.2
+    ],
+    [
+     "Il m'a fallu dix ans pour avoir un vrai atelier. Et trois ouvriers.",
+     1.4
+    ],
+    [
+     "Un jour, un client est entré pour commander un escalier en chêne. C'était lui. Le banquier.",
+     1.4
+    ],
+    [
+     "Il ne m'a pas reconnu. Moi, je l'ai reconnu tout de suite.",
+     1.4
+    ],
+    [
+     "J'ai fait son devis. Puis je lui ai demandé : qu'est-ce que vous avez en *garantie* ?",
+     1.8
+    ],
+    [
+     "Il m'a regardé. Il a ri, mais moins fort que la première fois.",
+     1.6
+    ],
+    [
+     "Je lui ai fait le plus bel escalier de ma vie. Il monte dessus tous les soirs.",
+     1.4
+    ],
+    [
+     "Ta garantie, ce n'est pas ce que tu possèdes. C'est ce que tu sais *faire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j075_pere",
+   "perso": "pere",
+   "episode": 76,
+   "fin": "Envoie-la à quelqu'un qui a osé, même si ça a raté.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Je t'ai prêté toutes mes économies.",
+   "legende": "Je n'ai pas perdu quinze mille euros. J'ai acheté la preuve que mon enfant ose. Et toi, qui a cru en ton projet avant tout le monde ? #papa #pere #entrepreneur #echec #fierte #pourtoi",
+   "phrases": [
+    [
+     "Il y a deux ans, je t'ai prêté toutes mes *économies*. Quinze mille euros.",
+     1.3
+    ],
+    [
+     "Tu ouvrais ton atelier de réparation de vélos. Tu avais tout calculé, sur un cahier à spirale.",
+     1.2
+    ],
+    [
+     "Dix-huit mois plus tard, tu as baissé le rideau pour la dernière fois.",
+     1.4
+    ],
+    [
+     "Depuis, tu m'évites. Et tu m'envoies cinquante euros par mois, pour rembourser.",
+     1.2
+    ],
+    [
+     "Tu crois que je suis déçu. Il faut que je t'avoue quelque chose.",
+     1.4
+    ],
+    [
+     "Le monsieur qui venait faire régler ses freins tous les samedis, c'était Michel. Mon collègue.",
+     1.8
+    ],
+    [
+     "La dame aux trois vélos d'enfants, c'était la voisine. Je lui avais demandé.",
+     1.4
+    ],
+    [
+     "Pendant dix-huit mois, j'ai envoyé dans ton atelier tous ceux que je connaissais.",
+     1.4
+    ],
+    [
+     "Ça n'a pas suffi. Mais je n'ai jamais été aussi fier de toi qu'à ce moment-là.",
+     1.6
+    ],
+    [
+     "Tu te levais à six heures. Tu avais les mains noires de graisse, et tu *souriais*.",
+     1.4
+    ],
+    [
+     "Échouer coûte cher. Ne jamais essayer coûte toute une vie.",
+     1.4
+    ],
+    [
+     "Alors arrête de me rembourser. Garde ces cinquante euros pour ton prochain projet.",
+     1.4
+    ],
+    [
+     "Je n'ai pas perdu quinze mille euros. J'ai acheté la preuve que mon enfant *ose*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j075_mere",
+   "perso": "mere",
+   "episode": 76,
+   "fin": "Envoie-la à quelqu'un qui partage tes souvenirs d'enfance.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Vous n'hériterez de rien.",
+   "legende": "Votre héritage, vous le touchez de mon vivant. En souvenirs. Et toi, qu'est-ce que tu voudrais hériter de tes parents ? #maman #mere #heritage #famille #voyage #pourtoi",
+   "phrases": [
+    [
+     "Ton frère et toi, vous n'hériterez de rien. J'ai décidé de tout *dépenser*.",
+     1.3
+    ],
+    [
+     "Ne fais pas cette tête. Je t'explique.",
+     1.2
+    ],
+    [
+     "Quand ma mère est morte, il restait une maison et quatre enfants.",
+     1.2
+    ],
+    [
+     "Il a fallu un an pour tout partager. Et trente ans pour ne plus se parler.",
+     1.6
+    ],
+    [
+     "Ma sœur et moi, on se dit bonjour comme des inconnues.",
+     1.4
+    ],
+    [
+     "Pour une maison vendue depuis longtemps.",
+     1.4
+    ],
+    [
+     "Alors j'ai fait mes comptes. Et j'ai pris une décision.",
+     1.2
+    ],
+    [
+     "Chaque année, je vous emmène tous les deux en voyage. Ensemble. C'est *obligatoire*.",
+     1.4
+    ],
+    [
+     "L'an dernier, Lisbonne. Cette année, la Norvège. L'année prochaine, on verra.",
+     1.2
+    ],
+    [
+     "Vous vous chamaillez dans les aéroports. Et le soir, vous riez tous les deux.",
+     1.4
+    ],
+    [
+     "Votre héritage, vous le touchez de mon vivant. En souvenirs.",
+     1.8
+    ],
+    [
+     "Le jour où je partirai, il n'y aura rien à partager chez le notaire. Rien à se disputer.",
+     1.4
+    ],
+    [
+     "Juste des photos, des éclats de rire, et un frère que tu appelleras encore.",
+     1.4
+    ],
+    [
+     "Ça, ça se partage sans *notaire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j075_fou",
+   "perso": "fou",
+   "episode": 75,
+   "fin": "Envoie-la à quelqu'un qui construit pour les autres.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il est mort quelques mois avant son ouverture.",
+   "legende": "Certaines choses que tu commences, tu ne les verras pas finies. Commence quand même. Et toi, qu'est-ce que tu construis pour ceux qui viendront après ? #motivation #histoirevraie #perseverance #patrimoine #batisseur #pourtoi",
+   "phrases": [
+    [
+     "Un homme a fait creuser un canal de deux cent quarante kilomètres. Il est mort quelques mois avant son *ouverture*.",
+     1.3
+    ],
+    [
+     "Au dix-septième siècle, Pierre-Paul Riquet collecte l'impôt sur le sel, dans le Languedoc.",
+     1.2
+    ],
+    [
+     "Il n'est pas ingénieur. Mais il a un rêve : relier l'Atlantique à la Méditerranée.",
+     1.2
+    ],
+    [
+     "Problème : au point le plus haut, il n'y aura jamais assez d'eau.",
+     1.4
+    ],
+    [
+     "Lui parcourt la Montagne Noire pendant des années. Il suit chaque ruisseau.",
+     1.2
+    ],
+    [
+     "Et il trouve : capter les ruisseaux, les stocker dans un immense réservoir, les guider jusqu'au canal.",
+     1.4
+    ],
+    [
+     "En mille six cent soixante-six, le roi dit oui. Les travaux commencent.",
+     1.2
+    ],
+    [
+     "Des milliers d'ouvriers. Des écluses, des ponts, un tunnel.",
+     1.2
+    ],
+    [
+     "Riquet y met toute sa *fortune*. Puis il s'endette. Lourdement.",
+     1.4
+    ],
+    [
+     "En mille six cent quatre-vingts, il meurt. Le canal ouvre quelques mois plus tard.",
+     1.8
+    ],
+    [
+     "Ses fils finissent l'ouvrage. Et ses dettes mettront des années à être payées.",
+     1.4
+    ],
+    [
+     "Plus de trois siècles plus tard, les bateaux y passent toujours.",
+     1.6
+    ],
+    [
+     "Certaines choses que tu commences, tu ne les verras pas finies.",
+     1.4
+    ],
+    [
+     "Commence quand même. D'autres navigueront sur ce que tu as *creusé*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

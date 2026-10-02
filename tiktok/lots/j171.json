@@ -1,0 +1,376 @@
+{
+ "nom": "j171",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j171_grandmere",
+   "perso": "grandmere",
+   "episode": 172,
+   "fin": "Envoie-la à quelqu'un qui travaille dans l'ombre.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Une goutte de sang sous le col.",
+   "legende": "Le plus beau travail, c'est celui qu'on ne remarque pas, parce qu'il fait briller quelqu'un d'autre. Et toi, pour qui tu travailles dans l'ombre ? #grandmere #transmission #dentelle #emotion #savoirfaire #pourtoi",
+   "phrases": [
+    [
+     "Dans ta robe de baptême, il y a une goutte de mon *sang*.",
+     1.3
+    ],
+    [
+     "Juste sous le col, à gauche. Une toute petite tache brune.",
+     1.2
+    ],
+    [
+     "Ce col, je l'ai fait en dentelle aux fuseaux, comme ma grand-mère me l'avait appris.",
+     1.2
+    ],
+    [
+     "Un coussin sur les genoux, des centaines d'épingles, et quarante fuseaux qui claquent.",
+     1.2
+    ],
+    [
+     "Un centimètre par soirée. Pas plus. Il m'a fallu tout l'hiver.",
+     1.4
+    ],
+    [
+     "Ton grand-père disait que j'aurais pu en acheter un au marché pour trois fois rien.",
+     1.2
+    ],
+    [
+     "Un soir, une épingle m'a piqué le doigt. Une goutte est tombée sur le fil.",
+     1.4
+    ],
+    [
+     "J'ai frotté, j'ai pleuré. Je n'avais pas le courage de tout défaire.",
+     1.4
+    ],
+    [
+     "Le jour de ton baptême, j'avais peur que tout le monde la voie.",
+     1.4
+    ],
+    [
+     "Personne n'a regardé la dentelle. Pas une seule personne.",
+     1.6
+    ],
+    [
+     "Tout le monde te regardait, toi. Tu riais dans les bras de ta mère.",
+     1.6
+    ],
+    [
+     "Le plus beau travail, c'est celui qu'on ne remarque pas. Parce qu'il fait briller quelqu'un d'*autre*.",
+     1.8
+    ],
+    [
+     "Un jour, tu feras des choses que personne ne verra. Mets-y du cœur quand même.",
+     1.4
+    ],
+    [
+     "Et si tu te piques, laisse la tache. C'est ta *signature*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j171_grandpere",
+   "perso": "grandpere",
+   "episode": 173,
+   "fin": "Envoie-la à quelqu'un qui s'emporte trop vite.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Deux ans sans toucher le marteau.",
+   "legende": "Quand tu es en colère, regarde la couleur du fer. Ne frappe jamais quand c'est noir. Qui t'a appris à attendre avant de frapper, toi ? #grandpere #patience #metier #colere #transmission #pourtoi",
+   "phrases": [
+    [
+     "À quatorze ans, je suis entré chez un forgeron. Pendant deux ans, il m'a interdit de toucher le *marteau*.",
+     1.3
+    ],
+    [
+     "Je tirais le soufflet. Je balayais. Je regardais.",
+     1.2
+    ],
+    [
+     "Lui parlait à peine. Il regardait le fer, longtemps.",
+     1.2
+    ],
+    [
+     "Moi, je bouillais. Je voulais frapper, comme un homme.",
+     1.2
+    ],
+    [
+     "Un soir, en cachette, j'ai tapé sur une barre encore sombre.",
+     1.4
+    ],
+    [
+     "Elle s'est fendue en deux. Il a ramassé les morceaux sans un mot.",
+     1.6
+    ],
+    [
+     "Le lendemain, il m'a seulement dit : le fer, on le frappe quand il est rouge.",
+     1.2
+    ],
+    [
+     "Noir, il casse. Blanc, il brûle. Tout le métier, c'est d'attendre la bonne couleur.",
+     1.4
+    ],
+    [
+     "Le jour où il m'a donné le marteau, je n'ai pas frappé tout de suite.",
+     1.2
+    ],
+    [
+     "J'ai regardé le fer, longtemps. Comme lui.",
+     1.6
+    ],
+    [
+     "Il a hoché la tête : maintenant, tu es *forgeron*.",
+     1.8
+    ],
+    [
+     "À dix-huit ans, ton père a embouti ma voiture neuve. J'avais envie de cogner.",
+     1.4
+    ],
+    [
+     "Le fer était noir. J'ai attendu le lendemain pour lui parler.",
+     1.2
+    ],
+    [
+     "On s'est parlé comme deux hommes. Et rien n'a cassé.",
+     1.6
+    ],
+    [
+     "Quand tu es en colère, regarde la couleur du fer. Ne frappe jamais quand il est *noir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j171_pere",
+   "perso": "pere",
+   "episode": 172,
+   "fin": "Envoie-la à quelqu'un qui a dit oui sans savoir.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Je ne connaissais pas le hors-jeu.",
+   "legende": "On n'a pas besoin d'être prêt pour dire oui. On a besoin de revenir. Qui t'a appris quelque chose sans savoir lui-même ? #papa #pere #humour #football #perseverance #pourtoi",
+   "phrases": [
+    [
+     "Pendant trois ans, j'ai entraîné ton équipe de foot. Je ne connaissais pas la règle du *hors-jeu*.",
+     1.3
+    ],
+    [
+     "Le club cherchait un volontaire. Tu m'as regardé avec des yeux immenses. J'ai levé la main.",
+     1.2
+    ],
+    [
+     "Moi, je n'avais jamais joué. À l'école, on me choisissait en dernier.",
+     1.4
+    ],
+    [
+     "J'ai acheté trois livres d'entraîneur. Je les lisais en cachette, aux toilettes.",
+     1.2
+    ],
+    [
+     "Je dessinais des schémas sur la table, avec des boutons de chemise.",
+     1.4
+    ],
+    [
+     "La première saison, on a perdu tous les matchs. Tous.",
+     1.2
+    ],
+    [
+     "Un parent m'a crié : vous n'y connaissez rien. Il avait raison.",
+     1.4
+    ],
+    [
+     "J'ai continué. Chaque soir, un chapitre. Chaque samedi, une erreur de moins.",
+     1.2
+    ],
+    [
+     "La troisième année, on a gagné le tournoi du département. Contre l'équipe de ce parent.",
+     1.6
+    ],
+    [
+     "Tu as couru vers moi en criant : papa, tu es le meilleur entraîneur du monde.",
+     1.6
+    ],
+    [
+     "J'ai pleuré dans le vestiaire. Ce n'était pas pour la *coupe*.",
+     1.8
+    ],
+    [
+     "Tu n'as jamais su que je n'avais pas le niveau.",
+     1.2
+    ],
+    [
+     "Tu as juste vu que je revenais tous les samedis.",
+     1.4
+    ],
+    [
+     "On n'a pas besoin d'être prêt pour dire oui.",
+     1.2
+    ],
+    [
+     "On a besoin de *revenir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j171_mere",
+   "perso": "mere",
+   "episode": 172,
+   "fin": "Envoie-la à quelqu'un qui vient de rater un examen.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Trois lettres de refus dans une enveloppe.",
+   "legende": "Ceux qui réussissent du premier coup n'existent presque pas. Ils cachent leurs lettres. Et toi, combien de lettres tu caches ? #maman #mere #echec #perseverance #motivation #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt-cinq ans, j'ai gardé trois lettres de *refus*. La semaine dernière, je te les ai envoyées.",
+     1.3
+    ],
+    [
+     "Tu avais trois ans quand j'ai commencé à préparer le concours d'institutrice.",
+     1.2
+    ],
+    [
+     "Je révisais pendant tes siestes, sur la planche à repasser.",
+     1.2
+    ],
+    [
+     "La première année, j'ai raté l'écrit. La deuxième, l'oral. La troisième, à un point.",
+     1.4
+    ],
+    [
+     "Chaque fois, la même lettre. Madame, nous avons le regret de vous informer.",
+     1.4
+    ],
+    [
+     "Ta grand-mère m'a dit : arrête, tu as un enfant, tu as déjà un travail.",
+     1.2
+    ],
+    [
+     "Je n'ai pas jeté les lettres. Je les relisais quand j'avais envie d'abandonner.",
+     1.4
+    ],
+    [
+     "La quatrième année, j'ai été reçue. Tu étais trop petit pour t'en souvenir.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu as raté ton concours. Tu as pleuré au téléphone.",
+     1.2
+    ],
+    [
+     "Tu m'as dit : toi, tu as toujours tout réussi du premier coup.",
+     1.6
+    ],
+    [
+     "Je n'ai rien répondu. J'ai mis les trois lettres dans une enveloppe.",
+     1.4
+    ],
+    [
+     "J'ai ajouté un mot : tu as reçu ta première. Moi, j'en ai eu *trois*.",
+     1.8
+    ],
+    [
+     "Ceux qui réussissent du premier coup n'existent presque pas.",
+     1.2
+    ],
+    [
+     "Ils cachent leurs *lettres*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j171_fou",
+   "perso": "fou",
+   "episode": 171,
+   "fin": "Envoie-la à quelqu'un qui travaille la nuit pour ses rêves.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Ils l'appelaient l'âne.",
+   "legende": "Les plus lents portent souvent le plus loin. Toi, qu'est-ce que tu fais la nuit pour ce que tu aimes le jour ? #motivation #stoicisme #philosophie #perseverance #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "À Athènes, un ancien *boxeur* passe ses nuits à tirer de l'eau dans des jardins.",
+     1.3
+    ],
+    [
+     "Il est arrivé presque sans un sou. Il ne veut qu'une chose : étudier.",
+     1.2
+    ],
+    [
+     "Le jour, il écoute un philosophe qui enseigne sous un portique.",
+     1.2
+    ],
+    [
+     "La nuit, il remonte des seaux du puits pour arroser les jardins des autres.",
+     1.4
+    ],
+    [
+     "Un jour, on le convoque au tribunal. On veut savoir de quoi il vit.",
+     1.4
+    ],
+    [
+     "Il fait venir un témoin : le jardinier. Il raconte les nuits, les seaux.",
+     1.6
+    ],
+    [
+     "Trop pauvre pour acheter de quoi écrire, il note les leçons sur des coquillages.",
+     1.2
+    ],
+    [
+     "Et sur des os de bœuf.",
+     1.4
+    ],
+    [
+     "Les autres élèves se moquent de sa lenteur. Ils l'appellent l'*âne*.",
+     1.4
+    ],
+    [
+     "Il répond : je suis le seul assez fort pour porter les fardeaux de mon maître.",
+     1.6
+    ],
+    [
+     "Quand le maître meurt, ce n'est pas le plus rapide qui le remplace.",
+     1.6
+    ],
+    [
+     "C'est l'âne.",
+     1.8
+    ],
+    [
+     "Il s'appelait Cléanthe. Il a pris la tête de l'école des stoïciens.",
+     1.4
+    ],
+    [
+     "Si on se moque de ta lenteur, laisse-les rire.",
+     1.2
+    ],
+    [
+     "Les plus lents portent souvent le plus *loin*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

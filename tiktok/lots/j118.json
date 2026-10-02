@@ -1,0 +1,348 @@
+{
+ "nom": "j118",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j118_grandmere",
+   "perso": "grandmere",
+   "episode": 119,
+   "fin": "Envoie-la à quelqu'un qui a dû dire non.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Chaque soir, elle fouillait mes poches.",
+   "legende": "On peut te prendre ton travail, ton salaire, ta chambre. Ta dignité, tu es le seul à pouvoir la donner. Toi, à quel âge as-tu dit ton premier vrai non ? #grandmere #direnon #dignite #courage #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "À quinze ans, je faisais le ménage chez une dame de la ville. Chaque soir, elle fouillait mes *poches*.",
+     1.3
+    ],
+    [
+     "Je ne disais rien. On avait besoin de mon salaire.",
+     1.2
+    ],
+    [
+     "Un soir, une bague a disparu. Elle m'a ordonné de vider ma valise. Devant toute la famille.",
+     1.4
+    ],
+    [
+     "Ses enfants me regardaient. Le chien aussi, je crois.",
+     1.2
+    ],
+    [
+     "Mes jambes tremblaient. Et pour la première fois de ma vie, j'ai dit *non*.",
+     1.6
+    ],
+    [
+     "J'ai dit : si vous croyez que je suis une voleuse, appelez les gendarmes.",
+     1.4
+    ],
+    [
+     "Puis j'ai pris ma valise. Fermée. Et je suis partie à pied, dans la nuit.",
+     1.4
+    ],
+    [
+     "Quinze kilomètres jusqu'à chez mes parents. Mon père a ouvert. Il a juste dit : entre.",
+     1.6
+    ],
+    [
+     "Trois semaines plus tard, une lettre est arrivée. La bague était tombée derrière son lavabo.",
+     1.4
+    ],
+    [
+     "Dans l'enveloppe, il y avait un billet. Pour s'excuser, disait-elle.",
+     1.4
+    ],
+    [
+     "Je lui ai renvoyé son billet, avec une seule phrase : gardez-le, je ne suis pas à vendre.",
+     1.8
+    ],
+    [
+     "On peut te prendre ton travail, ton salaire, ta chambre.",
+     1.2
+    ],
+    [
+     "Ta *dignité*, personne ne peut te la prendre. Tu es le seul à pouvoir la donner.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j118_grandpere",
+   "perso": "grandpere",
+   "episode": 120,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas se servir.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Vingt ans de dos de poulet.",
+   "legende": "Les gens qui t'intimident attendent souvent juste que tu leur tiennes tête. Et toi, qui t'impressionnait le plus dans ta famille ? #grandpere #humour #famille #courage #bellemere #pourtoi",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai eu peur d'une femme d'un mètre cinquante. Ma *belle-mère*.",
+     1.3
+    ],
+    [
+     "Chaque dimanche, on déjeunait chez elle. Et chaque dimanche, elle découpait le poulet.",
+     1.2
+    ],
+    [
+     "Les cuisses pour son mari et ses fils. Les ailes pour les filles. Moi, j'avais le dos.",
+     1.2
+    ],
+    [
+     "Le dos, c'est l'os avec rien autour. Vingt ans de dos. Plus de mille dimanches.",
+     1.4
+    ],
+    [
+     "Ta grand-mère me soufflait : dis quelque chose. Je n'osais pas. Sa mère me fixait par-dessus ses lunettes.",
+     1.4
+    ],
+    [
+     "Un dimanche, elle s'est cassé le poignet. Elle m'a tendu le couteau. Pour découper.",
+     1.6
+    ],
+    [
+     "J'ai découpé le poulet. Et j'ai posé une cuisse dans mon assiette. Devant tout le monde.",
+     1.6
+    ],
+    [
+     "Silence total. Ton grand-oncle a lâché sa fourchette.",
+     1.4
+    ],
+    [
+     "Ma belle-mère a regardé la cuisse. Puis elle m'a regardé, moi.",
+     1.6
+    ],
+    [
+     "Elle a dit : enfin. Vingt ans que j'attends que tu te serves.",
+     1.8
+    ],
+    [
+     "Elle donnait le dos à tous ses gendres. Pour voir lequel oserait.",
+     1.4
+    ],
+    [
+     "Les gens qui t'intimident attendent souvent juste que tu leur tiennes tête.",
+     1.2
+    ],
+    [
+     "Alors sers-toi. Personne ne viendra te donner la *cuisse*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j118_pere",
+   "perso": "pere",
+   "episode": 119,
+   "fin": "Envoie-la à quelqu'un qui croit devoir tout savoir.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J'en ai inventé la moitié.",
+   "legende": "Je ne sais pas, c'est la phrase la plus courageuse qu'un père puisse dire. Et toi, quelle fausse réponse de tes parents as-tu crue longtemps ? #papa #pere #humour #famille #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix ans, j'ai répondu à toutes tes questions. J'en ai inventé la *moitié*.",
+     1.3
+    ],
+    [
+     "Pourquoi le ciel est bleu. Comment volent les avions. Combien pèse un nuage.",
+     1.2
+    ],
+    [
+     "Je répondais toujours, avec assurance. Un père qui ne sait pas, ça me faisait peur.",
+     1.4
+    ],
+    [
+     "Je t'ai juré que les autruches cachaient leur tête dans le sable.",
+     1.2
+    ],
+    [
+     "Un jour, ta maîtresse t'a corrigé devant toute la classe. Tu es rentré furieux.",
+     1.4
+    ],
+    [
+     "Tu m'as dit : papa, tu m'as menti. Je n'ai rien trouvé à répondre.",
+     1.6
+    ],
+    [
+     "Le soir, tu m'as demandé pourquoi la lune nous suit en voiture.",
+     1.4
+    ],
+    [
+     "J'ai respiré un grand coup. Et j'ai dit : je ne *sais* pas.",
+     1.8
+    ],
+    [
+     "Tu m'as regardé comme si je venais d'avouer un crime.",
+     1.4
+    ],
+    [
+     "Puis tu as dit : on cherche ensemble ? On a cherché jusqu'à minuit.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai été un meilleur père qu'en dix ans de réponses.",
+     1.4
+    ],
+    [
+     "Je ne sais pas, c'est la phrase la plus courageuse qu'un père puisse dire.",
+     1.2
+    ],
+    [
+     "Et la plus belle, c'est celle qui vient juste après : on cherche *ensemble* ?",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j118_mere",
+   "perso": "mere",
+   "episode": 119,
+   "fin": "Envoie-la à quelqu'un dont l'enfant fait un métier dangereux.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Je t'envoie un point d'interrogation.",
+   "legende": "On n'a pas le droit d'empêcher quelqu'un d'être courageux. Juste d'attendre son petit point. Et toi, quel est ton code secret avec ta mère ? #maman #mere #pompier #peur #emotion #pourtoi",
+   "phrases": [
+    [
+     "Depuis dix ans, chaque fois que j'entends une sirène, je t'envoie un point d'*interrogation*.",
+     1.3
+    ],
+    [
+     "Tu réponds par un point. Ça veut dire : je vais bien.",
+     1.2
+    ],
+    [
+     "Le jour où tu m'as annoncé que tu voulais être pompier, j'ai souri.",
+     1.2
+    ],
+    [
+     "Puis je suis allée m'enfermer dans la voiture. J'ai pleuré une heure, garée devant la boulangerie.",
+     1.4
+    ],
+    [
+     "Petit, tu avais peur des pétards du quatorze juillet.",
+     1.2
+    ],
+    [
+     "J'ai voulu te dire non. J'avais tous les arguments. Le feu, la fumée, les nuits.",
+     1.4
+    ],
+    [
+     "Je ne l'ai pas fait. On n'a pas le droit d'empêcher quelqu'un d'être courageux.",
+     1.6
+    ],
+    [
+     "La première année, tu répondais en une minute.",
+     1.4
+    ],
+    [
+     "Une nuit d'hiver, il y a eu un grand incendie en ville. J'ai envoyé mon point d'interrogation.",
+     1.4
+    ],
+    [
+     "Pas de réponse. Une heure. Deux heures. Trois heures.",
+     1.6
+    ],
+    [
+     "J'ai nettoyé toute la cuisine. Deux fois.",
+     1.4
+    ],
+    [
+     "À cinq heures du matin, le téléphone a vibré. Un seul point.",
+     1.8
+    ],
+    [
+     "J'ai pleuré sur ce petit point comme sur une lettre d'amour.",
+     1.4
+    ],
+    [
+     "Je ne t'empêcherai jamais d'aller au feu. Mais toi, n'oublie jamais ton *point*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j118_fou",
+   "perso": "fou",
+   "episode": 118,
+   "fin": "Envoie-la à quelqu'un qui ouvre toujours sa porte.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Sept mille inconnus dans une petite ville.",
+   "legende": "Le jour où le monde avait peur des étrangers, une petite ville leur a ouvert sa porte. Et toi, quel inconnu t'a déjà accueilli comme de la famille ? #motivation #histoirevraie #entraide #humanite #canada #pourtoi",
+   "phrases": [
+    [
+     "Le onze septembre deux mille un, le ciel américain se ferme. Des centaines d'avions doivent se *poser* ailleurs.",
+     1.3
+    ],
+    [
+     "Trente-huit d'entre eux atterrissent au même endroit. Gander, une petite ville de Terre-Neuve, au Canada.",
+     1.2
+    ],
+    [
+     "Gander compte environ dix mille habitants. D'un coup, près de sept mille passagers débarquent.",
+     1.2
+    ],
+    [
+     "Ils ne savent pas ce qui se passe.",
+     1.4
+    ],
+    [
+     "Alors la ville ouvre tout. Les écoles, les églises, les salles des fêtes.",
+     1.4
+    ],
+    [
+     "Les habitants apportent des matelas, des couvertures, des brosses à dents. Ils cuisinent jour et nuit.",
+     1.4
+    ],
+    [
+     "Ils ouvrent leurs maisons à des inconnus. Leurs douches. Leurs téléphones, pour rassurer les familles.",
+     1.4
+    ],
+    [
+     "Les pharmaciens donnent les médicaments. Personne ne veut être payé.",
+     1.6
+    ],
+    [
+     "Pendant plusieurs jours, ces inconnus sont accueillis comme de la *famille*.",
+     1.6
+    ],
+    [
+     "Quand les avions repartent, beaucoup de passagers pleurent. En quittant des gens qu'ils ne connaissaient pas quelques jours plus tôt.",
+     1.8
+    ],
+    [
+     "Le jour où le monde avait peur des étrangers, une petite ville leur a ouvert sa porte.",
+     1.4
+    ],
+    [
+     "Toi, tu crois peut-être que tu n'as pas grand-chose à offrir.",
+     1.2
+    ],
+    [
+     "Un matelas, une soupe, une douche chaude. C'est parfois tout ce dont le monde a *besoin*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

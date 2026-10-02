@@ -1,0 +1,348 @@
+{
+ "nom": "j123",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j123_grandmere",
+   "perso": "grandmere",
+   "episode": 124,
+   "fin": "Envoie-la à quelqu'un qui doute de ce qu'il sait faire.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Vingt kilomètres sans permis. En première.",
+   "legende": "Quand quelqu'un a besoin de toi, tu sais faire des choses que tu ne sais pas faire. Et toi, qu'as-tu réussi sans savoir le faire ? #grandmere #courage #humour #entraide #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, j'ai conduit vingt kilomètres sans *permis*. En première.",
+     1.3
+    ],
+    [
+     "Ma voisine Paulette allait accoucher. Son mari était aux champs.",
+     1.2
+    ],
+    [
+     "Ton grand-père était parti à vélo. Sa camionnette était dans la cour.",
+     1.2
+    ],
+    [
+     "Je n'avais jamais conduit. Je savais juste où était la clé.",
+     1.4
+    ],
+    [
+     "J'ai installé Paulette à l'arrière, sur une couverture. Elle criait. Moi aussi, un peu.",
+     1.4
+    ],
+    [
+     "Je n'ai jamais trouvé la deuxième vitesse. Alors on a fait toute la route en première.",
+     1.4
+    ],
+    [
+     "Le moteur hurlait. Les poules s'enfuyaient.",
+     1.4
+    ],
+    [
+     "À l'entrée de la ville, des gendarmes m'ont arrêtée. J'ai cru que j'allais en prison.",
+     1.6
+    ],
+    [
+     "Le gendarme a regardé à l'arrière. Il a remis son képi. Et il a dit : suivez-moi.",
+     1.6
+    ],
+    [
+     "On a traversé la ville derrière leur voiture, sirène hurlante. Toujours en première.",
+     1.8
+    ],
+    [
+     "Le bébé est né une heure plus tard. Un garçon. Paulette l'a appelé Roger, comme le gendarme.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un a besoin de toi, tu sais faire des choses que tu ne sais pas faire.",
+     1.2
+    ],
+    [
+     "Et si tu ne trouves pas la deuxième, ce n'est pas grave. Avance en *première*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j123_grandpere",
+   "perso": "grandpere",
+   "episode": 125,
+   "fin": "Envoie-la à quelqu'un qui a eu le courage d'arrêter.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Je veux mon papa du matin.",
+   "legende": "Le plus grand courage de ma vie, c'est un enfant de huit ans qui l'a eu. Et toi, qui t'a donné la force de changer ? #grandpere #courage #famille #emotion #changement #pourtoi",
+   "phrases": [
+    [
+     "Le trente et un décembre mille neuf cent soixante-dix-neuf, j'ai posé mon *verre*. Je ne l'ai jamais repris.",
+     1.3
+    ],
+    [
+     "Je buvais depuis des années. Un verre à midi, trois le soir.",
+     1.2
+    ],
+    [
+     "Je n'étais pas méchant. J'étais absent. Assis devant la télévision, les yeux ailleurs.",
+     1.2
+    ],
+    [
+     "Ce soir-là, j'ai cherché ma bouteille dans le placard. Elle était vide.",
+     1.4
+    ],
+    [
+     "Ton père avait huit ans. Il l'avait vidée dans l'évier. Toute.",
+     1.6
+    ],
+    [
+     "Je l'ai trouvé caché sous son lit. Il tremblait comme une feuille.",
+     1.6
+    ],
+    [
+     "Il m'a dit, tout bas : je veux mon papa du matin.",
+     1.8
+    ],
+    [
+     "Le matin, je n'avais pas encore bu. Il connaissait la différence.",
+     1.6
+    ],
+    [
+     "Je me suis assis par terre, à côté du lit. J'ai pleuré comme un gamin.",
+     1.4
+    ],
+    [
+     "Le lendemain, je suis allé voir le médecin. C'était le plus dur. Avouer.",
+     1.4
+    ],
+    [
+     "Quarante-sept ans sans une goutte. Pas un jour où je n'y ai pas pensé.",
+     1.4
+    ],
+    [
+     "Le plus grand courage de ma vie, c'est un enfant de huit ans qui l'a eu.",
+     1.2
+    ],
+    [
+     "Moi, j'ai juste eu celui de l'*écouter*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j123_pere",
+   "perso": "pere",
+   "episode": 124,
+   "fin": "Envoie-la à quelqu'un qui n'a pas suivi le chemin prévu.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "C'est mon fils. L'infirmier.",
+   "legende": "Dis non à ceux qui veulent écrire ta vie. Un jour, ils seront fiers de l'avoir lue. Et toi, à quel métier tes parents te destinaient-ils ? #papa #pere #metier #famille #courage #pourtoi",
+   "phrases": [
+    [
+     "À dix-huit ans, j'ai dit à mon père que je ne reprendrais pas sa *boucherie*.",
+     1.3
+    ],
+    [
+     "Trois générations derrière le même comptoir.",
+     1.2
+    ],
+    [
+     "Je voulais être infirmier. Il a ri. Il a dit : c'est un métier de bonne femme.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, il ne m'a plus parlé. Il me passait le sel, c'est tout.",
+     1.4
+    ],
+    [
+     "J'ai fait mes études en travaillant la nuit. Je n'ai rien demandé.",
+     1.2
+    ],
+    [
+     "Vingt-cinq ans plus tard, ton grand-père s'est cassé la hanche. Il est arrivé dans mon service.",
+     1.4
+    ],
+    [
+     "Il m'a vu en blouse pour la première fois. Il n'a rien dit.",
+     1.6
+    ],
+    [
+     "Pendant trois semaines, je l'ai lavé, piqué, levé. Il serrait les dents.",
+     1.4
+    ],
+    [
+     "Le dernier jour, j'ai entendu sa voix dans le couloir. Il parlait à son voisin de chambre.",
+     1.4
+    ],
+    [
+     "Il disait : vous voyez le grand, là ? C'est mon fils. L'*infirmier*.",
+     1.8
+    ],
+    [
+     "Il ne me l'a jamais dit en face. Il l'a dit à un inconnu, assez fort pour que j'entende.",
+     1.6
+    ],
+    [
+     "Dire non à ses parents, c'est terrifiant. On croit qu'on va les perdre.",
+     1.2
+    ],
+    [
+     "Dis non à ceux qui veulent écrire ta vie. Un jour, ils seront fiers de l'avoir *lue*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j123_mere",
+   "perso": "mere",
+   "episode": 124,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas frapper chez ses voisins.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je suis montée en chemise de nuit.",
+   "legende": "Va frapper aux portes qui te font peur. Derrière, il y a souvent quelqu'un comme toi. Et toi, quelle est ta pire histoire de voisins ? #maman #mere #humour #voisins #courage #pourtoi",
+   "phrases": [
+    [
+     "Une nuit, à deux heures du matin, je suis montée chez les voisins. En chemise de *nuit*.",
+     1.3
+    ],
+    [
+     "Tu avais six ans. Tu avais école le lendemain. Moi, je commençais à six heures.",
+     1.2
+    ],
+    [
+     "Au-dessus, la musique faisait trembler les verres dans le buffet. Depuis trois heures.",
+     1.2
+    ],
+    [
+     "J'avais horreur des disputes. Je n'avais jamais osé me plaindre.",
+     1.4
+    ],
+    [
+     "J'ai monté l'escalier avec mes bigoudis et mon discours. Mes mains tremblaient.",
+     1.4
+    ],
+    [
+     "Un grand garçon a ouvert. Derrière lui, cinquante personnes dansaient.",
+     1.4
+    ],
+    [
+     "J'ai commencé : monsieur, il y a des gens qui travaillent. Il m'a coupée.",
+     1.6
+    ],
+    [
+     "Il a dit : pardon, madame. C'est ma soirée de départ. Je pars demain vivre en Australie.",
+     1.6
+    ],
+    [
+     "Il a ajouté : je n'ai pas osé vous inviter. Entrez, s'il vous plaît.",
+     1.6
+    ],
+    [
+     "Je suis entrée. En chemise de nuit. J'ai dansé jusqu'à quatre heures.",
+     1.8
+    ],
+    [
+     "Ton père m'a trouvée en rentrant de sa garde, avec un chapeau en papier sur la tête.",
+     1.4
+    ],
+    [
+     "J'avais tellement peur de frapper à cette porte. Derrière, il y avait juste un garçon qui partait.",
+     1.2
+    ],
+    [
+     "Va frapper aux portes qui te font peur. Derrière, il y a souvent quelqu'un comme *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j123_fou",
+   "perso": "fou",
+   "episode": 123,
+   "fin": "Envoie-la à quelqu'un qui croit manquer de moyens.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Une ampoule s'allume dans la maison.",
+   "legende": "Ce qui te manque ne t'empêche pas d'avancer. Ça t'oblige à inventer. Et toi, qu'as-tu réussi avec presque rien ? #motivation #histoirevraie #perseverance #malawi #inspiration #pourtoi",
+   "phrases": [
+    [
+     "Au Malawi, au début des années deux mille, la famine frappe le pays. Un garçon doit quitter l'*école*.",
+     1.3
+    ],
+    [
+     "Il s'appelle William Kamkwamba. Il a quatorze ans. Ses parents ne peuvent plus payer.",
+     1.2
+    ],
+    [
+     "Alors il va dans une petite bibliothèque, près de chez lui. Il lit tout ce qu'il trouve.",
+     1.2
+    ],
+    [
+     "Un jour, il tombe sur un livre de physique. Sur la couverture, il y a des éoliennes.",
+     1.4
+    ],
+    [
+     "Il fouille la décharge. Un vieux cadre de vélo, un ventilateur de tracteur, des tuyaux en plastique.",
+     1.4
+    ],
+    [
+     "Au village, on se moque de lui.",
+     1.4
+    ],
+    [
+     "Il construit une tour en bois de plusieurs mètres. Il y fixe une dynamo de vélo.",
+     1.4
+    ],
+    [
+     "Un jour, le vent souffle. Les pales tournent.",
+     1.6
+    ],
+    [
+     "Et une ampoule s'allume dans la maison.",
+     1.8
+    ],
+    [
+     "Les gens accourent de partout pour voir la *lumière*.",
+     1.6
+    ],
+    [
+     "Plus tard, ses éoliennes pomperont l'eau du village. Et il finira ses études dans une grande université américaine.",
+     1.4
+    ],
+    [
+     "Toi, tu crois peut-être qu'il te manque quelque chose pour commencer. L'argent, l'école, le matériel.",
+     1.2
+    ],
+    [
+     "Lui n'avait qu'une décharge et un livre.",
+     1.4
+    ],
+    [
+     "Ce qui te manque ne t'empêche pas d'avancer. Ça t'oblige à *inventer*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

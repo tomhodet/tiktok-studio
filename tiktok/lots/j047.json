@@ -1,0 +1,360 @@
+{
+ "nom": "j047",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j047_grandmere",
+   "perso": "grandmere",
+   "episode": 48,
+   "fin": "Envoie-la à quelqu'un qui n'a pas les mêmes souvenirs.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "On s'est trompés de pont pendant soixante ans.",
+   "legende": "Certaines disputes sont trop belles pour qu'on les gagne. Et toi, sur quel souvenir n'es-tu jamais d'accord avec quelqu'un que tu aimes ? #grandmere #amour #couple #souvenirs #humour #pourtoi",
+   "phrases": [
+    [
+     "Ton grand-père et moi, on n'est pas d'accord sur l'endroit de notre premier *baiser*.",
+     1.3
+    ],
+    [
+     "Lui dit que c'était sur le pont de pierre, près du moulin.",
+     1.2
+    ],
+    [
+     "Moi, je sais que c'était sur la passerelle en fer, près de la gare.",
+     1.4
+    ],
+    [
+     "Il se souvient de ma robe jaune. Je n'ai jamais eu de robe jaune.",
+     1.4
+    ],
+    [
+     "Ça fait soixante ans qu'on se dispute là-dessus.",
+     1.4
+    ],
+    [
+     "Alors chaque année, le premier mai, on fait les deux.",
+     1.2
+    ],
+    [
+     "Un baiser sur le pont de pierre, pour lui faire plaisir.",
+     1.2
+    ],
+    [
+     "Puis on traverse toute la ville, et un baiser sur la passerelle. Pour avoir raison.",
+     1.6
+    ],
+    [
+     "Le mois dernier, en rangeant le grenier, j'ai retrouvé mon *journal* de jeune fille.",
+     1.4
+    ],
+    [
+     "Mille neuf cent soixante-quatre. Premier baiser. Sous l'abri de l'autobus, devant la boulangerie.",
+     1.6
+    ],
+    [
+     "On s'est trompés tous les deux. Pendant soixante ans.",
+     1.8
+    ],
+    [
+     "Je ne lui ai rien dit. Le journal est retourné au grenier.",
+     1.6
+    ],
+    [
+     "Certaines disputes sont trop belles pour qu'on les *gagne*.",
+     1.4
+    ],
+    [
+     "Le premier mai, on fera encore les deux ponts. Et je sourirai devant la boulangerie.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j047_grandpere",
+   "perso": "grandpere",
+   "episode": 49,
+   "fin": "Envoie-la à quelqu'un qui construit son amour lentement.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je ne vous aime pas. Moi non plus.",
+   "legende": "L'amour, je ne l'ai pas trouvé. Je l'ai construit. Et toi, tu crois au coup de foudre ou à l'amour qu'on construit ? #grandpere #amour #mariage #couple #emotion #pourtoi",
+   "phrases": [
+    [
+     "Ta grand-mère et moi, on ne s'est pas *choisis*. Nos pères ont choisi pour nous.",
+     1.3
+    ],
+    [
+     "Deux fermes voisines, un champ entre les deux.",
+     1.2
+    ],
+    [
+     "On s'était croisés à la messe. Jamais parlé.",
+     1.4
+    ],
+    [
+     "Le soir des noces, elle m'a dit : je ne vous aime pas.",
+     1.4
+    ],
+    [
+     "J'ai répondu : moi non plus. On a ri, tellement on avait peur.",
+     1.4
+    ],
+    [
+     "Les premières années, on a travaillé côte à côte. Poliment. Comme deux associés.",
+     1.4
+    ],
+    [
+     "Et puis un soir d'hiver, je suis tombé du grenier à foin. La jambe cassée.",
+     1.4
+    ],
+    [
+     "Elle m'a traîné jusqu'à la maison. Toute seule. Sur deux cents mètres de neige.",
+     1.6
+    ],
+    [
+     "Elle hurlait, elle jurait. Et elle me tutoyait. Pour la première fois.",
+     1.6
+    ],
+    [
+     "Ce soir-là, sur la neige, j'ai su que je l'*aimais*.",
+     1.8
+    ],
+    [
+     "Elle dit que pour elle, c'est venu plus tard. Quand j'ai appris à faire la soupe.",
+     1.4
+    ],
+    [
+     "On n'est pas tombés amoureux. On l'est devenus. Lentement, comme on laboure.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, on attend le coup de foudre. Et on part quand il passe.",
+     1.4
+    ],
+    [
+     "L'amour, je ne l'ai pas trouvé. Je l'ai *construit*. Soixante ans, un sillon après l'autre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j047_pere",
+   "perso": "pere",
+   "episode": 48,
+   "fin": "Envoie-la à quelqu'un qui choisit de rentrer.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "J'ai failli tromper ta mère.",
+   "legende": "Être fidèle, ce n'est pas ne jamais être tenté. C'est choisir de rentrer. Et toi, combien de fois as-tu choisi la même personne ? #papa #pere #couple #fidelite #amour #pourtoi",
+   "phrases": [
+    [
+     "Il y a quinze ans, j'ai failli *tromper* ta mère.",
+     1.4
+    ],
+    [
+     "Une collègue. Drôle, brillante. Elle riait à toutes mes blagues.",
+     1.2
+    ],
+    [
+     "Ta mère et moi, on traversait une période grise. Fatigue, factures, silences.",
+     1.4
+    ],
+    [
+     "Un soir, après un séminaire, la collègue m'a proposé un dernier verre. Dans sa chambre.",
+     1.4
+    ],
+    [
+     "J'ai dit oui. Puis dans l'ascenseur, j'ai vu mon reflet.",
+     1.6
+    ],
+    [
+     "J'ai vu un homme qui allait tout casser pour un verre.",
+     1.6
+    ],
+    [
+     "J'ai appuyé sur le rez-de-chaussée. J'ai roulé toute la nuit.",
+     1.4
+    ],
+    [
+     "À six heures du matin, j'ai réveillé ta mère. Et je lui ai tout dit.",
+     1.6
+    ],
+    [
+     "Elle m'a écouté jusqu'au bout. Puis elle s'est levée pour faire du café.",
+     1.6
+    ],
+    [
+     "Elle a dit : *moi aussi*, il y a deux ans. Je suis rentrée avant le dessert.",
+     1.8
+    ],
+    [
+     "On est restés longtemps dans la cuisine. Sans colère. Juste soulagés d'être là.",
+     1.4
+    ],
+    [
+     "Être fidèle, ce n'est pas ne jamais être tenté. C'est choisir de rentrer.",
+     1.4
+    ],
+    [
+     "Ta mère et moi, on ne s'est pas choisis une fois. On s'est *choisis* des milliers de fois.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j047_mere",
+   "perso": "mere",
+   "episode": 48,
+   "fin": "Envoie-la à quelqu'un qui fait encore des fautes.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Bordeaux, sans le x.",
+   "legende": "Ce sont souvent nos défauts qui font s'arrêter les bonnes personnes. Et toi, quel défaut t'a fait rencontrer quelqu'un ? #maman #mere #rencontre #amour #humour #pourtoi",
+   "phrases": [
+    [
+     "J'ai rencontré ton père au bord d'une route. Il tendait le pouce, avec une *faute* d'orthographe.",
+     1.3
+    ],
+    [
+     "Il pleuvait. Sur son carton, il avait écrit Bordeaux sans le x.",
+     1.2
+    ],
+    [
+     "Je ne prenais jamais personne. Je suis passée devant lui.",
+     1.4
+    ],
+    [
+     "Cent mètres plus loin, j'ai fait marche arrière. Pour le x.",
+     1.6
+    ],
+    [
+     "Il est monté, trempé comme un chien. Il s'excusait de mouiller le siège.",
+     1.4
+    ],
+    [
+     "Avant de repartir, j'ai pris son carton. J'ai ajouté le x avec mon *rouge à lèvres*.",
+     1.8
+    ],
+    [
+     "Il a rougi jusqu'aux oreilles. Puis il a ri. Moi aussi.",
+     1.4
+    ],
+    [
+     "Quatre heures de route. On n'a pas allumé la radio une seule fois.",
+     1.4
+    ],
+    [
+     "À Bordeaux, il est descendu. Il a dit : je peux garder le carton ?",
+     1.6
+    ],
+    [
+     "Le carton est encadré dans notre chambre. Bordeaux, avec un x rouge.",
+     1.4
+    ],
+    [
+     "Ton père fait toujours des fautes. Je les corrige toujours. Mais plus au rouge à lèvres.",
+     1.4
+    ],
+    [
+     "Ce sont souvent nos défauts qui font s'arrêter les bonnes personnes.",
+     1.4
+    ],
+    [
+     "Ne cache pas tes fautes. Quelqu'un fera peut-être *marche arrière* pour elles.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j047_fou",
+   "perso": "fou",
+   "episode": 47,
+   "fin": "Envoie-la à quelqu'un qui veut tout jeter.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il aurait pu la jeter.",
+   "legende": "Un raté, c'est parfois une découverte qu'on n'a pas encore regardée. Et toi, quel échec t'a finalement ouvert une porte ? #motivation #science #medecine #echec #histoire #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent vingt-huit, un chercheur rentre de vacances. Une de ses expériences est *ratée*.",
+     1.3
+    ],
+    [
+     "Dans une boîte où il cultivait des bactéries, une moisissure a poussé.",
+     1.2
+    ],
+    [
+     "N'importe qui l'aurait jetée. Lui, il la regarde de plus près.",
+     1.4
+    ],
+    [
+     "Autour de la moisissure, les bactéries ont disparu.",
+     1.4
+    ],
+    [
+     "Ce champignon fabrique quelque chose qui tue les microbes. Il l'appelle *pénicilline*.",
+     1.4
+    ],
+    [
+     "Il publie. Mais il n'arrive pas à la purifier. Ni à en produire assez.",
+     1.4
+    ],
+    [
+     "Sa découverte dort pendant dix ans.",
+     1.6
+    ],
+    [
+     "À la fin des années trente, à Oxford, deux chercheurs retrouvent son article.",
+     1.2
+    ],
+    [
+     "Ils la purifient, la testent sur des souris, puis sur des malades.",
+     1.2
+    ],
+    [
+     "Pendant la guerre, on la fabrique en masse. Elle sauve des milliers de soldats.",
+     1.4
+    ],
+    [
+     "En mille neuf cent quarante-cinq, les trois hommes reçoivent le prix Nobel.",
+     1.6
+    ],
+    [
+     "Le premier s'appelait Alexander Fleming. Sa boîte ratée a sauvé des millions de vies.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu as des boîtes ratées. Des projets qui moisissent dans un coin.",
+     1.2
+    ],
+    [
+     "Avant de les jeter, regarde-les de plus près.",
+     1.4
+    ],
+    [
+     "Un raté, c'est parfois une *découverte* qu'on n'a pas encore regardée.",
+     0
+    ]
+   ]
+  }
+ ]
+}

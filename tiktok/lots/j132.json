@@ -1,0 +1,344 @@
+{
+ "nom": "j132",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j132_grandmere",
+   "perso": "grandmere",
+   "episode": 133,
+   "fin": "Envoie-la à quelqu'un qui apprend la langue de ses grands-parents.",
+   "lueurs": [
+    1,
+    9,
+    12
+   ],
+   "accroche": "On m'a pendu un sabot autour du cou.",
+   "legende": "La honte qu'on t'a mise autour du cou, ne la passe jamais à tes enfants. Et toi, quelle langue parlaient tes grands-parents ? #grandmere #pourtoi #breton #honte #transmission #emotion",
+   "phrases": [
+    [
+     "À sept ans, la maîtresse m'a pendu un vieux sabot autour du cou. Parce que j'avais parlé *breton*.",
+     1.6
+    ],
+    [
+     "On appelait ça le symbole. Je devais le porter jusqu'à ce que j'entende un autre enfant parler breton.",
+     1.2
+    ],
+    [
+     "Alors je le dénonçais. Et le sabot passait à son cou.",
+     1.4
+    ],
+    [
+     "J'ai appris très vite à me taire. Et à avoir honte de mes parents.",
+     1.4
+    ],
+    [
+     "Quand ta mère est née, je ne lui ai jamais dit un seul mot de breton.",
+     1.6
+    ],
+    [
+     "Je voulais lui éviter le sabot. Je lui ai pris la langue de ses grands-parents.",
+     1.4
+    ],
+    [
+     "L'année dernière, tu es venu me voir avec un cahier. Tu prenais des cours de breton.",
+     1.4
+    ],
+    [
+     "Tu m'as demandé comment on dit grand-mère. J'ai répondu sans réfléchir : mamm-gozh.",
+     1.6
+    ],
+    [
+     "Le mot est sorti tout seul. Après soixante-dix ans de *silence*.",
+     1.8
+    ],
+    [
+     "Maintenant, le dimanche, c'est toi qui m'apprends ma propre langue. Et c'est moi qui fais des fautes.",
+     1.4
+    ],
+    [
+     "La honte qu'on t'a mise autour du cou, ne la passe jamais à tes enfants.",
+     1.4
+    ],
+    [
+     "Moi, je l'ai fait. Et c'est toi qui me l'as *enlevée*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j132_grandpere",
+   "perso": "grandpere",
+   "episode": 134,
+   "fin": "Envoie-la à quelqu'un dont on se moque parce qu'il ose.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ils poussent, tes fruits poilus ?",
+   "legende": "Rate des choses. Quelqu'un te regarde, et il apprend que rater n'est pas mourir. Et toi, qu'as-tu tenté alors que tout le monde riait ? #grandpere #pourtoi #humour #echec #oser #conseildevie",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-cinq, j'ai planté des *kiwis* en Normandie. Tout le canton en rit encore.",
+     1.4
+    ],
+    [
+     "J'avais lu dans le journal agricole que c'était l'avenir.",
+     1.2
+    ],
+    [
+     "J'ai arraché deux rangs de pommiers. Mon père se serait retourné dans sa tombe.",
+     1.4
+    ],
+    [
+     "Les voisins passaient devant la haie. Ils demandaient : alors, René, ils poussent, tes fruits poilus ?",
+     1.4
+    ],
+    [
+     "Le premier hiver, il a gelé quinze nuits de suite.",
+     1.4
+    ],
+    [
+     "Au printemps, il ne restait que des bâtons noirs. Pas une feuille.",
+     1.4
+    ],
+    [
+     "Pendant des années, au café, on m'a appelé le Néo-Zélandais.",
+     1.6
+    ],
+    [
+     "J'avais honte. J'ai replanté des pommiers, et je n'ai plus jamais rien essayé.",
+     1.4
+    ],
+    [
+     "Vingt ans plus tard, un jeune du village a voulu planter de la vigne.",
+     1.4
+    ],
+    [
+     "Tout le monde se moquait de lui. Il m'a dit : vous, au moins, vous avez *osé*.",
+     1.8
+    ],
+    [
+     "Je lui ai donné tous mes conseils. Surtout sur le gel.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, son vin se vend jusqu'à Paris.",
+     1.4
+    ],
+    [
+     "Mon échec ne m'a rien rapporté. Il a montré à un autre qu'on pouvait essayer.",
+     1.4
+    ],
+    [
+     "Rate des choses. Quelqu'un te regarde, et il apprend que rater n'est pas *mourir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j132_pere",
+   "perso": "pere",
+   "episode": 133,
+   "fin": "Envoie-la à quelqu'un qui doute de ce qu'il sait.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "À dix-huit ans, j'avais triché.",
+   "legende": "Rater m'aurait coûté un an. La peur de rater m'en a coûté trois. Et toi, qu'est-ce que la peur t'a déjà coûté ? #papa #pere #pourtoi #examen #peur #conseildevie",
+   "phrases": [
+    [
+     "J'ai eu mon baccalauréat à vingt et un ans. Parce qu'à dix-huit, j'avais *triché*.",
+     1.6
+    ],
+    [
+     "Mille neuf cent quatre-vingt-huit. L'épreuve de mathématiques. J'avais écrit des formules sur ma règle.",
+     1.2
+    ],
+    [
+     "Le surveillant l'a repérée au bout de dix minutes. Il a tendu la main, sans un mot.",
+     1.4
+    ],
+    [
+     "J'ai traversé la salle sous les regards. Deux cents têtes qui se tournaient.",
+     1.4
+    ],
+    [
+     "Ma mère a reçu la lettre. C'est la seule fois où je l'ai vue pleurer.",
+     1.4
+    ],
+    [
+     "Interdit d'examen pendant trois ans. Alors j'ai travaillé sur les chantiers.",
+     1.4
+    ],
+    [
+     "Ce que je n'ai jamais dit à personne, c'est que je n'avais pas *besoin* de cette règle.",
+     1.6
+    ],
+    [
+     "Je connaissais toutes les formules par cœur. Je ne l'avais même pas regardée.",
+     1.6
+    ],
+    [
+     "Je n'avais pas triché par paresse. J'avais triché par peur.",
+     1.8
+    ],
+    [
+     "À vingt et un ans, je l'ai repassé avec une règle toute propre. Je l'ai eu sans trembler.",
+     1.4
+    ],
+    [
+     "Rater m'aurait coûté un an. La peur de rater m'en a coûté trois.",
+     1.6
+    ],
+    [
+     "Toi, quand tu as peur, ne cherche pas une règle à cacher. Fais-toi *confiance*.",
+     1.4
+    ],
+    [
+     "Tu en sais souvent plus que ta peur.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j132_mere",
+   "perso": "mere",
+   "episode": 133,
+   "fin": "Envoie-la à quelqu'un qui a abandonné en route.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Bravo maman, quand même.",
+   "legende": "Un bravo ne se gagne pas seulement à l'arrivée. Il se gagne aussi au trentième kilomètre. Et toi, qui t'a dit bravo quand même ? #maman #mere #pourtoi #marathon #abandon #tendresse",
+   "phrases": [
+    [
+     "J'ai abandonné mon premier marathon au trentième kilomètre. Tu m'attendais à l'arrivée avec une *pancarte*.",
+     1.4
+    ],
+    [
+     "J'avais quarante-deux ans. Six mois d'entraînement, tous les matins avant le travail.",
+     1.2
+    ],
+    [
+     "Au trentième kilomètre, mes jambes ont dit non. Je me suis assise sur le trottoir.",
+     1.4
+    ],
+    [
+     "Un bénévole m'a donné une couverture de survie. J'ai pleuré dedans, comme une papillote.",
+     1.4
+    ],
+    [
+     "Je suis rentrée en métro. Sans médaille, et avec ma honte en plus.",
+     1.4
+    ],
+    [
+     "Toi, tu avais dix ans. Tu étais à l'arrivée depuis deux heures.",
+     1.2
+    ],
+    [
+     "Ta pancarte disait : bravo maman. Tu l'avais coloriée toute la semaine.",
+     1.4
+    ],
+    [
+     "Quand tu as appris que j'avais abandonné, tu as réfléchi un moment.",
+     1.4
+    ],
+    [
+     "Puis tu as sorti ton feutre. Et tu as ajouté deux mots en bas.",
+     1.6
+    ],
+    [
+     "Ça donnait : bravo maman, quand *même*.",
+     1.8
+    ],
+    [
+     "Je l'ai encore. Elle est punaisée dans mon couloir.",
+     1.4
+    ],
+    [
+     "L'année suivante, j'ai terminé ce marathon. Mais c'est la première pancarte que j'ai gardée.",
+     1.4
+    ],
+    [
+     "Ce jour-là, tu m'as appris qu'un bravo ne se gagne pas seulement à l'arrivée.",
+     1.4
+    ],
+    [
+     "Il se gagne aussi au trentième kilomètre. Assise sur un *trottoir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j132_fou",
+   "perso": "fou",
+   "episode": 132,
+   "fin": "Envoie-la à quelqu'un qui pousse sans jamais lever les yeux.",
+   "lueurs": [
+    1,
+    8,
+    12
+   ],
+   "accroche": "Un scarabée guidé par la Voie lactée.",
+   "legende": "Ce qui compte, ce n'est pas ce que tu pousses. C'est ce que tu regardes en le poussant. Et toi, c'est quoi ta boule à pousser en ce moment ? #motivation #pourtoi #nature #insecte #humour #discipline",
+   "phrases": [
+    [
+     "Un scarabée bousier pousse une boule de *bouse* plus grosse que lui. Et il se guide avec les étoiles.",
+     1.4
+    ],
+    [
+     "Il la pousse à reculons, la tête en bas, avec ses pattes arrière.",
+     1.2
+    ],
+    [
+     "Il doit l'éloigner vite, en ligne droite. Sinon, d'autres scarabées viennent la lui voler.",
+     1.2
+    ],
+    [
+     "Avant de partir, il grimpe sur sa boule. Il tourne sur lui-même, comme une petite danse.",
+     1.4
+    ],
+    [
+     "La nuit, quand il n'y a pas de lune, il se repère grâce à la Voie lactée.",
+     1.4
+    ],
+    [
+     "Des chercheurs l'ont montré en Afrique du Sud, dans un planétarium.",
+     1.2
+    ],
+    [
+     "Avec seulement la Voie lactée au plafond, il continuait tout droit.",
+     1.4
+    ],
+    [
+     "Et quand ils lui ont posé un minuscule chapeau sur les yeux, il s'est mis à tourner en *rond*.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu pousses peut-être quelque chose de pas très glorieux. Un travail ingrat. Une dette.",
+     1.2
+    ],
+    [
+     "Tu as le nez dedans toute la journée. C'est lourd, et personne n'applaudit.",
+     1.4
+    ],
+    [
+     "Ce qui compte, ce n'est pas ce que tu pousses. C'est ce que tu regardes en le poussant.",
+     1.6
+    ],
+    [
+     "Pousse ta boule. Mais garde les yeux sur les *étoiles*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "nom": "j136",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j136_grandmere",
+   "perso": "grandmere",
+   "episode": 137,
+   "fin": "Envoie-la à quelqu'un qui t'a relevé sans rien dire.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Ils ont vendu ma poupée aux enchères.",
+   "legende": "On oublie ceux qui achètent. On n'oublie jamais ceux qui rendent. Et toi, qui t'a rendu quelque chose que tu croyais perdu ? #grandmere #pourtoi #faillite #enfance #dignite #emotion",
+   "phrases": [
+    [
+     "À dix ans, j'ai vu vendre nos meubles dans la cour. Aux *enchères*.",
+     1.6
+    ],
+    [
+     "Mon père avait fait faillite. La scierie, la maison, tout partait.",
+     1.2
+    ],
+    [
+     "Tout le village était là. Les voisins levaient la main pour nos lits, nos casseroles.",
+     1.4
+    ],
+    [
+     "Ma mère restait debout près de la porte. Elle ne pleurait pas. Elle comptait.",
+     1.4
+    ],
+    [
+     "Puis le commissaire-priseur a levé ma poupée. Celle de mes six ans, avec sa robe bleue.",
+     1.4
+    ],
+    [
+     "J'ai cru mourir de honte. Les enfants de ma classe étaient au premier rang.",
+     1.6
+    ],
+    [
+     "C'est ma maîtresse d'école qui l'a achetée. Pour quelques francs.",
+     1.4
+    ],
+    [
+     "Le lendemain, la poupée était assise sur le seuil de notre nouvelle maison.",
+     1.8
+    ],
+    [
+     "À l'école, la maîtresse n'en a jamais parlé. Pas un mot, pas un air de pitié.",
+     1.4
+    ],
+    [
+     "Elle m'a juste fait lire la dictée à voix haute. Comme d'habitude.",
+     1.2
+    ],
+    [
+     "Comme si rien n'avait changé. Comme si j'étais toujours la *même*.",
+     1.6
+    ],
+    [
+     "Ma poupée est toujours sur mon lit. Tu l'as vue cent fois.",
+     1.4
+    ],
+    [
+     "Dans la vie, on oublie ceux qui achètent. On n'oublie jamais ceux qui *rendent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j136_grandpere",
+   "perso": "grandpere",
+   "episode": 138,
+   "fin": "Envoie-la à quelqu'un qui a du mal à dire pardon.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "J'ai demandé pardon à un apprenti.",
+   "legende": "Un vieux qui demande pardon à un jeune ne perd rien. Il lui apprend tout. Et toi, quel pardon n'as-tu jamais osé demander ? #grandpere #pourtoi #pardon #artisan #humilite #conseildevie",
+   "phrases": [
+    [
+     "À soixante ans, j'ai demandé *pardon* à un apprenti de seize ans. Devant tout l'atelier.",
+     1.4
+    ],
+    [
+     "Un matin, mon rabot préféré avait disparu. Celui de mon père.",
+     1.2
+    ],
+    [
+     "Le seul nouveau, c'était le petit. Il était arrivé la semaine d'avant, avec ses chaussures trouées.",
+     1.2
+    ],
+    [
+     "Je l'ai accusé devant tout le monde. Je lui ai dit de vider son sac.",
+     1.4
+    ],
+    [
+     "Il l'a vidé. Il n'y avait rien. Juste son casse-croûte et un vieux cahier.",
+     1.4
+    ],
+    [
+     "Il n'a rien dit. Il est retourné à son établi, les oreilles rouges.",
+     1.6
+    ],
+    [
+     "Le soir, en rentrant, j'ai ouvert le coffre de ma voiture. Le rabot était *là*.",
+     1.8
+    ],
+    [
+     "Je l'y avais mis moi-même, le vendredi d'avant. Pour un travail chez un voisin.",
+     1.4
+    ],
+    [
+     "J'ai mal dormi. Le lendemain, j'ai attendu que tout l'atelier soit là.",
+     1.2
+    ],
+    [
+     "Et j'ai dit, à voix haute : je me suis trompé. Je te demande pardon.",
+     1.6
+    ],
+    [
+     "Les autres ouvriers me regardaient comme si je m'étais mis tout nu.",
+     1.4
+    ],
+    [
+     "Des années plus tard, ce garçon m'a dit que ce jour-là, il avait décidé de rester.",
+     1.6
+    ],
+    [
+     "Un vieux qui demande pardon à un jeune ne perd rien. Il lui apprend *tout*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j136_pere",
+   "perso": "pere",
+   "episode": 137,
+   "fin": "Envoie-la à quelqu'un qui fait répondre les autres au téléphone.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Mon père dit qu'il n'est pas là.",
+   "legende": "Les enfants ne font jamais ce qu'on leur dit. Ils font ce qu'on fait. Et toi, quelle phrase de tes parents répètes-tu sans le vouloir ? #papa #pere #pourtoi #humour #exemple #enfance",
+   "phrases": [
+    [
+     "Quand tu avais huit ans, tu as répondu au *téléphone* à ma place.",
+     1.2
+    ],
+    [
+     "Tu as dit, très poliment : mon père dit qu'il n'est pas là.",
+     1.8
+    ],
+    [
+     "Au bout du fil, c'était mon chef. Celui que j'évitais depuis une semaine.",
+     1.6
+    ],
+    [
+     "Je t'avais appris cette phrase moi-même. Sans le vouloir. À force de te la souffler.",
+     1.4
+    ],
+    [
+     "Dis-lui que je ne suis pas là. Dis-lui que je suis sorti. Dis-lui que je rappelle.",
+     1.2
+    ],
+    [
+     "Toi, tu avais tout retenu. Sauf la partie où il faut *mentir*.",
+     1.6
+    ],
+    [
+     "J'ai pris le combiné. J'ai bafouillé. Mon chef riait tellement qu'il toussait.",
+     1.4
+    ],
+    [
+     "Le soir, je t'ai grondé. Tu m'as demandé pourquoi. J'ai cherché une réponse.",
+     1.4
+    ],
+    [
+     "Je n'en avais pas. Tu avais juste répété ce que je faisais.",
+     1.8
+    ],
+    [
+     "Le lendemain, j'ai rappelé mon chef moi-même. Je lui ai avoué que mon dossier n'était pas prêt.",
+     1.4
+    ],
+    [
+     "Ça m'a coûté une prime. Ça t'a évité d'apprendre à mentir.",
+     1.6
+    ],
+    [
+     "Les enfants ne font jamais ce qu'on leur dit. Ils font ce qu'on fait.",
+     1.4
+    ],
+    [
+     "Alors fais attention à ce que tu souffles. Il y a toujours un petit *témoin* à côté du téléphone.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j136_mere",
+   "perso": "mere",
+   "episode": 137,
+   "fin": "Envoie-la à quelqu'un qui crie au bord du terrain.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Un arbitre m'a expulsée. Moi.",
+   "legende": "Parfois, le plus grand soutien qu'on puisse donner, c'est de regarder. En silence. Et toi, tes parents criaient au bord du terrain ? #maman #mere #pourtoi #humour #sport #parents",
+   "phrases": [
+    [
+     "Un samedi, un arbitre m'a expulsée du terrain. Moi. Pas un joueur. Ta *mère*.",
+     1.4
+    ],
+    [
+     "Tu avais onze ans. Tu jouais en défense, et moi, j'étais la mère qui criait.",
+     1.2
+    ],
+    [
+     "Je criais sur l'arbitre, sur l'entraîneur, sur les parents d'en face. Parfois même sur toi.",
+     1.2
+    ],
+    [
+     "Ce samedi-là, il a sifflé une faute contre toi. Une faute imaginaire, selon moi.",
+     1.2
+    ],
+    [
+     "J'ai traversé la touche en agitant mon parapluie.",
+     1.4
+    ],
+    [
+     "Il a sorti un carton rouge. Pour une mère. C'était une première dans l'histoire du stade.",
+     1.4
+    ],
+    [
+     "J'ai dû regarder la fin derrière le grillage, à côté du chien du gardien.",
+     1.4
+    ],
+    [
+     "À la mi-temps, tu es venu me voir. Je croyais que tu allais me consoler.",
+     1.4
+    ],
+    [
+     "Tu m'as dit, tout bas : maman, s'il te plaît, regarde juste.",
+     1.8
+    ],
+    [
+     "Regarde juste. J'ai mis des années à comprendre ces deux mots.",
+     1.4
+    ],
+    [
+     "Ce terrain, c'était le tien. Ton échec, ce n'était pas ma *honte*.",
+     1.6
+    ],
+    [
+     "Après ça, je venais avec du café, et je me taisais. Tu as marqué trois fois cette saison-là.",
+     1.4
+    ],
+    [
+     "Parfois, le plus grand soutien qu'on puisse donner, c'est de *regarder*. En silence.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j136_fou",
+   "perso": "fou",
+   "episode": 136,
+   "fin": "Envoie-la à quelqu'un qui repart de zéro.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Quand tout va mal, elle recommence.",
+   "legende": "Revenir à zéro, ce n'est pas mourir. C'est redevenir capable de tout. Et toi, tu as déjà dû tout recommencer ? #motivation #pourtoi #nature #ocean #recommencer #conseildevie",
+   "phrases": [
+    [
+     "Il existe une méduse qui, quand tout va mal, ne meurt pas. Elle *recommence*.",
+     1.4
+    ],
+    [
+     "Elle vit en Méditerranée. Elle est plus petite qu'un ongle.",
+     1.2
+    ],
+    [
+     "Quand elle est blessée, affamée, ou trop vieille, elle se laisse couler au fond.",
+     1.4
+    ],
+    [
+     "Là, son corps se transforme. Ses tentacules disparaissent. Elle se rétracte en une petite boule.",
+     1.4
+    ],
+    [
+     "Puis elle redevient un polype. Le stade de sa toute petite enfance, accroché au fond.",
+     1.4
+    ],
+    [
+     "Et de ce polype naissent de nouvelles méduses. Qui repartent vers la surface.",
+     1.4
+    ],
+    [
+     "Les scientifiques l'appellent la méduse immortelle. En théorie, elle peut recommencer encore et encore.",
+     1.6
+    ],
+    [
+     "Elle ne revient pas en arrière pour fuir. Elle revient en arrière pour *repartir*.",
+     1.8
+    ],
+    [
+     "Toi, tu as peut-être l'impression d'être revenu à zéro. Un échec, une faillite, une séparation.",
+     1.2
+    ],
+    [
+     "Tout est à refaire. Et tu as honte, parce que les autres, eux, avancent.",
+     1.4
+    ],
+    [
+     "Mais revenir à zéro, ce n'est pas mourir. C'est redevenir capable de tout.",
+     1.6
+    ],
+    [
+     "Tu ne recommences pas en dessous de tout le monde. Tu recommences avec tout ce que tu sais.",
+     1.4
+    ],
+    [
+     "Zéro, ce n'est pas la fin. C'est le *début*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

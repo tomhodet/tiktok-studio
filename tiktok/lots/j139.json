@@ -1,0 +1,348 @@
+{
+ "nom": "j139",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j139_grandmere",
+   "perso": "grandmere",
+   "episode": 140,
+   "fin": "Envoie-la à quelqu'un qui tourne de l'œil facilement.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je me suis évanouie onze fois.",
+   "legende": "Pour ceux qu'on aime, on devient capable de choses qu'on croyait impossibles. Et toi, tu as déjà raté une vocation ? #grandmere #pourtoi #humour #infirmiere #courage #famille",
+   "phrases": [
+    [
+     "À dix-huit ans, j'ai voulu devenir infirmière. Je me suis *évanouie* onze fois en trois mois.",
+     1.4
+    ],
+    [
+     "La première fois, c'était devant une simple prise de sang. Celle d'un autre.",
+     1.4
+    ],
+    [
+     "La deuxième, pendant un cours sur le cœur. Le cœur en dessin.",
+     1.4
+    ],
+    [
+     "La directrice de l'école m'a convoquée. Elle a dit : ma petite, vous nous coûtez cher en sels.",
+     1.4
+    ],
+    [
+     "J'ai quitté l'école. J'ai eu honte pendant des années. Je disais que j'avais changé d'avis.",
+     1.2
+    ],
+    [
+     "Je suis devenue couturière. Les aiguilles, ça, je supportais.",
+     1.4
+    ],
+    [
+     "Et puis un jour, ton père, qui avait six ans, est tombé du cerisier.",
+     1.4
+    ],
+    [
+     "Le front ouvert. Du sang partout. Ton grand-père, lui, s'est assis par terre, tout blanc.",
+     1.6
+    ],
+    [
+     "Moi, je n'ai pas tremblé. J'ai compressé, j'ai porté ton père, j'ai conduit jusqu'à l'hôpital.",
+     1.4
+    ],
+    [
+     "Le médecin m'a demandé si j'étais infirmière. J'ai répondu : non, je suis sa *mère*.",
+     1.8
+    ],
+    [
+     "Je ne me suis plus jamais évanouie. Ton grand-père, lui, a continué.",
+     1.6
+    ],
+    [
+     "On n'est pas fait pour tout. Ce n'est pas une honte.",
+     1.2
+    ],
+    [
+     "Mais pour ceux qu'on aime, on devient capable de choses qu'on croyait *impossibles*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j139_grandpere",
+   "perso": "grandpere",
+   "episode": 141,
+   "fin": "Envoie-la à quelqu'un qui n'ose jamais demander.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai répété pendant une semaine.",
+   "legende": "Demander de l'aide, ce n'est pas tomber. C'est laisser quelqu'un te rendre ce que tu lui as donné. Et toi, à qui n'oses-tu rien demander ? #grandpere #pourtoi #fierte #aide #famille #emotion",
+   "phrases": [
+    [
+     "À soixante-quatorze ans, j'ai dû demander de l'argent à ton *père*. J'ai répété pendant une semaine.",
+     1.6
+    ],
+    [
+     "Le toit fuyait. Le couvreur voulait huit mille euros. Je n'en avais pas le quart.",
+     1.2
+    ],
+    [
+     "Toute ma vie, j'avais donné. Les études de ton père, sa voiture, sa maison.",
+     1.2
+    ],
+    [
+     "Demander, je ne savais pas. Chez nous, ça ne se faisait pas.",
+     1.4
+    ],
+    [
+     "J'ai répété devant le miroir. Ta grand-mère se moquait de moi.",
+     1.4
+    ],
+    [
+     "Le dimanche, j'ai parlé de la pluie, du jardin, du voisin. Pendant une heure.",
+     1.2
+    ],
+    [
+     "Puis j'ai sorti la phrase. Elle est tombée sur la table comme une pierre.",
+     1.6
+    ],
+    [
+     "Ton père a posé sa tasse. J'ai cru qu'il allait me faire la leçon.",
+     1.4
+    ],
+    [
+     "Il avait les yeux mouillés. Il a dit : j'attends ça depuis trente ans.",
+     1.8
+    ],
+    [
+     "Il a ajouté : enfin, tu me laisses être ton fils dans l'autre sens.",
+     1.6
+    ],
+    [
+     "Demander de l'aide, ce n'est pas tomber. C'est laisser quelqu'un te *rendre* ce que tu lui as donné.",
+     1.4
+    ],
+    [
+     "Le toit ne fuit plus. Et moi, je demande plus souvent. Je m'entraîne.",
+     1.4
+    ],
+    [
+     "Ne prive jamais ceux que tu aimes du bonheur de t'*aider*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j139_pere",
+   "perso": "pere",
+   "episode": 140,
+   "fin": "Envoie-la à quelqu'un qui a déjà accusé le chien.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai accusé le chien.",
+   "legende": "Les enfants voient tout. Ils attendent juste qu'on soit assez grand pour avouer. Et toi, tu as déjà accusé le chien ? #papa #pere #pourtoi #humour #mensonge #enfance",
+   "phrases": [
+    [
+     "Quand tu avais six ans, j'ai marché sur ton camion de pompiers. J'ai accusé le *chien*.",
+     1.4
+    ],
+    [
+     "Il était rouge, avec une échelle qui se dépliait. Ton cadeau de Noël.",
+     1.2
+    ],
+    [
+     "Je l'ai écrasé en rentrant du travail, dans le noir. L'échelle en trois morceaux.",
+     1.4
+    ],
+    [
+     "Tu as pleuré toute la soirée. Moi, j'ai montré du doigt Pirate, notre chien.",
+     1.4
+    ],
+    [
+     "Pirate a été privé de canapé. Toi, tu ne lui as plus parlé pendant une semaine.",
+     1.4
+    ],
+    [
+     "Il venait poser sa tête sur tes genoux. Tu le repoussais.",
+     1.4
+    ],
+    [
+     "Au bout de sept jours, je n'en pouvais plus. Je t'ai tout avoué.",
+     1.4
+    ],
+    [
+     "Tu m'as regardé, très calme. Tu as dit : je sais, papa.",
+     1.6
+    ],
+    [
+     "Pirate ne sait pas monter l'escalier. Et le camion était dans ma *chambre*.",
+     1.8
+    ],
+    [
+     "Tu avais boudé le chien pour que je n'aie pas à avouer. Tu me laissais le temps.",
+     1.6
+    ],
+    [
+     "Les enfants voient tout. Ils attendent juste qu'on soit assez grand pour avouer.",
+     1.4
+    ],
+    [
+     "J'ai racheté un camion. Pirate a récupéré son canapé.",
+     1.4
+    ],
+    [
+     "Et moi, j'ai appris qu'un petit mensonge fait toujours une grande *victime*. Souvent, c'est le chien.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j139_mere",
+   "perso": "mere",
+   "episode": 140,
+   "fin": "Envoie-la à quelqu'un qui porte une faute qui n'est pas la sienne.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai oublié de mettre le réveil.",
+   "legende": "Six ans, j'ai porté un échec qui n'était pas le mien. Et toi, tu portes une faute qui ne t'appartient pas ? #maman #mere #pourtoi #echec #culpabilite #emotion",
+   "phrases": [
+    [
+     "Le matin de ton concours, j'ai oublié de mettre le *réveil*.",
+     1.6
+    ],
+    [
+     "Tu avais vingt ans. Deux ans de préparation pour entrer dans une grande école.",
+     1.2
+    ],
+    [
+     "C'est moi qui devais te réveiller. Je l'avais promis.",
+     1.4
+    ],
+    [
+     "À neuf heures, j'ai ouvert les yeux. L'épreuve avait commencé à huit.",
+     1.6
+    ],
+    [
+     "Tu n'as pas crié. Tu as juste dit : ce n'est pas grave, maman. Je repasserai.",
+     1.6
+    ],
+    [
+     "Pendant six ans, je ne me le suis jamais pardonné. Je vérifiais mon réveil trois fois chaque soir.",
+     1.4
+    ],
+    [
+     "Tu n'as jamais repassé ce concours. Tu as fait autre chose. Tu es devenu infirmier.",
+     1.4
+    ],
+    [
+     "Le mois dernier, à ton anniversaire, tu as levé ton verre. Tu as dit : j'ai un aveu.",
+     1.6
+    ],
+    [
+     "Ce matin-là, c'est toi qui avais débranché mon réveil. La veille au soir.",
+     1.8
+    ],
+    [
+     "Cette école, c'était le rêve de ton père. Et un peu le mien.",
+     1.6
+    ],
+    [
+     "Tu n'osais pas nous le dire. Alors tu as laissé le réveil se *taire*.",
+     1.6
+    ],
+    [
+     "Six ans, j'ai porté un échec qui n'était pas le mien.",
+     1.4
+    ],
+    [
+     "Et parfois, un échec qu'on se reproche était le seul *courage* de quelqu'un d'autre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j139_fou",
+   "perso": "fou",
+   "episode": 139,
+   "fin": "Envoie-la à quelqu'un qui a l'impression d'avoir tout perdu.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Le printemps est déjà au bout des branches.",
+   "legende": "Ce que tu as appris pendant tes beaux jours n'est pas tombé avec le reste. Et toi, tu traverses quel hiver en ce moment ? #motivation #pourtoi #nature #arbre #espoir #resilience",
+   "phrases": [
+    [
+     "En novembre, un vieil arbre perd sa dernière feuille. Le *printemps* est déjà là.",
+     1.6
+    ],
+    [
+     "Regarde-le. Des branches nues, noires, sous la pluie. On dirait qu'il a tout perdu.",
+     1.4
+    ],
+    [
+     "Avant de lâcher ses feuilles, il a récupéré ce qu'elles avaient de précieux.",
+     1.2
+    ],
+    [
+     "Le vert s'en est allé, et les couleurs de l'automne sont apparues.",
+     1.2
+    ],
+    [
+     "Puis il les a laissées tomber. Sans les retenir.",
+     1.4
+    ],
+    [
+     "Mais approche-toi d'une branche. Tout au bout, il y a un petit *bourgeon*. Serré, dur, fermé.",
+     1.6
+    ],
+    [
+     "À l'intérieur, les feuilles du printemps prochain sont déjà là. Minuscules, pliées.",
+     1.6
+    ],
+    [
+     "L'arbre les a fabriquées pendant l'été. Avant même de perdre les anciennes.",
+     1.4
+    ],
+    [
+     "Tout l'hiver, il attend. Rien de visible.",
+     1.4
+    ],
+    [
+     "Toi, tu traverses peut-être ton novembre. Tu as perdu un travail, un amour, une certitude.",
+     1.2
+    ],
+    [
+     "Tu te sens nu. Et tu as l'impression que tout le monde le voit.",
+     1.4
+    ],
+    [
+     "Mais ce que tu as appris pendant tes beaux jours n'est pas tombé avec le reste.",
+     1.4
+    ],
+    [
+     "C'est là, au bout de tes branches. Serré, plié, prêt.",
+     1.6
+    ],
+    [
+     "L'hiver ne sait pas ce que l'arbre a déjà *préparé*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

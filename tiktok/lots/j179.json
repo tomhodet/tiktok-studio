@@ -1,0 +1,368 @@
+{
+ "nom": "j179",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j179_grandmere",
+   "perso": "grandmere",
+   "episode": 180,
+   "fin": "Envoie-la à quelqu'un qu'on a sous-estimé.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Une fille, ça ne siffle pas.",
+   "legende": "Ce qu'on t'a dit que tu ne pourrais jamais faire, essaie encore dix minutes. Qu'est-ce qu'on t'a dit que tu ne saurais jamais faire ? #grandmere #humour #perseverance #jamaistroptard #famille #pourtoi",
+   "phrases": [
+    [
+     "À soixante-douze ans, j'ai enfin réussi à *siffler*. Avec deux doigts dans la bouche.",
+     1.3
+    ],
+    [
+     "Petite, mes trois frères sifflaient les vaches. Moi, je soufflais. Rien.",
+     1.2
+    ],
+    [
+     "Ils riaient. Ils disaient : une fille, ça ne siffle pas. Ça crache.",
+     1.4
+    ],
+    [
+     "J'ai essayé pendant soixante ans, en cachette, en étendant le linge.",
+     1.2
+    ],
+    [
+     "Ton grand-père croyait que j'avais un problème de dentier.",
+     1.4
+    ],
+    [
+     "À la retraite, je m'y suis mise. Dix minutes par jour.",
+     1.2
+    ],
+    [
+     "Je n'arrivais pas à siffler, mais le chien du voisin accourait.",
+     1.4
+    ],
+    [
+     "Un matin de mai, le son est sorti. Fort. Strident. Toute la rue s'est retournée.",
+     1.6
+    ],
+    [
+     "J'ai pris le téléphone. J'ai appelé mon frère Jacques, quatre-vingt-quatre ans.",
+     1.2
+    ],
+    [
+     "J'ai sifflé dans le combiné. Une longue note. Il a raccroché sans rien dire.",
+     1.8
+    ],
+    [
+     "Il ne m'a pas parlé pendant une semaine. Ça valait soixante ans d'*attente*.",
+     1.4
+    ],
+    [
+     "Au marché, quand je te perds, je siffle. Tu te retournes, et tu as honte.",
+     1.4
+    ],
+    [
+     "Ce qu'on t'a dit que tu ne pourrais jamais faire, essaie encore dix minutes.",
+     1.2
+    ],
+    [
+     "Un jour, ce sont eux qui *raccrochent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j179_grandpere",
+   "perso": "grandpere",
+   "episode": 181,
+   "fin": "Envoie-la à quelqu'un qui panique quand tout brûle.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Ici, on ne court jamais.",
+   "legende": "Dans ta vie, il y aura de la fumée. Tout le monde courra. Toi, pose la main sur le mur, et marche. Qui t'a appris à garder ton calme ? #grandpere #mine #sangfroid #discipline #transmission #pourtoi",
+   "phrases": [
+    [
+     "Mon premier jour à la mine, un vieux m'a dit une seule chose : ici, on ne *court* jamais.",
+     1.3
+    ],
+    [
+     "J'avais seize ans. Je voulais montrer que j'étais rapide.",
+     1.2
+    ],
+    [
+     "Il m'a expliqué. Celui qui court soulève la poussière, tombe, et affole les autres.",
+     1.2
+    ],
+    [
+     "Au fond, la panique tue plus vite que le feu.",
+     1.4
+    ],
+    [
+     "Pendant des années, je l'ai trouvé lent.",
+     1.4
+    ],
+    [
+     "En soixante-quatorze, la fumée est arrivée dans notre galerie. Noire. On ne voyait plus nos lampes.",
+     1.4
+    ],
+    [
+     "Les hommes criaient. Certains voulaient courir.",
+     1.6
+    ],
+    [
+     "J'ai entendu la voix du vieux dans ma tête. Ici, on ne court jamais.",
+     1.8
+    ],
+    [
+     "J'ai posé la main sur le mur. J'ai compté mes pas, à voix haute.",
+     1.4
+    ],
+    [
+     "Six hommes m'ont suivi, une main sur mon épaule. On est sortis tous les *sept*.",
+     1.6
+    ],
+    [
+     "Le vieux était à la retraite. Je suis allé le voir.",
+     1.2
+    ],
+    [
+     "Il a juste demandé : tu as marché ? J'ai dit oui. Il a hoché la tête.",
+     1.6
+    ],
+    [
+     "Dans ta vie, il y aura de la fumée. Tout le monde courra.",
+     1.4
+    ],
+    [
+     "Toi, pose la main sur le mur. Et *marche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j179_pere",
+   "perso": "pere",
+   "episode": 180,
+   "fin": "Envoie-la à quelqu'un qui attend que ça décolle.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Pourquoi tu laves, papa ? Personne ne vient.",
+   "legende": "Fais comme si la réussite était en route. Elle cherche souvent un endroit propre pour s'arrêter. Qu'est-ce que tu prépares, en attendant que ça décolle ? #papa #pere #entrepreneur #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "La première année de mon garage, j'ai lavé le sol tous les matins. Il n'y avait pas de *clients*.",
+     1.3
+    ],
+    [
+     "J'avais quarante-cinq ans. On venait de me licencier. J'avais tout mis dans ce garage.",
+     1.2
+    ],
+    [
+     "Je passais la serpillière. Je rangeais les outils par taille. J'attendais.",
+     1.2
+    ],
+    [
+     "Le mercredi, tu venais avec moi. Tu avais dix ans.",
+     1.2
+    ],
+    [
+     "Un jour, tu m'as demandé : pourquoi tu laves, papa ? Personne ne vient.",
+     1.4
+    ],
+    [
+     "J'ai répondu : le jour où ils viendront, je veux être prêt.",
+     1.4
+    ],
+    [
+     "Je n'y croyais pas moi-même. Le soir, je pleurais dans la voiture avant de rentrer.",
+     1.6
+    ],
+    [
+     "Un matin d'hiver, un homme s'est arrêté pour un pneu crevé. Une camionnette blanche.",
+     1.2
+    ],
+    [
+     "Pendant que je réparais, il regardait le sol, les outils, les murs. Sans rien dire.",
+     1.4
+    ],
+    [
+     "En payant, il m'a dit : je dirige une société de livraison. Quarante camionnettes.",
+     1.6
+    ],
+    [
+     "Un homme qui lave un garage vide, je lui confie ma *flotte*.",
+     1.8
+    ],
+    [
+     "Depuis dix ans, il ne m'a jamais quitté.",
+     1.4
+    ],
+    [
+     "Fais comme si la réussite était en route.",
+     1.2
+    ],
+    [
+     "Elle cherche souvent un endroit *propre* pour s'arrêter.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j179_mere",
+   "perso": "mere",
+   "episode": 180,
+   "fin": "Envoie-la à quelqu'un qui t'a appris à te débrouiller.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "Maman, j'ai crevé. Tu sais faire.",
+   "legende": "Personne ne s'arrêtera toujours pour toi. Alors apprends à soulever la voiture toi-même. Qui t'a appris à te débrouiller seule ? #maman #mere #autonomie #courage #transmission #pourtoi",
+   "phrases": [
+    [
+     "Le lendemain du départ de ton père, j'ai crevé un *pneu*. Sur la nationale, sous la pluie.",
+     1.3
+    ],
+    [
+     "Tu avais quatre ans. Tu dormais à l'arrière, dans ton siège.",
+     1.2
+    ],
+    [
+     "Je n'avais jamais changé une roue. Ton père s'occupait de ça.",
+     1.2
+    ],
+    [
+     "J'ai attendu que quelqu'un s'arrête. Personne. Les voitures m'éclaboussaient en passant.",
+     1.4
+    ],
+    [
+     "Alors j'ai sorti le manuel de la boîte à gants.",
+     1.2
+    ],
+    [
+     "Il m'a fallu deux heures. Je me suis coupé la main. J'ai serré les écrous en pleurant.",
+     1.4
+    ],
+    [
+     "Quand je suis remontée, tu t'es réveillée. Tu as dit : on est arrivées, maman ?",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai décidé d'apprendre tout ce que je ne savais pas faire.",
+     1.2
+    ],
+    [
+     "Les fusibles, les robinets, les impôts. Une chose à la fois.",
+     1.2
+    ],
+    [
+     "Toi, je t'ai tout montré. Même quand tu levais les yeux au ciel.",
+     1.4
+    ],
+    [
+     "Le mois dernier, tu m'as appelée du bord de la route. Tu as dit : maman, j'ai crevé.",
+     1.6
+    ],
+    [
+     "J'ai répondu : tu sais faire.",
+     1.6
+    ],
+    [
+     "Vingt minutes plus tard, tu m'as envoyé une photo. Toi, la roue, et ton *sourire*.",
+     1.8
+    ],
+    [
+     "Personne ne s'arrêtera toujours pour toi.",
+     1.2
+    ],
+    [
+     "Alors apprends à soulever la voiture *toi-même*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j179_fou",
+   "perso": "fou",
+   "episode": 179,
+   "fin": "Envoie-la à quelqu'un devant qui une porte s'est fermée.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il a écouté la leçon depuis le toit.",
+   "legende": "Si ce n'est pas maintenant, quand ? Quelle porte s'est fermée devant toi, et où est ta lucarne ? #motivation #sagesse #hillel #apprendre #perseverance #pourtoi",
+   "phrases": [
+    [
+     "Une nuit d'hiver, un jeune homme s'allonge sur le *toit* d'une école. Pour écouter.",
+     1.3
+    ],
+    [
+     "Il est très pauvre. Il gagne une toute petite pièce par jour.",
+     1.2
+    ],
+    [
+     "La moitié pour sa famille. L'autre pour le gardien de l'école, car l'entrée est payante.",
+     1.2
+    ],
+    [
+     "Ce jour-là, il n'a rien gagné. Le gardien lui ferme la porte.",
+     1.4
+    ],
+    [
+     "Alors il grimpe sur le toit. Il colle son oreille à la lucarne.",
+     1.4
+    ],
+    [
+     "Il écoute les maîtres. Il oublie le froid. La neige se met à tomber.",
+     1.4
+    ],
+    [
+     "Au matin, les maîtres s'étonnent. Il fait sombre dans la salle.",
+     1.4
+    ],
+    [
+     "Ils lèvent les yeux. Contre la lucarne, il y a la forme d'un homme.",
+     1.6
+    ],
+    [
+     "Ils le trouvent sous la neige, gelé. Ils le descendent et le réchauffent devant le feu.",
+     1.8
+    ],
+    [
+     "Ce jeune homme s'appelait Hillel. Il est devenu l'un des plus grands sages de son peuple.",
+     1.4
+    ],
+    [
+     "Deux mille ans plus tard, on cite encore sa question : si ce n'est pas maintenant, quand ?",
+     1.6
+    ],
+    [
+     "Toi aussi, peut-être, une porte s'est fermée devant toi.",
+     1.2
+    ],
+    [
+     "Cherche la *lucarne*.",
+     1.6
+    ],
+    [
+     "Ceux qui ont eu froid pour apprendre deviennent souvent ceux qui ouvrent les *portes*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

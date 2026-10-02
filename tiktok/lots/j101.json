@@ -1,0 +1,360 @@
+{
+ "nom": "j101",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j101_grandmere",
+   "perso": "grandmere",
+   "episode": 102,
+   "fin": "Envoie-la à quelqu'un qui a déjà volé la vedette.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "On voit mon chapeau, pas la mariée.",
+   "legende": "La jalousie te pousse toujours à mettre un trop grand chapeau. Et toi, tu as déjà été jaloux de quelqu'un que tu aimes ? #grandmere #humour #jalousie #famille #mariage #pourtoi",
+   "phrases": [
+    [
+     "Sur toutes les photos du mariage de ma sœur, on ne voit pas la mariée. On voit mon *chapeau*.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-sept. Ma petite sœur se mariait avant moi.",
+     1.2
+    ],
+    [
+     "J'étais jalouse. Verte. Alors j'ai voulu être la plus belle de la journée.",
+     1.2
+    ],
+    [
+     "J'ai acheté le plus grand chapeau de la ville. Avec des plumes et un oiseau dessus.",
+     1.2
+    ],
+    [
+     "Pour les photos, je me suis placée juste derrière la mariée.",
+     1.4
+    ],
+    [
+     "À la mairie, mon chapeau. À l'église, mon chapeau. Au vin d'honneur, encore mon chapeau.",
+     1.4
+    ],
+    [
+     "Ma sœur a découvert les photos un mois plus tard. Elle a hurlé.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, à chaque repas de famille, elle sort l'album.",
+     1.4
+    ],
+    [
+     "Elle dit : voici mon mariage. Enfin, le chapeau de ma sœur.",
+     1.8
+    ],
+    [
+     "Tout le monde rit. Moi, je ris jaune depuis soixante ans.",
+     1.6
+    ],
+    [
+     "La *jalousie* te pousse toujours à mettre un trop grand chapeau.",
+     1.4
+    ],
+    [
+     "Et c'est toujours toi qu'il rend ridicule.",
+     1.4
+    ],
+    [
+     "Le jour où quelqu'un que tu aimes brille, ne cherche pas à briller plus fort.",
+     1.2
+    ],
+    [
+     "Enlève ton chapeau. Et *applaudis*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j101_grandpere",
+   "perso": "grandpere",
+   "episode": 103,
+   "fin": "Envoie-la à quelqu'un qui tient le rythme pour tout le monde.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Une seule note pendant trente ans.",
+   "legende": "Tu n'as pas besoin de tout savoir faire. Sois là, au bon moment, sur ta note. Et toi, c'est quoi ta note ? #grandpere #humour #musique #equipe #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Pendant trente ans, j'ai joué du tuba dans la fanfare du village. Je ne connaissais qu'une seule *note*.",
+     1.3
+    ],
+    [
+     "J'avais vingt ans. La fanfare cherchait un costaud pour porter le gros tuba.",
+     1.2
+    ],
+    [
+     "Le chef m'a appris une seule note. La plus grave. Pom.",
+     1.2
+    ],
+    [
+     "Il m'a dit : tu fais pom sur chaque temps fort. Et surtout, rien d'autre.",
+     1.2
+    ],
+    [
+     "Alors pendant trente ans, j'ai fait pom. Aux défilés, aux mariages, aux enterrements.",
+     1.4
+    ],
+    [
+     "Les gamins m'appelaient monsieur Pom. Ta grand-mère aussi, les jours de dispute.",
+     1.4
+    ],
+    [
+     "À cinquante ans, mon dos a lâché. J'ai rendu le tuba.",
+     1.4
+    ],
+    [
+     "Le quatorze juillet suivant, j'étais sur le trottoir pour écouter la fanfare.",
+     1.4
+    ],
+    [
+     "Elle jouait faux. Elle boitait. Les musiciens ne marchaient plus au même pas.",
+     1.6
+    ],
+    [
+     "Après le défilé, le chef est venu me voir.",
+     1.4
+    ],
+    [
+     "Il a dit : sans ton pom, plus personne ne sait où poser le *pied*.",
+     1.8
+    ],
+    [
+     "Tu n'as pas besoin de tout savoir faire. Sois là, au bon moment, sur ta note.",
+     1.4
+    ],
+    [
+     "Il y a toujours quelqu'un qui marche au rythme de ton *pom*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j101_pere",
+   "perso": "pere",
+   "episode": 102,
+   "fin": "Envoie-la à quelqu'un qui vit trop dans le passé.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "La pizzeria était devenue une laverie.",
+   "legende": "On ne refait jamais le passé. Il ferme, il change, il devient une laverie. Et toi, quel souvenir tu aimerais revivre ? #papa #pere #humour #couple #souvenirs #pourtoi",
+   "phrases": [
+    [
+     "Pour nos vingt-cinq ans de mariage, ta mère et moi, on a dîné assis sur une *machine à laver*.",
+     1.3
+    ],
+    [
+     "Je voulais refaire notre premier rendez-vous. Une petite pizzeria, près de la gare.",
+     1.2
+    ],
+    [
+     "On y avait partagé une seule pizza. On n'avait pas d'argent pour deux.",
+     1.2
+    ],
+    [
+     "J'ai ressorti la même chemise. Elle me serrait un peu.",
+     1.2
+    ],
+    [
+     "J'ai bandé les yeux de ta mère. Elle riait comme une gamine.",
+     1.2
+    ],
+    [
+     "Tout le trajet, je lui racontais notre soirée. La table, la bougie, la fenêtre.",
+     1.4
+    ],
+    [
+     "Devant la porte, j'ai enlevé le bandeau.",
+     1.6
+    ],
+    [
+     "La pizzeria était devenue une *laverie*.",
+     1.8
+    ],
+    [
+     "Des machines qui tournaient. Une odeur de lessive. Un étudiant qui pliait ses chaussettes.",
+     1.6
+    ],
+    [
+     "Ta mère a éclaté de rire. Elle est allée acheter deux parts de pizza à côté.",
+     1.4
+    ],
+    [
+     "On a mangé là, sur une machine, en regardant tourner le linge d'un inconnu.",
+     1.4
+    ],
+    [
+     "C'est devenu notre plus beau souvenir. Plus beau que le premier.",
+     1.4
+    ],
+    [
+     "On ne refait jamais le passé. Il ferme, il change, il devient une laverie.",
+     1.2
+    ],
+    [
+     "Arrête de vouloir revivre tes plus beaux souvenirs. Fabriques-en de *nouveaux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j101_mere",
+   "perso": "mere",
+   "episode": 102,
+   "fin": "Envoie-la à quelqu'un qui s'est déjà fait oublier quelque part.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai oublié ton père sur l'autoroute.",
+   "legende": "Ne reste pas là où on t'a oublié. Lève le pouce. Et toi, quelqu'un t'a déjà oublié quelque part ? #maman #mere #humour #vacances #famille #pourtoi",
+   "phrases": [
+    [
+     "Un été, j'ai oublié ton père sur une *aire d'autoroute*.",
+     1.3
+    ],
+    [
+     "On partait en vacances. Ta sœur et toi, vous dormiez à l'arrière.",
+     1.2
+    ],
+    [
+     "À la pause, ton père m'a laissé le volant. Il voulait dormir sous la grande couverture.",
+     1.2
+    ],
+    [
+     "En revenant des toilettes, j'ai vu une forme sous la couverture, côté passager. J'ai démarré sans bruit.",
+     1.2
+    ],
+    [
+     "Quatre-vingts kilomètres plus tard, ta sœur a soulevé la couverture. Le sac de linge.",
+     1.6
+    ],
+    [
+     "J'ai fait demi-tour en tremblant.",
+     1.4
+    ],
+    [
+     "Sur l'aire, personne. Le caissier m'a dit : il est parti avec un camion.",
+     1.6
+    ],
+    [
+     "On est arrivés à la maison de vacances à minuit. Épuisés.",
+     1.4
+    ],
+    [
+     "Ton père nous attendait devant la porte. Avec le chauffeur du camion, autour d'un feu.",
+     1.6
+    ],
+    [
+     "Il a levé son verre. Il a dit : je commençais à m'inquiéter.",
+     1.8
+    ],
+    [
+     "Il aurait pu rester sur cette aire à nous attendre, furieux.",
+     1.4
+    ],
+    [
+     "Il a préféré lever le *pouce*.",
+     1.6
+    ],
+    [
+     "Un jour, on t'oubliera sur le bord de la route. Au travail, en amitié, en amour.",
+     1.2
+    ],
+    [
+     "Ne reste pas là où on t'a *oublié*. Lève le pouce.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j101_fou",
+   "perso": "fou",
+   "episode": 101,
+   "fin": "Envoie-la à quelqu'un qui a peur de son propre rêve.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Le vrai dragon est venu. Il s'est enfui.",
+   "legende": "Il n'aimait pas les dragons. Il aimait ce qui ressemblait à des dragons. Et toi, de quoi tu rêves sans oser y aller ? #motivation #conte #chine #courage #reussite #pourtoi",
+   "phrases": [
+    [
+     "Dans un vieux conte chinois, un seigneur aimait tellement les dragons qu'il en avait mis *partout*.",
+     1.3
+    ],
+    [
+     "Sur sa ceinture, sur ses coupes de vin, sculptés sur les poutres et les murs de sa maison.",
+     1.2
+    ],
+    [
+     "Il en parlait à tous ses invités. Personne n'aimait les dragons autant que lui.",
+     1.2
+    ],
+    [
+     "Dans le ciel, le vrai dragon a entendu parler de lui. Il a été touché.",
+     1.4
+    ],
+    [
+     "Alors il est descendu lui rendre visite.",
+     1.2
+    ],
+    [
+     "Il a passé sa tête par la fenêtre. Sa queue traînait jusque dans la grande salle.",
+     1.4
+    ],
+    [
+     "Le seigneur l'a vu. Il est devenu blanc comme un drap.",
+     1.6
+    ],
+    [
+     "Et il s'est *enfui* en courant.",
+     1.8
+    ],
+    [
+     "Il n'aimait pas les dragons. Il aimait ce qui ressemblait à des dragons.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu dis peut-être que tu veux réussir. Changer de vie, voyager, aimer pour de vrai.",
+     1.4
+    ],
+    [
+     "Tu as des images partout. Des citations, des photos, des projets punaisés au mur.",
+     1.4
+    ],
+    [
+     "Mais le jour où la vraie chance passe la tête par ta fenêtre, elle fait peur.",
+     1.4
+    ],
+    [
+     "Elle est plus grande que prévu. Elle demande du courage.",
+     1.2
+    ],
+    [
+     "Ce jour-là, ne t'enfuis pas. Ouvre la *fenêtre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

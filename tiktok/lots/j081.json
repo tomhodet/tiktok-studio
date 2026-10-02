@@ -1,0 +1,356 @@
+{
+ "nom": "j081",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j081_grandmere",
+   "perso": "grandmere",
+   "episode": 82,
+   "fin": "Envoie-la à quelqu'un qui garde les vieilles photos de famille.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Un jeune homme que personne ne connaît.",
+   "legende": "Un visage sans prénom, c'est quelqu'un qu'on perd une deuxième fois. Et toi, qui est sur la plus vieille photo de ta famille ? #grandmere #souvenir #famille #photos #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans la boîte à photos de ma mère, il y a un jeune homme que personne ne *connaît*.",
+     1.3
+    ],
+    [
+     "Il pose devant une moto, avant la guerre. Il sourit à la personne qui tient l'appareil.",
+     1.2
+    ],
+    [
+     "Derrière la photo, rien. Pas un prénom. Pas une date.",
+     1.4
+    ],
+    [
+     "Ma mère est morte il y a trente ans. J'ai demandé à toute la famille.",
+     1.2
+    ],
+    [
+     "Personne ne savait. Ils sont tous partis, maintenant.",
+     1.2
+    ],
+    [
+     "Je regarde ce garçon depuis trente ans.",
+     1.4
+    ],
+    [
+     "Son premier amour, peut-être. Un frère mort jeune. Un ami. Je ne saurai jamais.",
+     1.6
+    ],
+    [
+     "Alors l'hiver dernier, j'ai sorti toutes mes photos. Derrière chacune, j'ai écrit les prénoms. Et l'année.",
+     1.2
+    ],
+    [
+     "Ton grand-père à vingt ans, le jour où il a raté son permis.",
+     1.2
+    ],
+    [
+     "Toi à trois ans, dans la baignoire, avec le chapeau de ton oncle.",
+     1.4
+    ],
+    [
+     "Un visage sans prénom, c'est quelqu'un qu'on perd une *deuxième* fois.",
+     1.8
+    ],
+    [
+     "Tu trouves ça bizarre. Tu te moques de moi. Ce n'est pas grave.",
+     1.4
+    ],
+    [
+     "Écris les prénoms derrière tes photos. Toutes.",
+     1.2
+    ],
+    [
+     "Un jour, quelqu'un les regardera. Et il saura qui tu as *aimé*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j081_grandpere",
+   "perso": "grandpere",
+   "episode": 83,
+   "fin": "Envoie-la à quelqu'un qui est fidèle à son vieux coiffeur.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Mon coiffeur tremble. Je reste.",
+   "legende": "Deux vieux qui croient rendre service. Et qui se sauvent la vie, une fois par mois. Et toi, tu es fidèle à quel commerçant depuis des années ? #grandpere #vieillesse #amitie #humour #fidelite #pourtoi",
+   "phrases": [
+    [
+     "Depuis soixante ans, je vais chez le même coiffeur. Aujourd'hui, il a quatre-vingt-sept ans. Il *tremble*.",
+     1.3
+    ],
+    [
+     "Gilbert m'a coiffé pour mon mariage, pour le baptême de ton père, pour tous les enterrements.",
+     1.2
+    ],
+    [
+     "Maintenant, ses ciseaux font des zigzags. La dernière fois, il a failli me couper l'oreille.",
+     1.4
+    ],
+    [
+     "Ton père me dit : papa, change de coiffeur. Tu ressors avec une coupe en escalier.",
+     1.2
+    ],
+    [
+     "Je ne changerai pas. Gilbert n'a plus qu'un seul client. Moi.",
+     1.4
+    ],
+    [
+     "Si j'arrête, il ferme la boutique. Et s'il ferme, il ne se lèvera plus le matin.",
+     1.6
+    ],
+    [
+     "Alors tous les mois, j'y vais. Il me raconte les mêmes histoires.",
+     1.2
+    ],
+    [
+     "Le mois dernier, sa fille m'a arrêté dans la rue.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : merci de garder mon père en vie.",
+     1.4
+    ],
+    [
+     "Puis elle a ajouté : il dit qu'il garde la boutique ouverte pour vous.",
+     1.8
+    ],
+    [
+     "Il paraît que je n'ai plus que lui, depuis ta grand-mère.",
+     1.6
+    ],
+    [
+     "Deux vieux qui croient rendre service. Et qui se sauvent la *vie*, une fois par mois.",
+     1.4
+    ],
+    [
+     "Alors ne me demande plus de changer de coiffeur. Ma coupe en escalier, c'est un *pacte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j081_pere",
+   "perso": "pere",
+   "episode": 82,
+   "fin": "Envoie-la à quelqu'un qui va être grand-père.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Tu m'as offert des épaules.",
+   "legende": "Je ne fais pas du sport pour vivre plus longtemps. Je le fais pour la porter plus longtemps. Et toi, qu'est-ce que tu fais pour ceux que tu aimes ? #papa #pere #grandpere #sport #famille #pourtoi",
+   "phrases": [
+    [
+     "Pour mes cinquante ans, tu m'as offert un abonnement à la salle de *sport*. J'ai été vexé.",
+     1.3
+    ],
+    [
+     "Tu as dit : c'est pour ta santé. J'ai entendu : tu vieillis.",
+     1.4
+    ],
+    [
+     "La carte est restée trois mois dans le vide-poche.",
+     1.2
+    ],
+    [
+     "Et puis tu m'as annoncé que j'allais être grand-père.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai pensé à mon père. Il n'avait plus la force de porter ses petits-enfants.",
+     1.6
+    ],
+    [
+     "Il les regardait jouer depuis sa chaise.",
+     1.4
+    ],
+    [
+     "Le lendemain, j'étais à la salle. À six heures du matin. Au milieu des jeunes.",
+     1.2
+    ],
+    [
+     "Le premier jour, un gamin m'a demandé si j'allais bien.",
+     1.4
+    ],
+    [
+     "Ça fait deux ans. Trois fois par semaine. Je n'ai jamais raté une séance.",
+     1.2
+    ],
+    [
+     "Ta fille a dix-huit mois. Elle pèse onze kilos. Je la porte sur mes épaules.",
+     1.6
+    ],
+    [
+     "Elle tire mes oreilles comme un guidon. Elle crie : encore !",
+     1.4
+    ],
+    [
+     "Je ne fais pas du sport pour vivre plus longtemps. Je le fais pour la *porter* plus longtemps.",
+     1.8
+    ],
+    [
+     "J'ai mal partout. Je râle tous les matins. Je n'ai jamais été aussi heureux.",
+     1.4
+    ],
+    [
+     "Tu croyais m'offrir un abonnement. Tu m'as offert des *épaules*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j081_mere",
+   "perso": "mere",
+   "episode": 82,
+   "fin": "Envoie-la à quelqu'un qui t'écrit toujours bien rentré.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "À cinquante ans, orpheline.",
+   "legende": "On n'est jamais trop vieux pour avoir besoin que quelqu'un nous attende. Et toi, qui t'envoie un message quand tu rentres ? #maman #mere #deuil #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "À cinquante ans, je suis devenue *orpheline*. Tout le monde a trouvé ça normal.",
+     1.3
+    ],
+    [
+     "Ma mère avait quatre-vingt-six ans. Mon père était parti dix ans avant elle.",
+     1.2
+    ],
+    [
+     "À l'enterrement, on m'a dit : elle a eu une belle vie. C'est dans l'ordre des choses.",
+     1.2
+    ],
+    [
+     "La boulangère m'a dit : à votre âge, on s'y attend. Elle avait raison.",
+     1.4
+    ],
+    [
+     "Et pourtant, le soir, dans ma cuisine, j'avais six ans.",
+     1.6
+    ],
+    [
+     "Je n'ai rien dit à personne. Une femme de mon âge ne pleure pas sa maman.",
+     1.4
+    ],
+    [
+     "Un dimanche, en partant de chez toi, je t'ai dit une bêtise. Sans réfléchir.",
+     1.2
+    ],
+    [
+     "Je t'ai dit : plus personne ne me demandera si je suis bien rentrée.",
+     1.6
+    ],
+    [
+     "Tu as haussé les épaules. Tu as dit : roule doucement.",
+     1.2
+    ],
+    [
+     "Vingt minutes plus tard, mon téléphone a vibré. Un message de toi : bien *rentrée* ?",
+     1.8
+    ],
+    [
+     "Je suis restée dans la voiture, devant chez moi, à pleurer comme une gamine.",
+     1.4
+    ],
+    [
+     "Depuis, tu me l'envoies chaque fois. Tu ne rates jamais.",
+     1.4
+    ],
+    [
+     "On n'est jamais trop vieux pour avoir besoin que quelqu'un nous *attende*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j081_fou",
+   "perso": "fou",
+   "episode": 81,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas encore prendre la parole.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il fallait bien que quelqu'un commence.",
+   "legende": "Il fallait bien que quelqu'un commence. Et toi, qu'est-ce que tu attends pour commencer ? #motivation #histoire #sophiescholl #courage #resistance #pourtoi",
+   "phrases": [
+    [
+     "En février mille neuf cent quarante-trois, une étudiante jette des papiers du haut d'un *balcon*.",
+     1.3
+    ],
+    [
+     "Des tracts tombent en pluie dans le grand hall de l'université de Munich.",
+     1.2
+    ],
+    [
+     "Elle s'appelle Sophie Scholl. Elle a vingt et un ans.",
+     1.2
+    ],
+    [
+     "Avec son frère Hans, elle écrit des tracts contre Hitler. Leur groupe s'appelle la Rose blanche.",
+     1.2
+    ],
+    [
+     "Ce jour-là, le concierge de l'université les voit. Il les dénonce.",
+     1.4
+    ],
+    [
+     "Quatre jours plus tard, ils sont jugés, condamnés et exécutés le même jour.",
+     1.6
+    ],
+    [
+     "Au procès, Sophie dit : il fallait bien que quelqu'un *commence*.",
+     1.8
+    ],
+    [
+     "Les nazis croient avoir fait taire la Rose blanche. Ils se trompent.",
+     1.4
+    ],
+    [
+     "Leur dernier tract passe la frontière et arrive jusqu'en Angleterre.",
+     1.2
+    ],
+    [
+     "Quelques mois plus tard, des avions alliés le lâchent au-dessus de l'Allemagne.",
+     1.6
+    ],
+    [
+     "Les mots qu'elle avait jetés d'un balcon retombent du ciel. Sur tout un pays.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu crois parfois que ta voix ne compte pas.",
+     1.2
+    ],
+    [
+     "Ce que tu lances avec courage finit toujours par retomber quelque part.",
+     1.4
+    ],
+    [
+     "Il faut juste que quelqu'un commence. Pourquoi pas *toi* ?",
+     0
+    ]
+   ]
+  }
+ ]
+}

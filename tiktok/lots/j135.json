@@ -1,0 +1,356 @@
+{
+ "nom": "j135",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j135_grandmere",
+   "perso": "grandmere",
+   "episode": 136,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas revoir ses anciens camarades.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Quarante ans d'excuses pour ne pas venir.",
+   "legende": "Tout le monde arrive à ces retrouvailles avec une honte dans son sac. Et toi, tu irais à tes retrouvailles de classe ? #grandmere #pourtoi #honte #amitie #emotion #conseildevie",
+   "phrases": [
+    [
+     "Pendant quarante ans, j'ai refusé d'aller aux retrouvailles de mon école. J'avais *honte*.",
+     1.6
+    ],
+    [
+     "Les filles de ma classe étaient devenues pharmacienne, institutrice, directrice d'agence.",
+     1.2
+    ],
+    [
+     "Moi, je faisais des ménages. Je ne voulais pas qu'on me demande ce que j'étais devenue.",
+     1.4
+    ],
+    [
+     "Chaque année, je recevais l'invitation. Chaque année, je trouvais une excuse.",
+     1.2
+    ],
+    [
+     "Une grippe. Un mariage. Une vache malade. Je n'avais même pas de vache.",
+     1.4
+    ],
+    [
+     "Pour les cinquante ans de notre sortie, ta mère m'y a conduite de force.",
+     1.4
+    ],
+    [
+     "Je suis restée près du buffet, mon sac serré contre moi. Prête à mentir.",
+     1.4
+    ],
+    [
+     "La pharmacienne est venue s'asseoir à côté de moi. Elle m'a demandé si j'avais des petits-enfants.",
+     1.4
+    ],
+    [
+     "J'ai dit oui. Je lui ai montré ta photo. Elle s'est mise à pleurer.",
+     1.6
+    ],
+    [
+     "Sa fille ne lui parlait plus depuis dix ans.",
+     1.8
+    ],
+    [
+     "Ce soir-là, j'ai compris une chose.",
+     1.4
+    ],
+    [
+     "Tout le monde arrive à ces retrouvailles avec une honte dans son *sac*.",
+     1.6
+    ],
+    [
+     "Ce qu'on cache n'est jamais ce que les autres regardent.",
+     1.4
+    ],
+    [
+     "Moi, j'avais honte de mon métier. Elle, elle aurait donné son diplôme pour mon *dimanche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j135_grandpere",
+   "perso": "grandpere",
+   "episode": 137,
+   "fin": "Envoie-la à quelqu'un qui hésite à accepter une promotion.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Contremaître le lundi. Ouvrier le vendredi.",
+   "legende": "Une promotion qui t'éloigne de toi, ce n'est pas une promotion. C'est un exil. Et toi, tu as déjà refusé de monter ? #grandpere #pourtoi #travail #usine #fierte #conseildevie",
+   "phrases": [
+    [
+     "On m'a nommé contremaître un lundi. Le vendredi, j'ai demandé à redevenir *ouvrier*.",
+     1.4
+    ],
+    [
+     "C'était en mille neuf cent soixante-dix-neuf. Toute l'équipe me tapait dans le dos.",
+     1.2
+    ],
+    [
+     "Le lundi, j'ai mis la blouse grise. Mes copains m'appelaient chef, en rigolant.",
+     1.2
+    ],
+    [
+     "Le mardi, il a fallu noter les retards. Le premier, c'était Marcel, mon voisin de machine.",
+     1.4
+    ],
+    [
+     "Le mercredi, la direction m'a demandé de faire accélérer la chaîne.",
+     1.2
+    ],
+    [
+     "Le jeudi, plus personne ne rigolait quand j'entrais.",
+     1.4
+    ],
+    [
+     "Le soir, ta grand-mère m'a dit : tu portes le *costume* d'un autre.",
+     1.6
+    ],
+    [
+     "Le vendredi, je suis allé voir le directeur. J'ai rendu la blouse grise.",
+     1.4
+    ],
+    [
+     "Il n'en revenait pas. Personne ne refusait jamais une promotion.",
+     1.4
+    ],
+    [
+     "Le lundi suivant, à l'atelier, personne n'a rien dit. Marcel m'a juste versé un café.",
+     1.6
+    ],
+    [
+     "Toute ma vie, on m'a dit que j'avais raté ma chance.",
+     1.4
+    ],
+    [
+     "Réussir, ce n'est pas monter le plus haut possible. C'est trouver l'endroit où tu es toi.",
+     1.4
+    ],
+    [
+     "Une promotion qui t'éloigne de toi, ce n'est pas une promotion. C'est un *exil*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j135_pere",
+   "perso": "pere",
+   "episode": 136,
+   "fin": "Envoie-la à quelqu'un qui cherche du travail en ce moment.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Tu as écrit que j'étais chercheur.",
+   "legende": "Tu ne voyais pas un chômeur. Tu voyais un homme qui cherchait. Et toi, tu as déjà dû chercher pendant des mois ? #papa #pere #pourtoi #chomage #humour #motivation",
+   "phrases": [
+    [
+     "Au collège, sur ta fiche de rentrée, tu as écrit que j'étais *chercheur*.",
+     1.4
+    ],
+    [
+     "Ton professeur principal m'a appelé. Il voulait savoir dans quel laboratoire je travaillais.",
+     1.2
+    ],
+    [
+     "Je n'ai pas su quoi répondre. Je n'avais pas de laboratoire. Je n'avais plus de travail du tout.",
+     1.4
+    ],
+    [
+     "Ça faisait huit mois. L'usine avait fermé en mars.",
+     1.2
+    ],
+    [
+     "Le soir, je t'ai demandé pourquoi tu avais écrit ça.",
+     1.2
+    ],
+    [
+     "Tu m'as répondu : maman dit que tu cherches. Tous les jours.",
+     1.4
+    ],
+    [
+     "Alors chercheur, c'était logique.",
+     1.6
+    ],
+    [
+     "J'ai ri. Pour la première fois depuis des semaines.",
+     1.4
+    ],
+    [
+     "Puis j'ai réfléchi. Tu avais raison.",
+     1.4
+    ],
+    [
+     "Je me levais à six heures. J'envoyais des lettres. Je passais des entretiens. Je recommençais.",
+     1.2
+    ],
+    [
+     "C'était un travail. Le plus dur que j'aie jamais fait. Sans salaire et sans collègues.",
+     1.4
+    ],
+    [
+     "Tu ne voyais pas un chômeur. Tu voyais un homme qui *cherchait*.",
+     1.8
+    ],
+    [
+     "Si un jour tu perds ton travail, ne baisse pas les yeux au moment de remplir les fiches.",
+     1.4
+    ],
+    [
+     "Écris chercheur. Et *cherche*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j135_mere",
+   "perso": "mere",
+   "episode": 136,
+   "fin": "Envoie-la à quelqu'un qui doit fermer un chapitre.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Le dernier jour, j'ai tout donné.",
+   "legende": "On ne choisit pas toujours comment une histoire finit. On choisit ce qu'on donne en partant. Et toi, comment voudrais-tu terminer un échec ? #maman #mere #pourtoi #faillite #fleurs #emotion",
+   "phrases": [
+    [
+     "Le dernier jour de ma boutique de fleurs, j'ai tout *donné*.",
+     1.4
+    ],
+    [
+     "Je l'avais ouverte en deux mille huit. Elle a tenu trois ans.",
+     1.2
+    ],
+    [
+     "Le loyer avait doublé. Et les gens achetaient leurs fleurs au supermarché, avec les poireaux.",
+     1.4
+    ],
+    [
+     "Tu avais douze ans. Tu m'aidais le samedi, à faire les rubans.",
+     1.2
+    ],
+    [
+     "Ce dernier matin, il me restait des seaux entiers. Des roses, des tulipes, des pivoines.",
+     1.4
+    ],
+    [
+     "Alors on s'est installés sur le trottoir, toi et moi. Et on a offert une fleur à chaque passant.",
+     1.4
+    ],
+    [
+     "Une vieille dame a pleuré. Un livreur a fait demi-tour, pour sa femme.",
+     1.4
+    ],
+    [
+     "À midi, il n'y avait plus rien. Juste des seaux vides et nous deux.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'avais honte d'avoir échoué. Mais je n'ai jamais vu autant de *sourires*.",
+     1.6
+    ],
+    [
+     "L'année dernière, une femme m'a arrêtée au marché. Elle avait gardé la rose, séchée, dans un livre.",
+     1.4
+    ],
+    [
+     "Elle m'a dit : ce jour-là, j'allais très mal. Vous ne l'avez jamais su.",
+     1.8
+    ],
+    [
+     "On ne choisit pas toujours comment une histoire finit. On choisit ce qu'on donne en partant.",
+     1.4
+    ],
+    [
+     "Ma boutique a fait faillite. Elle s'est terminée en *bouquet*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j135_fou",
+   "perso": "fou",
+   "episode": 135,
+   "fin": "Envoie-la à quelqu'un qui traverse une longue nuit.",
+   "lueurs": [
+    1,
+    5,
+    14
+   ],
+   "accroche": "Dans le noir, il fait demi-tour.",
+   "legende": "Il ne voit pas le soleil. Il sait qu'il va revenir. Et toi, vers quoi tu te tournes quand tout est noir ? #motivation #pourtoi #nature #tournesol #espoir #conseildevie",
+   "phrases": [
+    [
+     "La nuit, dans le noir complet, un jeune tournesol fait *demi-tour*.",
+     1.4
+    ],
+    [
+     "Toute la journée, il a suivi le soleil. De l'est, le matin, jusqu'à l'ouest, le soir.",
+     1.2
+    ],
+    [
+     "Quand le soleil disparaît, sa tête regarde encore l'endroit où il est parti.",
+     1.4
+    ],
+    [
+     "Puis, dans l'obscurité, sans aucune lumière, il se retourne lentement vers l'est.",
+     1.4
+    ],
+    [
+     "Vers l'endroit exact où le soleil va se *lever*.",
+     1.8
+    ],
+    [
+     "Des chercheurs ont découvert pourquoi. Il possède une horloge interne.",
+     1.2
+    ],
+    [
+     "Il n'a pas besoin de voir le soleil pour savoir qu'il reviendra.",
+     1.6
+    ],
+    [
+     "Plus tard, quand il fleurit, il arrête de bouger. Il reste tourné vers l'est.",
+     1.4
+    ],
+    [
+     "Sa fleur se réchauffe plus vite le matin. Et les abeilles viennent plus nombreuses.",
+     1.4
+    ],
+    [
+     "Toi, tu es peut-être dans ta nuit. Un échec, une perte, une honte qui t'empêche de dormir.",
+     1.2
+    ],
+    [
+     "Tu ne vois aucune lumière. C'est normal. Il fait nuit.",
+     1.4
+    ],
+    [
+     "Mais tu peux déjà te tourner vers l'endroit où le jour va se lever.",
+     1.4
+    ],
+    [
+     "Et quand la lumière arrivera, elle te trouvera déjà tourné vers elle.",
+     1.6
+    ],
+    [
+     "Il ne voit pas le soleil. Il sait qu'il va *revenir*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

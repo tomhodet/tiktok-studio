@@ -1,0 +1,348 @@
+{
+ "nom": "j062",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j062_grandmere",
+   "perso": "grandmere",
+   "episode": 63,
+   "fin": "Envoie-la à l'amie dont tu reconnaîtrais le rire partout.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J'ai reconnu un rire.",
+   "legende": "Les visages changent. Les rires, jamais. Et toi, à quoi reconnaîtrais-tu ta meilleure amie dans soixante ans ? #grandmere #amitie #humour #retrouvailles #tendresse #pourtoi",
+   "phrases": [
+    [
+     "La semaine dernière, dans la salle d'attente du dentiste, j'ai reconnu un *rire*.",
+     1.3
+    ],
+    [
+     "Un rire en trois morceaux, comme un âne qui tousse. Il n'en existe qu'un comme ça au monde.",
+     1.2
+    ],
+    [
+     "Derrière un magazine, une vieille dame aux cheveux blancs riait toute seule.",
+     1.2
+    ],
+    [
+     "C'était Monique. Ma meilleure amie de quinze ans. Je ne l'avais pas revue depuis soixante ans.",
+     1.4
+    ],
+    [
+     "Elle s'était mariée à Lyon en mille neuf cent soixante-six. Les lettres s'étaient espacées. Puis plus rien.",
+     1.4
+    ],
+    [
+     "Je n'aurais jamais reconnu son visage. Ni elle le mien.",
+     1.2
+    ],
+    [
+     "Mais ce rire-là, je l'avais entendu tous les jours de mon enfance.",
+     1.6
+    ],
+    [
+     "J'ai dit tout bas : Monique ? Elle a baissé son magazine. Elle a crié mon prénom.",
+     1.8
+    ],
+    [
+     "En une seconde, on avait quinze ans. Toute la salle d'attente nous regardait.",
+     1.4
+    ],
+    [
+     "On a raté nos rendez-vous chez le dentiste. Toutes les deux.",
+     1.4
+    ],
+    [
+     "On a passé l'après-midi au café d'en face. À rattraper soixante ans.",
+     1.6
+    ],
+    [
+     "Les visages changent. Les rires, *jamais*.",
+     1.4
+    ],
+    [
+     "Alors ris fort, toute ta vie. Un jour, c'est à ça qu'on te *retrouvera*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j062_grandpere",
+   "perso": "grandpere",
+   "episode": 64,
+   "fin": "Envoie-la à l'ami qui t'a sorti du fossé.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Je l'ai trouvé dans un fossé.",
+   "legende": "Aide toujours les gens qui sont dans le fossé. Tu ne sais jamais qui est au volant. Et toi, comment as-tu rencontré ton meilleur ami ? #grandpere #amitie #ferme #entraide #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Mon meilleur ami, je l'ai trouvé dans un *fossé*. En mille neuf cent soixante-dix-huit.",
+     1.3
+    ],
+    [
+     "Une nuit de neige, une voiture avait glissé au bout de mon champ.",
+     1.2
+    ],
+    [
+     "Au volant, un monsieur en costume, avec une serviette en cuir. Le nouveau notaire du canton.",
+     1.2
+    ],
+    [
+     "Je l'ai sorti de là avec mon tracteur. Dix minutes de travail.",
+     1.2
+    ],
+    [
+     "Le lendemain, il est revenu avec une bouteille. On a joué à la belote jusqu'à minuit.",
+     1.4
+    ],
+    [
+     "Un paysan et un notaire. Pendant des années, il est venu tous les samedis.",
+     1.4
+    ],
+    [
+     "En mille neuf cent quatre-vingt-cinq, la banque a voulu saisir la ferme.",
+     1.6
+    ],
+    [
+     "Je n'en avais parlé à personne. Par fierté.",
+     1.4
+    ],
+    [
+     "Un matin, il a sonné, avec sa serviette en cuir. Ta grand-mère l'avait prévenu.",
+     1.4
+    ],
+    [
+     "Pendant trois mois, il s'est battu pour nous. Il n'a jamais accepté un centime.",
+     1.4
+    ],
+    [
+     "Cette fois, c'était moi qui étais dans le fossé. Et c'est lui qui avait le *tracteur*.",
+     1.8
+    ],
+    [
+     "Aide toujours les gens qui sont dans le fossé. Tu ne sais jamais qui est au volant.",
+     1.4
+    ],
+    [
+     "Les meilleures *amitiés* commencent souvent dans un fossé.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j062_pere",
+   "perso": "pere",
+   "episode": 63,
+   "fin": "Envoie-la à ton meilleur ami de vacances.",
+   "lueurs": [
+    1,
+    10,
+    12
+   ],
+   "accroche": "Ce miracle, c'était moi.",
+   "legende": "On croit organiser les amitiés de ses enfants. On finit par trouver la sienne. Et toi, qui était ton meilleur ami de vacances ? #papa #pere #amitie #humour #vacances #pourtoi",
+   "phrases": [
+    [
+     "Pendant six étés, tu as cru à un *miracle*. Ce miracle, c'était moi.",
+     1.3
+    ],
+    [
+     "Quand tu avais neuf ans, ton meilleur ami Hugo a déménagé à l'autre bout de la France.",
+     1.2
+    ],
+    [
+     "Tu as pleuré une semaine entière. Tu ne voulais plus manger.",
+     1.2
+    ],
+    [
+     "Alors j'ai appelé son père. Un homme que je connaissais à peine.",
+     1.2
+    ],
+    [
+     "On s'est mis d'accord. Mêmes dates, même plage, deux locations côte à côte.",
+     1.4
+    ],
+    [
+     "Le premier été, en le voyant sur le sable, tu as crié : je rêve !",
+     1.4
+    ],
+    [
+     "Chaque année, la magie recommençait. Tu n'as jamais posé de questions.",
+     1.2
+    ],
+    [
+     "Son père et moi, on organisait tout par téléphone, comme deux agents secrets.",
+     1.4
+    ],
+    [
+     "Puis vous avez grandi. Au lycée, vous vous êtes perdus de vue.",
+     1.6
+    ],
+    [
+     "Son père et moi, non. On s'appelle toutes les semaines. C'est devenu mon meilleur *ami*.",
+     1.8
+    ],
+    [
+     "Vous, vous ne vous parlez plus depuis quinze ans.",
+     1.4
+    ],
+    [
+     "On croit organiser les amitiés de ses enfants. On finit par trouver la *sienne*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j062_mere",
+   "perso": "mere",
+   "episode": 63,
+   "fin": "Envoie-la à l'amie qui a disparu sans explication.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Du jour au lendemain, plus rien.",
+   "legende": "Si une amie disparaît un jour, ce n'est pas toujours toi qu'elle fuit. Et toi, as-tu déjà perdu une amie sans comprendre pourquoi ? #maman #mere #amitie #chagrin #emotion #pourtoi",
+   "phrases": [
+    [
+     "Il y a vingt ans, ma meilleure amie a arrêté de me *répondre*. Du jour au lendemain.",
+     1.3
+    ],
+    [
+     "Agnès. Quinze ans d'amitié. On se parlait tous les jours.",
+     1.2
+    ],
+    [
+     "Un lundi, plus rien. Pas de dispute, pas d'explication. Juste le silence.",
+     1.4
+    ],
+    [
+     "J'ai appelé. J'ai écrit. Je suis allée sonner chez elle. Les volets étaient fermés.",
+     1.4
+    ],
+    [
+     "J'ai cherché pendant des mois ce que j'avais fait.",
+     1.2
+    ],
+    [
+     "On parle beaucoup des chagrins d'amour. Jamais des chagrins d'amitié. Ça m'a fait aussi mal.",
+     1.4
+    ],
+    [
+     "L'an dernier, je l'ai croisée au marché. Elle a pâli. Puis elle s'est mise à pleurer.",
+     1.6
+    ],
+    [
+     "Elle m'a dit : tu n'avais rien fait. J'avais *honte*.",
+     1.8
+    ],
+    [
+     "Cette année-là, son mari était parti avec leurs économies. Elle avait tout perdu. Même sa maison.",
+     1.4
+    ],
+    [
+     "Elle n'avait pas supporté que je la voie comme ça. Alors elle avait disparu.",
+     1.4
+    ],
+    [
+     "J'ai passé vingt ans à croire qu'elle me fuyait. Elle se cachait.",
+     1.6
+    ],
+    [
+     "Depuis, on se revoit. Doucement. Comme on recoud quelque chose.",
+     1.4
+    ],
+    [
+     "Si une amie disparaît un jour, ne cherche pas seulement ce que tu as fait.",
+     1.2
+    ],
+    [
+     "Ce n'est pas toujours toi qu'elle *fuit*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j062_fou",
+   "perso": "fou",
+   "episode": 62,
+   "fin": "Envoie-la à quelqu'un qui a payé tes couleurs.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Il a payé les couleurs de son frère.",
+   "legende": "Derrière chaque génie qu'on admire, il y a souvent quelqu'un qui a payé les couleurs. Et toi, qui a été le Théo de ta vie ? #motivation #art #vangogh #fraternite #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "Pendant dix ans, un peintre a vécu grâce à l'argent de son petit *frère*.",
+     1.3
+    ],
+    [
+     "Chaque mois, le frère envoie ce qu'il peut. Pour la toile, les couleurs, le pain.",
+     1.2
+    ],
+    [
+     "Le frère vend des tableaux à Paris. Mais ceux de son aîné, personne n'en veut.",
+     1.2
+    ],
+    [
+     "Le peintre lui écrit des centaines de lettres. Il lui raconte chaque tableau, chaque doute.",
+     1.4
+    ],
+    [
+     "On le trouve étrange. On se moque de lui. Il ne vend presque rien.",
+     1.4
+    ],
+    [
+     "Il peint quand même. Des champs de blé, des tournesols, une nuit pleine d'étoiles.",
+     1.4
+    ],
+    [
+     "Il meurt à trente-sept ans, son frère à son chevet.",
+     1.6
+    ],
+    [
+     "Six mois plus tard, le petit frère meurt à son tour.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, ils reposent côte à côte, dans un petit cimetière près de Paris.",
+     1.4
+    ],
+    [
+     "C'est la veuve du frère qui fera connaître les tableaux au monde entier.",
+     1.4
+    ],
+    [
+     "Le peintre s'appelait Vincent van Gogh. Son frère, Théo.",
+     1.6
+    ],
+    [
+     "Derrière chaque génie qu'on admire, il y a souvent quelqu'un qui a payé les couleurs.",
+     1.4
+    ],
+    [
+     "Tu n'es peut-être pas Van Gogh.",
+     1.2
+    ],
+    [
+     "Mais tu peux être le *Théo* de quelqu'un.",
+     0
+    ]
+   ]
+  }
+ ]
+}

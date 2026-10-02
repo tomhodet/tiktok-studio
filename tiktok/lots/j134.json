@@ -1,0 +1,356 @@
+{
+ "nom": "j134",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j134_grandmere",
+   "perso": "grandmere",
+   "episode": 135,
+   "fin": "Envoie-la à quelqu'un qu'on a cru bête à l'école.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J'ai pleuré devant un arbre.",
+   "legende": "Je n'étais pas bête. Je ne voyais pas le tableau. Et toi, quelle étiquette as-tu portée trop longtemps ? #grandmere #pourtoi #ecole #confiance #emotion #conseildevie",
+   "phrases": [
+    [
+     "À l'école, j'étais la dernière de la classe. Tout le monde disait que j'étais *bête*.",
+     1.6
+    ],
+    [
+     "La maîtresse me mettait au fond, près du poêle. Avec les cancres.",
+     1.2
+    ],
+    [
+     "Je recopiais le tableau de travers. Je confondais les chiffres. On riait de moi.",
+     1.4
+    ],
+    [
+     "À quatorze ans, j'ai quitté l'école. J'étais soulagée. Et honteuse.",
+     1.4
+    ],
+    [
+     "À vingt-cinq ans, ton grand-père a remarqué que je ne lisais jamais les panneaux de la route.",
+     1.2
+    ],
+    [
+     "Il m'a traînée chez l'oculiste. Une myopie énorme, depuis toujours.",
+     1.6
+    ],
+    [
+     "Le jour où j'ai mis mes premières lunettes, je suis sortie dans la rue.",
+     1.4
+    ],
+    [
+     "Et j'ai pleuré devant un arbre. Il avait des *feuilles*. Des milliers. Chacune séparée.",
+     1.8
+    ],
+    [
+     "Pendant vingt-cinq ans, j'avais cru que les arbres étaient des nuages verts.",
+     1.6
+    ],
+    [
+     "Je n'étais pas bête. Je ne voyais pas le tableau.",
+     1.4
+    ],
+    [
+     "Avant de croire ce qu'on dit de toi, vérifie que tu es bien placé pour voir.",
+     1.4
+    ],
+    [
+     "Parfois, ce n'est pas toi le problème. C'est le fond de la classe.",
+     1.4
+    ],
+    [
+     "Et le jour où tu verras enfin chaque feuille, pleure si tu veux. C'est de la *joie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j134_grandpere",
+   "perso": "grandpere",
+   "episode": 136,
+   "fin": "Envoie-la à quelqu'un à qui on a dit : impossible.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Réformé pour pieds plats. Facteur trente-cinq ans.",
+   "legende": "Ne laisse jamais un papier décider jusqu'où tes pieds peuvent aller. Et toi, qui t'a dit que tu n'irais pas loin ? #grandpere #pourtoi #humour #facteur #perseverance #motivation",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-six, l'armée m'a déclaré inapte. Pour pieds *plats*.",
+     1.4
+    ],
+    [
+     "Au conseil de révision, le médecin a regardé mes pieds. Il a soupiré.",
+     1.2
+    ],
+    [
+     "Il a dit : avec ça, mon garçon, tu ne marcheras jamais bien loin.",
+     1.4
+    ],
+    [
+     "À l'époque, être réformé, c'était une honte. Les filles ne dansaient pas avec les réformés.",
+     1.2
+    ],
+    [
+     "Au bal, les copains paradaient en uniforme. Moi, je servais à la buvette.",
+     1.4
+    ],
+    [
+     "Le seul poste libre, c'était facteur.",
+     1.2
+    ],
+    [
+     "J'ai été facteur pendant trente-cinq ans.",
+     1.4
+    ],
+    [
+     "Vingt kilomètres par jour. À pied, puis à vélo. Sous la pluie, la neige, et les chiens.",
+     1.2
+    ],
+    [
+     "Ça fait plus de deux cent mille kilomètres. Plus de cinq fois le tour de la Terre.",
+     1.6
+    ],
+    [
+     "À ma retraite, j'ai retrouvé l'adresse du médecin. Il vivait encore.",
+     1.4
+    ],
+    [
+     "Je lui ai écrit : cinq fois le tour de la Terre. Avec les pieds plats. Cordialement.",
+     1.6
+    ],
+    [
+     "Il m'a répondu une seule ligne : je me suis trompé, et j'en suis *ravi*.",
+     1.8
+    ],
+    [
+     "Ne laisse jamais un papier décider jusqu'où tes pieds peuvent aller.",
+     1.4
+    ],
+    [
+     "Les miens ne savaient pas qu'ils étaient plats. Alors ils ont *marché*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j134_pere",
+   "perso": "pere",
+   "episode": 135,
+   "fin": "Envoie-la à quelqu'un avec qui tu t'es fâché.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Une entreprise et mon meilleur ami.",
+   "legende": "Une faillite, ça se rembourse. Dix ans de silence, ça ne se rembourse pas. Et toi, tu as perdu un ami pour une histoire d'argent ? #papa #pere #pourtoi #amitie #faillite #pardon",
+   "phrases": [
+    [
+     "J'ai perdu une entreprise et mon meilleur *ami* le même jour.",
+     1.4
+    ],
+    [
+     "On s'était connus à l'école primaire. À trente ans, on a monté une petite menuiserie.",
+     1.2
+    ],
+    [
+     "Lui dessinait. Moi, je fabriquais. Pendant six ans, ça a marché.",
+     1.2
+    ],
+    [
+     "Puis un gros client n'a pas payé. Trois mois de travail, partis.",
+     1.4
+    ],
+    [
+     "On s'est rejeté la faute. Chacun avait sa version.",
+     1.4
+    ],
+    [
+     "Le jour du tribunal de commerce, on ne s'est même pas regardés.",
+     1.4
+    ],
+    [
+     "Dix ans sans un mot. Je changeais de trottoir quand je le voyais.",
+     1.4
+    ],
+    [
+     "Et puis son père est mort. Je suis allé à l'enterrement. Au fond de l'église.",
+     1.4
+    ],
+    [
+     "À la sortie, il est venu vers moi. Il m'a serré dans ses bras, longtemps.",
+     1.6
+    ],
+    [
+     "Il m'a dit : on a raté une entreprise. Ce n'était pas une raison pour rater une *amitié*.",
+     1.8
+    ],
+    [
+     "On a ri et pleuré en même temps, devant le corbillard.",
+     1.6
+    ],
+    [
+     "Une faillite, ça se rembourse. Dix ans de silence, ça ne se rembourse pas.",
+     1.4
+    ],
+    [
+     "Si tu as perdu un ami avec ton argent, ne perds pas aussi les années. Va le *chercher*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j134_mere",
+   "perso": "mere",
+   "episode": 135,
+   "fin": "Envoie-la à quelqu'un qui a choisi ses enfants.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "J'ai perdu mon travail à cause de toi.",
+   "legende": "Il y a des échecs qu'on subit. Et des échecs qu'on choisit. Et toi, qu'est-ce que tu as choisi plutôt que ta carrière ? #maman #mere #pourtoi #travail #famille #emotion",
+   "phrases": [
+    [
+     "En deux mille trois, j'ai perdu mon travail. À cause de *toi*.",
+     1.6
+    ],
+    [
+     "Tu avais trois ans, et tu attrapais tout. Les otites, les bronchites, la varicelle.",
+     1.2
+    ],
+    [
+     "La crèche appelait. Je quittais le bureau en courant. Mon chef soupirait.",
+     1.2
+    ],
+    [
+     "Un jour, il m'a convoquée. Il a dit : il va falloir choisir, madame.",
+     1.4
+    ],
+    [
+     "Le lendemain, tu avais quarante de fièvre. J'ai choisi.",
+     1.8
+    ],
+    [
+     "Un mois plus tard, j'étais licenciée. Officiellement pour une erreur de dossier.",
+     1.4
+    ],
+    [
+     "Je n'ai rien dit à ton père pendant une semaine. J'avais honte.",
+     1.2
+    ],
+    [
+     "Honte d'avoir échoué. Honte d'être la mère qui n'arrivait pas à tout faire.",
+     1.4
+    ],
+    [
+     "Il m'a fallu un an pour retrouver un travail. Moins bien payé.",
+     1.4
+    ],
+    [
+     "La semaine dernière, tu m'as dit que tu avais refusé une promotion. Pour garder tes soirées avec ta fille.",
+     1.4
+    ],
+    [
+     "Tu as ajouté : j'ai appris ça de quelqu'un.",
+     1.6
+    ],
+    [
+     "Tu ne savais même pas de qui. Moi, je savais.",
+     1.8
+    ],
+    [
+     "Il y a des échecs qu'on subit. Et des échecs qu'on *choisit*.",
+     1.4
+    ],
+    [
+     "Celui-là, je le referais sans hésiter. C'est le seul échec que je t'ai *transmis*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j134_fou",
+   "perso": "fou",
+   "episode": 134,
+   "fin": "Envoie-la à quelqu'un qui vient de tomber.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Sa vie commence par une chute.",
+   "legende": "Le plus dangereux, ce n'est pas de tomber. C'est de rester par terre. Et toi, combien de temps es-tu resté par terre la dernière fois ? #motivation #pourtoi #nature #girafe #resilience #conseildevie",
+   "phrases": [
+    [
+     "La vie d'une girafe commence par une *chute*.",
+     1.4
+    ],
+    [
+     "Sa mère accouche debout. Le petit tombe de plus d'un mètre et demi, sur la terre dure.",
+     1.4
+    ],
+    [
+     "Personne ne le rattrape.",
+     1.4
+    ],
+    [
+     "Il est mouillé, sonné. Ses pattes sont immenses, et elles ne savent encore rien faire.",
+     1.2
+    ],
+    [
+     "Il essaie de se lever. Il retombe. Il essaie encore.",
+     1.2
+    ],
+    [
+     "Les genoux tremblent. Le cou part de travers. Il retombe encore.",
+     1.4
+    ],
+    [
+     "Pourquoi tant d'efforts, si vite, alors qu'il vient de naître ?",
+     1.4
+    ],
+    [
+     "Parce que dans la savane, les lions et les hyènes rôdent. Et un petit couché est une proie.",
+     1.6
+    ],
+    [
+     "En général, moins d'une heure après sa naissance, il tient *debout*.",
+     1.8
+    ],
+    [
+     "Sa première leçon n'est pas de ne pas tomber. C'est de se relever.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu es tombé. Un échec, un renvoi, une honte devant tout le monde.",
+     1.2
+    ],
+    [
+     "Et tu te demandes peut-être combien de temps tu as le droit de rester par terre.",
+     1.4
+    ],
+    [
+     "Prends le temps de reprendre ton souffle. Puis lève-toi, même en tremblant.",
+     1.4
+    ],
+    [
+     "Le plus dangereux, ce n'est pas de tomber. C'est de rester par *terre*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

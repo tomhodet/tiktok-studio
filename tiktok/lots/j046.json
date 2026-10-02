@@ -1,0 +1,364 @@
+{
+ "nom": "j046",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j046_grandmere",
+   "perso": "grandmere",
+   "episode": 47,
+   "fin": "Envoie-la à quelqu'un qui n'arrive pas à ranger un manteau.",
+   "lueurs": [
+    1,
+    6,
+    14
+   ],
+   "accroche": "Je croise son manteau dans la rue.",
+   "legende": "Ce qu'on garde par chagrin prend la poussière. Ce qu'on donne continue de vivre. Et toi, oserais-tu donner le manteau de quelqu'un que tu as aimé ? #grandmere #deuil #amour #partage #emotion #pourtoi",
+   "phrases": [
+    [
+     "Tous les jours, je croise le *manteau* de ton grand-père dans la rue. Avec un autre homme dedans.",
+     1.4
+    ],
+    [
+     "Après sa mort, son manteau est resté trois ans dans l'entrée.",
+     1.2
+    ],
+    [
+     "Je n'arrivais pas à le toucher. Il avait encore son odeur. Tabac et sciure.",
+     1.4
+    ],
+    [
+     "Un matin de décembre, devant la boulangerie, un homme grelottait. Sans manteau.",
+     1.4
+    ],
+    [
+     "Je suis rentrée. J'ai décroché le manteau. Mes mains tremblaient.",
+     1.6
+    ],
+    [
+     "Je le lui ai *donné* sans un mot. Il était exactement à sa taille.",
+     1.8
+    ],
+    [
+     "Les premières semaines, j'ai eu mal à chaque fois que je le croisais.",
+     1.4
+    ],
+    [
+     "Je reconnaissais le col relevé. La poche déchirée.",
+     1.4
+    ],
+    [
+     "Puis un jour, l'homme m'a dit bonjour. Il s'appelle Marcel. Il a soixante ans.",
+     1.2
+    ],
+    [
+     "Maintenant, on prend un café le jeudi. Il me raconte où le manteau est allé.",
+     1.2
+    ],
+    [
+     "Au marché, à la gare, au bord de la mer.",
+     1.4
+    ],
+    [
+     "Ton grand-père n'aimait pas rester enfermé. Il a toujours aimé marcher.",
+     1.4
+    ],
+    [
+     "Ce qu'on garde par chagrin prend la poussière. Ce qu'on donne continue de vivre.",
+     1.4
+    ],
+    [
+     "Ton grand-père se *promène* encore. Il a juste changé de jambes.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j046_grandpere",
+   "perso": "grandpere",
+   "episode": 48,
+   "fin": "Envoie-la à quelqu'un qui te pique toute la place.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Deux ans dans un lit d'une personne.",
+   "legende": "Ce n'est pas la taille du lit qui fait un couple. C'est la distance qu'on laisse dedans. Et toi, tu dors plutôt collé ou chacun de son côté ? #grandpere #amour #couple #humour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Pendant deux ans, ta grand-mère et moi, on a dormi dans un lit d'une *personne*.",
+     1.3
+    ],
+    [
+     "Quatre-vingts centimètres. Mon lit de garçon, chez mes parents.",
+     1.2
+    ],
+    [
+     "On s'était mariés sans un sou. Ma mère nous avait laissé ma chambre.",
+     1.2
+    ],
+    [
+     "Le mur était si fin qu'on entendait mon père ronfler. Et lui nous entendait rire.",
+     1.4
+    ],
+    [
+     "Pour se retourner, il fallait prévenir. On disait : un, deux, trois. Et on tournait ensemble.",
+     1.4
+    ],
+    [
+     "L'hiver, on n'avait jamais froid. L'été, c'était une autre histoire.",
+     1.4
+    ],
+    [
+     "En mille neuf cent soixante-dix, on a enfin eu notre maison. J'ai acheté le plus grand lit du magasin.",
+     1.2
+    ],
+    [
+     "Un mètre soixante. On s'est couchés chacun de son côté. Comme des rois.",
+     1.6
+    ],
+    [
+     "Au milieu de la nuit, je me suis réveillé. J'avais froid.",
+     1.6
+    ],
+    [
+     "Ta grand-mère était déjà *là*, collée contre moi. Sur mes quatre-vingts centimètres.",
+     1.8
+    ],
+    [
+     "Depuis cinquante ans, on dort sur la moitié du grand lit. L'autre moitié, c'est pour le chat.",
+     1.4
+    ],
+    [
+     "Ce n'est pas la taille du lit qui fait un couple. C'est la distance qu'on laisse dedans.",
+     1.4
+    ],
+    [
+     "Cinquante ans dans un grand lit. Et on n'a jamais quitté nos quatre-vingts *centimètres*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j046_pere",
+   "perso": "pere",
+   "episode": 47,
+   "fin": "Envoie-la à quelqu'un qui conduit en regardant ailleurs.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Au lieu de regarder la route.",
+   "legende": "Parfois, la vie te rentre dedans. Avant de te fâcher, regarde bien qui sort de l'autre voiture. Et toi, ta plus belle rencontre a commencé par quel accident ? #papa #pere #rencontre #amour #humour #pourtoi",
+   "phrases": [
+    [
+     "Le premier papier que ta mère et moi avons signé ensemble, c'est un constat d'*accident*.",
+     1.3
+    ],
+    [
+     "Un matin de novembre, à un feu rouge, je lui suis rentré dedans. Pas très fort.",
+     1.2
+    ],
+    [
+     "Elle est sortie de sa voiture en claquant la portière. Moi, je n'arrivais plus à parler.",
+     1.4
+    ],
+    [
+     "Elle était furieuse. Et c'était la plus belle femme que j'aie jamais vue.",
+     1.4
+    ],
+    [
+     "On a sorti le constat. On l'a rempli sur le capot, sous la pluie.",
+     1.2
+    ],
+    [
+     "Elle a coché les cases. Elle a dessiné les voitures. Elle a tout fait.",
+     1.2
+    ],
+    [
+     "Moi, je la regardais faire.",
+     1.4
+    ],
+    [
+     "Le soir, en relisant ma copie, j'ai vu ce qu'elle avait écrit dans la case des observations.",
+     1.6
+    ],
+    [
+     "Conducteur B regardait la conductrice A au lieu de regarder la *route*.",
+     1.8
+    ],
+    [
+     "Et en dessous, souligné deux fois, son numéro de téléphone.",
+     1.6
+    ],
+    [
+     "Mon assurance n'a jamais compris pourquoi j'étais aussi content d'avoir tort.",
+     1.4
+    ],
+    [
+     "Ce constat est dans notre tiroir. Avec nos papiers de mariage et ton acte de naissance.",
+     1.4
+    ],
+    [
+     "Dans la vie, tu auras des accrochages. Des pépins, des chocs.",
+     1.2
+    ],
+    [
+     "Avant de te fâcher, regarde bien qui sort de l'autre *voiture*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j046_mere",
+   "perso": "mere",
+   "episode": 47,
+   "fin": "Envoie-la à quelqu'un qui doit sonner à sa propre porte.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Bonsoir, je m'appelle Philippe. Et vous ?",
+   "legende": "Un couple, ça ne se garde pas. Ça se rencontre encore. Et toi, quand as-tu demandé à quelqu'un de quoi il rêvait ? #maman #mere #couple #amour #tendresse #pourtoi",
+   "phrases": [
+    [
+     "Le soir de ton départ, ton père et moi, on n'avait plus rien à se *dire*.",
+     1.3
+    ],
+    [
+     "On a mis la table pour deux. Pour la première fois en vingt ans.",
+     1.2
+    ],
+    [
+     "On a parlé de toi, de ton nouvel appartement.",
+     1.2
+    ],
+    [
+     "Puis plus rien. On entendait les fourchettes.",
+     1.6
+    ],
+    [
+     "J'ai eu peur. Peur qu'il ne reste plus rien, entre lui et moi.",
+     1.4
+    ],
+    [
+     "On avait été tes parents vingt ans. On avait oublié d'être nous.",
+     1.4
+    ],
+    [
+     "Le lendemain soir, ton père a sonné à la porte. Sa propre porte.",
+     1.4
+    ],
+    [
+     "Veste du dimanche, fleurs du jardin à la main.",
+     1.4
+    ],
+    [
+     "Il m'a tendu la main. Il a dit : bonsoir, je m'appelle *Philippe*. Et vous ?",
+     1.8
+    ],
+    [
+     "J'ai failli rire. Et puis j'ai joué le jeu.",
+     1.4
+    ],
+    [
+     "On a dîné comme deux inconnus. Il m'a demandé de quoi je rêvais.",
+     1.4
+    ],
+    [
+     "Je ne savais plus. Personne ne me l'avait demandé depuis longtemps.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai dîné avec un homme charmant. Je le revois tous les jours depuis.",
+     1.4
+    ],
+    [
+     "Un couple, ça ne se garde pas. Ça se *rencontre* encore.",
+     1.4
+    ],
+    [
+     "Un jour, quand ta maison se videra, sonne à ta propre porte.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j046_fou",
+   "perso": "fou",
+   "episode": 46,
+   "fin": "Envoie-la à quelqu'un qui manque de patience.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Chaque matin, les chimpanzés s'enfuyaient.",
+   "legende": "La patience ouvre des portes que la force ne trouve pas. Et toi, qu'est-ce qui fuit quand tu lui cours après ? #motivation #science #nature #patience #femmes #pourtoi",
+   "phrases": [
+    [
+     "Pendant des mois, une jeune femme a essayé d'approcher des chimpanzés. Ils s'*enfuyaient* tous.",
+     1.3
+    ],
+    [
+     "Elle a vingt-six ans, pas de diplôme. Elle a été serveuse pour se payer le voyage.",
+     1.2
+    ],
+    [
+     "Un grand savant l'envoie dans une forêt d'Afrique de l'Est, au bord d'un lac.",
+     1.2
+    ],
+    [
+     "Elle n'a pas le droit d'y vivre seule. Sa mère vient avec elle.",
+     1.4
+    ],
+    [
+     "Chaque matin, elle grimpe sur un sommet avec ses jumelles. Chaque matin, ils disparaissent.",
+     1.4
+    ],
+    [
+     "Elle ne les poursuit pas. Elle s'assoit, elle attend, elle revient.",
+     1.6
+    ],
+    [
+     "Un jour, un vieux mâle au menton gris ne s'enfuit plus.",
+     1.6
+    ],
+    [
+     "Et elle le voit faire une chose que personne n'a jamais vue.",
+     1.4
+    ],
+    [
+     "Il effeuille une tige et la plonge dans une termitière, pour pêcher des termites.",
+     1.6
+    ],
+    [
+     "Il fabrique un *outil*. À l'époque, on pense que seul l'homme en est capable.",
+     1.8
+    ],
+    [
+     "Son patron télégraphie : il faut redéfinir l'outil, redéfinir l'homme, ou accepter les chimpanzés comme humains.",
+     1.6
+    ],
+    [
+     "Cette jeune femme sans diplôme s'appelle Jane Goodall.",
+     1.6
+    ],
+    [
+     "Toi aussi, certaines choses fuient quand tu leur cours après.",
+     1.2
+    ],
+    [
+     "Assieds-toi. Reviens demain. La *patience* ouvre des portes que la force ne trouve pas.",
+     0
+    ]
+   ]
+  }
+ ]
+}

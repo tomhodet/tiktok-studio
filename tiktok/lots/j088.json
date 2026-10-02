@@ -1,0 +1,352 @@
+{
+ "nom": "j088",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j088_grandmere",
+   "perso": "grandmere",
+   "episode": 89,
+   "fin": "Envoie-la à quelqu'un qui a une grand-mère amoureuse.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai un amoureux. Ta mère ne sait pas.",
+   "legende": "L'amour n'a pas d'âge. Mais il a de l'humour. Et toi, tu couvrirais ta grand-mère si elle avait un amoureux ? #grandmere #amour #humour #vieillesse #famille #pourtoi",
+   "phrases": [
+    [
+     "À soixante-dix-neuf ans, j'ai un *amoureux*. Ta mère n'est pas au courant.",
+     1.3
+    ],
+    [
+     "Alors j'ai besoin de toi. Si elle appelle samedi soir, dis-lui que je dors.",
+     1.2
+    ],
+    [
+     "On s'est vus pour la première fois à ton baptême. Il y a vingt-cinq ans.",
+     1.2
+    ],
+    [
+     "Il m'avait marché sur le pied pendant la photo. Je l'avais trouvé lourdaud.",
+     1.2
+    ],
+    [
+     "On était mariés chacun de notre côté. On se disait bonjour, poliment. Rien de plus.",
+     1.4
+    ],
+    [
+     "Et puis on s'est retrouvés veufs, la même année.",
+     1.6
+    ],
+    [
+     "À tes vingt-cinq ans, il m'a invitée à danser. Il m'a encore marché sur le pied.",
+     1.4
+    ],
+    [
+     "Depuis, on se voit tous les samedis. Il m'emmène au cinéma. Il s'endort à chaque fois.",
+     1.4
+    ],
+    [
+     "Tu as compris de qui je parle ? C'est ton *autre* grand-père.",
+     1.8
+    ],
+    [
+     "Le père de ton père. Ne fais pas cette tête.",
+     1.4
+    ],
+    [
+     "À notre âge, on n'a plus le temps d'attendre la permission des enfants.",
+     1.4
+    ],
+    [
+     "L'amour n'a pas d'âge. Mais il a de l'humour.",
+     1.4
+    ],
+    [
+     "Si ça marche, tu auras des grands-parents mariés ensemble. Bon courage pour l'arbre *généalogique*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j088_grandpere",
+   "perso": "grandpere",
+   "episode": 90,
+   "fin": "Envoie-la à quelqu'un qui a grandi dans une maison inoubliable.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai loué la maison où je suis né.",
+   "legende": "On peut louer une maison. On ne peut pas louer une enfance. Et toi, tu aimerais revoir la maison de ton enfance ? #grandpere #enfance #souvenir #maison #emotion #pourtoi",
+   "phrases": [
+    [
+     "À quatre-vingts ans, j'ai payé pour dormir dans la maison où je suis *né*.",
+     1.3
+    ],
+    [
+     "Elle appartient à un jeune couple. Ils la louent aux touristes, l'été.",
+     1.2
+    ],
+    [
+     "Ta grand-mère m'a dit que j'étais ridicule. Elle est venue quand même.",
+     1.2
+    ],
+    [
+     "Ils ont tout refait. Cuisine blanche, lampes partout, tableaux bizarres.",
+     1.2
+    ],
+    [
+     "La chambre où je suis né s'appelle maintenant la suite du verger.",
+     1.4
+    ],
+    [
+     "Je n'ai pas dormi de la nuit. Je suis descendu dans la cuisine, à trois heures.",
+     1.4
+    ],
+    [
+     "J'ai cherché la place du poêle. La place de la table. La chaise de ma mère.",
+     1.4
+    ],
+    [
+     "Et sur la grosse poutre, sous la peinture blanche, j'ai senti des entailles avec mes doigts.",
+     1.6
+    ],
+    [
+     "Mes initiales. Gravées au couteau en mille neuf cent cinquante-six. La raclée que j'avais prise.",
+     1.4
+    ],
+    [
+     "Elles étaient toujours là. Sous trois couches de peinture.",
+     1.8
+    ],
+    [
+     "Au matin, j'ai laissé un mot aux propriétaires. Ne repeignez jamais cette poutre. Merci.",
+     1.4
+    ],
+    [
+     "On peut louer une maison. On ne peut pas louer une *enfance*.",
+     1.4
+    ],
+    [
+     "Mais on laisse toujours quelque part une trace que personne ne peut recouvrir.",
+     1.4
+    ],
+    [
+     "Grave la tienne. Pas sur les poutres. Dans les *gens*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j088_pere",
+   "perso": "pere",
+   "episode": 89,
+   "fin": "Envoie-la à quelqu'un qui cache son chagrin.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Un ticket de cinéma dans sa veste.",
+   "legende": "Les gens qui ne pleurent pas devant toi pleurent ailleurs. Dans une salle noire, par exemple. Et toi, qui t'a caché son chagrin ? #papa #pere #deuil #amour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans la poche de la veste de mon père, il y avait un *ticket* de cinéma.",
+     1.3
+    ],
+    [
+     "Je l'ai trouvé un mois après son enterrement. J'avais pris sa veste pour la donner.",
+     1.2
+    ],
+    [
+     "Un film d'amour. Une séance de quatorze heures. Le douze mai.",
+     1.2
+    ],
+    [
+     "Mon père détestait le cinéma. Il s'endormait au bout de dix minutes.",
+     1.4
+    ],
+    [
+     "Le douze mai, c'était la date de leur mariage, avec ma mère.",
+     1.6
+    ],
+    [
+     "Ma mère était partie six ans avant lui.",
+     1.4
+    ],
+    [
+     "Je suis allé au cinéma de son quartier. J'ai montré sa photo à la caissière.",
+     1.2
+    ],
+    [
+     "Elle a souri. Elle a dit : le monsieur du douze mai. Il venait chaque année. Toujours seul.",
+     1.6
+    ],
+    [
+     "Il achetait deux places. Il posait son *chapeau* sur le siège d'à côté.",
+     1.8
+    ],
+    [
+     "Six ans. Et il ne m'en a jamais parlé.",
+     1.4
+    ],
+    [
+     "Je le trouvais dur. Je croyais qu'il avait tourné la page trop vite.",
+     1.4
+    ],
+    [
+     "Les gens qui ne pleurent pas devant toi pleurent ailleurs. Dans une salle noire, par exemple.",
+     1.4
+    ],
+    [
+     "Le douze mai prochain, j'irai au cinéma. Et cette fois, la deuxième place, ce sera *toi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j088_mere",
+   "perso": "mere",
+   "episode": 89,
+   "fin": "Envoie-la à quelqu'un qui mérite un compliment aujourd'hui.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Désormais, elle dirait tout ce qu'elle pense.",
+   "legende": "On garde la vérité pour soi, par politesse. Les reproches, et les compliments avec. Et toi, quel compliment tu n'as jamais osé faire ? #maman #mere #grandmere #humour #famille #pourtoi",
+   "phrases": [
+    [
+     "Pour ses quatre-vingts ans, ta grand-mère a annoncé qu'elle dirait désormais tout ce qu'elle *pense*.",
+     1.3
+    ],
+    [
+     "Toute la famille a ri. On avait tort.",
+     1.2
+    ],
+    [
+     "Le jour même, elle a dit à ton oncle que sa moustache le vieillissait de dix ans.",
+     1.2
+    ],
+    [
+     "Elle a dit au curé que ses sermons étaient trop longs. Au voisin, que sa haie était moche.",
+     1.4
+    ],
+    [
+     "Elle a dit à ton père qu'il conduisait comme un pied.",
+     1.2
+    ],
+    [
+     "Pendant un mois, plus personne n'osait venir déjeuner.",
+     1.4
+    ],
+    [
+     "Et puis un dimanche, elle m'a prise à part, dans la cuisine.",
+     1.4
+    ],
+    [
+     "J'ai serré les dents. J'attendais une remarque sur mon gratin.",
+     1.4
+    ],
+    [
+     "Elle a dit : tu as été une *meilleure* mère que moi. Je voulais que tu le saches.",
+     1.8
+    ],
+    [
+     "Je suis restée plantée là, avec mon plat dans les mains.",
+     1.4
+    ],
+    [
+     "Elle avait attendu quatre-vingts ans pour me dire ça. Elle a eu juste le temps.",
+     1.6
+    ],
+    [
+     "On garde la vérité pour soi, par politesse. Les reproches, et les compliments avec.",
+     1.4
+    ],
+    [
+     "Toi, n'attends pas d'avoir quatre-vingts ans. Dis ce que tu penses. Surtout le *beau*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j088_fou",
+   "perso": "fou",
+   "episode": 88,
+   "fin": "Envoie-la à quelqu'un qui aime sans rien retenir.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il lui demande de se remarier.",
+   "legende": "Il allait mourir. Et il pensait au bonheur de celle qui resterait. Et toi, tu saurais aimer quelqu'un au point de le laisser partir ? #motivation #histoire #manouchian #resistance #amour #pourtoi",
+   "phrases": [
+    [
+     "Quelques heures avant d'être fusillé, un homme écrit à sa femme. Il lui demande de se *remarier*.",
+     1.3
+    ],
+    [
+     "Le vingt et un février mille neuf cent quarante-quatre. Il s'appelle Missak Manouchian.",
+     1.2
+    ],
+    [
+     "Orphelin du génocide arménien, ouvrier, poète. Il a choisi la France.",
+     1.2
+    ],
+    [
+     "Pendant l'Occupation, il dirige des résistants étrangers. Des immigrés, comme lui.",
+     1.2
+    ],
+    [
+     "Arrêtés, ils sont condamnés à mort. Les nazis collent leurs visages sur une affiche rouge.",
+     1.4
+    ],
+    [
+     "L'affiche les appelle l'armée du crime.",
+     1.4
+    ],
+    [
+     "Dans sa dernière lettre, il écrit qu'il n'a aucune haine contre le peuple allemand.",
+     1.4
+    ],
+    [
+     "Il écrit qu'il meurt à deux doigts de la victoire.",
+     1.6
+    ],
+    [
+     "Et il demande à Mélinée de se marier après la guerre. D'avoir un enfant. D'être *heureuse*.",
+     1.8
+    ],
+    [
+     "Quatre-vingts ans plus tard, jour pour jour, il entre au Panthéon. Avec Mélinée.",
+     1.6
+    ],
+    [
+     "Ceux qu'on affichait comme des criminels sont devenus des héros de la France.",
+     1.4
+    ],
+    [
+     "Il allait mourir. Et il pensait au bonheur de celle qui resterait.",
+     1.4
+    ],
+    [
+     "Toi aussi, un jour, tu devras laisser partir quelqu'un. Ou partir toi-même.",
+     1.2
+    ],
+    [
+     "Souviens-toi de cette lettre. Aimer, c'est souhaiter le bonheur de l'autre. Même sans *toi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

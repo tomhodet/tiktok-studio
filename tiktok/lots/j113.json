@@ -1,0 +1,356 @@
+{
+ "nom": "j113",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j113_grandmere",
+   "perso": "grandmere",
+   "episode": 114,
+   "fin": "Envoie-la à quelqu'un qui n'ose plus appeler.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Tu ne savais pas pour qui.",
+   "legende": "Douze ans de silence. Et il suffisait d'appuyer sur un nom. Et toi, quel nom n'oses-tu plus appeler ? #grandmere #famille #pardon #emotion #reconciliation #pourtoi",
+   "phrases": [
+    [
+     "C'est toi qui m'as appris à faire des appels *vidéo*. Tu ne savais pas pour qui.",
+     1.3
+    ],
+    [
+     "Tu croyais que c'était pour voir tes cousins. Tu étais si patient avec mes gros doigts.",
+     1.2
+    ],
+    [
+     "Ta tante Hélène vit en Australie. On ne s'était pas parlé depuis douze ans.",
+     1.4
+    ],
+    [
+     "Une dispute stupide, des mots impardonnables. Et puis l'habitude du silence.",
+     1.4
+    ],
+    [
+     "Le soir où tu es reparti, je suis restée devant la tablette jusqu'à minuit.",
+     1.2
+    ],
+    [
+     "Là-bas, c'était le matin. J'ai appuyé sur son nom. J'ai failli raccrocher trois fois.",
+     1.4
+    ],
+    [
+     "Elle a décroché. On s'est vues. Et l'image s'est figée.",
+     1.6
+    ],
+    [
+     "Pendant une minute, on est restées là, immobiles. Elle avec la bouche ouverte. Moi avec mes lunettes de travers.",
+     1.6
+    ],
+    [
+     "Puis le son est revenu. Elle a dit : maman. Juste ça.",
+     1.8
+    ],
+    [
+     "On a parlé trois heures. Ma tablette était brûlante.",
+     1.4
+    ],
+    [
+     "Maintenant, on s'appelle tous les dimanches. Moi au petit déjeuner, elle au dîner.",
+     1.4
+    ],
+    [
+     "Tu croyais m'apprendre à utiliser une tablette. Tu m'as rendu ma *fille*.",
+     1.4
+    ],
+    [
+     "Douze ans de silence. Et il suffisait d'appuyer sur un *nom*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j113_grandpere",
+   "perso": "grandpere",
+   "episode": 115,
+   "fin": "Envoie-la à quelqu'un qui porte un vieux regret depuis trop longtemps.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il a dit : quel avion ?",
+   "legende": "Les enfants retiennent rarement le mal. Ils retiennent qu'on est revenu. Et toi, de quel moment avec ton père te souviens-tu le mieux ? #grandpere #pere #pardon #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand ton père avait dix ans, j'ai cassé sa *maquette* d'avion. Exprès.",
+     1.3
+    ],
+    [
+     "Il avait mis tout l'hiver à la construire. Le soir, à la table de la cuisine.",
+     1.2
+    ],
+    [
+     "Un soir, je suis rentré de l'usine épuisé et furieux.",
+     1.2
+    ],
+    [
+     "Il y avait de la colle partout sur la table. J'ai explosé.",
+     1.4
+    ],
+    [
+     "J'ai pris l'avion. Je l'ai jeté par terre. Une aile s'est cassée.",
+     1.6
+    ],
+    [
+     "Il n'a pas pleuré. Il m'a juste regardé. C'était pire.",
+     1.4
+    ],
+    [
+     "Pendant quarante ans, j'ai porté ce soir-là. Comme une pierre dans la poche.",
+     1.4
+    ],
+    [
+     "Pour ses cinquante ans, je lui ai enfin demandé pardon. Pour l'avion.",
+     1.4
+    ],
+    [
+     "Il m'a regardé sans comprendre. Il a dit : quel avion ?",
+     1.6
+    ],
+    [
+     "Il ne s'en souvenait pas.",
+     1.4
+    ],
+    [
+     "Le lendemain, je l'avais aidé à recoller l'aile. On avait passé la soirée tous les deux.",
+     1.6
+    ],
+    [
+     "Il m'a dit : c'est mon plus beau *souvenir* avec toi, papa. Le soir où on a réparé l'avion.",
+     1.8
+    ],
+    [
+     "J'avais oublié la réparation. Il avait oublié la casse.",
+     1.4
+    ],
+    [
+     "Les enfants retiennent rarement le mal. Ils retiennent qu'on est revenu.",
+     1.2
+    ],
+    [
+     "Alors si tu as cassé quelque chose, ne perds pas quarante ans. Va *recoller*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j113_pere",
+   "perso": "pere",
+   "episode": 114,
+   "fin": "Envoie-la à quelqu'un qui vit avec sa belle-mère.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Ils jouent comme des pieds.",
+   "legende": "Les gens qu'on n'a pas choisis deviennent parfois ceux qu'on aurait choisis. Et toi, qui as-tu appris à aimer sans l'avoir choisi ? #papa #pere #bellemere #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "Quand ta grand-mère s'est installée chez nous, j'ai dormi trois nuits dans la *voiture*.",
+     1.3
+    ],
+    [
+     "Elle venait de perdre ton grand-père. Elle ne pouvait plus vivre seule.",
+     1.2
+    ],
+    [
+     "Elle critiquait tout. Mes chemises, ma cuisine, ma façon de me garer.",
+     1.4
+    ],
+    [
+     "Ta mère m'avait dit : trois mois. Elle est restée *onze* ans.",
+     1.4
+    ],
+    [
+     "Au début, on se croisait dans le couloir comme deux chats.",
+     1.2
+    ],
+    [
+     "Un soir, ta mère était de garde. Il y avait un match à la télévision.",
+     1.4
+    ],
+    [
+     "Ta grand-mère s'est assise à côté de moi. Elle a dit : ils jouent comme des pieds.",
+     1.6
+    ],
+    [
+     "Elle connaissait tous les joueurs. Ton grand-père l'emmenait au stade, avant.",
+     1.4
+    ],
+    [
+     "Pendant onze ans, on a regardé tous les matchs ensemble. Une bière pour moi, une tisane pour elle.",
+     1.4
+    ],
+    [
+     "On criait sur l'arbitre. On était d'accord sur tout. Sauf sur mes chemises.",
+     1.4
+    ],
+    [
+     "Quand elle est partie, j'ai regardé le match suivant tout seul. Je n'ai pas tenu dix minutes.",
+     1.8
+    ],
+    [
+     "Les gens qu'on n'a pas choisis deviennent parfois ceux qu'on aurait choisis.",
+     1.2
+    ],
+    [
+     "Il suffit d'un *match*. Et de quelqu'un qui crie sur l'arbitre à côté de toi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j113_mere",
+   "perso": "mere",
+   "episode": 114,
+   "fin": "Envoie-la à quelqu'un qui boude sans savoir pourquoi.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Coincées dans le même ascenseur.",
+   "legende": "Une brouille dure toujours plus longtemps que sa raison. Et toi, tu te souviens vraiment pourquoi tu en veux à quelqu'un ? #maman #mere #soeurs #famille #humour #pourtoi",
+   "phrases": [
+    [
+     "Ma sœur et moi, on ne s'est pas parlé pendant sept ans. On ne sait plus *pourquoi*.",
+     1.3
+    ],
+    [
+     "On sait que c'était à un baptême. Qu'il y avait du mousseux. Et une phrase de travers.",
+     1.2
+    ],
+    [
+     "Pendant sept ans, j'ai raconté à tout le monde que c'était sa faute.",
+     1.4
+    ],
+    [
+     "Elle racontait la même chose. Sur moi. Avec la même conviction.",
+     1.2
+    ],
+    [
+     "Aux anniversaires, on calculait nos heures d'arrivée pour ne pas se croiser.",
+     1.4
+    ],
+    [
+     "L'an dernier, on s'est retrouvées dans le même ascenseur. À la mairie, pour le mariage de ma nièce.",
+     1.4
+    ],
+    [
+     "L'ascenseur est tombé en panne. Entre le deuxième et le troisième étage.",
+     1.6
+    ],
+    [
+     "Quarante minutes. Toutes les deux. Sans téléphone.",
+     1.4
+    ],
+    [
+     "Au bout de dix minutes, elle a dit : au fait, c'était quoi, déjà, le *problème* ?",
+     1.8
+    ],
+    [
+     "J'ai cherché. Elle a cherché. Personne ne s'en souvenait.",
+     1.4
+    ],
+    [
+     "On a passé la demi-heure suivante à chercher notre dispute. Sans succès.",
+     1.4
+    ],
+    [
+     "Quand les pompiers ont ouvert, on pleurait de rire. Ils ont cru à une crise de nerfs.",
+     1.4
+    ],
+    [
+     "Une brouille dure toujours plus longtemps que sa raison.",
+     1.2
+    ],
+    [
+     "Si tu ne sais plus pourquoi tu en veux à quelqu'un, alors c'est *fini*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j113_fou",
+   "perso": "fou",
+   "episode": 113,
+   "fin": "Envoie-la à quelqu'un qui écoute trop les autres.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Deux hommes qui portent un âne.",
+   "legende": "Quoi que tu fasses, quelqu'un trouvera à redire. Fais ce que tu crois juste. Et toi, quelle remarque t'a déjà fait changer de route ? #motivation #fable #lafontaine #confiance #humour #pourtoi",
+   "phrases": [
+    [
+     "Dans une vieille fable, un meunier et son fils emmènent leur âne à la *foire*.",
+     1.3
+    ],
+    [
+     "Ils marchent à côté de lui. Des passants ricanent : ils ont un âne et ils marchent !",
+     1.2
+    ],
+    [
+     "Alors le père fait monter son fils sur l'âne.",
+     1.2
+    ],
+    [
+     "Plus loin, des vieillards s'indignent : ce jeune paresseux laisse marcher son vieux père !",
+     1.4
+    ],
+    [
+     "Le père prend sa place. Des femmes crient : pauvre petit, il le fait marcher !",
+     1.4
+    ],
+    [
+     "Alors ils montent tous les deux. On leur hurle : vous allez tuer cette pauvre bête !",
+     1.4
+    ],
+    [
+     "À bout, ils attachent les pattes de l'âne à une perche. Et ils le portent sur leurs épaules.",
+     1.6
+    ],
+    [
+     "Tout le village éclate de rire. Deux hommes qui portent un âne, on n'avait jamais vu ça.",
+     1.4
+    ],
+    [
+     "Le meunier s'arrête. Il a tout essayé. Personne n'a jamais été content.",
+     1.6
+    ],
+    [
+     "Alors il décide de n'écouter plus que *lui-même*.",
+     1.8
+    ],
+    [
+     "Toi aussi, quoi que tu fasses, quelqu'un trouvera à redire.",
+     1.4
+    ],
+    [
+     "Si tu changes de route à chaque remarque, tu finiras par porter ton âne sur le dos.",
+     1.2
+    ],
+    [
+     "Fais ce que tu crois juste. Les passants, eux, *passent*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

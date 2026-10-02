@@ -1,0 +1,364 @@
+{
+ "nom": "j078",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j078_grandmere",
+   "perso": "grandmere",
+   "episode": 79,
+   "fin": "Envoie-la à quelqu'un qui appelle sa grand-mère le dimanche.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'ai peur de rater la suite.",
+   "legende": "Je n'ai pas peur de mourir. J'ai juste peur de rater la suite. Et toi, quel épisode de ta vie tu vas raconter à ta grand-mère ce dimanche ? #grandmere #vieillesse #tendresse #humour #famille #pourtoi",
+   "phrases": [
+    [
+     "Je n'ai pas peur de mourir. J'ai juste peur de rater la fin de mon *feuilleton*.",
+     1.3
+    ],
+    [
+     "Celui de dix-huit heures. Je le regarde depuis vingt ans. Des milliers d'épisodes.",
+     1.2
+    ],
+    [
+     "Ta mère trouve ça ridicule. Elle dit : maman, à ton âge, on pense à des choses sérieuses.",
+     1.2
+    ],
+    [
+     "Moi, je refuse de partir avant de savoir si la boulangère épouse le notaire.",
+     1.4
+    ],
+    [
+     "L'autre jour, tu m'as demandé, très sérieux, si j'avais peur de la mort.",
+     1.2
+    ],
+    [
+     "Je t'ai parlé de la boulangère et du notaire. Tu as ri. Moi aussi.",
+     1.4
+    ],
+    [
+     "Maintenant, je vais te dire la vérité.",
+     1.6
+    ],
+    [
+     "Mon vrai feuilleton, ce n'est pas celui de la télévision. C'est *toi*.",
+     1.8
+    ],
+    [
+     "Ton premier amour, ton permis raté trois fois, ton premier appartement sans chauffage.",
+     1.2
+    ],
+    [
+     "Je suis chaque épisode. Le dimanche, au téléphone, je guette la suite.",
+     1.4
+    ],
+    [
+     "Tu crois que je pose trop de questions. Je ne veux rien rater.",
+     1.4
+    ],
+    [
+     "Alors raconte-moi tout. Même les épisodes ratés. Surtout ceux-là.",
+     1.2
+    ],
+    [
+     "Je n'ai pas peur de mourir, tu sais.",
+     1.0
+    ],
+    [
+     "J'ai juste peur de rater la *suite*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j078_grandpere",
+   "perso": "grandpere",
+   "episode": 80,
+   "fin": "Envoie-la à quelqu'un qui garde un mot sur son frigo.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Achète du beurre.",
+   "legende": "Tant que je n'achetais pas le beurre, sa liste n'était pas finie. Et toi, quel objet d'un proche tu n'as jamais osé ranger ? #grandpere #grandmere #deuil #amour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Sur mon frigo, il y a un mot de ta grand-mère. Il dit : achète du *beurre*.",
+     1.3
+    ],
+    [
+     "C'est le dernier qu'elle m'a laissé. Elle est partie le lendemain.",
+     1.6
+    ],
+    [
+     "Pendant cinquante ans, elle m'a laissé des mots sur ce frigo. Rentre le linge.",
+     1.2
+    ],
+    [
+     "Ça fait trois ans. Je n'ai jamais acheté le beurre.",
+     1.4
+    ],
+    [
+     "Je mange mes tartines sans beurre. Ton père croit que je deviens radin.",
+     1.2
+    ],
+    [
+     "Tant que je n'achète pas le beurre, sa liste n'est pas finie.",
+     1.8
+    ],
+    [
+     "Le mois dernier, tu es venu déjeuner. Tu as ouvert le frigo.",
+     1.2
+    ],
+    [
+     "Tu as dit : papi, il n'y a même pas de beurre !",
+     1.2
+    ],
+    [
+     "Et tu es descendu en acheter à l'épicerie. Sans me demander.",
+     1.4
+    ],
+    [
+     "J'ai failli te gronder. Puis je t'ai vu poser le beurre sur la table.",
+     1.4
+    ],
+    [
+     "Elle aurait dit : *enfin*. Avec ce petit soupir qu'elle avait.",
+     1.6
+    ],
+    [
+     "Ce soir-là, j'ai décroché le mot. Je l'ai rangé dans mon portefeuille.",
+     1.4
+    ],
+    [
+     "On croit garder les gens en ne touchant à rien. Eux voulaient qu'on continue à vivre.",
+     1.4
+    ],
+    [
+     "Je ne te l'ai jamais dit. Alors je te le dis maintenant : merci pour le *beurre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j078_pere",
+   "perso": "pere",
+   "episode": 79,
+   "fin": "Envoie-la à quelqu'un qui devra un jour prendre les clés.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai pris les clés de mon père.",
+   "legende": "J'attendais que quelqu'un m'aime assez pour me les prendre. Et toi, tu oserais prendre les clés de ton père ? #papa #pere #vieillesse #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "J'ai confisqué les *clés* de voiture de mon père. Il ne m'a plus parlé pendant un mois.",
+     1.3
+    ],
+    [
+     "Il avait quatre-vingt-trois ans, et pas un accrochage en soixante ans.",
+     1.2
+    ],
+    [
+     "Puis il y a eu le portail du voisin. Et le feu rouge qu'il n'a pas vu.",
+     1.2
+    ],
+    [
+     "Ta mère m'a dit : c'est à toi de le faire. Moi, je n'osais pas.",
+     1.4
+    ],
+    [
+     "C'est lui qui m'avait appris à conduire.",
+     1.2
+    ],
+    [
+     "Un soir, je suis passé chez lui. J'ai pris les clés sur le buffet. J'ai dit : papa, c'est fini.",
+     1.6
+    ],
+    [
+     "Il m'a traité d'ingrat. Il a claqué la porte.",
+     1.4
+    ],
+    [
+     "Pendant un mois, il a raccroché dès qu'il entendait ma voix.",
+     1.2
+    ],
+    [
+     "Et un dimanche, il m'a appelé. Il m'a dit : tu m'emmènes au marché ?",
+     1.4
+    ],
+    [
+     "Dans la voiture, sans me regarder, il a dit : tu as bien fait.",
+     1.6
+    ],
+    [
+     "Il a ajouté : je n'osais pas m'arrêter. J'attendais que quelqu'un m'aime assez pour me les *prendre*.",
+     1.8
+    ],
+    [
+     "Un jour, ce sera ton tour. Tu viendras prendre mes clés sur le buffet.",
+     1.4
+    ],
+    [
+     "Je râlerai. Je bouderai un mois.",
+     1.2
+    ],
+    [
+     "Fais-le quand même. Ce jour-là, ce sera ta façon de m'*aimer*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j078_mere",
+   "perso": "mere",
+   "episode": 79,
+   "fin": "Envoie-la à quelqu'un qui a une grand-mère pleine de culot.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Elle voulait des cheveux violets.",
+   "legende": "Ne deviens pas le parent de tes parents. Deviens leur complice. Et toi, quel caprice tu laisserais faire à ta grand-mère ? #maman #mere #grandmere #humour #vieillesse #pourtoi",
+   "phrases": [
+    [
+     "À quatre-vingt-quatre ans, ta grand-mère a voulu se teindre les cheveux en *violet*.",
+     1.3
+    ],
+    [
+     "Pas un violet discret. Violet bonbon.",
+     1.2
+    ],
+    [
+     "Je lui ai dit non. Je lui ai dit : tu n'y penses pas, à ton âge.",
+     1.2
+    ],
+    [
+     "Elle m'a regardée longtemps. Puis elle a souri. Elle a dit : tiens, tiens.",
+     1.4
+    ],
+    [
+     "À quinze ans, j'avais voulu une mèche rouge. Elle m'avait dit exactement la même chose.",
+     1.6
+    ],
+    [
+     "Tu n'y penses pas, à ton âge. J'avais pleuré une semaine.",
+     1.2
+    ],
+    [
+     "Quarante ans plus tard, j'étais devenue la mère de ma mère. Et pas la plus drôle.",
+     1.4
+    ],
+    [
+     "Le samedi suivant, je l'ai emmenée chez le coiffeur.",
+     1.2
+    ],
+    [
+     "Elle est ressortie violette comme une aubergine. Elle était radieuse.",
+     1.4
+    ],
+    [
+     "Au marché, les gens se retournaient. Elle leur faisait des petits signes, comme une reine.",
+     1.2
+    ],
+    [
+     "Moi, je suis sortie avec une mèche *rouge*. C'est elle qui l'avait payée.",
+     1.8
+    ],
+    [
+     "Quarante ans de retard. Elle avait gardé ça dans un coin de sa tête.",
+     1.4
+    ],
+    [
+     "Quand nos parents vieillissent, on se met à leur interdire des choses. Pour leur bien, soi-disant.",
+     1.4
+    ],
+    [
+     "Ne deviens pas le parent de tes parents. Deviens leur *complice*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j078_fou",
+   "perso": "fou",
+   "episode": 78,
+   "fin": "Envoie-la à quelqu'un qui en a assez de céder.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Elle n'était pas fatiguée.",
+   "legende": "Elle n'était fatiguée que d'une chose : de céder. Et toi, qu'est-ce que tu as enfin arrêté de céder ? #motivation #histoire #rosaparks #courage #droitsciviques #pourtoi",
+   "phrases": [
+    [
+     "Un soir de décembre, une femme est entrée dans l'histoire sans se lever de son *siège*.",
+     1.3
+    ],
+    [
+     "Alabama, mille neuf cent cinquante-cinq. Dans les bus, les Noirs doivent céder leur place si le chauffeur l'exige.",
+     1.2
+    ],
+    [
+     "À Montgomery, Rosa Parks, quarante-deux ans, couturière, rentre du travail.",
+     1.2
+    ],
+    [
+     "Le chauffeur lui ordonne de se lever pour un passager blanc. Elle refuse.",
+     1.4
+    ],
+    [
+     "La police l'arrête. Elle perd son travail.",
+     1.4
+    ],
+    [
+     "Alors les Noirs de la ville cessent de prendre le bus. Ils marchent.",
+     1.2
+    ],
+    [
+     "Sous la pluie, des kilomètres chaque jour. Pendant plus d'un an.",
+     1.4
+    ],
+    [
+     "À la fin, la Cour suprême déclare la ségrégation dans les bus contraire à la Constitution.",
+     1.6
+    ],
+    [
+     "Plus tard, on a raconté que ce jour-là, elle était fatiguée.",
+     1.2
+    ],
+    [
+     "Elle a passé sa vie à corriger. Elle n'était pas fatiguée de sa journée.",
+     1.4
+    ],
+    [
+     "Elle a écrit qu'elle n'était fatiguée que d'une chose : de *céder*.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu dis peut-être que tu es fatigué.",
+     1.2
+    ],
+    [
+     "Regarde bien. Ce n'est peut-être pas ton corps. C'est peut-être de céder, encore et encore.",
+     1.4
+    ],
+    [
+     "Il y a des places qu'on n'a pas à rendre. Reste *assis*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

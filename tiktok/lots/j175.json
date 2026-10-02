@@ -1,0 +1,364 @@
+{
+ "nom": "j175",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j175_grandmere",
+   "perso": "grandmere",
+   "episode": 176,
+   "fin": "Envoie-la à quelqu'un qui dit oui à tout le monde.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Trente ans à recopier la même ligne.",
+   "legende": "Certaines choses s'apprennent en un an. D'autres en trente. Quelle ligne tu recopies depuis des années, toi ? #grandmere #humour #apprendre #perseverance #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Chaque premier janvier, depuis soixante ans, j'écris dans un carnet une seule chose à *apprendre*.",
+     1.3
+    ],
+    [
+     "Une par an. Ma mère disait qu'on ne court pas deux lièvres à la fois.",
+     1.2
+    ],
+    [
+     "Nager, en mille neuf cent soixante-huit. L'italien, en soixante-quinze.",
+     1.2
+    ],
+    [
+     "Faire du vélo sans les mains. Réussir la pâte feuilletée. Planter des rosiers.",
+     1.2
+    ],
+    [
+     "Presque toujours, en décembre, je pouvais rayer la ligne.",
+     1.4
+    ],
+    [
+     "Sauf une. Depuis trente ans, je la recopie tous les premiers janvier.",
+     1.6
+    ],
+    [
+     "Apprendre à dire non.",
+     1.6
+    ],
+    [
+     "À mon patron, à ma belle-sœur, au curé, au vendeur de calendriers. Je disais oui à tout le monde.",
+     1.4
+    ],
+    [
+     "Trente fois, j'ai recopié la ligne. Trente fois, j'ai échoué.",
+     1.2
+    ],
+    [
+     "Et puis cette année, en mars, tu m'as demandé de garder ton chien pendant un mois.",
+     1.6
+    ],
+    [
+     "Je t'ai dit *non*. Comme ça. Sans excuse.",
+     1.8
+    ],
+    [
+     "Tu as été vexé. Moi, je suis rentrée chez moi et j'ai rayé la ligne. En pleurant de joie.",
+     1.4
+    ],
+    [
+     "Certaines choses s'apprennent en un an. D'autres en trente.",
+     1.4
+    ],
+    [
+     "Ne déchire pas la page. Recopie la *ligne*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j175_grandpere",
+   "perso": "grandpere",
+   "episode": 177,
+   "fin": "Envoie-la à quelqu'un qui trouve son travail inutile.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Un mois sur la même planche.",
+   "legende": "Ce qui ne te paraît servir à rien aujourd'hui t'attend quelque part. Quelle planche tu rabotes en ce moment, toi ? #grandpere #transmission #metier #patience #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon premier mois d'apprenti, j'ai raboté la même *planche*. Tous les jours.",
+     1.3
+    ],
+    [
+     "J'avais quatorze ans. Je voulais faire des armoires, des choses qui se voient.",
+     1.2
+    ],
+    [
+     "Le patron m'a donné une planche de chêne et un rabot. Il a dit : rends-la parfaite.",
+     1.2
+    ],
+    [
+     "Le soir, il passait la main dessus, les yeux fermés. Il disait : demain.",
+     1.4
+    ],
+    [
+     "Au bout de quinze jours, j'ai voulu partir.",
+     1.2
+    ],
+    [
+     "Le trentième soir, il a passé la main, longtemps. Il a dit : maintenant, tu sais.",
+     1.4
+    ],
+    [
+     "Puis il a rangé ma planche au fond de l'atelier. Je ne l'ai plus jamais revue.",
+     1.4
+    ],
+    [
+     "Huit ans plus tard, ton père est né. Mon vieux patron est arrivé avec un berceau.",
+     1.2
+    ],
+    [
+     "Du chêne massif. Un travail magnifique.",
+     1.2
+    ],
+    [
+     "En le nettoyant, j'ai ouvert le petit tiroir du dessous.",
+     1.6
+    ],
+    [
+     "Le fond, c'était ma planche. Je l'ai reconnue sous mes doigts, les yeux fermés.",
+     1.6
+    ],
+    [
+     "Il l'avait gardée huit ans. Pour le jour où je serais *père*.",
+     1.8
+    ],
+    [
+     "Ce qui ne te paraît servir à rien aujourd'hui t'attend quelque part.",
+     1.4
+    ],
+    [
+     "Rabote ta planche. Un jour, quelqu'un dormira *dessus*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j175_pere",
+   "perso": "pere",
+   "episode": 176,
+   "fin": "Envoie-la à quelqu'un qui essaie de devenir meilleur.",
+   "lueurs": [
+    1,
+    4,
+    14
+   ],
+   "accroche": "J'ai arrêté de crier. Voilà comment.",
+   "legende": "On ne change pas d'un coup. On change un matin après l'autre. Qu'est-ce que tu essaies de changer chez toi, en ce moment ? #papa #pere #colere #habitudes #emotion #pourtoi",
+   "phrases": [
+    [
+     "L'année de tes douze ans, j'ai arrêté de *crier*. Tu n'as jamais su comment.",
+     1.3
+    ],
+    [
+     "Avant, je criais pour tout. Une chaussette par terre, une porte qui claque.",
+     1.2
+    ],
+    [
+     "Un soir, tu as renversé ton verre. J'ai hurlé. Tu as mis tes bras devant ton visage.",
+     1.6
+    ],
+    [
+     "Je ne t'avais jamais frappé. Mais tu as eu ce geste. Comme si tu attendais un *coup*.",
+     1.8
+    ],
+    [
+     "Cette nuit-là, je me suis vu avec tes yeux.",
+     1.4
+    ],
+    [
+     "Le lendemain, à cinq heures, je suis sorti courir. Je n'avais pas couru depuis l'armée.",
+     1.2
+    ],
+    [
+     "Au bout de dix minutes, j'étais plié en deux sur un banc.",
+     1.2
+    ],
+    [
+     "J'y suis retourné le lendemain. Et tous les matins, pendant des années.",
+     1.2
+    ],
+    [
+     "Toute ma colère, je la laissais sur la route, avant que tu te réveilles.",
+     1.4
+    ],
+    [
+     "Ta mère disait que je m'étais adouci avec l'âge.",
+     1.4
+    ],
+    [
+     "Je n'ai pas changé d'un coup. J'ai changé un matin après l'autre.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, je cours toujours. Et je ne crie plus qu'aux matchs de foot.",
+     1.4
+    ],
+    [
+     "Si un jour ton enfant lève les bras devant son visage, ne te déteste pas.",
+     1.4
+    ],
+    [
+     "Mets tes *chaussures*. Et sors avant qu'il se réveille.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j175_mere",
+   "perso": "mere",
+   "episode": 176,
+   "fin": "Envoie-la à quelqu'un qu'on a traité de maladroit.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Ton premier geste de chirurgien.",
+   "legende": "On n'est pas maladroit. On est juste au début. Qui t'a dit un jour : encore un, plus lentement ? #maman #mere #transmission #patience #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le premier geste de *chirurgien* de ta vie, c'est moi qui te l'ai appris. Sur un bouton.",
+     1.3
+    ],
+    [
+     "J'étais couturière. Toi, tu avais huit ans et des mains de catastrophe.",
+     1.2
+    ],
+    [
+     "Tu cassais tout, tu renversais tout. Ta maîtresse disait : il est maladroit, c'est comme ça.",
+     1.4
+    ],
+    [
+     "Moi, je ne crois pas à c'est comme ça.",
+     1.4
+    ],
+    [
+     "Alors chaque dimanche, pendant une heure, tu recousais des boutons sur un vieux torchon.",
+     1.2
+    ],
+    [
+     "Tu détestais ça. Tu te piquais. Tu disais que c'était un travail de fille.",
+     1.2
+    ],
+    [
+     "Je répondais seulement : encore un. Plus lentement.",
+     1.4
+    ],
+    [
+     "Au bout d'un an, tes points étaient plus réguliers que les miens.",
+     1.4
+    ],
+    [
+     "Tu es devenu chirurgien. Tu n'as jamais raconté cette histoire à personne.",
+     1.2
+    ],
+    [
+     "La veille de ta première opération seul, tu m'as appelée à minuit.",
+     1.6
+    ],
+    [
+     "Tu as dit : maman, j'ai peur. Je t'ai dit : encore un. Plus lentement.",
+     1.8
+    ],
+    [
+     "Tu as ri. Puis tu as raccroché, et tu es allé dormir.",
+     1.4
+    ],
+    [
+     "On n'est pas maladroit. On est juste au *début*.",
+     1.4
+    ],
+    [
+     "Les mains les plus sûres ont toutes commencé par un *bouton* mal cousu.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j175_fou",
+   "perso": "fou",
+   "episode": 175,
+   "fin": "Envoie-la à quelqu'un qui travaille sans que ça se voie.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Onze ans sans rien publier.",
+   "legende": "Ce ne sont pas des années perdues. Ce sont des racines. Tu es dans quelle année silencieuse, toi ? #motivation #philosophie #kant #patience #reussitetardive #pourtoi",
+   "phrases": [
+    [
+     "À quarante-six ans, un homme obtient *enfin* le poste qu'il attend depuis quinze ans.",
+     1.3
+    ],
+    [
+     "Pendant ce temps, il enseigne tout. La logique, la géographie, les mathématiques.",
+     1.2
+    ],
+    [
+     "Il est payé directement par ses étudiants. Quand ils ne viennent pas, il ne gagne rien.",
+     1.2
+    ],
+    [
+     "Une fois professeur, il se tait. Pendant onze ans, il ne publie presque rien.",
+     1.4
+    ],
+    [
+     "Vu de l'extérieur, il ne se passe rien.",
+     1.4
+    ],
+    [
+     "En réalité, il travaille tous les jours au même livre.",
+     1.4
+    ],
+    [
+     "À cinquante-sept ans, il le publie enfin.",
+     1.6
+    ],
+    [
+     "Presque *personne* ne le comprend.",
+     1.8
+    ],
+    [
+     "Il dira lui-même que ce livre est le fruit de douze ans de réflexion.",
+     1.4
+    ],
+    [
+     "Quelques années plus tard, c'est le philosophe dont tout le monde parle. On l'étudie encore aujourd'hui.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Emmanuel Kant. Le livre, c'est la Critique de la raison pure.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu auras peut-être des années où il ne se passe rien.",
+     1.2
+    ],
+    [
+     "Pas de résultat. Pas de bruit. Juste toi, tous les matins, au même endroit.",
+     1.4
+    ],
+    [
+     "Ce ne sont pas des années perdues. Ce sont des *racines*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

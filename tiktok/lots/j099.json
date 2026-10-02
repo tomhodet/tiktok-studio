@@ -1,0 +1,364 @@
+{
+ "nom": "j099",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j099_grandmere",
+   "perso": "grandmere",
+   "episode": 100,
+   "fin": "Envoie-la à quelqu'un qui veut toujours avoir raison.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Ses soixante-dix ans, un an trop tôt.",
+   "legende": "Entre avoir raison et une part de gâteau, choisis le gâteau. Et toi, tu préfères avoir raison ou faire plaisir ? #grandmere #humour #anniversaire #couple #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Pour les soixante-dix ans de ton grand-père, j'ai invité soixante personnes. Il en avait *soixante-neuf*.",
+     1.3
+    ],
+    [
+     "J'avais tout organisé en secret. La salle des fêtes, le traiteur, l'accordéoniste.",
+     1.2
+    ],
+    [
+     "Un gâteau énorme, avec deux bougies : un sept et un zéro.",
+     1.2
+    ],
+    [
+     "Même le maire a fait un discours. Ton grand-père a pleuré.",
+     1.4
+    ],
+    [
+     "Le lendemain, sa sœur m'a téléphoné. Elle a dit : tu sais qu'il est né en quarante-six ?",
+     1.6
+    ],
+    [
+     "J'avais compté une année de trop. Soixante invités, un maire, et une année de trop.",
+     1.4
+    ],
+    [
+     "Le soir, j'ai demandé à ton grand-père s'il le savait.",
+     1.4
+    ],
+    [
+     "Il a dit : bien sûr. Je sais encore compter jusqu'à soixante-neuf.",
+     1.8
+    ],
+    [
+     "Je lui ai demandé pourquoi il n'avait rien dit.",
+     1.2
+    ],
+    [
+     "Il a répondu : tu avais l'air si *heureuse*. Je n'allais pas gâcher ça.",
+     1.4
+    ],
+    [
+     "Et à mon âge, une fête d'avance, c'est toujours ça de pris.",
+     1.6
+    ],
+    [
+     "L'année suivante, on a refait la fête. La vraie. Les mêmes soixante personnes.",
+     1.4
+    ],
+    [
+     "Dans la vie, tu auras souvent le choix entre avoir raison et faire plaisir.",
+     1.2
+    ],
+    [
+     "Entre avoir raison et une part de gâteau, choisis le *gâteau*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j099_grandpere",
+   "perso": "grandpere",
+   "episode": 101,
+   "fin": "Envoie-la à quelqu'un qui n'ose jamais demander d'aide.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Toute la plage a cherché mon dentier.",
+   "legende": "Les gens adorent aider. On leur en donne rarement l'occasion. Et toi, qu'est-ce que tu n'oses pas demander ? #grandpere #humour #vacances #entraide #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "À soixante-dix ans, une vague m'a arraché mon *dentier*. Toute la plage l'a cherché.",
+     1.3
+    ],
+    [
+     "On était en vacances en Bretagne, avec ta grand-mère. Premier bain de l'été.",
+     1.2
+    ],
+    [
+     "Une grosse vague, j'éclate de rire, j'ouvre la bouche. Plus de dents.",
+     1.2
+    ],
+    [
+     "Je suis resté dans l'eau, une main sur la bouche. Je ne voulais pas que ça se sache.",
+     1.2
+    ],
+    [
+     "Je cherchais tout seul, à tâtons, en faisant semblant de nager.",
+     1.4
+    ],
+    [
+     "Au bout d'une heure, ta grand-mère s'est levée de sa serviette.",
+     1.4
+    ],
+    [
+     "Elle a crié, devant toute la plage : mon mari a perdu ses dents !",
+     1.6
+    ],
+    [
+     "J'étais rouge comme un homard.",
+     1.4
+    ],
+    [
+     "Et là, cinquante personnes se sont levées. Des enfants, des vieux, un maître-nageur.",
+     1.4
+    ],
+    [
+     "Tout le monde à quatre pattes dans l'eau. Pour mes dents.",
+     1.4
+    ],
+    [
+     "C'est une petite fille qui l'a trouvé. Elle a dit : monsieur, votre *sourire*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, cinquante inconnus ont passé la meilleure heure de leurs vacances.",
+     1.4
+    ],
+    [
+     "Les gens adorent aider. On leur en donne rarement l'occasion.",
+     1.2
+    ],
+    [
+     "Alors demande. Même pour des dents. Tu leur fais un *cadeau*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j099_pere",
+   "perso": "pere",
+   "episode": 100,
+   "fin": "Envoie-la à quelqu'un qui ne demande jamais son chemin.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ce raccourci nous a coûté six heures.",
+   "legende": "Un raccourci, c'est souvent le chemin le plus long vers la même caravane. Et toi, quel raccourci t'a coûté le plus cher ? #papa #pere #humour #vacances #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "Pour éviter les bouchons, j'ai pris un *raccourci*. Il nous a coûté six heures.",
+     1.3
+    ],
+    [
+     "Tu avais neuf ans. Ta mère tenait la carte routière sur ses genoux.",
+     1.2
+    ],
+    [
+     "Sur l'autoroute, on roulait au pas derrière une caravane jaune, avec un vélo rose.",
+     1.2
+    ],
+    [
+     "J'ai dit : je connais un petit chemin. Ta mère a levé un sourcil.",
+     1.2
+    ],
+    [
+     "Les petites routes sont devenues des chemins. Les chemins sont devenus de la terre.",
+     1.4
+    ],
+    [
+     "Ta mère a proposé trois fois de demander notre chemin. J'ai refusé trois fois.",
+     1.4
+    ],
+    [
+     "Un tracteur nous a doublés. Tu as été malade dans un sac.",
+     1.4
+    ],
+    [
+     "Six heures plus tard, on a enfin retrouvé l'autoroute.",
+     1.6
+    ],
+    [
+     "Et juste devant nous, il y avait une caravane jaune. Avec un vélo *rose*.",
+     1.8
+    ],
+    [
+     "Ta mère a ri pendant vingt kilomètres. Moi, beaucoup moins.",
+     1.4
+    ],
+    [
+     "Dans la vie, on te proposera des raccourcis. Pour réussir, pour maigrir, pour t'enrichir.",
+     1.4
+    ],
+    [
+     "La plupart te ramènent derrière la même caravane. Avec la fatigue en plus.",
+     1.4
+    ],
+    [
+     "Prends la vraie route. Et quand tu es perdu, demande ton chemin.",
+     1.2
+    ],
+    [
+     "Un raccourci, c'est souvent le chemin le plus long vers la même *caravane*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j099_mere",
+   "perso": "mere",
+   "episode": 100,
+   "fin": "Envoie-la à quelqu'un qui paie toujours en cachette.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "On se bat pour payer l'addition.",
+   "legende": "Entre les gens qui s'aiment, on ne compte pas. Mais si quelqu'un compte, c'est toujours à égalité. Et toi, avec qui tu te bats pour payer ? #maman #mere #humour #famille #generosite #pourtoi",
+   "phrases": [
+    [
+     "Depuis vingt ans, ta grand-mère et moi, on se *bat* pour payer l'addition.",
+     1.3
+    ],
+    [
+     "Chaque restaurant est une guerre. Elle cache sa carte dans sa manche. Moi, dans ma chaussure.",
+     1.2
+    ],
+    [
+     "Elle dit qu'elle va aux toilettes. En vrai, elle file payer au comptoir.",
+     1.2
+    ],
+    [
+     "Moi, j'appelle le restaurant la veille. Je paie d'avance.",
+     1.2
+    ],
+    [
+     "Une fois, on a sorti nos cartes en même temps. Le serveur ne savait plus où regarder.",
+     1.4
+    ],
+    [
+     "Ton père refuse de venir avec nous. Il dit que c'est un sport de combat.",
+     1.4
+    ],
+    [
+     "Le mois dernier, le vieux serveur de la place nous a apporté un petit carnet.",
+     1.4
+    ],
+    [
+     "Depuis vingt ans, il notait tout. Qui payait, combien, quel jour.",
+     1.6
+    ],
+    [
+     "Il a fait le total devant nous. Vingt ans de repas.",
+     1.6
+    ],
+    [
+     "On était à *égalité*. À trois euros près.",
+     1.8
+    ],
+    [
+     "Ta grand-mère a sorti trois euros de son porte-monnaie. Je les ai refusés. On s'est disputées.",
+     1.6
+    ],
+    [
+     "Entre les gens qui s'aiment, on ne compte pas. Mais si quelqu'un compte, c'est toujours à égalité.",
+     1.4
+    ],
+    [
+     "Alors dispute-toi pour payer. C'est la plus belle des *disputes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j099_fou",
+   "perso": "fou",
+   "episode": 99,
+   "fin": "Envoie-la à quelqu'un qui croit déjà tout savoir.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "La tasse est pleine. Il continue de verser.",
+   "legende": "Videz d'abord votre tasse. Le meilleur reste à verser. Et toi, qu'est-ce que tu crois déjà savoir ? #motivation #zen #japon #conte #humilite #pourtoi",
+   "phrases": [
+    [
+     "Un vieux maître japonais a versé du thé dans une tasse. Et il n'a jamais *arrêté*.",
+     1.3
+    ],
+    [
+     "Dans ce vieux récit zen, le maître s'appelle Nan-in. Un grand professeur vient lui rendre visite.",
+     1.2
+    ],
+    [
+     "Il veut apprendre. Mais à peine assis, il parle de tout ce qu'il sait.",
+     1.2
+    ],
+    [
+     "Ses livres, ses diplômes, ses théories. Le maître écoute sans rien dire.",
+     1.2
+    ],
+    [
+     "Puis il prend la théière. Il remplit la tasse du professeur.",
+     1.2
+    ],
+    [
+     "La tasse est pleine. Il continue de verser.",
+     1.4
+    ],
+    [
+     "Le thé déborde sur la soucoupe. Puis sur la table. Puis par terre.",
+     1.4
+    ],
+    [
+     "Le professeur crie : arrêtez ! Elle est pleine, rien ne peut plus entrer !",
+     1.6
+    ],
+    [
+     "Le maître pose la théière. Il dit : comme vous.",
+     1.8
+    ],
+    [
+     "Vous êtes plein de vos idées. Comment voulez-vous que je vous apprenne quelque chose ?",
+     1.6
+    ],
+    [
+     "Videz d'abord votre *tasse*.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu arrives peut-être devant la vie avec une tasse pleine.",
+     1.4
+    ],
+    [
+     "Tu te dis : je sais déjà, j'ai déjà essayé, ça ne marchera pas.",
+     1.0
+    ],
+    [
+     "Alors plus rien ne rentre.",
+     1.4
+    ],
+    [
+     "Vide ta tasse. Le meilleur reste à *verser*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

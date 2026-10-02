@@ -1,0 +1,368 @@
+{
+ "nom": "j054",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j054_grandmere",
+   "perso": "grandmere",
+   "episode": 55,
+   "fin": "Envoie-la à l'ami toujours en retard, mais toujours là.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Elle est arrivée avant les pompiers.",
+   "legende": "Elle n'est jamais arrivée à l'heure. Mais elle est toujours arrivée à temps. Et toi, qui arrive toujours à temps dans ta vie ? #grandmere #amitie #humour #loyaute #pourtoi",
+   "phrases": [
+    [
+     "Ma meilleure amie Ginette est arrivée en *retard* à tout. Pendant soixante ans.",
+     1.3
+    ],
+    [
+     "À mon mariage, elle est entrée dans l'église juste après le oui.",
+     1.2
+    ],
+    [
+     "Au baptême de ta mère, le curé avait déjà rangé l'eau bénite.",
+     1.2
+    ],
+    [
+     "Même à son propre mariage, son fiancé a cru qu'elle s'était enfuie.",
+     1.4
+    ],
+    [
+     "Une nuit d'hiver, en mille neuf cent soixante-dix-neuf, notre cheminée a pris feu.",
+     1.4
+    ],
+    [
+     "Ton grand-père était de nuit à l'usine. J'étais seule avec ta mère, qui avait neuf ans.",
+     1.2
+    ],
+    [
+     "J'ai appelé les pompiers. Puis j'ai appelé Ginette.",
+     1.2
+    ],
+    [
+     "Elle habitait à cinq kilomètres. Elle est arrivée avant les *pompiers*.",
+     1.6
+    ],
+    [
+     "En chemise de nuit, avec ses bigoudis, et l'extincteur de son mari sous le bras.",
+     1.6
+    ],
+    [
+     "Elle l'a vidé dans la cheminée en criant des mots que je ne répéterai pas.",
+     1.4
+    ],
+    [
+     "Le lendemain, on avait rendez-vous pour le café. Elle est arrivée avec une heure de retard.",
+     1.4
+    ],
+    [
+     "Ne juge jamais tes amis sur les jours ordinaires.",
+     1.4
+    ],
+    [
+     "Ginette n'est jamais arrivée à l'heure.",
+     1.2
+    ],
+    [
+     "Mais elle est toujours arrivée à *temps*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j054_grandpere",
+   "perso": "grandpere",
+   "episode": 56,
+   "fin": "Envoie-la à l'ami qui sauterait pour toi.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Il a sauté. Il ne savait pas nager.",
+   "legende": "Les vrais amis ne savent pas toujours nager. Ils sautent quand même. Qui sauterait pour toi, sans réfléchir ? #grandpere #amitie #marin #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-sept, une nuit de mars, je suis tombé à la *mer*.",
+     1.3
+    ],
+    [
+     "Une vague avait balayé le pont du chalutier. Je me suis retrouvé dans l'eau noire.",
+     1.2
+    ],
+    [
+     "Au bout d'une minute, je ne sentais plus mes jambes.",
+     1.4
+    ],
+    [
+     "Là-haut, les autres criaient mon nom. Ils ne me voyaient plus.",
+     1.2
+    ],
+    [
+     "Et puis j'ai entendu un deuxième plongeon.",
+     1.6
+    ],
+    [
+     "C'était Yvon, mon ami d'enfance. Il avait sauté avec une corde nouée autour de la taille.",
+     1.4
+    ],
+    [
+     "Il m'a attrapé par le col et il n'a plus lâché.",
+     1.2
+    ],
+    [
+     "Les autres nous ont hissés tous les deux, comme deux sacs de linge mouillé.",
+     1.4
+    ],
+    [
+     "On n'en a jamais reparlé. Entre marins, ces choses-là ne se disent pas.",
+     1.4
+    ],
+    [
+     "L'été dernier, à la plage, je lui ai dit : viens te baigner, vieux phoque.",
+     1.2
+    ],
+    [
+     "Il a souri. Il a dit : tu sais bien que je ne sais pas *nager*.",
+     1.8
+    ],
+    [
+     "Je ne le savais pas. En cinquante ans, il ne me l'avait jamais dit.",
+     1.6
+    ],
+    [
+     "Cette nuit-là, il avait sauté quand même.",
+     1.6
+    ],
+    [
+     "Les vrais amis ne savent pas toujours nager.",
+     1.2
+    ],
+    [
+     "Ils *sautent* quand même.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j054_pere",
+   "perso": "pere",
+   "episode": 55,
+   "fin": "Envoie-la à l'ami qui ralentit pour toi.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Mal au genou pendant mille kilomètres.",
+   "legende": "Un ami, c'est quelqu'un qui boite pour que tu puisses avancer à ton rythme. Qui a déjà ralenti pour toi sans rien dire ? #papa #pere #amitie #humour #velo #pourtoi",
+   "phrases": [
+    [
+     "L'été de mes vingt ans, mon meilleur ami a eu mal au *genou* pendant mille kilomètres.",
+     1.3
+    ],
+    [
+     "Franck et moi, on faisait le tour de la Bretagne à vélo, avec deux tentes et pas un sou.",
+     1.2
+    ],
+    [
+     "Moi, je n'avais aucun entraînement. Dès le deuxième jour, mes cuisses brûlaient.",
+     1.2
+    ],
+    [
+     "J'allais lui dire que j'abandonnais quand il s'est arrêté en grimaçant.",
+     1.2
+    ],
+    [
+     "Il a dit : mon genou. On va rouler doucement.",
+     1.4
+    ],
+    [
+     "Alors on a roulé doucement. À mon rythme. Pendant dix jours.",
+     1.4
+    ],
+    [
+     "Dans chaque côte, il descendait en se tenant la jambe. Je poussais mon vélo à côté du sien.",
+     1.4
+    ],
+    [
+     "Le dernier jour, à la gare, notre train commençait à partir.",
+     1.2
+    ],
+    [
+     "Franck a couru cent mètres sur le quai, avec les deux vélos. Sans *boiter*.",
+     1.8
+    ],
+    [
+     "Il m'a vu le regarder. Il a juste dit : tiens, c'est passé.",
+     1.6
+    ],
+    [
+     "Il n'a jamais eu mal au genou. Il avait vu que je n'en pouvais plus.",
+     1.4
+    ],
+    [
+     "Trente-cinq ans plus tard, il ne l'a toujours pas avoué.",
+     1.4
+    ],
+    [
+     "Un ami, c'est quelqu'un qui boite pour que tu puisses avancer à ton *rythme*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j054_mere",
+   "perso": "mere",
+   "episode": 55,
+   "fin": "Envoie-la à l'amie qui a gardé tes enfants.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Une carte tombée d'un vieux livre.",
+   "legende": "Derrière chaque diplôme, il y a quelqu'un qui a gardé les enfants. Qui a fait un sacrifice pour toi sans jamais le dire ? #maman #mere #amitie #etudes #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais six ans, j'ai reçu mon *diplôme*. Tu as applaudi plus fort que tout le monde.",
+     1.3
+    ],
+    [
+     "J'avais repris mes études le soir. Trois soirs par semaine, pendant quatre ans.",
+     1.2
+    ],
+    [
+     "Ton père travaillait de nuit. Il fallait quelqu'un pour te garder.",
+     1.2
+    ],
+    [
+     "Martine, ma meilleure amie, s'est proposée. Elle n'a jamais voulu un centime.",
+     1.2
+    ],
+    [
+     "Elle arrivait à dix-huit heures avec des feutres et un gâteau au yaourt.",
+     1.2
+    ],
+    [
+     "Je rentrais à minuit. Je la trouvais endormie sur le canapé, toi contre elle.",
+     1.4
+    ],
+    [
+     "À la remise des diplômes, elle était au troisième rang. Elle pleurait plus que moi.",
+     1.4
+    ],
+    [
+     "Des années plus tard, chez elle, une carte est tombée d'un vieux livre.",
+     1.6
+    ],
+    [
+     "Une carte d'*étudiante*. À son nom. Le même cours du soir que moi. La même année.",
+     1.8
+    ],
+    [
+     "Elle s'était inscrite elle aussi. Elle avait abandonné au bout d'un mois. Pour te garder.",
+     1.6
+    ],
+    [
+     "Elle ne m'en avait jamais parlé.",
+     1.4
+    ],
+    [
+     "Quand je lui ai montré la carte, elle a haussé les épaules.",
+     1.2
+    ],
+    [
+     "Elle a dit : une diplômée dans la bande, ça suffisait.",
+     1.6
+    ],
+    [
+     "Derrière chaque diplôme, il y a quelqu'un qui a gardé les *enfants*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j054_fou",
+   "perso": "fou",
+   "episode": 54,
+   "fin": "Envoie-la à quelqu'un qui doit entrer en scène.",
+   "lueurs": [
+    1,
+    8,
+    15
+   ],
+   "accroche": "À cinq ans, il remplace sa mère.",
+   "legende": "Ce soir-là, c'était ma première fois sur scène. Et la dernière de ma mère. Et toi, quel jour difficile t'a poussé dans la lumière ? #motivation #cinema #chaplin #resilience #histoirevraie #pourtoi",
+   "phrases": [
+    [
+     "Un soir, dans un petit théâtre anglais, une chanteuse perd sa *voix* en pleine chanson.",
+     1.3
+    ],
+    [
+     "Le public se met à siffler. Elle doit quitter la scène.",
+     1.2
+    ],
+    [
+     "Dans les coulisses, il y a son fils. Il a cinq ans.",
+     1.4
+    ],
+    [
+     "Un homme du théâtre le prend par la main et l'emmène dans la lumière.",
+     1.2
+    ],
+    [
+     "L'enfant chante. Le public lui lance des pièces.",
+     1.2
+    ],
+    [
+     "Alors il s'arrête et annonce qu'il ramasse d'abord l'argent. Qu'il chantera après.",
+     1.2
+    ],
+    [
+     "La salle éclate de rire.",
+     1.4
+    ],
+    [
+     "Il dira plus tard : ce soir-là, c'était ma première fois sur scène. Et la dernière de ma *mère*.",
+     1.8
+    ],
+    [
+     "Ensuite viennent les années noires. Le père absent, la mère internée, l'hospice pour enfants pauvres.",
+     1.4
+    ],
+    [
+     "Il chante, il danse, il joue dans des troupes. Il ne s'arrête jamais.",
+     1.2
+    ],
+    [
+     "Des années plus tard, en Amérique, il invente un petit vagabond avec un chapeau melon et une canne.",
+     1.4
+    ],
+    [
+     "En France, on l'appellera Charlot. Il s'appelait Charlie Chaplin.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, tu verras peut-être tout s'effondrer devant toi.",
+     1.2
+    ],
+    [
+     "Ce soir-là, ne reste pas dans les coulisses.",
+     1.4
+    ],
+    [
+     "C'est peut-être ton tour d'entrer en *scène*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

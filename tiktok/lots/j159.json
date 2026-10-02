@@ -1,0 +1,372 @@
+{
+ "nom": "j159",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j159_grandmere",
+   "perso": "grandmere",
+   "episode": 160,
+   "fin": "Envoie-la à quelqu'un qui a toujours vingt ans dedans.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "C'est qui, cette jolie fille ?",
+   "legende": "Les gens voient une vieille dame. Personne ne sait qu'à l'intérieur, j'ai toujours vingt ans. Tu as déjà vu une photo de tes grands-parents à vingt ans ? #grandmere #vieillesse #souvenirs #photo #emotion #pourtoi",
+   "phrases": [
+    [
+     "La semaine dernière, tu as trouvé une vieille *photo*. Tu as demandé : c'est qui, cette jolie fille ?",
+     1.3
+    ],
+    [
+     "Une fille de vingt ans, en robe à pois, sur un muret. Elle rit.",
+     1.2
+    ],
+    [
+     "J'ai dit : c'est moi. Tu as ri. Puis tu as vu que je ne riais pas.",
+     1.6
+    ],
+    [
+     "Tu as regardé la photo, puis moi.",
+     1.4
+    ],
+    [
+     "Je ne t'en veux pas. Moi aussi, parfois, je ne la reconnais plus.",
+     1.2
+    ],
+    [
+     "Elle est là, pourtant. Elle n'est jamais partie.",
+     1.4
+    ],
+    [
+     "Elle est sous mes rides, comme une lettre sous une pile de journaux.",
+     1.4
+    ],
+    [
+     "Quand je chante en faisant la vaisselle, c'est elle.",
+     1.2
+    ],
+    [
+     "Quand je dis une bêtise à table et que ta mère soupire, c'est elle.",
+     1.2
+    ],
+    [
+     "Les gens voient une vieille dame. Ils me parlent doucement, comme à une enfant.",
+     1.4
+    ],
+    [
+     "Personne ne sait qu'à l'intérieur, j'ai toujours vingt ans et une robe à pois.",
+     1.6
+    ],
+    [
+     "Tu as gardé la photo. Tu l'as mise dans ton portefeuille.",
+     1.6
+    ],
+    [
+     "Et en partant, tu m'as dit : au revoir, *jolie* fille.",
+     1.8
+    ],
+    [
+     "Je n'ai pas dormi de la nuit. De bonheur.",
+     1.4
+    ],
+    [
+     "Quand tu regardes un vieux, cherche la photo. Elle est toujours *dedans*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j159_grandpere",
+   "perso": "grandpere",
+   "episode": 161,
+   "fin": "Envoie-la à quelqu'un qui a enfin pu arriver à l'heure.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "J'ai raté trois naissances. J'étais en mer.",
+   "legende": "On ne rattrape jamais le temps perdu. Mais parfois, la vie te laisse arriver à l'heure. Ton grand-père a raté des moments importants, lui aussi ? #grandpere #marin #naissance #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "J'ai raté la naissance de mes trois enfants. J'étais en *mer*.",
+     1.3
+    ],
+    [
+     "Ton père est né un mardi de mars. J'étais au large de l'Irlande.",
+     1.2
+    ],
+    [
+     "Je l'ai appris par la radio du bord. Trois mots : garçon, tout va bien.",
+     1.4
+    ],
+    [
+     "Je l'ai vu à trois semaines. Il ne voulait pas de mes bras.",
+     1.4
+    ],
+    [
+     "Pour lui, j'étais un monsieur qui sentait le poisson.",
+     1.2
+    ],
+    [
+     "Ta tante, pareil. Ton oncle, pareil. Trente-cinq ans de mer, trois naissances ratées.",
+     1.4
+    ],
+    [
+     "On me disait : c'est le métier. Moi, je descendais pleurer dans la cale.",
+     1.6
+    ],
+    [
+     "Quand ta mère a été enceinte de toi, j'étais à la retraite depuis un an.",
+     1.2
+    ],
+    [
+     "J'ai préparé mon sac trois mois à l'avance. Ta grand-mère se moquait de moi.",
+     1.4
+    ],
+    [
+     "La nuit de ta naissance, ton père était coincé sur l'autoroute, dans la neige.",
+     1.4
+    ],
+    [
+     "C'est moi qui suis arrivé le premier. Avant lui.",
+     1.6
+    ],
+    [
+     "La sage-femme t'a mis dans mes bras en croyant que j'étais le père.",
+     1.8
+    ],
+    [
+     "Je ne l'ai pas corrigée tout de suite. Une minute. Juste une.",
+     1.6
+    ],
+    [
+     "On ne rattrape jamais le temps perdu. Mais parfois, la vie te laisse arriver à l'*heure*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j159_pere",
+   "perso": "pere",
+   "episode": 160,
+   "fin": "Envoie-la à quelqu'un qui passe devant la maison de son enfance.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Un autre enfant dort dans ma chambre.",
+   "legende": "J'avais peur de trouver une maison morte. J'ai trouvé une maison qui continue. Tu es déjà retourné dans la maison de ton enfance ? #papa #pere #souvenirs #maison #emotion #pourtoi",
+   "phrases": [
+    [
+     "Il y a vingt ans, j'ai vendu la maison de mes parents sans y retourner une dernière *fois*.",
+     1.3
+    ],
+    [
+     "J'ai tout fait par téléphone et par courrier. Le notaire, les meubles, les clés.",
+     1.2
+    ],
+    [
+     "Je disais que je n'avais pas le temps. La vérité, c'est que j'avais peur.",
+     1.4
+    ],
+    [
+     "Peur de voir ma chambre vide. Peur de l'odeur du couloir.",
+     1.2
+    ],
+    [
+     "Le mois dernier, je suis passé devant. J'ai sonné. Je ne sais pas pourquoi.",
+     1.4
+    ],
+    [
+     "Une jeune femme a ouvert, avec un bébé dans les bras. Elle m'a fait entrer.",
+     1.2
+    ],
+    [
+     "Tout était plus petit. La cuisine, le jardin, l'escalier.",
+     1.4
+    ],
+    [
+     "Dans mon souvenir, l'escalier était une montagne. Il a onze marches.",
+     1.4
+    ],
+    [
+     "Ce ne sont pas les maisons qui rétrécissent. C'est nous qui grandissons.",
+     1.6
+    ],
+    [
+     "Et puis, dans ma chambre, j'ai vu un petit lit. Exactement à la place du mien.",
+     1.6
+    ],
+    [
+     "Sous la même fenêtre. Face au même cerisier.",
+     1.8
+    ],
+    [
+     "Un autre enfant regarde mon arbre en s'endormant.",
+     1.6
+    ],
+    [
+     "J'avais peur de trouver une maison morte. J'ai trouvé une maison qui continue.",
+     1.4
+    ],
+    [
+     "Les lieux qu'on a aimés ne nous attendent pas. Ils accueillent les *suivants*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j159_mere",
+   "perso": "mere",
+   "episode": 160,
+   "fin": "Envoie-la à quelqu'un qui n'a plus le temps d'écrire.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Mon agenda s'arrête en mars.",
+   "legende": "Les années les plus pleines laissent souvent les agendas vides. C'est quoi, l'année la plus pleine de ta vie ? #maman #mere #naissance #souvenirs #emotion #pourtoi",
+   "phrases": [
+    [
+     "L'agenda de l'année de ta naissance s'arrête au mois de *mars*.",
+     1.3
+    ],
+    [
+     "Avant, j'y notais tout. Les rendez-vous, les anniversaires, les courses, les idées.",
+     1.2
+    ],
+    [
+     "J'avais une écriture soignée et des stylos de quatre couleurs.",
+     1.2
+    ],
+    [
+     "Tu es né le douze mars. Et après, plus rien. Des pages blanches jusqu'en décembre.",
+     1.4
+    ],
+    [
+     "Je n'avais plus le temps d'écrire. Plus le temps de rien.",
+     1.2
+    ],
+    [
+     "Je ne savais même plus quel jour on était. Seulement l'heure de ton prochain biberon.",
+     1.4
+    ],
+    [
+     "Pendant des années, j'ai cru que c'était l'année perdue de ma vie.",
+     1.4
+    ],
+    [
+     "Et puis, en le rangeant, j'ai trouvé une seule ligne. Au mois de juin.",
+     1.6
+    ],
+    [
+     "Écrite au crayon, de travers, sans doute à trois heures du matin.",
+     1.4
+    ],
+    [
+     "Il a souri. À moi.",
+     1.8
+    ],
+    [
+     "C'est tout ce que j'ai noté cette année-là. Et c'est tout ce qui comptait.",
+     1.6
+    ],
+    [
+     "Les années les plus pleines laissent souvent les agendas vides.",
+     1.4
+    ],
+    [
+     "Si un jour tes pages restent blanches, ne t'inquiète pas.",
+     1.2
+    ],
+    [
+     "C'est peut-être que tu es en train de *vivre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j159_fou",
+   "perso": "fou",
+   "episode": 159,
+   "fin": "Envoie-la à quelqu'un qui remet toujours à plus tard.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Un livre écrit avec une paupière.",
+   "legende": "Il ne lui restait qu'une paupière. Il a écrit un livre. Toi, qu'est-ce que tu attends pour commencer ? #motivation #histoire #courage #livre #resilience #pourtoi",
+   "phrases": [
+    [
+     "Un homme a écrit un livre entier avec une seule *paupière*.",
+     1.3
+    ],
+    [
+     "En décembre mille neuf cent quatre-vingt-quinze, il a quarante-trois ans. Il est rédacteur en chef d'un grand magazine.",
+     1.2
+    ],
+    [
+     "Un accident vasculaire le frappe. Il se réveille quelques semaines plus tard.",
+     1.2
+    ],
+    [
+     "Il entend tout. Il comprend tout. Mais il ne peut plus bouger. Ni parler.",
+     1.4
+    ],
+    [
+     "Seule sa paupière gauche lui obéit encore.",
+     1.6
+    ],
+    [
+     "Les médecins parlent de syndrome d'enfermement. Lui se sent prisonnier d'un scaphandre.",
+     1.4
+    ],
+    [
+     "Une orthophoniste lui récite l'alphabet, lettre par lettre.",
+     1.2
+    ],
+    [
+     "Quand elle arrive à la bonne, il cligne de l'œil.",
+     1.2
+    ],
+    [
+     "Chaque mot prend de longues minutes. Chaque page, des heures.",
+     1.4
+    ],
+    [
+     "La nuit, il prépare ses phrases dans sa tête.",
+     1.4
+    ],
+    [
+     "Le livre paraît en mars mille neuf cent quatre-vingt-dix-sept : le Scaphandre et le Papillon.",
+     1.6
+    ],
+    [
+     "C'est un immense succès. Il meurt quelques jours après sa sortie.",
+     1.8
+    ],
+    [
+     "Il s'appelait Jean-Dominique Bauby. Son livre parle encore pour lui.",
+     1.6
+    ],
+    [
+     "Toi, tu as deux mains, une voix, et des journées entières.",
+     1.4
+    ],
+    [
+     "Alors ce que tu as à dire, *commence*. Même une lettre à la fois.",
+     0
+    ]
+   ]
+  }
+ ]
+}

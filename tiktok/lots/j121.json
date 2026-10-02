@@ -1,0 +1,356 @@
+{
+ "nom": "j121",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j121_grandmere",
+   "perso": "grandmere",
+   "episode": 122,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas prendre la parole.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Si la Jeanne ose, moi aussi.",
+   "legende": "Le courage, ça s'attrape. Comme un rhume. Et toi, qui t'a donné le courage de te lever un jour ? #grandmere #courage #parlerenpublic #village #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix-huit, j'ai pris la *parole* au conseil municipal. Mes genoux claquaient.",
+     1.3
+    ],
+    [
+     "Le maire voulait fermer l'école du village. Douze élèves, ce n'était plus rentable.",
+     1.2
+    ],
+    [
+     "Au café, tout le monde râlait. À la réunion, personne ne levait la main.",
+     1.2
+    ],
+    [
+     "Moi, je n'avais jamais parlé devant plus de trois personnes.",
+     1.4
+    ],
+    [
+     "Je me suis levée avec ma feuille de cahier. Elle tremblait tellement que je ne pouvais plus lire.",
+     1.6
+    ],
+    [
+     "Alors je l'ai posée. Et j'ai parlé de ton père, qui apprenait à lire dans cette école.",
+     1.4
+    ],
+    [
+     "Ma voix tremblait. Je n'ai pas fini ma phrase. Je me suis rassise, toute rouge.",
+     1.4
+    ],
+    [
+     "Et là, au fond de la salle, le vieux Firmin s'est levé. Il ne parlait jamais à personne.",
+     1.6
+    ],
+    [
+     "Il a dit : si la Jeanne ose, moi aussi. Puis un autre s'est levé. Puis dix autres.",
+     1.8
+    ],
+    [
+     "L'école est restée ouverte vingt ans de plus.",
+     1.4
+    ],
+    [
+     "Le *courage*, ça s'attrape. Comme un rhume.",
+     1.4
+    ],
+    [
+     "Ta voix peut trembler. Ce n'est pas grave. Elle donne du courage à ceux qui se taisent.",
+     1.2
+    ],
+    [
+     "Alors lève-toi en premier. Les autres attendent juste que quelqu'un *commence*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j121_grandpere",
+   "perso": "grandpere",
+   "episode": 123,
+   "fin": "Envoie-la à quelqu'un qui défend ses amis.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "J'ai rendu ses clés au notaire.",
+   "legende": "Ce que tu laisses passer devant toi, tu l'acceptes un peu. Et toi, as-tu déjà perdu quelque chose pour défendre quelqu'un ? #grandpere #courage #respect #amitie #travail #pourtoi",
+   "phrases": [
+    [
+     "Un jour, j'ai rendu ses *clés* au client le plus riche de la ville.",
+     1.3
+    ],
+    [
+     "J'avais un petit garage. Deux ouvriers. Et Mourad, le meilleur mécanicien que j'aie connu.",
+     1.2
+    ],
+    [
+     "Ce matin-là, le notaire est arrivé. Mourad est allé l'accueillir.",
+     1.2
+    ],
+    [
+     "Le notaire a reculé. Il a dit : je ne veux pas que ce type touche à ma voiture.",
+     1.4
+    ],
+    [
+     "Mourad a baissé les yeux. Comme s'il avait l'habitude.",
+     1.6
+    ],
+    [
+     "J'ai pris ses clés sur le comptoir. Et je les lui ai rendues.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : ici, c'est lui le meilleur. Allez voir ailleurs.",
+     1.6
+    ],
+    [
+     "J'avais quatre enfants. Le notaire, c'était un quart de mon travail.",
+     1.4
+    ],
+    [
+     "Il est parti. Ses amis aussi. Pendant un an, on a eu du mal.",
+     1.4
+    ],
+    [
+     "Mourad n'a jamais parlé de ce jour-là. Mais il ne m'a jamais quitté.",
+     1.4
+    ],
+    [
+     "Quand j'ai pris ma retraite, c'est lui qui a racheté le garage.",
+     1.6
+    ],
+    [
+     "Il n'a pas changé l'enseigne. Mon nom est toujours au-dessus de la porte.",
+     1.8
+    ],
+    [
+     "Ce que tu laisses passer devant toi, tu l'acceptes un peu.",
+     1.2
+    ],
+    [
+     "Un client, ça se remplace. Un ami qui baisse les yeux, *jamais*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j121_pere",
+   "perso": "pere",
+   "episode": 122,
+   "fin": "Envoie-la à quelqu'un qui a peur de renoncer.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Le sommet était à deux cents mètres.",
+   "legende": "Faire demi-tour, ce n'est pas renoncer. C'est garder le droit de revenir. Et toi, quel demi-tour t'a sauvé ? #papa #pere #montagne #courage #sagesse #pourtoi",
+   "phrases": [
+    [
+     "Le sommet était à deux cents mètres. Je t'ai dit : on fait *demi-tour*.",
+     1.3
+    ],
+    [
+     "Tu avais quatorze ans. C'était notre premier vrai sommet, tous les deux.",
+     1.2
+    ],
+    [
+     "On était partis à cinq heures du matin. Tu en parlais depuis un an.",
+     1.2
+    ],
+    [
+     "Au dernier col, j'ai vu les nuages arriver derrière la crête. Gris, puis noirs.",
+     1.4
+    ],
+    [
+     "Toi, tu ne les voyais pas. Tu ne voyais que la croix, là-haut.",
+     1.4
+    ],
+    [
+     "Tu as pleuré de rage. Tu m'as dit que j'avais peur. Que je gâchais tout.",
+     1.6
+    ],
+    [
+     "Un groupe nous a dépassés en riant. Eux, ils continuaient.",
+     1.4
+    ],
+    [
+     "On est redescendus sans un mot. Tu marchais dix mètres devant moi.",
+     1.4
+    ],
+    [
+     "Au refuge, l'orage a éclaté. La grêle, les éclairs. Les vitres tremblaient.",
+     1.6
+    ],
+    [
+     "Le soir, on a entendu l'hélicoptère. Il allait chercher le groupe, coincé là-haut.",
+     1.8
+    ],
+    [
+     "Tu ne m'as rien dit. Tu as juste posé ta tête sur mon épaule.",
+     1.6
+    ],
+    [
+     "On y est retournés l'été suivant. Le sommet n'avait pas bougé.",
+     1.4
+    ],
+    [
+     "Faire demi-tour, ce n'est pas *renoncer*. C'est garder le droit de revenir.",
+     1.2
+    ],
+    [
+     "La montagne attend toujours. Ceux qui ne savent pas redescendre, pas toujours.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j121_mere",
+   "perso": "mere",
+   "episode": 122,
+   "fin": "Envoie-la à quelqu'un qui a peur de conduire.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Maman, prends l'autoroute.",
+   "legende": "Je croyais qu'il fallait ne plus avoir peur pour avancer. Il faut juste quelqu'un qui chante faux à côté de toi. Et toi, qui chante à côté de toi quand tu as peur ? #maman #mere #peur #humour #famille #pourtoi",
+   "phrases": [
+    [
+     "Pendant quinze ans, je n'ai jamais pris l'*autoroute*. Jamais.",
+     1.3
+    ],
+    [
+     "C'est ton père qui conduisait. Moi, je tenais la carte et les sandwichs.",
+     1.2
+    ],
+    [
+     "Après le divorce, il n'y avait plus personne pour conduire. Il y avait juste moi.",
+     1.2
+    ],
+    [
+     "Cette année-là, tu étais qualifié pour une compétition de gymnastique. À trois cents kilomètres.",
+     1.4
+    ],
+    [
+     "J'ai étudié les petites routes. Ça faisait sept heures de trajet.",
+     1.2
+    ],
+    [
+     "Tu m'as regardée avec tes yeux de dix ans. Tu as dit : maman, prends l'autoroute.",
+     1.4
+    ],
+    [
+     "Sur la bretelle, mes mains collaient au volant. Je roulais à quatre-vingts, tout à droite.",
+     1.6
+    ],
+    [
+     "Les camions me doublaient en klaxonnant. Je n'arrivais plus à respirer.",
+     1.4
+    ],
+    [
+     "Alors tu t'es mis à chanter. Faux, très fort, toutes les chansons de la radio.",
+     1.6
+    ],
+    [
+     "Puis tu lisais les panneaux à voix haute. Comme un copilote de rallye.",
+     1.4
+    ],
+    [
+     "Au bout d'une heure, je chantais avec toi. Au bout de deux, je doublais les camions.",
+     1.8
+    ],
+    [
+     "Tu as fini quatrième. On a fêté ça comme une médaille d'or.",
+     1.4
+    ],
+    [
+     "Je croyais qu'il fallait ne plus avoir peur pour avancer.",
+     1.2
+    ],
+    [
+     "Il faut juste quelqu'un qui *chante* faux à côté de toi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j121_fou",
+   "perso": "fou",
+   "episode": 121,
+   "fin": "Envoie-la à quelqu'un qui a peur de commencer.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Il n'a jamais fini sa course.",
+   "legende": "Il n'a jamais fini sa course. Des millions de gens l'ont continuée pour lui. Et toi, quel premier pas repousses-tu depuis trop longtemps ? #motivation #histoirevraie #courage #terryfox #perseverance #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt, un jeune homme trempe sa jambe *artificielle* dans l'océan Atlantique.",
+     1.3
+    ],
+    [
+     "Il s'appelle Terry Fox. Il a vingt et un ans. Il est canadien.",
+     1.2
+    ],
+    [
+     "Trois ans plus tôt, un cancer des os lui a pris la jambe droite.",
+     1.2
+    ],
+    [
+     "À l'hôpital, il a vu des enfants souffrir. Il s'est fait une promesse.",
+     1.4
+    ],
+    [
+     "Traverser le Canada en courant, d'un océan à l'autre. Pour la recherche contre le cancer.",
+     1.4
+    ],
+    [
+     "Il court l'équivalent d'un marathon par jour. Avec sa jambe artificielle. Sous la pluie, dans le vent.",
+     1.4
+    ],
+    [
+     "Après cent quarante-trois jours et plus de cinq mille kilomètres, il s'arrête. Le cancer est revenu, dans ses poumons.",
+     1.6
+    ],
+    [
+     "Il meurt l'année suivante. Il avait vingt-deux ans.",
+     1.8
+    ],
+    [
+     "Il n'a jamais fini sa course. Mais depuis, des millions de gens ont couru en son nom.",
+     1.6
+    ],
+    [
+     "Sa course a rapporté des centaines de millions pour la recherche.",
+     1.4
+    ],
+    [
+     "Toi, tu as peut-être peur de commencer quelque chose que tu ne pourras pas *finir*.",
+     1.2
+    ],
+    [
+     "Terry non plus n'a pas fini.",
+     1.4
+    ],
+    [
+     "Ce n'est pas la ligne d'arrivée qui compte. C'est le premier pas dans l'*océan*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

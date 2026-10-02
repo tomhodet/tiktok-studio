@@ -1,0 +1,364 @@
+{
+ "nom": "j174",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j174_grandmere",
+   "perso": "grandmere",
+   "episode": 175,
+   "fin": "Envoie-la à quelqu'un qui connaît un poème par cœur.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Il ne savait plus mon prénom.",
+   "legende": "Ce qu'on répète mille fois descend plus profond que la mémoire. Et toi, qu'est-ce que tu sais par cœur ? #grandmere #amour #memoire #habitudes #emotion #pourtoi",
+   "phrases": [
+    [
+     "Depuis mes douze ans, j'apprends un *poème* par cœur chaque dimanche. Plus de trois mille.",
+     1.3
+    ],
+    [
+     "Mon institutrice disait : ce que tu sais par cœur, personne ne peut te le prendre.",
+     1.2
+    ],
+    [
+     "Je les apprenais en étendant le linge, en épluchant les légumes.",
+     1.2
+    ],
+    [
+     "Ton grand-père se moquait. Lui ne retenait même pas la liste des courses.",
+     1.4
+    ],
+    [
+     "Il y a cinq ans, sa mémoire a commencé à partir. D'abord les clés. Puis les prénoms.",
+     1.4
+    ],
+    [
+     "Un soir, il ne m'a pas reconnue. Il m'a demandé poliment qui j'étais.",
+     1.6
+    ],
+    [
+     "Je me suis assise près de lui. Je lui ai récité le poème qu'il aimait quand on avait vingt ans.",
+     1.4
+    ],
+    [
+     "Au troisième vers, il a fermé les yeux. Et il a dit la suite avec moi.",
+     1.6
+    ],
+    [
+     "Lui qui se moquait. Il l'avait appris sans le vouloir, à force de m'entendre.",
+     1.4
+    ],
+    [
+     "À la fin, il m'a regardée. Il a dit : c'est *toi*.",
+     1.8
+    ],
+    [
+     "Ce qu'on répète mille fois descend plus profond que la mémoire.",
+     1.4
+    ],
+    [
+     "Apprends des choses par cœur. Des poèmes, des chansons, ce que tu veux.",
+     1.2
+    ],
+    [
+     "Un jour, ce seront les dernières *portes* encore ouvertes.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j174_grandpere",
+   "perso": "grandpere",
+   "episode": 176,
+   "fin": "Envoie-la à quelqu'un qui a honte de ne pas savoir.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Un autre lisait mes lettres d'amour.",
+   "legende": "Il n'y a pas de honte à ne pas savoir. La honte, c'est de laisser quelqu'un lire à ta place. Qu'est-ce que tu as appris tout seul, en cachette ? #grandpere #amour #apprendre #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "Au service militaire, un autre soldat lisait les *lettres* de ta grand-mère à ma place.",
+     1.3
+    ],
+    [
+     "J'avais vingt ans. Je ne savais pas lire. Je l'avais toujours caché.",
+     1.4
+    ],
+    [
+     "À douze ans, j'étais déjà aux champs.",
+     1.2
+    ],
+    [
+     "Ta grand-mère m'écrivait toutes les semaines. Deux pages, d'une belle écriture.",
+     1.2
+    ],
+    [
+     "Marcel, un gars de Lyon, me les lisait. À voix haute, devant toute la chambrée.",
+     1.2
+    ],
+    [
+     "Les autres riaient aux passages tendres.",
+     1.4
+    ],
+    [
+     "Un soir, j'ai demandé au caporal de m'apprendre. Il m'a donné un vieux journal et un crayon.",
+     1.2
+    ],
+    [
+     "Je travaillais tous les soirs après l'extinction des feux, avec une lampe sous la couverture.",
+     1.2
+    ],
+    [
+     "Une lettre, puis un mot, puis une phrase. Six mois.",
+     1.4
+    ],
+    [
+     "Un jour, j'ai repris la lettre des mains de Marcel. Je l'ai lue seul, aux toilettes.",
+     1.6
+    ],
+    [
+     "En bas, elle avait écrit : je t'attends. Il m'avait fallu six mois pour lire ces deux *mots*.",
+     1.8
+    ],
+    [
+     "Ta grand-mère ne l'a jamais su. Jusqu'à aujourd'hui.",
+     1.4
+    ],
+    [
+     "Il n'y a pas de honte à ne pas savoir. La honte, c'est de laisser quelqu'un lire à ta place.",
+     1.4
+    ],
+    [
+     "Ce qui compte pour toi, apprends à le lire *seul*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j174_pere",
+   "perso": "pere",
+   "episode": 175,
+   "fin": "Envoie-la à quelqu'un qui bricole le samedi.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Mes enfants n'auront jamais froid.",
+   "legende": "Tu croyais que je réparais une maison. Je réparais mon enfance. Qu'est-ce que ton père réparait, sans le dire ? #papa #pere #emotion #enfance #sacrifice #pourtoi",
+   "phrases": [
+    [
+     "Pendant quinze ans, j'ai passé tous mes samedis sur un *escabeau*.",
+     1.3
+    ],
+    [
+     "Tu disais que j'aimais plus la maison que toi. Tu boudais dans le jardin.",
+     1.2
+    ],
+    [
+     "Une pièce par an. Le toit, les fenêtres, les murs, le chauffage.",
+     1.2
+    ],
+    [
+     "Je n'avais pas les moyens de payer un artisan. Alors j'apprenais dans des livres, le soir.",
+     1.2
+    ],
+    [
+     "Je me suis trompé souvent. J'ai refait trois fois le carrelage de la salle de bains.",
+     1.2
+    ],
+    [
+     "Ta mère m'appelait le chantier permanent. Elle n'avait pas tort.",
+     1.4
+    ],
+    [
+     "Ce que tu ne savais pas, c'est comment j'ai grandi.",
+     1.4
+    ],
+    [
+     "Un appartement humide, au rez-de-chaussée. Les murs étaient noirs de moisissure.",
+     1.2
+    ],
+    [
+     "Mon petit frère toussait tout l'hiver. Ma mère dormait contre lui pour le réchauffer.",
+     1.6
+    ],
+    [
+     "Je m'étais juré une chose. Mes enfants n'auront jamais *froid*.",
+     1.8
+    ],
+    [
+     "Tu ne t'en es jamais rendu compte. C'était le but.",
+     1.4
+    ],
+    [
+     "L'hiver dernier, tu m'as appelé de ton nouvel appartement. Tu as dit : papa, les murs sont humides.",
+     1.2
+    ],
+    [
+     "Samedi, je viens avec mon escabeau.",
+     1.6
+    ],
+    [
+     "Tu croyais que je réparais une maison. Je réparais mon *enfance*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j174_mere",
+   "perso": "mere",
+   "episode": 175,
+   "fin": "Envoie-la à quelqu'un qui a appris ta langue pour te parler.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Je t'ai battu. Deux fois de suite.",
+   "legende": "Quand quelqu'un ferme sa porte, apprends à entrer par la fenêtre. Qu'est-ce que tu as appris juste pour te rapprocher de quelqu'un ? #maman #mere #ado #humour #emotion #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais quinze ans, j'ai joué à ton jeu *vidéo* en cachette. Pendant six mois.",
+     1.3
+    ],
+    [
+     "Tu ne me parlais plus. Tu rentrais, tu jouais jusqu'à minuit.",
+     1.2
+    ],
+    [
+     "Ta porte était fermée. Ton jeu, lui, était ouvert à tout le monde.",
+     1.4
+    ],
+    [
+     "Le mercredi, pendant que tu étais au sport, je m'entraînais dans ton fauteuil.",
+     1.2
+    ],
+    [
+     "J'étais nulle. Je mourais au bout de dix secondes. Je ne savais même pas tenir la manette.",
+     1.2
+    ],
+    [
+     "J'ai noté les touches sur un papier, comme une recette de cuisine.",
+     1.4
+    ],
+    [
+     "Au bout de six mois, je t'ai proposé une partie. Tu as ri. Tu as dit : vas-y, maman.",
+     1.6
+    ],
+    [
+     "Je t'ai *battu*. Deux fois de suite.",
+     1.8
+    ],
+    [
+     "Tu m'as regardée comme si je venais d'une autre planète. Puis tu as dit : encore une.",
+     1.4
+    ],
+    [
+     "On a joué jusqu'à une heure du matin.",
+     1.2
+    ],
+    [
+     "Entre deux parties, tu m'as parlé de tout. Du lycée, de tes amis, d'une fille.",
+     1.4
+    ],
+    [
+     "Tout ce que tu ne disais plus à table.",
+     1.4
+    ],
+    [
+     "Je n'aimais pas ce jeu. Je ne l'aime toujours pas.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un ferme sa porte, apprends à entrer par la *fenêtre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j174_fou",
+   "perso": "fou",
+   "episode": 174,
+   "fin": "Envoie-la à quelqu'un qui vient de tout perdre.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Son bateau coule. Il entre chez un libraire.",
+   "legende": "J'ai fait une bonne traversée le jour où j'ai fait naufrage. Dans quelle boutique ton naufrage t'a-t-il fait entrer, toi ? #motivation #stoicisme #zenon #philosophie #echec #pourtoi",
+   "phrases": [
+    [
+     "Un marchand perd tout dans un naufrage. Son bateau *coule* près d'Athènes.",
+     1.3
+    ],
+    [
+     "Il transportait de la pourpre, une teinture rare et précieuse.",
+     1.2
+    ],
+    [
+     "Il arrive en ville sans rien. Il s'assoit dans la boutique d'un libraire.",
+     1.2
+    ],
+    [
+     "Il prend un livre sur un certain Socrate. Il ne peut plus s'arrêter de lire.",
+     1.4
+    ],
+    [
+     "Il demande au libraire : où peut-on trouver des hommes comme celui-là ?",
+     1.4
+    ],
+    [
+     "À cet instant, un philosophe passe dans la rue. Le libraire le montre du doigt : suis cet homme.",
+     1.6
+    ],
+    [
+     "Le marchand le suit. Il devient son élève.",
+     1.4
+    ],
+    [
+     "Des années plus tard, il ouvre sa propre école, sous un portique peint, au cœur d'Athènes.",
+     1.2
+    ],
+    [
+     "En grec, portique se dit stoa. Ses élèves deviennent les *stoïciens*.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Zénon. De son naufrage, il a dit une phrase restée célèbre.",
+     1.6
+    ],
+    [
+     "J'ai fait une bonne traversée le jour où j'ai fait naufrage.",
+     1.8
+    ],
+    [
+     "Des siècles plus tard, un esclave et un empereur suivaient encore ses leçons.",
+     1.4
+    ],
+    [
+     "Toi aussi, un jour, ton bateau coulera peut-être.",
+     1.2
+    ],
+    [
+     "Ne regarde pas seulement ce que tu as perdu dans l'eau.",
+     1.2
+    ],
+    [
+     "Regarde dans quelle boutique le *naufrage* t'a fait entrer.",
+     0
+    ]
+   ]
+  }
+ ]
+}

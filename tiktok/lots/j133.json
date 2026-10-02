@@ -1,0 +1,344 @@
+{
+ "nom": "j133",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j133_grandmere",
+   "perso": "grandmere",
+   "episode": 134,
+   "fin": "Envoie-la à quelqu'un à qui on reproche d'être lent.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "On m'appelait la Tortue.",
+   "legende": "Les rapides, on les remarque. Les sûrs, on les garde. Et toi, on t'a déjà reproché d'être trop lent ? #grandmere #pourtoi #travail #usine #lenteur #conseildevie",
+   "phrases": [
+    [
+     "À l'usine de biscuits, on m'appelait la *Tortue*. J'étais la plus lente de la chaîne.",
+     1.4
+    ],
+    [
+     "Les autres filles emballaient trois cents paquets à l'heure. Moi, deux cents.",
+     1.2
+    ],
+    [
+     "Le contremaître passait derrière moi en soufflant. Il disait : alors, la Tortue, on dort ?",
+     1.4
+    ],
+    [
+     "J'avais honte. Le soir, je m'entraînais sur la table de la cuisine.",
+     1.4
+    ],
+    [
+     "Rien à faire. Mes mains vérifiaient chaque paquet. Je n'arrivais pas à m'en empêcher.",
+     1.4
+    ],
+    [
+     "Un jour de mille neuf cent soixante-dix, un client a renvoyé tout un camion. Des paquets mal fermés.",
+     1.2
+    ],
+    [
+     "Le directeur a fait ouvrir les cartons, un par un, pour trouver la chaîne responsable.",
+     1.4
+    ],
+    [
+     "Tous les paquets mal fermés venaient des chaînes rapides. Pas un seul des *miens*.",
+     1.8
+    ],
+    [
+     "Le lundi, on m'a nommée au contrôle. C'est moi qui vérifiais le travail des autres.",
+     1.6
+    ],
+    [
+     "Le contremaître m'appelait toujours la Tortue. Mais il frappait avant d'entrer.",
+     1.6
+    ],
+    [
+     "Dans la fable, la tortue gagne la course. Dans la vie, elle gagne surtout la confiance.",
+     1.4
+    ],
+    [
+     "Va à ton rythme. Mais fais-le bien.",
+     1.4
+    ],
+    [
+     "Les rapides, on les remarque. Les sûrs, on les *garde*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j133_grandpere",
+   "perso": "grandpere",
+   "episode": 135,
+   "fin": "Envoie-la à quelqu'un qui tient parole jusqu'au bout.",
+   "lueurs": [
+    1,
+    10,
+    12
+   ],
+   "accroche": "J'ai coulé le bateau d'un autre.",
+   "legende": "On peut couler un bateau. On ne coule pas un homme qui paie ses dettes. Et toi, quelle dette d'honneur as-tu déjà remboursée ? #grandpere #pourtoi #honneur #mer #dette #conseildevie",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-quatorze, j'ai coulé un bateau qui n'était pas à moi.",
+     1.4
+    ],
+    [
+     "J'étais patron de pêche. Le bateau appartenait à un vieil armateur du port.",
+     1.2
+    ],
+    [
+     "Ce soir-là, la radio annonçait un coup de vent. Je suis sorti quand même.",
+     1.4
+    ],
+    [
+     "À trois heures du matin, une vague nous a couchés. On est tous rentrés, sauf le bateau.",
+     1.6
+    ],
+    [
+     "Je suis allé chez le vieux. Je lui ai dit : je vous rembourserai, jusqu'au dernier franc.",
+     1.4
+    ],
+    [
+     "Pendant onze ans, chaque premier du mois, j'ai glissé une *enveloppe* sous sa porte.",
+     1.4
+    ],
+    [
+     "Il ne m'a jamais dit merci. Il ne m'a jamais dit assez non plus.",
+     1.6
+    ],
+    [
+     "Le jour de la dernière enveloppe, il m'a ouvert. Pour la première fois.",
+     1.4
+    ],
+    [
+     "Il m'a servi un verre. À trente ans, lui aussi avait coulé le bateau de son patron.",
+     1.6
+    ],
+    [
+     "Il avait remboursé pendant quinze ans. Il a dit : si je t'avais arrêté, je t'aurais volé ta *fierté*.",
+     1.8
+    ],
+    [
+     "Une dette d'honneur, ce n'est pas de l'argent qu'on rend. C'est un homme qu'on devient.",
+     1.4
+    ],
+    [
+     "On peut couler un bateau. On ne coule pas un homme qui paie ses *dettes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j133_pere",
+   "perso": "pere",
+   "episode": 134,
+   "fin": "Envoie-la à quelqu'un qui a repris l'affaire de ses parents.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "La dernière fournée, on la fait à deux.",
+   "legende": "Il m'a dit : moi, je n'aurais jamais eu le courage de fermer. Et toi, qui t'a aidé à fermer une porte ? #papa #pere #pourtoi #faillite #boulangerie #emotion",
+   "phrases": [
+    [
+     "J'ai repris la boulangerie de mon père. Deux ans plus tard, je l'ai *fermée*.",
+     1.6
+    ],
+    [
+     "Quarante ans qu'il se levait à trois heures. Le pain de tout le quartier.",
+     1.2
+    ],
+    [
+     "Quand il a pris sa retraite, j'ai dit : je reprends. Personne ne m'a cru capable.",
+     1.2
+    ],
+    [
+     "Ils avaient raison. Mon pain était correct. Mes comptes étaient catastrophiques.",
+     1.4
+    ],
+    [
+     "Les dettes ont gonflé plus vite que la pâte.",
+     1.4
+    ],
+    [
+     "Le jour où j'ai décidé de fermer, je n'ai pas osé le lui dire en face.",
+     1.4
+    ],
+    [
+     "Je lui ai écrit une lettre. Je l'ai glissée dans sa boîte, comme un voleur.",
+     1.4
+    ],
+    [
+     "Le dernier matin, à trois heures, j'ai entendu la porte de derrière.",
+     1.6
+    ],
+    [
+     "C'était lui. Avec son vieux tablier. Il a dit : la dernière fournée, on la fait à *deux*.",
+     1.8
+    ],
+    [
+     "On a pétri sans parler. Comme quand j'avais dix ans.",
+     1.6
+    ],
+    [
+     "À sept heures, il a retourné la pancarte. Puis il m'a serré dans ses bras, plein de farine.",
+     1.6
+    ],
+    [
+     "Il m'a dit : moi, je n'aurais jamais eu le courage de fermer.",
+     1.6
+    ],
+    [
+     "Si un jour tu dois fermer une porte, appelle-moi. Je sais encore faire le *pain*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j133_mere",
+   "perso": "mere",
+   "episode": 134,
+   "fin": "Envoie-la à quelqu'un qui vient de rater un examen.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Tu avais honte de moi, ce dimanche-là ?",
+   "legende": "Son échec dure un an. Ta honte, il s'en souviendra toute sa vie. Et toi, quelqu'un a-t-il déjà caché ton échec ? #maman #mere #pourtoi #echec #honte #famille",
+   "phrases": [
+    [
+     "Le jour où tu as raté ta première année de médecine, j'ai menti à toute la *famille*.",
+     1.6
+    ],
+    [
+     "Au repas du dimanche, ta tante a demandé tes résultats. J'ai dit que tu changeais de voie.",
+     1.2
+    ],
+    [
+     "Que c'était ton choix. Que tu avais trouvé mieux.",
+     1.2
+    ],
+    [
+     "Tout le monde a hoché la tête. Ton oncle a dit : sage décision.",
+     1.4
+    ],
+    [
+     "J'étais soulagée. Personne ne saurait.",
+     1.4
+    ],
+    [
+     "Toi, tu étais dans le couloir. Tu as tout entendu.",
+     1.6
+    ],
+    [
+     "Tu n'as rien dit pendant des mois.",
+     1.4
+    ],
+    [
+     "Puis un soir, tu m'as demandé : tu avais honte de moi, ce dimanche-là ?",
+     1.6
+    ],
+    [
+     "J'ai voulu dire non. Mais c'était oui. J'avais *honte*.",
+     1.8
+    ],
+    [
+     "Pas de toi. De ce qu'ils allaient penser de la mère.",
+     1.4
+    ],
+    [
+     "Tu m'as dit : j'avais raté un examen. Toi, tu as raté l'occasion de me défendre.",
+     1.8
+    ],
+    [
+     "Tu avais raison. Ce dimanche-là, tu n'avais pas besoin d'une belle histoire. Tu avais besoin de moi.",
+     1.4
+    ],
+    [
+     "Si un jour ton enfant échoue, ne cache pas son échec. Porte-le avec lui.",
+     1.4
+    ],
+    [
+     "Son échec dure un an. Ta honte, il s'en souviendra toute sa *vie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j133_fou",
+   "perso": "fou",
+   "episode": 133,
+   "fin": "Envoie-la à quelqu'un qui traverse une année mince.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Tu peux lire ses mauvaises années.",
+   "legende": "Un jour, quelqu'un regardera ta vie de l'intérieur. Il verra surtout que tu as continué. Et toi, c'était quand, ta pire année ? #motivation #pourtoi #nature #arbre #resilience #conseildevie",
+   "phrases": [
+    [
+     "Sur la souche d'un vieil arbre, tu peux lire toutes ses mauvaises *années*.",
+     1.4
+    ],
+    [
+     "Chaque année, sous l'écorce, il ajoute une couche de bois. Un cercle de plus.",
+     1.2
+    ],
+    [
+     "Les années de pluie, le cercle est large. Les années de sécheresse, il est mince comme un fil.",
+     1.4
+    ],
+    [
+     "Si un incendie l'a blessé, la cicatrice est là. Noire, enfouie dans le bois.",
+     1.4
+    ],
+    [
+     "Des scientifiques lisent ces cercles pour connaître les sécheresses et les incendies d'il y a des siècles.",
+     1.4
+    ],
+    [
+     "L'arbre n'a rien oublié. Rien effacé. Tout est écrit, de l'intérieur.",
+     1.4
+    ],
+    [
+     "Mais regarde bien. Il n'a jamais arrêté d'ajouter des *cercles*.",
+     1.6
+    ],
+    [
+     "Après les années minces, il y a eu d'autres années. La cicatrice a été recouverte.",
+     1.6
+    ],
+    [
+     "Toi, tu voudrais peut-être effacer tes mauvaises années. L'échec, la honte, le jour où tout a brûlé.",
+     1.2
+    ],
+    [
+     "Tu ne peux pas. Elles font partie de toi. Pour toujours.",
+     1.4
+    ],
+    [
+     "Mais tu peux faire comme l'arbre. Ajouter un cercle. Puis un autre.",
+     1.4
+    ],
+    [
+     "Un jour, quelqu'un regardera ta vie de l'intérieur. Il verra les années minces.",
+     1.6
+    ],
+    [
+     "Et il verra surtout que tu as *continué*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

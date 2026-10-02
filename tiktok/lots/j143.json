@@ -1,0 +1,364 @@
+{
+ "nom": "j143",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j143_grandmere",
+   "perso": "grandmere",
+   "episode": 144,
+   "fin": "Envoie-la à quelqu'un dont on ne regarde jamais le travail.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'avais honte de mon père.",
+   "legende": "Elle a mis dix secondes à changer ma vie. Elle ne l'a jamais su. À qui as-tu dit merci aujourd'hui ? #grandmere #gentillesse #merci #pere #respect #pourtoi",
+   "phrases": [
+    [
+     "Quand j'étais petite, j'avais *honte* de mon père. Il ramassait les poubelles.",
+     1.3
+    ],
+    [
+     "Le matin, il passait sous ma fenêtre, accroché à l'arrière du camion.",
+     1.2
+    ],
+    [
+     "À l'école, je disais qu'il travaillait à la mairie. Ce n'était pas tout à fait faux.",
+     1.2
+    ],
+    [
+     "Un samedi, au marché, il m'a prise par la main. J'ai voulu disparaître.",
+     1.4
+    ],
+    [
+     "Une vieille dame s'est arrêtée devant nous.",
+     1.4
+    ],
+    [
+     "Elle a serré la main de mon père : grâce à vous, notre rue est propre.",
+     1.6
+    ],
+    [
+     "Puis elle s'est penchée vers moi : tu as un papa important, tu sais.",
+     1.6
+    ],
+    [
+     "Mon père n'a rien répondu. Mais sa main a serré la mienne un peu plus *fort*.",
+     1.8
+    ],
+    [
+     "Sur le chemin du retour, il marchait plus droit. Moi aussi.",
+     1.4
+    ],
+    [
+     "Le lundi, à l'école, j'ai dit la vérité. Mon père nettoie la ville.",
+     1.4
+    ],
+    [
+     "Cette dame a mis dix secondes à changer ma vie. Elle ne l'a jamais su.",
+     1.4
+    ],
+    [
+     "Depuis, je dis merci à tous ceux qu'on ne regarde pas.",
+     1.2
+    ],
+    [
+     "Dis-leur merci, toi aussi. Ça ne coûte rien.",
+     1.2
+    ],
+    [
+     "Pour toi, c'est une phrase. Pour une petite fille, quelque part, c'est un *père* qui marche droit.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j143_grandpere",
+   "perso": "grandpere",
+   "episode": 145,
+   "fin": "Envoie-la à quelqu'un qui tient l'antenne pour les autres.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je tenais l'antenne sur le balcon.",
+   "legende": "Je n'ai rien vu. Mais derrière la vitre, il y avait vingt-trois visages heureux. Et toi, tu tiens l'antenne pour qui ? #grandpere #lune #souvenirs #partage #humour #pourtoi",
+   "phrases": [
+    [
+     "Le premier pas sur la *Lune*, je ne l'ai pas vu. Je tenais l'antenne sur le balcon.",
+     1.3
+    ],
+    [
+     "En mille neuf cent soixante-neuf, on était les seuls de l'immeuble à avoir une télévision.",
+     1.2
+    ],
+    [
+     "Un an d'heures supplémentaires. Ta grand-mère trouvait ça ridicule.",
+     1.2
+    ],
+    [
+     "La nuit du premier pas, tout l'immeuble a sonné chez nous. Vingt-trois personnes.",
+     1.4
+    ],
+    [
+     "Ils se sont serrés sur le canapé, sur les chaises, par terre.",
+     1.2
+    ],
+    [
+     "Vers trois heures du matin, l'image s'est mise à neiger. Plus rien.",
+     1.4
+    ],
+    [
+     "Quelqu'un a crié : l'antenne ! Et tout le monde m'a regardé.",
+     1.4
+    ],
+    [
+     "Alors je suis sorti sur le balcon, en pyjama, l'antenne au bout du bras.",
+     1.4
+    ],
+    [
+     "Ta grand-mère criait par la fenêtre : plus à gauche ! Ne bouge plus !",
+     1.4
+    ],
+    [
+     "Puis j'ai entendu tout le salon *applaudir*. Il venait de poser le pied.",
+     1.6
+    ],
+    [
+     "Moi, je regardais les étoiles, le bras en l'air, comme un idiot.",
+     1.6
+    ],
+    [
+     "Et pourtant, c'est une des plus belles nuits de ma vie.",
+     1.4
+    ],
+    [
+     "Derrière la vitre, il y avait vingt-trois visages heureux. Grâce à mon bras.",
+     1.6
+    ],
+    [
+     "Il y a des soirs où le plus beau rôle, c'est d'être l'*antenne*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j143_pere",
+   "perso": "pere",
+   "episode": 144,
+   "fin": "Envoie-la à un prof qui a changé une vie.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il ne se souvenait pas de moi.",
+   "legende": "On ne sait jamais ce qu'on a fait pour quelqu'un. Il faut qu'il vienne nous le dire. À quel prof dois-tu un merci, toi ? #papa #pere #professeur #merci #gratitude #pourtoi",
+   "phrases": [
+    [
+     "Il m'a fallu trente ans pour dire *merci* à mon professeur de maths.",
+     1.3
+    ],
+    [
+     "J'avais quinze ans. Mes parents se séparaient. Je ne travaillais plus.",
+     1.2
+    ],
+    [
+     "Tout le monde m'avait lâché. Moi le premier.",
+     1.4
+    ],
+    [
+     "Lui m'a gardé après le cours. Je m'attendais à une punition.",
+     1.2
+    ],
+    [
+     "Il a posé un exercice devant moi. Il a dit : je sais que tu *sais* le faire.",
+     1.4
+    ],
+    [
+     "C'était faux. Mais il l'avait dit avec tellement d'assurance que j'ai essayé.",
+     1.4
+    ],
+    [
+     "Pendant un an, il m'a gardé tous les jeudis. Sans jamais parler de mes parents.",
+     1.4
+    ],
+    [
+     "J'ai eu mon bac. Je ne suis jamais retourné le voir.",
+     1.4
+    ],
+    [
+     "L'an dernier, j'ai retrouvé son adresse. Il avait quatre-vingt-huit ans.",
+     1.2
+    ],
+    [
+     "Je lui ai tout raconté sur le pas de sa porte.",
+     1.4
+    ],
+    [
+     "Il m'a écouté. Puis il a dit : désolé, je ne me souviens pas de vous.",
+     1.8
+    ],
+    [
+     "Il a ajouté, les yeux mouillés : mais merci de me dire que ça a servi.",
+     1.6
+    ],
+    [
+     "On ne sait jamais ce qu'on a fait pour quelqu'un. Il faut qu'il vienne nous le dire.",
+     1.4
+    ],
+    [
+     "Alors va le dire. Tant qu'il y a quelqu'un pour *ouvrir* la porte.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j143_mere",
+   "perso": "mere",
+   "episode": 144,
+   "fin": "Envoie-la à quelqu'un qui s'énerve trop vite dans les files.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "J'ai crié sur une inconnue.",
+   "legende": "Elle a levé les yeux. Ils étaient rouges. Tu t'es déjà emporté contre quelqu'un sans savoir ? #maman #mere #gentillesse #patience #regret #pourtoi",
+   "phrases": [
+    [
+     "Il y a quinze ans, j'ai *crié* sur une inconnue. Je ne me le pardonne toujours pas.",
+     1.3
+    ],
+    [
+     "C'était à la poste, un samedi matin. La file n'avançait pas.",
+     1.2
+    ],
+    [
+     "Tu étais malade à la maison. Je n'avais pas une minute à perdre.",
+     1.2
+    ],
+    [
+     "Au guichet, l'employée était lente. Elle se trompait dans la monnaie.",
+     1.4
+    ],
+    [
+     "J'ai dit, assez fort pour que tout le monde entende : il y en a qui travaillent, vous savez.",
+     1.4
+    ],
+    [
+     "Elle a levé les yeux. Ils étaient rouges.",
+     1.6
+    ],
+    [
+     "La dame derrière moi m'a touché l'épaule. Elle a chuchoté : sa *mère* est morte cette nuit.",
+     1.6
+    ],
+    [
+     "Elle était venue quand même. Il n'y avait personne pour la remplacer.",
+     1.6
+    ],
+    [
+     "Je suis sortie avec mon colis. Dans la rue, j'avais honte comme jamais.",
+     1.4
+    ],
+    [
+     "Le lundi, je suis revenue avec des fleurs. Elle n'était pas là.",
+     1.4
+    ],
+    [
+     "Je les ai laissées au guichet, avec un mot.",
+     1.4
+    ],
+    [
+     "Depuis, quand quelqu'un est lent, je me tais. Je me dis : peut-être que sa nuit a été terrible.",
+     1.4
+    ],
+    [
+     "Tout le monde porte quelque chose que tu ne vois pas.",
+     1.2
+    ],
+    [
+     "Avant de crier sur quelqu'un, regarde ses *yeux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j143_fou",
+   "perso": "fou",
+   "episode": 143,
+   "fin": "Envoie-la à quelqu'un qui t'a tendu de l'eau dans le désert.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Un homme apparaît sur une dune.",
+   "legende": "Il ne pose aucune question. Il leur donne de l'eau. Qui a été ton Bédouin dans le désert ? #motivation #saintexupery #gentillesse #histoirevraie #desert #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent trente-cinq, un avion s'écrase en plein *désert*, en Égypte.",
+     1.3
+    ],
+    [
+     "À bord, un pilote et son mécanicien. Ils survivent au choc.",
+     1.2
+    ],
+    [
+     "Mais il ne leur reste presque rien à boire.",
+     1.2
+    ],
+    [
+     "Personne ne sait où ils sont tombés. Alors ils décident de marcher.",
+     1.2
+    ],
+    [
+     "Le jour, le soleil les brûle. La nuit, ils grelottent.",
+     1.4
+    ],
+    [
+     "Ils voient des mirages. Des lacs, des villes, des lumières qui n'existent pas.",
+     1.4
+    ],
+    [
+     "Au bout de plusieurs jours, ils sont en train de mourir de soif.",
+     1.4
+    ],
+    [
+     "Et puis, un homme apparaît sur une dune. Un Bédouin.",
+     1.6
+    ],
+    [
+     "Il ne pose aucune question. Il leur donne de l'*eau*.",
+     1.6
+    ],
+    [
+     "Le pilote s'appelle Antoine de Saint-Exupéry. Quelques années plus tard, il écrira Le Petit Prince.",
+     1.4
+    ],
+    [
+     "Dans un autre livre, il parle de cet homme dont il ne connaîtra jamais le nom.",
+     1.4
+    ],
+    [
+     "Il lui écrit : tu es l'Homme, et tu m'apparais avec le visage de tous les hommes à la fois.",
+     1.8
+    ],
+    [
+     "Toi aussi, un jour, tu seras pour quelqu'un ce Bédouin sur la dune.",
+     1.4
+    ],
+    [
+     "Il ne retiendra pas ton nom. Il se souviendra de l'*eau*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "nom": "j120",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j120_grandmere",
+   "perso": "grandmere",
+   "episode": 121,
+   "fin": "Envoie-la à quelqu'un qui n'a jamais détourné les yeux.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Vous auriez un peu de sucre ?",
+   "legende": "Le courage, ce n'est pas toujours de crier plus fort. Parfois, c'est juste de frapper à une porte. Et toi, as-tu déjà frappé à une porte pour quelqu'un ? #grandmere #courage #entraide #voisins #emotion #pourtoi",
+   "phrases": [
+    [
+     "Pendant deux ans, j'ai frappé chez ma voisine tous les soirs pour lui demander du *sucre*.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-quatorze. Elle habitait sur mon palier.",
+     1.2
+    ],
+    [
+     "Elle portait des lunettes de soleil en plein hiver. Tout l'immeuble savait pourquoi.",
+     1.2
+    ],
+    [
+     "Le soir, quand son mari rentrait du café, on entendait les cris. Puis les coups.",
+     1.4
+    ],
+    [
+     "Les voisins montaient le son de la télévision. Moi aussi, au début.",
+     1.4
+    ],
+    [
+     "Un soir, les cris étaient trop forts. J'ai pris un bol, et j'ai frappé.",
+     1.6
+    ],
+    [
+     "C'est lui qui a ouvert. J'ai dit : bonsoir, vous auriez un peu de sucre ?",
+     1.6
+    ],
+    [
+     "Il est allé chercher le sucre. Ce soir-là, les cris se sont arrêtés.",
+     1.4
+    ],
+    [
+     "Alors j'ai recommencé. Chaque fois que ça criait, je frappais avec mon bol.",
+     1.4
+    ],
+    [
+     "Un homme qui frappe n'aime pas les témoins.",
+     1.4
+    ],
+    [
+     "Au bout de deux ans, elle est partie avec ses enfants.",
+     1.4
+    ],
+    [
+     "Sur mon paillasson, il y avait un paquet de sucre. Avec un mot : *merci* pour le sucre.",
+     1.8
+    ],
+    [
+     "Le courage, ce n'est pas toujours de crier plus fort que les autres.",
+     1.2
+    ],
+    [
+     "Parfois, c'est juste de frapper à une *porte*. Avec un bol.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j120_grandpere",
+   "perso": "grandpere",
+   "episode": 122,
+   "fin": "Envoie-la à quelqu'un qui doute de son instinct.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Tout le port m'a traité de lâche.",
+   "legende": "La peur n'a pas toujours raison. Mais elle mérite toujours qu'on l'écoute. Et toi, ton instinct t'a-t-il déjà sauvé ? #grandpere #peur #instinct #mer #courage #pourtoi",
+   "phrases": [
+    [
+     "Le seul matin où j'ai refusé d'embarquer, tout le port m'a traité de *lâche*.",
+     1.3
+    ],
+    [
+     "J'avais vingt-trois ans. J'étais matelot sur un petit chalutier.",
+     1.2
+    ],
+    [
+     "Ce matin-là, le ciel était trop jaune. La mer était trop calme.",
+     1.2
+    ],
+    [
+     "Je ne sais pas l'expliquer. J'avais une boule dans le ventre.",
+     1.4
+    ],
+    [
+     "J'ai dit au patron : moi, je ne monte pas. Il m'a ri au nez.",
+     1.4
+    ],
+    [
+     "Puis les deux autres gars sont descendus du bateau. Derrière moi.",
+     1.6
+    ],
+    [
+     "Le patron a juré pendant dix minutes. Mais on ne sort pas en mer à un seul.",
+     1.4
+    ],
+    [
+     "Sur le quai, les vieux nous regardaient de travers.",
+     1.4
+    ],
+    [
+     "Vers quatre heures, le vent s'est levé d'un coup. Une tempête comme je n'en ai jamais revu.",
+     1.6
+    ],
+    [
+     "Deux bateaux du port ne sont jamais rentrés.",
+     1.8
+    ],
+    [
+     "Le lendemain, le patron est venu chez moi. Il tenait son béret à la main.",
+     1.4
+    ],
+    [
+     "Il m'a dit : la prochaine fois que tu as ta boule dans le ventre, tu me préviens.",
+     1.6
+    ],
+    [
+     "Ce jour-là, ma lâcheté a ramené quatre hommes à la maison.",
+     1.4
+    ],
+    [
+     "La peur n'a pas toujours raison. Mais elle mérite toujours qu'on l'*écoute*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j120_pere",
+   "perso": "pere",
+   "episode": 121,
+   "fin": "Envoie-la à quelqu'un qui devrait apprendre les gestes qui sauvent.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Vous m'avez cassé deux côtes. Merci.",
+   "legende": "Je ne suis pas un héros. J'avais juste appris un geste, un jour où je n'en avais pas envie. Et toi, tu connais les gestes qui sauvent ? #papa #pere #secourisme #courage #humour #pourtoi",
+   "phrases": [
+    [
+     "Il y a six ans, j'ai fait un massage cardiaque à un inconnu. Au rayon des *surgelés*.",
+     1.3
+    ],
+    [
+     "Un homme est tombé d'un coup, entre les petits pois et les glaces.",
+     1.2
+    ],
+    [
+     "Les gens ont reculé. Quelqu'un criait d'appeler les pompiers. Personne ne bougeait.",
+     1.2
+    ],
+    [
+     "Moi, j'avais fait une formation de secourisme au travail. Obligatoire. J'avais râlé.",
+     1.4
+    ],
+    [
+     "Je me suis agenouillé. Mes mains tremblaient. Je ne me souvenais de rien.",
+     1.4
+    ],
+    [
+     "Et puis le formateur est revenu dans ma tête. Appuyez fort. Comptez. Ne vous arrêtez pas.",
+     1.4
+    ],
+    [
+     "J'ai appuyé pendant douze minutes. J'ai senti une côte craquer. J'ai cru que je le tuais.",
+     1.6
+    ],
+    [
+     "Les pompiers sont arrivés. Je suis rentré à pied, sans mes courses.",
+     1.4
+    ],
+    [
+     "Trois mois plus tard, on a sonné à la maison. C'était lui. Avec sa femme et un gâteau.",
+     1.6
+    ],
+    [
+     "Il m'a dit : vous m'avez cassé deux côtes. Merci.",
+     1.8
+    ],
+    [
+     "Je ne suis pas un héros. J'avais juste appris un geste, un jour où je n'en avais pas envie.",
+     1.4
+    ],
+    [
+     "Apprends les gestes qui sauvent. Même en râlant.",
+     1.2
+    ],
+    [
+     "Un jour, entre les petits pois et les glaces, tu seras peut-être le seul à les *connaître*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j120_mere",
+   "perso": "mere",
+   "episode": 121,
+   "fin": "Envoie-la à quelqu'un qui porte un prénom de famille.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Tu as failli t'appeler Hippolyte.",
+   "legende": "Les traditions, c'est parfois juste une peur que personne n'a osé contredire. Et toi, quel prénom as-tu failli porter ? #maman #mere #humour #famille #prenom #pourtoi",
+   "phrases": [
+    [
+     "Tu as failli t'appeler *Hippolyte*. Comme ton grand-père. Et son père. Et le père de son père.",
+     1.3
+    ],
+    [
+     "Dans la famille de ton père, le premier garçon portait ce prénom. Depuis cinq générations.",
+     1.2
+    ],
+    [
+     "Personne n'avait jamais osé dire non. Ta grand-mère en parlait comme d'une loi.",
+     1.2
+    ],
+    [
+     "Un dimanche, au repas de famille, j'étais enceinte de huit mois. J'ai posé ma fourchette.",
+     1.4
+    ],
+    [
+     "J'ai dit : mon fils ne s'appellera pas Hippolyte.",
+     1.6
+    ],
+    [
+     "Ta grand-mère a lâché la sauce. Ton oncle a failli s'étouffer.",
+     1.4
+    ],
+    [
+     "Et ton grand-père s'est levé. Il est sorti dans le jardin, sans un mot.",
+     1.6
+    ],
+    [
+     "J'étais sûre de l'avoir blessé à vie. Ton père n'osait plus me regarder.",
+     1.4
+    ],
+    [
+     "Une heure plus tard, ton grand-père est revenu. Il s'est penché vers moi.",
+     1.4
+    ],
+    [
+     "Il a chuchoté : merci. À l'école, on m'appelait l'*hippopotame*.",
+     1.8
+    ],
+    [
+     "Soixante ans qu'il détestait son prénom. Et soixante ans qu'il n'osait pas le dire.",
+     1.4
+    ],
+    [
+     "Les traditions, c'est parfois juste une peur que personne n'a osé contredire.",
+     1.2
+    ],
+    [
+     "Si une tradition te pèse, ose dire *non*. Quelqu'un attend peut-être ce mot depuis soixante ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j120_fou",
+   "perso": "fou",
+   "episode": 120,
+   "fin": "Envoie-la à quelqu'un qui ose douter.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Cinq missiles. Il signale une erreur.",
+   "legende": "Tout le monde croyait la machine. Lui a douté. Et toi, as-tu déjà eu raison contre tout le monde ? #motivation #histoirevraie #courage #doute #petrov #pourtoi",
+   "phrases": [
+    [
+     "Le vingt-six septembre mille neuf cent quatre-vingt-trois, en pleine nuit, une *alarme* hurle dans un bunker près de Moscou.",
+     1.3
+    ],
+    [
+     "Les ordinateurs soviétiques annoncent qu'un missile nucléaire américain vient d'être lancé.",
+     1.2
+    ],
+    [
+     "Puis un deuxième. Un troisième. Bientôt cinq.",
+     1.4
+    ],
+    [
+     "L'officier de garde s'appelle Stanislav Petrov. Il a quarante-quatre ans.",
+     1.2
+    ],
+    [
+     "Sa mission est simple : prévenir ses chefs. Et ses chefs pourraient riposter.",
+     1.4
+    ],
+    [
+     "Autour de lui, tout le monde le regarde. Il a quelques minutes.",
+     1.4
+    ],
+    [
+     "Quelque chose ne va pas. Une vraie attaque, ce serait des centaines de missiles. Pas cinq.",
+     1.6
+    ],
+    [
+     "Alors il décide de ne pas croire la machine. Il signale une *erreur*.",
+     1.6
+    ],
+    [
+     "Les minutes passent. Aucun missile ne tombe.",
+     1.8
+    ],
+    [
+     "Le système avait confondu des reflets du soleil sur des nuages avec des missiles.",
+     1.4
+    ],
+    [
+     "Pendant des années, presque personne n'a su ce qu'il avait fait.",
+     1.4
+    ],
+    [
+     "Toi aussi, un jour, tout le monde te dira que l'alarme a raison.",
+     1.2
+    ],
+    [
+     "Écoute-la. Puis réfléchis. Le *doute* a parfois sauvé le monde.",
+     0
+    ]
+   ]
+  }
+ ]
+}

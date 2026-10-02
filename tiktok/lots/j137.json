@@ -1,0 +1,348 @@
+{
+ "nom": "j137",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j137_grandmere",
+   "perso": "grandmere",
+   "episode": 138,
+   "fin": "Envoie-la à quelqu'un qui croit qu'il est trop tard.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "Le journal a annoncé ma mort.",
+   "legende": "Je l'ai lu à quarante-quatre ans. Et j'ai décidé de le réécrire. Et toi, qu'aimerais-tu qu'on dise de toi ? #grandmere #pourtoi #vie #changement #humour #conseildevie",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-dix, le journal du canton a annoncé ma *mort*.",
+     1.6
+    ],
+    [
+     "Une erreur de l'imprimerie. Ils avaient mélangé deux colonnes.",
+     1.2
+    ],
+    [
+     "Le lendemain, au marché, la boulangère a lâché son plateau en me voyant.",
+     1.4
+    ],
+    [
+     "Ton grand-père, lui, riait. Il disait : enfin un peu de calme.",
+     1.4
+    ],
+    [
+     "Moi, j'ai découpé l'article. Et je l'ai lu. Deux lignes.",
+     1.6
+    ],
+    [
+     "Mère au foyer. *Discrète*. Sera regrettée par sa famille.",
+     1.6
+    ],
+    [
+     "C'est tout ce qu'on avait trouvé à dire sur quarante-quatre ans de vie.",
+     1.8
+    ],
+    [
+     "Ce soir-là, j'ai eu plus honte que si j'avais vraiment été morte.",
+     1.4
+    ],
+    [
+     "Le lundi, je me suis inscrite à la bibliothèque. Puis aux cours du soir. Puis à la randonnée.",
+     1.2
+    ],
+    [
+     "J'ai appris l'espagnol. J'ai vu la mer du Nord. J'ai planté un verger.",
+     1.4
+    ],
+    [
+     "L'article est toujours dans mon portefeuille. Tout jaune. Il m'a donné trente-six ans de plus.",
+     1.6
+    ],
+    [
+     "Si un jour tu pouvais lire ce qu'on dirait de toi, qu'est-ce que tu voudrais y trouver ?",
+     1.6
+    ],
+    [
+     "Moi, je l'ai lu à quarante-quatre ans. Et j'ai décidé de le *réécrire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j137_grandpere",
+   "perso": "grandpere",
+   "episode": 139,
+   "fin": "Envoie-la à quelqu'un qui a un grand jour bientôt.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon pneu a éclaté à cent mètres.",
+   "legende": "La plupart des échecs n'éclatent pas le jour de la course. Ils éclatent un mois avant. Et toi, quel pneu usé fais-tu semblant de ne pas voir ? #grandpere #pourtoi #velo #echec #preparation #conseildevie",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-cinq, j'ai perdu la course du canton à cent mètres de l'*arrivée*.",
+     1.4
+    ],
+    [
+     "J'avais vingt ans. J'étais seul en tête depuis trente kilomètres.",
+     1.2
+    ],
+    [
+     "Tout le village était au bord de la route. Ma mère avait son chapeau.",
+     1.2
+    ],
+    [
+     "À cent mètres de la ligne, mon pneu avant a éclaté. Comme un coup de fusil.",
+     1.6
+    ],
+    [
+     "J'ai fini à pied, en poussant mon vélo. Onze coureurs m'ont dépassé.",
+     1.4
+    ],
+    [
+     "Le soir, au bal, on m'appelait le Piéton.",
+     1.4
+    ],
+    [
+     "J'ai accusé la route, les cailloux, la chaleur. Tout sauf moi.",
+     1.4
+    ],
+    [
+     "Mon père a pris le pneu. Il l'a retourné dans ses mains, longtemps.",
+     1.4
+    ],
+    [
+     "Puis il a dit : il était usé jusqu'à la toile. Tu l'avais vu ?",
+     1.6
+    ],
+    [
+     "Je l'avais vu. Je m'étais dit : ça tiendra bien jusqu'à dimanche.",
+     1.6
+    ],
+    [
+     "Ce n'est pas le pneu qui m'a fait perdre. C'est ma *paresse*, un mois avant.",
+     1.8
+    ],
+    [
+     "L'année suivante, j'ai gagné. Avec des pneus neufs, vérifiés tous les soirs.",
+     1.4
+    ],
+    [
+     "La plupart des échecs n'éclatent pas le jour de la course. Ils éclatent un mois avant.",
+     1.4
+    ],
+    [
+     "Alors avant chaque grand jour, regarde tes *pneus*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j137_pere",
+   "perso": "pere",
+   "episode": 138,
+   "fin": "Envoie-la à quelqu'un qui croit avoir tout raté.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Le plus beau magasin du monde.",
+   "legende": "Les pires années de ma vie. Les plus belles de la tienne. Dans le même magasin. Et toi, quel est le meilleur souvenir de ton enfance ? #papa #pere #pourtoi #faillite #enfance #emotion",
+   "phrases": [
+    [
+     "Pendant trois ans, tu as cru que j'avais le plus beau magasin du monde. J'étais en *faillite*.",
+     1.4
+    ],
+    [
+     "En deux mille quatre, j'ai ouvert un vidéoclub. Des films du sol au plafond.",
+     1.2
+    ],
+    [
+     "Tu avais six ans. Après l'école, tu avais le droit de tout regarder.",
+     1.2
+    ],
+    [
+     "Pour toi, c'était une caverne aux trésors. Avec des bonbons à la caisse.",
+     1.4
+    ],
+    [
+     "Mais les gens se sont mis à regarder leurs films sur internet.",
+     1.2
+    ],
+    [
+     "Certains jours, j'avais trois clients. Dont un qui ne payait jamais : toi.",
+     1.4
+    ],
+    [
+     "Au bout de trois ans, j'ai baissé le rideau. Avec cinq ans de dettes.",
+     1.4
+    ],
+    [
+     "Tu as pleuré plus que moi. Tu voulais garder au moins les films de dinosaures.",
+     1.6
+    ],
+    [
+     "La semaine dernière, tu as dit à tes amis que c'étaient les plus belles années de ton *enfance*.",
+     1.8
+    ],
+    [
+     "Les pires années de ma vie. Les plus belles de la tienne. Dans le même magasin.",
+     1.6
+    ],
+    [
+     "Un échec, on le regarde toujours de l'intérieur. Avec la calculatrice.",
+     1.2
+    ],
+    [
+     "Demande à ceux qui étaient à côté. Ils ont parfois vu autre chose.",
+     1.4
+    ],
+    [
+     "Ma plus grande faillite est ton plus beau *souvenir*. Je n'en demande pas plus.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j137_mere",
+   "perso": "mere",
+   "episode": 138,
+   "fin": "Envoie-la à quelqu'un qui a voyagé gratuitement trop longtemps.",
+   "lueurs": [
+    1,
+    6,
+    13
+   ],
+   "accroche": "Trois ans. Mais j'en fais huit.",
+   "legende": "Je t'avais appris à mentir pour économiser. Tu m'as appris que ça coûtait beaucoup plus cher. Et toi, quel petit mensonge t'a coûté cher ? #maman #mere #pourtoi #humour #honnetete #enfance",
+   "phrases": [
+    [
+     "Jusqu'à tes huit ans, tu as eu trois ans dans tous les *trains* de France.",
+     1.4
+    ],
+    [
+     "Les enfants de moins de quatre ans voyageaient gratuitement. Et l'argent manquait.",
+     1.2
+    ],
+    [
+     "Je t'avais appris ta phrase : j'ai trois ans, monsieur. Tu la disais très bien.",
+     1.4
+    ],
+    [
+     "Le problème, c'est que tu grandissais. Tes jambes dépassaient de la banquette.",
+     1.4
+    ],
+    [
+     "Un jour, un contrôleur s'est penché vers toi. Il t'a demandé ton âge.",
+     1.2
+    ],
+    [
+     "Tu as répondu, très fier : trois ans. Mais j'en fais huit.",
+     1.8
+    ],
+    [
+     "Tout le compartiment a éclaté de rire. Moi, je voulais disparaître sous le siège.",
+     1.4
+    ],
+    [
+     "Il m'a fait payer ton billet. Et une amende, devant tout le monde.",
+     1.4
+    ],
+    [
+     "Sur le quai, tu pleurais. Tu as dit : pardon maman, je n'ai pas su mentir jusqu'au bout.",
+     1.6
+    ],
+    [
+     "Je me suis mise à genoux devant toi. C'est moi qui t'ai demandé *pardon*.",
+     1.8
+    ],
+    [
+     "Je t'avais appris à mentir pour économiser quelques euros.",
+     1.2
+    ],
+    [
+     "Tu m'as appris que ça coûtait beaucoup plus cher. Et pas seulement l'amende.",
+     1.4
+    ],
+    [
+     "Ce jour-là, tu avais huit ans. Et tu étais le plus *honnête* de la famille.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j137_fou",
+   "perso": "fou",
+   "episode": 137,
+   "fin": "Envoie-la à quelqu'un qui se sent ridicule en ce moment.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Ses ailes de géant l'empêchent de marcher.",
+   "legende": "Ce qui le rend ridicule sur le pont, c'est exactement ce qui le rend roi dans le ciel. Et toi, on s'est moqué de quoi chez toi ? #motivation #pourtoi #nature #baudelaire #confiance #poesie",
+   "phrases": [
+    [
+     "Sur le pont d'un bateau, l'albatros est l'oiseau le plus *ridicule* du monde.",
+     1.4
+    ],
+    [
+     "Autrefois, les marins s'amusaient à en attraper. Posé sur les planches, il trébuche, il traîne ses ailes.",
+     1.2
+    ],
+    [
+     "Trop grand. Trop lourd. Il ne sait pas où mettre ses pattes.",
+     1.2
+    ],
+    [
+     "Les marins rient. L'un d'eux imite sa démarche en boitant.",
+     1.4
+    ],
+    [
+     "Baudelaire l'a raconté dans un poème. Il a écrit : ses ailes de géant l'empêchent de marcher.",
+     1.6
+    ],
+    [
+     "Le grand albatros peut dépasser trois mètres d'envergure. Le record de tous les oiseaux vivants.",
+     1.4
+    ],
+    [
+     "Dans le vent du large, il plane pendant des heures sans presque battre des ailes.",
+     1.4
+    ],
+    [
+     "Ce qui le rend ridicule sur le pont, c'est exactement ce qui le rend *roi* dans le ciel.",
+     1.8
+    ],
+    [
+     "Toi, on s'est peut-être moqué de toi. À l'école, au travail, dans ta famille.",
+     1.2
+    ],
+    [
+     "Tu étais trop ceci, pas assez cela. Tu trébuchais là où les autres marchaient.",
+     1.4
+    ],
+    [
+     "Peut-être que tu n'étais pas nul. Tu étais juste sur le mauvais pont.",
+     1.6
+    ],
+    [
+     "Cherche ton vent. Pas celui des autres.",
+     1.4
+    ],
+    [
+     "Et ne juge jamais tes ailes à ta façon de *marcher*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

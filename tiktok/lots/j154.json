@@ -1,0 +1,384 @@
+{
+ "nom": "j154",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j154_grandmere",
+   "perso": "grandmere",
+   "episode": 155,
+   "fin": "Envoie-la à quelqu'un qui prend toujours les photos.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Il manque quelqu'un sur nos photos.",
+   "legende": "Il était sur toutes les photos. Il fallait juste savoir où le chercher. Qui prend toujours les photos chez toi ? #grandmere #photos #souvenirs #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Sur nos photos de famille, il manque toujours quelqu'un. Ton *grand-père*.",
+     1.3
+    ],
+    [
+     "C'est lui qui tenait l'appareil. Pendant cinquante ans.",
+     1.2
+    ],
+    [
+     "Les vacances, les Noëls, les communions. Ton père sur la plage, moi devant la mer.",
+     1.2
+    ],
+    [
+     "Il disait : je ne suis pas photogénique, moi, je regarde.",
+     1.4
+    ],
+    [
+     "Après l'enterrement, j'ai cherché une photo de lui pour mettre dans le salon.",
+     1.2
+    ],
+    [
+     "J'ai vidé toutes les boîtes. Plus de deux mille photos.",
+     1.4
+    ],
+    [
+     "Il y en avait quatre. Quatre photos de lui, en cinquante ans.",
+     1.6
+    ],
+    [
+     "Et puis, en les rangeant, j'ai remarqué autre chose.",
+     1.2
+    ],
+    [
+     "Sur la plage, dans le coin de l'image, il y a une *ombre*. Avec un chapeau.",
+     1.6
+    ],
+    [
+     "Dans la neige aussi. Et devant le gâteau d'anniversaire de ton père.",
+     1.4
+    ],
+    [
+     "Il était sur toutes les photos. Il fallait juste savoir où le chercher.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, je reconnais son ombre entre mille. Sa façon de pencher la tête.",
+     1.4
+    ],
+    [
+     "Alors fais-moi plaisir. Prends en photo celui qui prend les photos.",
+     1.2
+    ],
+    [
+     "Même s'il râle. Surtout s'il râle.",
+     1.2
+    ],
+    [
+     "Un jour, tu voudras autre chose que son *ombre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j154_grandpere",
+   "perso": "grandpere",
+   "episode": 156,
+   "fin": "Envoie-la à quelqu'un avec qui tu as une partie à finir.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Une partie de belote jamais finie.",
+   "legende": "René a dit : on finira vendredi prochain. Il n'est jamais revenu. Qu'est-ce que tu as laissé en plan avec quelqu'un ? #grandpere #souvenirs #amitie #regrets #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans mon garage, il y a une *ardoise*. Le score d'une partie de belote jamais finie.",
+     1.3
+    ],
+    [
+     "Pendant quarante ans, on a joué tous les vendredis soirs. René, Jojo, Marcel et moi.",
+     1.2
+    ],
+    [
+     "Au café d'abord. Puis dans mon garage, quand le café a fermé.",
+     1.2
+    ],
+    [
+     "Un vendredi de mille neuf cent quatre-vingt-dix-huit, René a dû partir avant la fin.",
+     1.2
+    ],
+    [
+     "Il a dit : on finira vendredi prochain. On perdait de vingt points.",
+     1.4
+    ],
+    [
+     "Le vendredi suivant, René était à l'hôpital. Il n'est jamais revenu.",
+     1.6
+    ],
+    [
+     "Personne n'a osé effacer l'ardoise.",
+     1.2
+    ],
+    [
+     "Puis Jojo est parti. Puis Marcel. Je suis le dernier des quatre.",
+     1.6
+    ],
+    [
+     "L'été dernier, tu as trouvé l'ardoise en cherchant la pompe à vélo.",
+     1.2
+    ],
+    [
+     "Tu as dit : papi, on la finit ?",
+     1.6
+    ],
+    [
+     "Tu as appelé ta sœur et ton cousin. Aucun de vous ne connaissait les règles.",
+     1.2
+    ],
+    [
+     "Je vous ai appris. On a joué jusqu'à minuit, avec le score de René.",
+     1.6
+    ],
+    [
+     "On a perdu. De trente points.",
+     1.8
+    ],
+    [
+     "Ne laisse jamais une partie en plan en disant : on finira vendredi.",
+     1.4
+    ],
+    [
+     "Et si c'est trop tard, trouve des remplaçants. Mais *finis* la partie.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j154_pere",
+   "perso": "pere",
+   "episode": 155,
+   "fin": "Envoie-la à quelqu'un qui s'endort toujours au cinéma.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Je n'ai jamais vu le film.",
+   "legende": "Je n'ai pas regardé l'écran. Je t'ai regardé, toi. Tu te souviens du premier film que tu as vu au cinéma ? #papa #pere #souvenirs #cinema #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans mon portefeuille, il y a un vieux *ticket* de cinéma. Je n'ai jamais vu le film.",
+     1.3
+    ],
+    [
+     "C'était ton premier film en salle. Tu avais quatre ans.",
+     1.2
+    ],
+    [
+     "Un dessin animé. Tu l'avais réclamé pendant un mois.",
+     1.2
+    ],
+    [
+     "Au bout de dix minutes, tu t'es endormi sur mon bras.",
+     1.4
+    ],
+    [
+     "Je n'ai pas osé bouger. Mon bras s'est endormi aussi.",
+     1.2
+    ],
+    [
+     "Je n'ai pas regardé l'écran. Je t'ai regardé, toi. Pendant une heure et demie.",
+     1.6
+    ],
+    [
+     "Ta bouche ouverte. Tes cils. Les couleurs du film qui passaient sur ton visage.",
+     1.4
+    ],
+    [
+     "En sortant, tu as dit : c'était le plus beau film du monde.",
+     1.4
+    ],
+    [
+     "Le mois dernier, pour mes cinquante-cinq ans, tu m'as emmené au cinéma.",
+     1.2
+    ],
+    [
+     "Tu avais choisi le film et tout payé.",
+     1.2
+    ],
+    [
+     "Au bout de vingt minutes, c'est moi qui me suis endormi. Sur ton épaule.",
+     1.8
+    ],
+    [
+     "Tu ne m'as pas réveillé. Tu as attendu la fin, sans bouger.",
+     1.6
+    ],
+    [
+     "En sortant, je t'ai dit : c'était le plus beau film du monde.",
+     1.6
+    ],
+    [
+     "La vie, c'est une longue séance où on finit par échanger les places.",
+     1.4
+    ],
+    [
+     "Et le plus beau film n'est jamais celui qui passe sur l'*écran*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j154_mere",
+   "perso": "mere",
+   "episode": 155,
+   "fin": "Envoie-la à quelqu'un qui saute encore dans les flaques.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Le plus beau jour. Tu l'as oublié.",
+   "legende": "Les parents gardent les souvenirs que les enfants oublient. Quel souvenir de ton enfance ta mère est-elle la seule à garder ? #maman #mere #souvenirs #enfance #emotion #pourtoi",
+   "phrases": [
+    [
+     "Le plus beau jour de ma vie de mère, tu ne t'en souviens pas.",
+     1.3
+    ],
+    [
+     "Tu avais deux ans. Il n'y a pas de photo. Il ne s'est rien passé de spécial.",
+     1.2
+    ],
+    [
+     "C'était un mardi de novembre. Il pleuvait depuis le matin.",
+     1.2
+    ],
+    [
+     "Ta nourrice était malade. J'avais dû poser une journée, et j'étais de mauvaise humeur.",
+     1.2
+    ],
+    [
+     "L'après-midi, tu as voulu sortir. Je t'ai mis tes bottes jaunes.",
+     1.2
+    ],
+    [
+     "Tu as sauté dans la première flaque. Puis dans toutes les autres.",
+     1.4
+    ],
+    [
+     "Moi, je répétais : attention, tu vas te mouiller.",
+     1.2
+    ],
+    [
+     "Et puis tu m'as tendu la main. Tu as dit : toi aussi, maman.",
+     1.6
+    ],
+    [
+     "Alors j'ai sauté. En chaussures de ville. Une fois, deux fois, vingt fois.",
+     1.4
+    ],
+    [
+     "On est rentrés trempés jusqu'aux os, en riant comme deux *idiots*.",
+     1.6
+    ],
+    [
+     "Tu n'en gardes rien. Ni la pluie, ni ma main, ni mon rire.",
+     1.6
+    ],
+    [
+     "Les parents gardent les souvenirs que les enfants oublient. On les porte pour deux.",
+     1.8
+    ],
+    [
+     "Pendant des années, sans rien dire. C'est notre façon de vous aimer.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, je t'en rends un. Il est à toi aussi.",
+     1.2
+    ],
+    [
+     "La prochaine fois qu'il pleut, saute dans une *flaque*. Pour moi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j154_fou",
+   "perso": "fou",
+   "episode": 154,
+   "fin": "Envoie-la à quelqu'un qui soigne les autres.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Il n'avait plus d'huile bouillante.",
+   "legende": "Il lui manquait ce qu'on lui avait appris. Alors il a inventé. Qu'est-ce que tu as réussi le jour où il te manquait quelque chose ? #motivation #histoire #medecine #ambroisepare #courage #pourtoi",
+   "phrases": [
+    [
+     "Une nuit de mille cinq cent trente-sept, un jeune chirurgien n'a plus d'*huile* bouillante.",
+     1.3
+    ],
+    [
+     "Il suit l'armée française en Italie. Il s'appelle Ambroise Paré.",
+     1.2
+    ],
+    [
+     "À l'époque, on croit que les plaies par arme à feu sont empoisonnées par la poudre.",
+     1.2
+    ],
+    [
+     "Alors on les brûle à l'huile bouillante. Comme l'enseignent les maîtres.",
+     1.4
+    ],
+    [
+     "Ce jour-là, il y a trop de blessés. L'huile vient à manquer.",
+     1.2
+    ],
+    [
+     "Paré improvise un mélange doux : jaune d'œuf, huile de rose, térébenthine.",
+     1.4
+    ],
+    [
+     "Toute la nuit, il ne dort pas. Il est sûr que ses blessés vont mourir.",
+     1.6
+    ],
+    [
+     "À l'aube, il court les voir.",
+     1.6
+    ],
+    [
+     "Ceux qui ont reçu son mélange ont dormi. Les autres ont de la fièvre et souffrent atrocement.",
+     1.8
+    ],
+    [
+     "Paré n'est qu'un ancien apprenti barbier. Il ne parle même pas latin.",
+     1.2
+    ],
+    [
+     "Les médecins de la Faculté le méprisent. Lui, il écrit tout. En français.",
+     1.4
+    ],
+    [
+     "Il deviendra le chirurgien de quatre rois de France.",
+     1.6
+    ],
+    [
+     "Sa phrase la plus célèbre est pourtant humble : je le pansai, Dieu le guérit.",
+     1.6
+    ],
+    [
+     "Un jour, il te manquera ce qu'on t'a appris. Ce jour-là, *invente*.",
+     1.4
+    ],
+    [
+     "Fais ta part avec soin. Le reste ne t'appartient pas.",
+     0
+    ]
+   ]
+  }
+ ]
+}

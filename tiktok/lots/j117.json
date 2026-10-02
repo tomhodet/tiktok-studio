@@ -1,0 +1,352 @@
+{
+ "nom": "j117",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j117_grandmere",
+   "perso": "grandmere",
+   "episode": 118,
+   "fin": "Envoie-la à quelqu'un qui a peur d'être jugé.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Compte sur tes doigts, René.",
+   "legende": "Ceux qui crient le plus fort contre tes fautes ont souvent fait les mêmes. Et dans ta famille, quel secret a fini par sortir du tiroir ? #grandmere #famille #secret #humour #conseildevie #pourtoi",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-sept, j'ai dû avouer à mon père que j'étais enceinte. Sans être *mariée*.",
+     1.3
+    ],
+    [
+     "Mon père était l'homme le plus sévère du village. Il ne riait jamais.",
+     1.2
+    ],
+    [
+     "Pendant une semaine, j'ai répété ma phrase au poulailler. Les poules l'ont su avant lui.",
+     1.4
+    ],
+    [
+     "Un dimanche, au dessert, je l'ai dit d'un coup.",
+     1.2
+    ],
+    [
+     "Il est devenu tout rouge. Il a crié : quelle honte ! Que vont dire les voisins ?",
+     1.6
+    ],
+    [
+     "Ma mère s'est levée sans un mot. Elle est revenue avec le *livret* de famille.",
+     1.4
+    ],
+    [
+     "Elle l'a ouvert devant lui. Leur mariage, en juin. Ma naissance, en novembre.",
+     1.4
+    ],
+    [
+     "Elle a juste dit : compte sur tes doigts, René.",
+     1.8
+    ],
+    [
+     "Mon père a compté. Il a regardé ma mère. Puis il a repris sa fourchette.",
+     1.4
+    ],
+    [
+     "Il a dit : bon. Le mariage, c'est pour quand ?",
+     1.6
+    ],
+    [
+     "Quelques mois plus tard, il promenait ton père dans tout le village. Comme un trophée.",
+     1.4
+    ],
+    [
+     "Ceux qui crient le plus fort contre tes fautes ont souvent fait les mêmes.",
+     1.2
+    ],
+    [
+     "Avant d'avoir peur du jugement de quelqu'un, va jeter un œil à son livret de *famille*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j117_grandpere",
+   "perso": "grandpere",
+   "episode": 119,
+   "fin": "Envoie-la à quelqu'un qui vit loin de sa mère.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai déchiré une photo en deux.",
+   "legende": "Partir, ça déchire toujours quelque chose. Mais ce qui est déchiré peut se recoller. Toi, à qui tu enverrais ta moitié aujourd'hui ? #grandpere #partir #famille #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "À dix-huit ans, j'ai déchiré une *photo* en deux. J'en ai donné la moitié à ma mère.",
+     1.3
+    ],
+    [
+     "C'était au Portugal, en mille neuf cent soixante-quatre. Je partais en France, sans papiers.",
+     1.2
+    ],
+    [
+     "Le passeur demandait un prix énorme. On le payait seulement à l'arrivée.",
+     1.2
+    ],
+    [
+     "Pour prouver que j'étais arrivé, je devais renvoyer ma moitié de photo à ma mère.",
+     1.4
+    ],
+    [
+     "On a marché des nuits entières dans la montagne. J'avais froid. J'avais peur.",
+     1.4
+    ],
+    [
+     "Plusieurs fois, j'ai voulu rentrer. Je touchais la photo dans ma poche. Et je continuais.",
+     1.4
+    ],
+    [
+     "Trois semaines plus tard, je travaillais sur un chantier, près de Paris.",
+     1.2
+    ],
+    [
+     "J'ai glissé ma moitié dans une enveloppe. Sans un mot.",
+     1.4
+    ],
+    [
+     "Je n'ai revu ma mère que neuf ans plus tard.",
+     1.6
+    ],
+    [
+     "Sur sa table de nuit, il y avait la photo. Entière.",
+     1.6
+    ],
+    [
+     "Elle avait recollé les deux moitiés. On voyait la *cicatrice* au milieu.",
+     1.8
+    ],
+    [
+     "Elle m'a dit : tant que la photo était entière, tu étais vivant.",
+     1.4
+    ],
+    [
+     "Partir, ça déchire toujours quelque chose. C'est normal.",
+     1.2
+    ],
+    [
+     "Mais ce qui est déchiré peut se *recoller*. Il suffit d'envoyer ta moitié.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j117_pere",
+   "perso": "pere",
+   "episode": 118,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas se lancer.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "T'es nul. Mais t'es drôle.",
+   "legende": "On croit qu'il faut être doué pour aider. Il faut juste oser entrer dans la chambre. Et toi, qui t'a fait rire quand tout allait mal ? #papa #pere #hopital #courage #emotion #pourtoi",
+   "phrases": [
+    [
+     "À six ans, tu as passé un mois à l'hôpital. Le seul qui te faisait rire, c'était un *clown*.",
+     1.3
+    ],
+    [
+     "Le mercredi, il passait la tête par la porte. Un nez rouge, des chaussures immenses.",
+     1.2
+    ],
+    [
+     "Moi, je savais juste te tenir la main et cacher ma peur.",
+     1.2
+    ],
+    [
+     "Tu as guéri. Et moi, je n'ai jamais oublié ce nez rouge.",
+     1.4
+    ],
+    [
+     "Deux ans plus tard, j'ai appelé l'association. J'étais comptable. Je n'avais jamais fait rire personne.",
+     1.2
+    ],
+    [
+     "Mes collègues se sont moqués de moi pendant un an. Ta mère aussi, un peu.",
+     1.4
+    ],
+    [
+     "Le premier mercredi, je suis entré dans une chambre. Une petite fille m'a regardé. J'ai tout oublié.",
+     1.4
+    ],
+    [
+     "Je suis resté planté là, avec mon nez rouge, sans un mot. Le silence était terrible.",
+     1.6
+    ],
+    [
+     "Et puis j'ai trébuché sur mes propres chaussures. Pour de vrai.",
+     1.6
+    ],
+    [
+     "Elle a éclaté de rire. Elle a dit : t'es nul. Mais t'es drôle.",
+     1.8
+    ],
+    [
+     "Ça fait quinze ans. Je n'ai jamais appris à jongler. Je tombe toujours aussi bien.",
+     1.4
+    ],
+    [
+     "On croit qu'il faut être doué pour aider. Il faut juste oser entrer dans la chambre.",
+     1.2
+    ],
+    [
+     "Et parfois, tomber au bon *moment*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j117_mere",
+   "perso": "mere",
+   "episode": 118,
+   "fin": "Envoie-la à quelqu'un qui vient de déménager loin.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'ai pleuré toutes les nuits. Dans la cuisine.",
+   "legende": "Une peur, c'est moins lourd quand on la porte à deux. Toi, à qui tu as caché tes larmes pour le protéger ? #maman #mere #demenagement #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "La première année à Montréal, j'ai pleuré toutes les nuits. Dans la *cuisine*.",
+     1.3
+    ],
+    [
+     "Tu avais neuf ans. Ton père avait eu un poste là-bas.",
+     1.2
+    ],
+    [
+     "Je ne connaissais personne. Il faisait moins trente.",
+     1.2
+    ],
+    [
+     "Le jour, je souriais. Je te disais : c'est une aventure.",
+     1.4
+    ],
+    [
+     "La nuit, je descendais pleurer sans bruit, au-dessus de l'évier.",
+     1.4
+    ],
+    [
+     "Une nuit, vers trois heures, j'ai entendu renifler derrière moi.",
+     1.6
+    ],
+    [
+     "C'était toi, en pyjama, ton doudou à la main. Tu pleurais aussi.",
+     1.6
+    ],
+    [
+     "Tu m'as dit : moi aussi, je descends pleurer. J'attends toujours que tu remontes.",
+     1.8
+    ],
+    [
+     "Pendant des semaines, on avait pleuré chacun son tour. Dans la même cuisine.",
+     1.4
+    ],
+    [
+     "Cette nuit-là, j'ai fait deux chocolats chauds. On a pleuré ensemble. Puis on a ri.",
+     1.4
+    ],
+    [
+     "Après, on a parlé de tout ce qui nous manquait. Ça faisait moins mal.",
+     1.4
+    ],
+    [
+     "Quand on déménage, on croit qu'il faut cacher sa *peur* aux autres.",
+     1.2
+    ],
+    [
+     "Mais une peur, c'est moins lourd quand on la porte à *deux*.",
+     1.4
+    ],
+    [
+     "Si tu pleures en cachette, descends quand même. Quelqu'un attend peut-être dans la cuisine.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j117_fou",
+   "perso": "fou",
+   "episode": 117,
+   "fin": "Envoie-la à quelqu'un qui agit au lieu de filmer.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Un enfant pend dans le vide.",
+   "legende": "Pendant que certains filmaient, lui grimpait déjà. Et toi, tu aurais filmé ou tu serais monté ? #motivation #histoirevraie #courage #heros #paris #pourtoi",
+   "phrases": [
+    [
+     "Le vingt-six mai deux mille dix-huit, à Paris, un enfant de quatre ans pend dans le vide. Au quatrième *étage*.",
+     1.3
+    ],
+    [
+     "Il s'accroche à la rambarde d'un balcon. Ses petites jambes battent l'air.",
+     1.2
+    ],
+    [
+     "En bas, la foule crie. Certains filment.",
+     1.2
+    ],
+    [
+     "Un jeune homme qui passe dans la rue lève les yeux. Il traverse en courant.",
+     1.4
+    ],
+    [
+     "Il s'appelle Mamoudou Gassama. Il a vingt-deux ans. Il est arrivé du Mali quelques mois plus tôt.",
+     1.2
+    ],
+    [
+     "Il n'a pas de papiers. Rien à gagner, tout à perdre.",
+     1.4
+    ],
+    [
+     "Il saute vers le premier balcon. Puis le deuxième. Puis le troisième. À mains nues.",
+     1.6
+    ],
+    [
+     "En une trentaine de secondes, il est au quatrième. Il attrape l'enfant par le bras. Et le hisse à l'*abri*.",
+     1.8
+    ],
+    [
+     "La vidéo fait le tour du monde. Deux jours plus tard, le président de la République le reçoit.",
+     1.4
+    ],
+    [
+     "Il devient français. Il rejoint les pompiers de Paris.",
+     1.6
+    ],
+    [
+     "Quand on lui demande comment il a fait, il répond qu'il n'a pas réfléchi.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu attends peut-être d'avoir un plan parfait.",
+     1.2
+    ],
+    [
+     "Parfois, il n'y a pas de plan. Il y a juste quelqu'un qui *monte*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

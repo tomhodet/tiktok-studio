@@ -1,0 +1,356 @@
+{
+ "nom": "j049",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j049_grandmere",
+   "perso": "grandmere",
+   "episode": 50,
+   "fin": "Envoie-la à quelqu'un qui a toujours peur de sa photo.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ce n'était pas moi sur la photo.",
+   "legende": "On était tombés amoureux de deux inconnus. Et on a épousé les bons. Et toi, as-tu déjà envoyé une photo plus jolie que toi ? #grandmere #amour #rencontre #humour #lettres #pourtoi",
+   "phrases": [
+    [
+     "Pendant un an, ton grand-père a eu ma photo dans sa poche. Ce n'était pas *moi*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent soixante-six, il faisait son service militaire.",
+     1.2
+    ],
+    [
+     "Une amie m'a donné son adresse. Il voulait quelqu'un à qui écrire.",
+     1.2
+    ],
+    [
+     "Ses lettres étaient drôles et pleines de fautes.",
+     1.2
+    ],
+    [
+     "Un jour, il m'a demandé une photo. J'ai envoyé celle de ma cousine, la plus jolie.",
+     1.4
+    ],
+    [
+     "Il m'a envoyé la sienne. Un grand brun magnifique.",
+     1.4
+    ],
+    [
+     "À la fin de son service, rendez-vous à la gare, un journal sous le bras.",
+     1.2
+    ],
+    [
+     "Sur le quai, un seul homme avec un journal. Petit, roux, les oreilles décollées.",
+     1.6
+    ],
+    [
+     "Il cherchait ma cousine des yeux. Moi, je cherchais mon grand brun.",
+     1.6
+    ],
+    [
+     "Il a fini par avouer : la photo, c'était son copain de chambrée.",
+     1.8
+    ],
+    [
+     "J'ai avoué pour ma cousine. On a ri à en pleurer.",
+     1.4
+    ],
+    [
+     "On était tombés amoureux de deux inconnus. Et on a épousé les bons.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, vous échangez des photos avant de vous parler. Nous, on s'est parlé avant de se *voir*.",
+     1.4
+    ],
+    [
+     "La photo de ma cousine est toujours dans son portefeuille. Il dit qu'il a gagné au *change*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j049_grandpere",
+   "perso": "grandpere",
+   "episode": 51,
+   "fin": "Envoie-la à quelqu'un qui tricote encore pour toi.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Les sept trous, ce sont les miens.",
+   "legende": "Quand on aime quelqu'un longtemps, on finit par faire ce qu'il ne peut plus faire. Et toi, qu'as-tu appris pour quelqu'un que tu aimes ? #grandpere #amour #couple #tricot #tendresse #pourtoi",
+   "phrases": [
+    [
+     "La couverture de ton bébé a sept *trous*. Ce sont les miens.",
+     1.4
+    ],
+    [
+     "Ta grand-mère l'a commencée le jour où tu nous as annoncé la nouvelle.",
+     1.2
+    ],
+    [
+     "Mais ses mains ne suivent plus. Les doigts tordus, raides comme du bois.",
+     1.4
+    ],
+    [
+     "Au bout de dix rangs, elle a pleuré. Pour un tricot.",
+     1.6
+    ],
+    [
+     "Alors j'ai pris les aiguilles. Moi, avec mes mains de maçon.",
+     1.4
+    ],
+    [
+     "Elle m'a appris depuis son fauteuil. Une maille à l'endroit, une maille à l'envers.",
+     1.2
+    ],
+    [
+     "J'étais nul. Je tirais trop fort. Je perdais des mailles. Je jurais.",
+     1.4
+    ],
+    [
+     "Elle riait comme je ne l'avais pas entendue rire depuis des mois.",
+     1.6
+    ],
+    [
+     "Pendant deux mois, chaque soir, elle comptait, et je tricotais.",
+     1.4
+    ],
+    [
+     "Quand je ratais une maille, je voulais tout défaire.",
+     1.4
+    ],
+    [
+     "Elle disait : laisse. Le petit saura que tu étais *là*.",
+     1.8
+    ],
+    [
+     "Il y a sept trous. Je les ai comptés. Elle aussi.",
+     1.6
+    ],
+    [
+     "Quand on aime quelqu'un longtemps, on finit par faire ce qu'il ne peut plus faire.",
+     1.4
+    ],
+    [
+     "Les trous, c'est moi. Les mailles, c'est elle. La couverture, c'est *nous*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j049_pere",
+   "perso": "pere",
+   "episode": 50,
+   "fin": "Envoie-la à quelqu'un qui hésite à partir vers son rêve.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Ta mère est partie deux ans. Sans nous.",
+   "legende": "Quand quelqu'un que tu aimes a un rêve, ne sois pas la raison pour laquelle il n'y va pas. Et toi, qui t'a laissé partir vers ton rêve ? #papa #pere #couple #amour #reve #pourtoi",
+   "phrases": [
+    [
+     "Quand tu avais six ans, ta mère est partie travailler deux ans au *Japon*. Sans nous.",
+     1.3
+    ],
+    [
+     "On lui proposait le poste de sa vie. Elle avait dit non tout de suite.",
+     1.2
+    ],
+    [
+     "Le soir, je l'ai entendue pleurer dans la salle de bain.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : vas-y. Je m'occupe de tout.",
+     1.4
+    ],
+    [
+     "Tout le monde m'a pris pour un idiot. Ma mère disait : elle ne reviendra pas.",
+     1.4
+    ],
+    [
+     "Moi aussi, j'avais peur. Certaines nuits, je ne dormais pas.",
+     1.4
+    ],
+    [
+     "Avec le décalage, on l'appelait à six heures du matin. Tu lui racontais ta journée.",
+     1.2
+    ],
+    [
+     "J'ai appris à recoudre, à repasser, à signer les carnets de notes.",
+     1.4
+    ],
+    [
+     "Deux ans plus tard, un dimanche matin, on l'attendait à l'aéroport.",
+     1.6
+    ],
+    [
+     "Tu as couru si vite que tu as trébuché. Elle s'est agenouillée sur le carrelage, en larmes.",
+     1.8
+    ],
+    [
+     "Elle n'est plus jamais repartie. Mais elle est revenue plus *grande*.",
+     1.6
+    ],
+    [
+     "Quand quelqu'un que tu aimes a un rêve, ne sois pas la raison pour laquelle il n'y va pas.",
+     1.4
+    ],
+    [
+     "Sois la raison pour laquelle il *revient*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j049_mere",
+   "perso": "mere",
+   "episode": 50,
+   "fin": "Envoie-la à quelqu'un qui se souvient de tes rêves.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Tombé d'un cerisier, le matin des noces.",
+   "legende": "Méfie-toi de ceux qui te promettent la lune. Choisis ceux qui grimpent dans le cerisier. Et toi, quel petit rêve quelqu'un a-t-il retenu pour toi ? #maman #mere #mariage #amour #humour #pourtoi",
+   "phrases": [
+    [
+     "Le matin de notre mariage, ton père est tombé d'un *cerisier*.",
+     1.3
+    ],
+    [
+     "À sept heures, en costume. Il a atterri dans les orties. La jambe cassée.",
+     1.4
+    ],
+    [
+     "Son frère m'a appelée : ne t'inquiète pas, il viendra. En ambulance s'il le faut.",
+     1.4
+    ],
+    [
+     "J'étais furieuse. Qui monte dans un cerisier le jour de ses noces ?",
+     1.4
+    ],
+    [
+     "Il est arrivé à la mairie sur des béquilles. Le plâtre jusqu'au genou.",
+     1.4
+    ],
+    [
+     "Et dans les bras, une brassée de branches de cerisier en fleurs.",
+     1.6
+    ],
+    [
+     "Un soir, je lui avais raconté un rêve de petite fille : un bouquet de fleurs de cerisier.",
+     1.4
+    ],
+    [
+     "Une seule fois. Moi, je l'avais oublié.",
+     1.6
+    ],
+    [
+     "Lui, il était monté les cueillir à l'aube. Dans le cerisier de son grand-père.",
+     1.8
+    ],
+    [
+     "Sur toutes nos photos de mariage, il est assis. Moi, je tiens mes *fleurs* de cerisier.",
+     1.4
+    ],
+    [
+     "Il boite encore un peu, les jours de pluie.",
+     1.4
+    ],
+    [
+     "Méfie-toi de ceux qui te promettent la lune. Choisis ceux qui grimpent dans le cerisier.",
+     1.4
+    ],
+    [
+     "Chaque printemps, il me rapporte une branche. Depuis trente ans. Les deux pieds bien sur *terre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j049_fou",
+   "perso": "fou",
+   "episode": 49,
+   "fin": "Envoie-la à quelqu'un qui doit décider malgré la peur.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il n'est pas médecin. Il doit décider.",
+   "legende": "Le courage, ce n'est pas l'absence de peur. C'est ne pas lui laisser le dernier mot. Et toi, quelle décision as-tu prise avec la peur au ventre ? #motivation #science #pasteur #courage #histoire #pourtoi",
+   "phrases": [
+    [
+     "En juillet mille huit cent quatre-vingt-cinq, un chien *enragé* mord un petit garçon de neuf ans.",
+     1.3
+    ],
+    [
+     "À l'époque, la rage ne pardonne pas. Quand elle se déclare, on meurt.",
+     1.4
+    ],
+    [
+     "Sa mère l'emmène à Paris, chez un savant qui cherche un vaccin.",
+     1.2
+    ],
+    [
+     "Ce savant n'est pas médecin. Il n'a même pas le droit de faire une piqûre.",
+     1.4
+    ],
+    [
+     "Il a soixante-deux ans. Une attaque l'a laissé à moitié paralysé.",
+     1.2
+    ],
+    [
+     "Il a déjà perdu trois de ses enfants, emportés par la maladie.",
+     1.6
+    ],
+    [
+     "Personne ne sait si son traitement marchera sur un enfant.",
+     1.4
+    ],
+    [
+     "Mais sans rien faire, le garçon est perdu. Malgré sa peur, il décide d'essayer.",
+     1.6
+    ],
+    [
+     "Pendant dix jours, un médecin fait les piqûres. Puis on attend.",
+     1.6
+    ],
+    [
+     "Les semaines passent. Le garçon ne tombe pas malade. Il *vit*.",
+     1.8
+    ],
+    [
+     "Le savant s'appelait Louis Pasteur. Le garçon, Joseph Meister.",
+     1.6
+    ],
+    [
+     "Devenu adulte, Joseph a travaillé à l'Institut Pasteur. Il en gardait la porte.",
+     1.6
+    ],
+    [
+     "Toi aussi, un jour, tu devras agir sans être sûr. Avec la peur au ventre.",
+     1.2
+    ],
+    [
+     "Le courage, ce n'est pas l'absence de peur. C'est ne pas lui laisser le dernier *mot*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

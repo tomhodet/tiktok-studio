@@ -1,0 +1,360 @@
+{
+ "nom": "j045",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j045_grandmere",
+   "perso": "grandmere",
+   "episode": 46,
+   "fin": "Envoie-la à quelqu'un dont tu tiens la main.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Une seule paire de gants pour deux.",
+   "legende": "Ce n'est pas d'avoir assez pour deux qui compte. C'est de garder une main libre pour l'autre. Et toi, que partagerais-tu même si tu pouvais en avoir deux ? #grandmere #amour #couple #tendresse #hiver #pourtoi",
+   "phrases": [
+    [
+     "Pendant notre premier hiver, ton grand-père et moi, on n'avait qu'une paire de *gants*.",
+     1.3
+    ],
+    [
+     "Des gants de laine, tricotés par sa mère. Trop grands pour moi, trop petits pour lui.",
+     1.2
+    ],
+    [
+     "Alors on avait trouvé une solution. Chacun en mettait un.",
+     1.4
+    ],
+    [
+     "Et nos deux mains nues, on les tenait ensemble. Dans la poche de son manteau.",
+     1.4
+    ],
+    [
+     "On marchait comme ça jusqu'à l'usine, tous les matins. Collés comme deux timbres.",
+     1.2
+    ],
+    [
+     "Les gens se moquaient. On avait l'air de deux ivrognes qui se soutiennent.",
+     1.4
+    ],
+    [
+     "L'hiver suivant, on avait un peu d'argent. Il m'a offert des gants en cuir. Une vraie paire.",
+     1.4
+    ],
+    [
+     "Je les ai mis une fois. Et pourtant, j'avais froid à la main droite.",
+     1.6
+    ],
+    [
+     "Le lendemain, j'ai remis un seul gant de laine. Et j'ai cherché sa *main*.",
+     1.8
+    ],
+    [
+     "Chaque Noël, toute la famille nous offre des gants. Il y en a vingt paires dans l'armoire. Neuves.",
+     1.4
+    ],
+    [
+     "On n'en met qu'un chacun.",
+     1.6
+    ],
+    [
+     "Ce n'est pas d'avoir assez pour deux qui compte. C'est de garder une main libre pour l'autre.",
+     1.4
+    ],
+    [
+     "J'aurai toujours une main froide. C'est le prix de l'*autre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j045_grandpere",
+   "perso": "grandpere",
+   "episode": 47,
+   "fin": "Envoie-la à quelqu'un qui a gravé ses initiales quelque part.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Sous la mousse, d'autres initiales.",
+   "legende": "On croit inventer l'amour. On marche juste dans les pas de ceux qui nous ont aimés. Et toi, as-tu déjà gravé des initiales quelque part ? #grandpere #amour #famille #souvenirs #emotion #pourtoi",
+   "phrases": [
+    [
+     "Dans mon garage, il y a un morceau de tronc. Avec nos *initiales* dessus.",
+     1.3
+    ],
+    [
+     "Je les ai gravées en mille neuf cent soixante-cinq, dans le grand frêne au bord de la rivière.",
+     1.2
+    ],
+    [
+     "C'est là que j'avais embrassé ta grand-mère pour la première fois.",
+     1.4
+    ],
+    [
+     "Ses initiales, les miennes, et un cœur un peu de travers.",
+     1.4
+    ],
+    [
+     "Il y a dix ans, la commune a abattu l'arbre pour élargir la route.",
+     1.2
+    ],
+    [
+     "Je suis arrivé avec ma scie. J'ai découpé le morceau avec nos lettres.",
+     1.2
+    ],
+    [
+     "Les ouvriers rigolaient. Je m'en fichais.",
+     1.4
+    ],
+    [
+     "À la maison, j'ai brossé l'écorce. Juste à côté, sous la mousse, il y avait d'autres lettres.",
+     1.6
+    ],
+    [
+     "Plus anciennes, à moitié refermées. Un J, un L, et une date. Mille neuf cent trente-huit.",
+     1.6
+    ],
+    [
+     "Jean et Louise. Mes *parents*.",
+     1.8
+    ],
+    [
+     "Ils ne m'avaient jamais rien dit. Moi non plus.",
+     1.6
+    ],
+    [
+     "On croit inventer l'amour. On marche juste dans les pas de ceux qui nous ont aimés.",
+     1.4
+    ],
+    [
+     "Il reste de la place sur l'écorce. Je te l'ai *gardée*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j045_pere",
+   "perso": "pere",
+   "episode": 46,
+   "fin": "Envoie-la à quelqu'un qui attend encore son je t'aime.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Elle m'a répondu : merci.",
+   "legende": "Un je t'aime qui arrive tard, c'est souvent celui qui reste. Et toi, combien de temps as-tu attendu ton premier je t'aime ? #papa #pere #amour #couple #humour #pourtoi",
+   "phrases": [
+    [
+     "La première fois que j'ai dit je t'aime à ta mère, elle m'a répondu : *merci*.",
+     1.4
+    ],
+    [
+     "On était sur un banc. J'avais répété ma phrase toute la semaine.",
+     1.2
+    ],
+    [
+     "Elle m'a tapoté la main. Comme on remercie quelqu'un pour un bon repas.",
+     1.4
+    ],
+    [
+     "Je suis rentré à pied. Douze kilomètres, sans m'en rendre compte.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, elle ne me l'a jamais dit. Pas une fois.",
+     1.2
+    ],
+    [
+     "Je le lui disais encore. Elle souriait, et elle disait merci.",
+     1.2
+    ],
+    [
+     "Mes copains disaient : elle te garde en attendant mieux.",
+     1.4
+    ],
+    [
+     "Et puis j'ai raté le concours de pompier. Pour la deuxième fois.",
+     1.4
+    ],
+    [
+     "Ce soir-là, je me suis assis sur le même banc. Je n'avais plus rien à offrir.",
+     1.6
+    ],
+    [
+     "Elle s'est assise à côté de moi. Elle a pris ma main. Elle a dit : *je t'aime*.",
+     1.8
+    ],
+    [
+     "Deux ans d'attente. Elle avait choisi le pire soir de ma vie.",
+     1.4
+    ],
+    [
+     "Je lui ai demandé pourquoi ce soir-là.",
+     1.2
+    ],
+    [
+     "Elle a dit : je voulais que tu saches que ce n'était pas pour tes bons jours.",
+     1.6
+    ],
+    [
+     "Un je t'aime qui arrive tard, c'est souvent celui qui *reste*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j045_mere",
+   "perso": "mere",
+   "episode": 46,
+   "fin": "Envoie-la à quelqu'un qui invente des excuses pour te voir.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "On s'est mariés deux fois. L'un avec l'autre.",
+   "legende": "Parfois, il faut se perdre pour comprendre qu'on se cherchait. Et toi, quelle excuse as-tu déjà inventée pour revoir quelqu'un ? #maman #mere #couple #secondechance #humour #pourtoi",
+   "phrases": [
+    [
+     "Ton père et moi, on s'est mariés deux fois. L'un avec l'*autre*.",
+     1.3
+    ],
+    [
+     "La première fois, on avait vingt-cinq ans. On a divorcé quand tu avais un an.",
+     1.2
+    ],
+    [
+     "Ton père s'est installé à deux rues de chez nous.",
+     1.2
+    ],
+    [
+     "Un hiver, la chaudière est tombée en panne. Il savait la réparer.",
+     1.2
+    ],
+    [
+     "Elle est retombée en panne en janvier. Puis en février. Puis en mars.",
+     1.4
+    ],
+    [
+     "Il venait à chaque fois. Il restait dîner. On riait de plus en plus.",
+     1.4
+    ],
+    [
+     "Ce qu'il ne savait pas, c'est que je débranchais la chaudière exprès.",
+     1.6
+    ],
+    [
+     "Et lui, en secret, arrachait les boutons de ses chemises. Pour que je les *recouse*.",
+     1.8
+    ],
+    [
+     "Tout un hiver. Une chaudière et six boutons.",
+     1.6
+    ],
+    [
+     "Au printemps, il m'a redemandée en mariage. Devant la chaudière.",
+     1.4
+    ],
+    [
+     "À notre deuxième mariage, c'est toi qui portais les alliances. Tu avais trois ans.",
+     1.2
+    ],
+    [
+     "Tu croyais que c'était ton anniversaire.",
+     1.6
+    ],
+    [
+     "Parfois, il faut se perdre pour comprendre qu'on se cherchait.",
+     1.4
+    ],
+    [
+     "Et si ta chaudière tombe souvent en panne, demande-toi qui tu as envie d'*appeler*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j045_fou",
+   "perso": "fou",
+   "episode": 45,
+   "fin": "Envoie-la à quelqu'un à qui on a prédit le pire.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Il lui restait deux ans à vivre.",
+   "legende": "Une prévision n'est pas un destin. Et toi, qu'est-ce qu'on t'a prédit que tu n'as pas laissé arriver ? #motivation #science #hawking #courage #perseverance #pourtoi",
+   "phrases": [
+    [
+     "À vingt et un ans, un étudiant apprend qu'il lui reste deux ans à *vivre*.",
+     1.3
+    ],
+    [
+     "Une maladie va paralyser ses muscles, un par un. Les médecins n'y peuvent rien.",
+     1.4
+    ],
+    [
+     "Il ne voit plus l'intérêt de finir sa thèse.",
+     1.4
+    ],
+    [
+     "Mais il vient de rencontrer une jeune femme, Jane. Ils se marient deux ans plus tard.",
+     1.2
+    ],
+    [
+     "Les deux ans passent. Il est toujours là.",
+     1.6
+    ],
+    [
+     "Il perd l'usage de ses jambes. Puis de ses mains.",
+     1.2
+    ],
+    [
+     "Il obtient pourtant la chaire de Cambridge qu'occupait autrefois Isaac Newton.",
+     1.4
+    ],
+    [
+     "À quarante-trois ans, après une opération, il perd sa *voix*.",
+     1.6
+    ],
+    [
+     "Alors il parle avec une machine. Il choisit les mots un par un, sur un écran.",
+     1.4
+    ],
+    [
+     "Trois ans plus tard, il publie un livre sur l'univers. Des millions de gens le lisent.",
+     1.4
+    ],
+    [
+     "Il s'appelle Stephen Hawking.",
+     1.4
+    ],
+    [
+     "Il meurt à soixante-seize ans. Cinquante-cinq ans après les deux ans qu'on lui avait donnés.",
+     1.8
+    ],
+    [
+     "On l'enterre entre Newton et Darwin.",
+     1.6
+    ],
+    [
+     "Toi aussi, on t'a peut-être prédit un échec, une limite, une fin.",
+     1.2
+    ],
+    [
+     "Souviens-toi : une prévision n'est pas un *destin*.",
+     0
+    ]
+   ]
+  }
+ ]
+}
