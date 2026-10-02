@@ -1,0 +1,42 @@
+name: publier
+# Publication automatique et gratuite sur TikTok (compte professionnel) via l'API de Buffer : deux fois par
+# jour, la file Buffer est remplie jusqu'à 10 vidéos d'avance. Réglages et suivi : tiktok/buffer.json.
+# Secret requis : BUFFER_API_KEY.
+on:
+  schedule:
+    - cron: "13 4 * * *"
+    - cron: "13 16 * * *"
+  push:
+    branches: [main]
+    paths: ["tiktok/buffer.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: publier
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/buffer.json
+          sparse-checkout-cone-mode: false
+      - name: File Buffer remplie
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: |
+          if [ -z "$BUFFER_API_KEY" ]; then echo "secret BUFFER_API_KEY absent : rien à faire"; exit 0; fi
+          python3 tiktok/outils/buffer_tiktok.py
+      - name: Suivi enregistré
+        if: always()
+        run: |
+          git config user.name "tiktok-studio"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tiktok/buffer.json
+          git commit -q -m "Publication : file Buffer du $(date -u +'%F %H:%M')" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && exit 0; sleep 7; done

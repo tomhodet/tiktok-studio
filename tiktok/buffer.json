@@ -1,0 +1,17 @@
+{
+ "actif": false,
+ "fuseau": "Europe/Paris",
+ "premier_lot": "j002",
+ "debut": "2026-10-03",
+ "heures": {
+  "fou": "07:30",
+  "grandmere": "12:00",
+  "pere": "17:00",
+  "mere": "19:00",
+  "grandpere": "21:00"
+ },
+ "etiquette_ia": true,
+ "publier_a_verifier": false,
+ "vignette_ms": 1500,
+ "programmes": []
+}
