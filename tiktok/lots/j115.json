@@ -1,0 +1,356 @@
+{
+ "nom": "j115",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j115_grandmere",
+   "perso": "grandmere",
+   "episode": 116,
+   "fin": "Envoie-la à quelqu'un qui doit quitter une maison.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai emporté une porte.",
+   "legende": "On ne quitte jamais vraiment une maison. On choisit ce qu'on emporte. #grandmere #demenagement #souvenirs #famille",
+   "phrases": [
+    [
+     "À soixante-dix-huit ans, j'ai vendu notre maison. J'ai emporté une *porte*.",
+     1.3
+    ],
+    [
+     "Cinquante ans de vie là-dedans. Ton grand-père, tes oncles, ton père.",
+     1.2
+    ],
+    [
+     "Quand ton grand-père est mort, elle est devenue trop grande.",
+     1.2
+    ],
+    [
+     "Tes oncles parlaient déjà de décider pour moi. Alors j'ai décidé avant eux.",
+     1.4
+    ],
+    [
+     "J'ai tout vendu. Le buffet, la vaisselle, les lits. Sans une larme.",
+     1.2
+    ],
+    [
+     "Et puis je suis arrivée devant la porte de la cuisine.",
+     1.4
+    ],
+    [
+     "Sur le bois, il y avait des traits de crayon. Toutes les tailles de la famille.",
+     1.4
+    ],
+    [
+     "Ton père à trois ans. Toi à six. Ton grand-père, une fois, pour rire.",
+     1.6
+    ],
+    [
+     "Le jour de la vente, j'ai démonté cette porte avec un *tournevis*.",
+     1.6
+    ],
+    [
+     "Les acheteurs n'ont rien osé dire. Je leur en ai laissé une neuve. Moche, mais neuve.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, elle est contre le mur de mon salon. Elle ne ferme plus rien.",
+     1.4
+    ],
+    [
+     "Mais la semaine dernière, j'y ai tracé un nouveau trait. Ton petit cousin.",
+     1.6
+    ],
+    [
+     "Partir fait peur. On croit qu'on y laisse sa vie.",
+     1.2
+    ],
+    [
+     "Mais on ne quitte jamais vraiment une maison. On choisit ce qu'on *emporte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j115_grandpere",
+   "perso": "grandpere",
+   "episode": 117,
+   "fin": "Envoie-la à quelqu'un qui a peur de se lancer.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai été couvreur. J'ai le vertige.",
+   "legende": "Ne regarde pas le vide. Regarde la prochaine ardoise. #grandpere #peur #courage #travail #conseildevie",
+   "phrases": [
+    [
+     "J'ai été couvreur pendant quarante ans. J'ai le *vertige*.",
+     1.3
+    ],
+    [
+     "Personne ne l'a jamais su. Ni mes patrons, ni ta grand-mère.",
+     1.2
+    ],
+    [
+     "À seize ans, mon oncle m'a fait monter sur mon premier toit. Une église.",
+     1.2
+    ],
+    [
+     "Arrivé en haut, j'ai regardé en bas. Mes jambes se sont mises à trembler.",
+     1.4
+    ],
+    [
+     "Je me suis accroché à la gouttière. Je voulais redescendre et ne plus jamais remonter.",
+     1.4
+    ],
+    [
+     "Mon oncle ne s'est pas moqué. Il m'a tendu une ardoise.",
+     1.2
+    ],
+    [
+     "Il m'a dit : ne regarde jamais le vide. Regarde la prochaine ardoise.",
+     1.6
+    ],
+    [
+     "Alors j'ai fait ça. Une ardoise. Puis une autre. Pendant quarante ans.",
+     1.4
+    ],
+    [
+     "J'ai refait des centaines de toits. Je n'ai jamais regardé en bas.",
+     1.4
+    ],
+    [
+     "À l'enterrement de mon oncle, sa femme m'a pris à part.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : tu sais, lui aussi avait le *vertige*. Toute sa vie.",
+     1.8
+    ],
+    [
+     "Ce conseil, il ne l'avait pas inventé pour moi. Il se le répétait chaque matin.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as peur de quelque chose. Tant mieux. C'est que tu montes.",
+     1.2
+    ],
+    [
+     "Ne regarde pas le vide. Regarde la prochaine *ardoise*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j115_pere",
+   "perso": "pere",
+   "episode": 116,
+   "fin": "Envoie-la à un jeune papa qui a peur.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Et j'ai mis le contact.",
+   "legende": "Le courage, c'est d'avoir envie de fuir. Et de couper le moteur quand même. #papa #pere #naissance #peur #courage",
+   "phrases": [
+    [
+     "Le jour de ta naissance, je suis allé m'asseoir dans la voiture. Et j'ai mis le *contact*.",
+     1.4
+    ],
+    [
+     "Tu avais deux heures. Ta mère dormait. Moi, je ne pouvais plus respirer.",
+     1.2
+    ],
+    [
+     "Je voulais partir. Rouler. N'importe où, mais loin de cette chambre.",
+     1.2
+    ],
+    [
+     "J'avais vingt-cinq ans. Je ne savais pas changer une couche. Je ne savais rien.",
+     1.2
+    ],
+    [
+     "Mon propre père était parti quand j'avais six ans. Je n'avais aucun modèle.",
+     1.4
+    ],
+    [
+     "Le moteur tournait. Mes mains tremblaient sur le volant.",
+     1.4
+    ],
+    [
+     "Et là, un homme est passé devant mon pare-brise. Il portait un siège bébé.",
+     1.4
+    ],
+    [
+     "Il avançait tout doucement, comme s'il portait du verre. Il avait l'air aussi terrifié que moi.",
+     1.6
+    ],
+    [
+     "Mais lui, il ne s'enfuyait pas. Il ramenait son *enfant* à la maison.",
+     1.8
+    ],
+    [
+     "J'ai coupé le moteur. Je suis remonté. Tu dormais sur ta mère.",
+     1.6
+    ],
+    [
+     "Ta mère ne l'a jamais su. Toi non plus, jusqu'à aujourd'hui.",
+     1.4
+    ],
+    [
+     "J'ai longtemps cru que le courage, c'était de ne pas avoir peur.",
+     1.2
+    ],
+    [
+     "Le courage, c'est d'avoir envie de fuir. Et de couper le *moteur* quand même.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j115_mere",
+   "perso": "mere",
+   "episode": 116,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas faire le premier pas.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai invité ton père. Il a dit non.",
+   "legende": "Un premier non, c'est souvent juste de la peur. #maman #mere #amour #humour #courage",
+   "phrases": [
+    [
+     "C'est moi qui ai invité ton père à sortir. Il a dit *non*.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent quatre-vingt-quatorze. Une soirée chez des amis.",
+     1.2
+    ],
+    [
+     "Il était dans la cuisine. Il parlait de trains à une plante verte.",
+     1.4
+    ],
+    [
+     "À l'époque, une fille n'invitait pas un garçon. Ça ne se faisait pas.",
+     1.2
+    ],
+    [
+     "J'ai bu un verre d'eau, j'ai traversé la cuisine, et j'ai demandé : cinéma, samedi ?",
+     1.4
+    ],
+    [
+     "Il est devenu tout rouge. Il a dit : non, merci. Et il est retourné à sa plante.",
+     1.6
+    ],
+    [
+     "J'ai eu honte pendant une semaine entière.",
+     1.2
+    ],
+    [
+     "Le samedi suivant, quelqu'un a sonné. C'était lui. Avec deux places de *cinéma*.",
+     1.6
+    ],
+    [
+     "Il m'a dit : j'ai dit non parce que j'avais peur. Pas parce que je ne voulais pas.",
+     1.8
+    ],
+    [
+     "Il avait mis une semaine à trouver le courage. Moi, je l'avais bu dans un verre d'eau.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, il parle toujours de trains. Mais c'est à moi qu'il en parle.",
+     1.4
+    ],
+    [
+     "Si tu as envie de demander quelque chose à quelqu'un, demande.",
+     1.2
+    ],
+    [
+     "Un premier non, c'est souvent juste de la *peur*. Et pas toujours la tienne.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j115_fou",
+   "perso": "fou",
+   "episode": 115,
+   "fin": "Envoie-la à quelqu'un qui commence petit.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Des serpents morts sur une île de sable.",
+   "legende": "Une forêt, ce n'est rien d'autre qu'un arbre. Planté tous les jours. #motivation #discipline #nature #inde #perseverance",
+   "phrases": [
+    [
+     "Un garçon de seize ans trouve des dizaines de *serpents* morts sur une île de sable.",
+     1.3
+    ],
+    [
+     "C'est en Inde, en mille neuf cent soixante-dix-neuf, au milieu du fleuve Brahmapoutre.",
+     1.2
+    ],
+    [
+     "Une crue les a déposés là. Puis la chaleur les a tués.",
+     1.2
+    ],
+    [
+     "Sur ce sable, il n'y avait pas un seul arbre. Pas une ombre.",
+     1.4
+    ],
+    [
+     "Le garçon s'assoit et pleure. Puis il prend une décision.",
+     1.6
+    ],
+    [
+     "Il va planter des arbres. Lui-même. Sur ce sable où rien ne pousse.",
+     1.4
+    ],
+    [
+     "Il commence par des bambous. Il plante, il arrose, il recommence.",
+     1.2
+    ],
+    [
+     "Une année. Puis dix. Puis trente. Seul, presque tous les jours.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, cette île de sable est une *forêt*. Des centaines d'hectares.",
+     1.8
+    ],
+    [
+     "Des éléphants y vivent. Des rhinocéros. Des tigres.",
+     1.6
+    ],
+    [
+     "On l'appelle la forêt de Molai. C'est son surnom. Il s'appelle Jadav Payeng.",
+     1.6
+    ],
+    [
+     "Toi, tu attends peut-être de voir la forêt pour planter le premier arbre.",
+     1.2
+    ],
+    [
+     "Lui ne voyait que du sable. Il a planté quand même.",
+     1.4
+    ],
+    [
+     "Une forêt, ce n'est rien d'autre qu'un *arbre*. Planté tous les jours.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "nom": "j128",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j128_grandmere",
+   "perso": "grandmere",
+   "episode": 129,
+   "fin": "Envoie-la à quelqu'un qui a dû fermer boutique.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Tu dors sous ma faillite.",
+   "legende": "Une faillite, ça ne se brûle pas. On découpe ce qui reste, et on recoud. #grandmere #faillite #couture #resilience",
+   "phrases": [
+    [
+     "Quand tu dors chez moi, tu dors sous ma *faillite*.",
+     1.4
+    ],
+    [
+     "En mille neuf cent soixante-dix-neuf, j'ai ouvert une mercerie, rue de l'Église.",
+     1.2
+    ],
+    [
+     "Des boutons, du fil, des rubans, et des tissus jusqu'au plafond.",
+     1.2
+    ],
+    [
+     "Trois ans plus tard, un supermarché s'est installé à l'entrée de la ville.",
+     1.2
+    ],
+    [
+     "Mes clientes me disaient toujours bonjour. Mais elles achetaient là-bas.",
+     1.4
+    ],
+    [
+     "Un matin, j'ai collé une affiche sur la vitrine : liquidation totale.",
+     1.4
+    ],
+    [
+     "J'avais tellement honte que je me cachais dans l'arrière-boutique. Ton grand-père tenait la caisse à ma place.",
+     1.6
+    ],
+    [
+     "À la fin, il restait trois sacs de coupons. Des bouts de tissu que personne ne voulait.",
+     1.4
+    ],
+    [
+     "Le premier soir, j'ai voulu les brûler dans la cheminée.",
+     1.4
+    ],
+    [
+     "Ton grand-père m'a arrêtée. Il a dit : attends l'*hiver*.",
+     1.8
+    ],
+    [
+     "L'hiver est arrivé. On n'avait plus de quoi payer le fioul.",
+     1.4
+    ],
+    [
+     "Alors, chaque soir, j'ai cousu les coupons ensemble. Carré après carré.",
+     1.6
+    ],
+    [
+     "Ce dessus-de-lit nous a tenu chaud pendant les années les plus dures.",
+     1.4
+    ],
+    [
+     "Une faillite, ça ne se brûle pas. On découpe ce qui reste, et on recoud.",
+     1.6
+    ],
+    [
+     "Ce soir encore, ma faillite te tient *chaud*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j128_grandpere",
+   "perso": "grandpere",
+   "episode": 130,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas lancer son idée.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Elle a repeint la cuisine.",
+   "legende": "Branche tes idées. Au pire, tu repeindras la cuisine. #grandpere #humour #invention #echec",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, j'ai inventé une machine à éplucher les pommes de terre. Elle a repeint la *cuisine*.",
+     1.6
+    ],
+    [
+     "Ta grand-mère épluchait un seau de patates chaque dimanche.",
+     1.2
+    ],
+    [
+     "Pendant trois mois, j'ai bricolé à la cave, tous les soirs après l'usine.",
+     1.2
+    ],
+    [
+     "Un vieux moteur de machine à laver. Un tambour. Du papier de verre.",
+     1.4
+    ],
+    [
+     "Le grand jour, toute la famille était là. Même ton arrière-grand-mère, avec son chapeau du dimanche.",
+     1.2
+    ],
+    [
+     "J'ai mis les pommes de terre. J'ai branché.",
+     1.4
+    ],
+    [
+     "Elles sont sorties comme des boulets de canon. Le plafond. Les murs. Le chapeau.",
+     1.6
+    ],
+    [
+     "Ta grand-mère pleurait de rire. Moi, je voulais disparaître sous la table.",
+     1.4
+    ],
+    [
+     "Le lundi, toute l'usine connaissait l'histoire. On m'appelait l'inventeur.",
+     1.4
+    ],
+    [
+     "À midi, le chef d'atelier m'a fait venir. J'ai cru que j'allais être renvoyé.",
+     1.6
+    ],
+    [
+     "Il a dit : un gars qui fait voler des patates, je le veux à l'*entretien*.",
+     1.8
+    ],
+    [
+     "J'ai réparé les machines de cette usine pendant trente ans.",
+     1.4
+    ],
+    [
+     "Ta grand-mère a continué à éplucher à la main. Elle disait que c'était plus sûr.",
+     1.4
+    ],
+    [
+     "Alors branche tes idées. Au pire, tu repeindras la *cuisine*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j128_pere",
+   "perso": "pere",
+   "episode": 129,
+   "fin": "Envoie-la à quelqu'un qui a été traité comme un numéro.",
+   "lueurs": [
+    1,
+    7,
+    15
+   ],
+   "accroche": "Je lève les yeux. C'était lui.",
+   "legende": "La vie est longue. Ceux que tu croises en montant, tu les recroises en descendant. #papa #pere #travail #licenciement #respect",
+   "phrases": [
+    [
+     "Après vingt ans dans la même entreprise, j'ai été *licencié* en neuf minutes.",
+     1.4
+    ],
+    [
+     "Par un jeune homme pressé, qui ne connaissait même pas mon prénom.",
+     1.2
+    ],
+    [
+     "Il lisait une feuille. Il ne m'a pas regardé une seule fois.",
+     1.4
+    ],
+    [
+     "Il m'a fallu deux ans pour retrouver du travail.",
+     1.2
+    ],
+    [
+     "Depuis, le samedi matin, je suis bénévole à la banque alimentaire. Ça, tu le sais.",
+     1.2
+    ],
+    [
+     "Ce que tu ne sais pas, c'est qui j'ai vu dans la file, l'hiver dernier.",
+     1.4
+    ],
+    [
+     "Je lis son nom sur la liste. Je lève les yeux. C'était lui.",
+     1.8
+    ],
+    [
+     "Plus vieux, plus maigre. Son entreprise avait fermé, à son tour.",
+     1.4
+    ],
+    [
+     "Il ne m'a pas reconnu. Il regardait ses chaussures.",
+     1.4
+    ],
+    [
+     "J'aurais pu lui rendre ses neuf minutes. Personne ne l'aurait su.",
+     1.6
+    ],
+    [
+     "Je lui ai serré la main. Je l'ai appelé par son prénom.",
+     1.4
+    ],
+    [
+     "Et je l'ai regardé dans les *yeux*, du début à la fin.",
+     1.8
+    ],
+    [
+     "Il revient tous les samedis. Il ne sait toujours pas.",
+     1.4
+    ],
+    [
+     "La vie est longue. Ceux que tu croises en montant, tu les recroises en descendant.",
+     1.4
+    ],
+    [
+     "Alors ne traite jamais quelqu'un comme une *feuille* qu'on lit.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j128_mere",
+   "perso": "mere",
+   "episode": 129,
+   "fin": "Envoie-la à quelqu'un qui passe un examen bientôt.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Le matin de ton baccalauréat, je t'ai menti.",
+   "legende": "Tes victoires les impressionnent. Tes échecs les rassurent. #maman #mere #examen #echec #emotion",
+   "phrases": [
+    [
+     "Le matin de ton baccalauréat, je t'ai *menti*.",
+     1.4
+    ],
+    [
+     "Tu tremblais au-dessus de ton bol. Tu m'as demandé si moi, j'avais eu peur.",
+     1.2
+    ],
+    [
+     "J'ai répondu : pas du tout, je l'ai eu du premier coup.",
+     1.6
+    ],
+    [
+     "En réalité, je l'ai raté. Et pas qu'un peu.",
+     1.4
+    ],
+    [
+     "Sept de moyenne. Ma mère a caché le relevé de notes au fond du buffet.",
+     1.2
+    ],
+    [
+     "Tout l'été, j'ai eu honte de sortir. Même pour aller chercher le pain.",
+     1.4
+    ],
+    [
+     "En septembre, je suis retournée au lycée. La plus vieille de la classe.",
+     1.2
+    ],
+    [
+     "Je l'ai eu l'année suivante. De justesse.",
+     1.4
+    ],
+    [
+     "Ce matin-là, je croyais te protéger avec mon mensonge.",
+     1.4
+    ],
+    [
+     "Le soir, tu es rentré en disant : je ne serai jamais aussi fort que toi.",
+     1.6
+    ],
+    [
+     "C'est là que j'ai compris. Mon mensonge ne t'avait pas rassuré. Il t'avait *écrasé*.",
+     1.8
+    ],
+    [
+     "Alors je suis allée chercher le relevé de notes. Je l'avais gardé près de trente ans.",
+     1.6
+    ],
+    [
+     "Tu as ri. Pour la première fois de la semaine.",
+     1.4
+    ],
+    [
+     "Ne cache pas tes échecs à ceux que tu aimes.",
+     1.2
+    ],
+    [
+     "Tes victoires les impressionnent. Tes échecs les *rassurent*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j128_fou",
+   "perso": "fou",
+   "episode": 128,
+   "fin": "Envoie-la à quelqu'un qui porte une vieille blessure.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "À la place de la blessure, une perle.",
+   "legende": "Tu ne peux pas toujours l'enlever. Mais tu peux l'entourer. #motivation #nature #resilience #perle",
+   "phrases": [
+    [
+     "Une huître perlière n'a ni mains, ni dents, ni griffes. Un jour, un *intrus* entre dans sa coquille.",
+     1.4
+    ],
+    [
+     "Un minuscule parasite, ou un débris, coincé contre sa chair.",
+     1.2
+    ],
+    [
+     "Elle ne peut pas le chasser. Elle ne peut pas fuir.",
+     1.2
+    ],
+    [
+     "Alors elle fait la seule chose qu'elle sait faire.",
+     1.4
+    ],
+    [
+     "Elle recouvre l'intrus d'une fine couche de nacre. La matière brillante qui tapisse l'intérieur de sa coquille.",
+     1.4
+    ],
+    [
+     "Puis une deuxième couche. Puis une autre. Pendant des années.",
+     1.4
+    ],
+    [
+     "L'intrus est toujours là. Elle ne s'en débarrasse jamais.",
+     1.4
+    ],
+    [
+     "Mais un jour, quelqu'un ouvre la coquille.",
+     1.6
+    ],
+    [
+     "Et à la place de la blessure, il trouve une *perle*.",
+     1.8
+    ],
+    [
+     "Une huître que rien n'a jamais blessée ne fabrique pas de perle.",
+     1.4
+    ],
+    [
+     "Toi aussi, il y a peut-être quelque chose en toi que tu n'arrives pas à chasser.",
+     1.4
+    ],
+    [
+     "Un échec. Une humiliation. Une phrase qu'on t'a dite et qui fait encore mal.",
+     1.4
+    ],
+    [
+     "Tu ne peux pas toujours l'enlever.",
+     1.2
+    ],
+    [
+     "Mais tu peux l'entourer. Couche après couche. Jour après jour.",
+     1.6
+    ],
+    [
+     "C'est comme ça qu'on fabrique une *perle*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

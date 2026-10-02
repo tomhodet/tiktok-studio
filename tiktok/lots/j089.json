@@ -1,0 +1,372 @@
+{
+ "nom": "j089",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j089_grandmere",
+   "perso": "grandmere",
+   "episode": 90,
+   "fin": "Envoie-la à quelqu'un qui a eu une rencontre ridicule.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Il m'a jeté une carafe de vin.",
+   "legende": "Les gens qui comptent ne te rencontrent presque jamais à ton avantage. #grandmere #humour #amour #rencontre",
+   "phrases": [
+    [
+     "La première fois que ton grand-père m'a vue, il m'a jeté une carafe de *vin* à la figure.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-six, au mariage d'une cousine.",
+     1.2
+    ],
+    [
+     "J'avais passé deux heures sur mon chignon. Et une bombe entière de laque.",
+     1.2
+    ],
+    [
+     "Au dessert, je me suis penchée vers les bougies pour écouter une blague.",
+     1.2
+    ],
+    [
+     "Mon chignon a pris feu. D'un coup. Comme une torche.",
+     1.4
+    ],
+    [
+     "Moi, je ne sentais rien. Je riais encore.",
+     1.0
+    ],
+    [
+     "Un grand garçon a bondi du bout de la table. Il a attrapé la carafe.",
+     1.0
+    ],
+    [
+     "Et il me l'a vidée sur la tête. Du vin rouge, sur ma robe blanche.",
+     1.4
+    ],
+    [
+     "J'avais les cheveux grillés, du vin jusque dans les chaussures. Je sentais le poulet rôti.",
+     1.6
+    ],
+    [
+     "Il est venu s'excuser, tout rouge. Il a dit : vous étiez vraiment *lumineuse*, mademoiselle.",
+     1.8
+    ],
+    [
+     "J'ai éclaté de rire. Deux ans plus tard, je l'épousais.",
+     1.6
+    ],
+    [
+     "Je n'ai jamais été aussi ridicule que ce soir-là.",
+     1.4
+    ],
+    [
+     "Les gens qui comptent ne te rencontrent presque jamais à ton avantage.",
+     1.4
+    ],
+    [
+     "Alors, les jours de catastrophe, regarde bien autour de toi.",
+     1.2
+    ],
+    [
+     "Quelqu'un est peut-être en train d'attraper la *carafe*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j089_grandpere",
+   "perso": "grandpere",
+   "episode": 91,
+   "fin": "Envoie-la à quelqu'un qui dépense avant d'avoir gagné.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'ai été millionnaire. Pendant une nuit.",
+   "legende": "Ne dépense jamais un argent que tu n'as pas encore dans la main. #grandpere #humour #argent #conseildevie",
+   "phrases": [
+    [
+     "Un samedi soir de mille neuf cent soixante-dix-neuf, j'ai été *millionnaire*. Pendant une nuit.",
+     1.3
+    ],
+    [
+     "Depuis des années, je jouais les mêmes numéros. Les dates de naissance de mes enfants.",
+     1.2
+    ],
+    [
+     "Ce soir-là, à la radio, ils sont tous sortis. Les six.",
+     1.4
+    ],
+    [
+     "J'ai couru au café. J'ai payé à boire à tout le monde. Deux fois.",
+     1.2
+    ],
+    [
+     "J'ai téléphoné à mon contremaître. Je lui ai dit ce que je pensais de lui. Et de sa moustache.",
+     1.4
+    ],
+    [
+     "J'ai même promis une voiture à ton père. Il avait neuf ans.",
+     1.4
+    ],
+    [
+     "Le lendemain matin, ta grand-mère a regardé le ticket. Elle n'a rien dit. Elle a pâli.",
+     1.6
+    ],
+    [
+     "Le ticket était pour le tirage *suivant*.",
+     1.8
+    ],
+    [
+     "Mes numéros étaient sortis la seule semaine où je n'avais pas joué.",
+     1.4
+    ],
+    [
+     "Le lundi, mon contremaître m'attendait au portail. Il caressait sa moustache.",
+     1.4
+    ],
+    [
+     "J'ai nettoyé les toilettes de l'atelier pendant un mois. Et j'ai remboursé le café pendant trois.",
+     1.4
+    ],
+    [
+     "Ne dépense jamais un argent que tu n'as pas encore dans la main.",
+     1.2
+    ],
+    [
+     "Et ne brûle jamais un pont. Même le jour où tu crois pouvoir t'en passer.",
+     1.2
+    ],
+    [
+     "On a toujours besoin d'un pont. Surtout le *lundi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j089_pere",
+   "perso": "pere",
+   "episode": 90,
+   "fin": "Envoie-la à quelqu'un qui fait des choses juste pour toi.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "J'ai horreur de la pêche.",
+   "legende": "Dis aux gens ce que tu aimes vraiment. Surtout à ceux qui ont l'air heureux. #papa #pere #humour #famille #conseildevie",
+   "phrases": [
+    [
+     "Pendant dix ans, je t'ai emmené à la pêche tous les dimanches. J'ai horreur de la *pêche*.",
+     1.3
+    ],
+    [
+     "Tu avais six ans. Tu avais vu un pêcheur dans un dessin animé.",
+     1.2
+    ],
+    [
+     "Alors j'ai acheté deux cannes, des bottes, et une boîte d'asticots. Ta mère a hurlé.",
+     1.2
+    ],
+    [
+     "Chaque dimanche, réveil à cinq heures. Le froid, la brume, les moustiques.",
+     1.2
+    ],
+    [
+     "Je n'ai jamais su accrocher un ver sans fermer les yeux.",
+     1.4
+    ],
+    [
+     "Mais tu avais l'air si heureux. Alors je disais : quelle belle matinée.",
+     1.4
+    ],
+    [
+     "À seize ans, je t'ai demandé ce que tu voulais faire dimanche.",
+     1.2
+    ],
+    [
+     "Tu as dit : tout ce que tu veux, papa. Mais pitié, pas la pêche.",
+     1.6
+    ],
+    [
+     "Tu détestais ça. Depuis le premier jour. Tu venais pour *moi*.",
+     1.8
+    ],
+    [
+     "Dix ans à grelotter au bord de l'eau, chacun pour faire plaisir à l'autre.",
+     1.4
+    ],
+    [
+     "Et en dix ans, on n'a jamais pris un seul poisson.",
+     1.4
+    ],
+    [
+     "Dis aux gens ce que tu aimes vraiment. Surtout à ceux qui ont l'air heureux.",
+     1.4
+    ],
+    [
+     "Ils font peut-être semblant. Pour toi.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai enfin attrapé quelque chose. La *vérité*.",
+     1.0
+    ],
+    [
+     "Elle a mis dix ans à mordre.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j089_mere",
+   "perso": "mere",
+   "episode": 90,
+   "fin": "Envoie-la à quelqu'un qui en fait toujours trop.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ta tarte préférée, je ne l'ai jamais faite.",
+   "legende": "Personne n'a besoin d'une mère parfaite. On a besoin d'une mère qui tient debout. #maman #mere #humour #famille #cuisine",
+   "phrases": [
+    [
+     "Ta tarte aux pommes préférée, celle de tous les dimanches, je ne l'ai jamais *faite*.",
+     1.3
+    ],
+    [
+     "La semaine dernière, tu m'as demandé la recette. Pour l'apporter chez ta belle-famille.",
+     1.2
+    ],
+    [
+     "J'ai bafouillé. J'ai dit que je te l'écrirais. Alors voilà la recette.",
+     1.4
+    ],
+    [
+     "Le dimanche, à huit heures, j'allais chez la boulangère du coin.",
+     1.2
+    ],
+    [
+     "Je rentrais par le jardin. Je posais la tarte dans mon vieux plat. Un peu de farine sur le tablier.",
+     1.4
+    ],
+    [
+     "Pendant vingt ans, vous m'avez tous dit : maman, c'est la meilleure du monde.",
+     1.4
+    ],
+    [
+     "Ce que tu ne sais pas, c'est que la boulangère était au courant.",
+     1.4
+    ],
+    [
+     "Pour moi, elle la ratait un peu exprès. Un bord trop cuit, une pomme de travers.",
+     1.6
+    ],
+    [
+     "Pour que ça fasse *maison*.",
+     1.8
+    ],
+    [
+     "Je travaillais de nuit, à l'époque. Le dimanche matin, je n'avais plus de forces.",
+     1.4
+    ],
+    [
+     "J'avais le choix : deux heures à éplucher des pommes, ou deux heures avec vous.",
+     1.4
+    ],
+    [
+     "Je ne regrette pas une seule de ces tartes.",
+     1.2
+    ],
+    [
+     "Personne n'a besoin d'une mère parfaite. On a besoin d'une mère qui tient debout.",
+     1.4
+    ],
+    [
+     "Alors fais-toi aider. Et si tu dois tricher, choisis bien ta *boulangère*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j089_fou",
+   "perso": "fou",
+   "episode": 89,
+   "fin": "Envoie-la à quelqu'un qui veut tout, tout de suite.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Deux ans couché sous un métier à tisser.",
+   "legende": "Avant de viser, apprends à regarder. #motivation #discipline #conte #sagesse",
+   "phrases": [
+    [
+     "Dans un vieux conte chinois, un homme reste deux ans couché sous le métier à tisser de sa femme.",
+     1.3
+    ],
+    [
+     "Il s'appelle Ji Chang. Il veut devenir le meilleur archer du pays.",
+     1.2
+    ],
+    [
+     "Son maître ne lui donne pas d'arc.",
+     1.0
+    ],
+    [
+     "Il lui dit : d'abord, apprends à ne plus *cligner* des yeux.",
+     1.4
+    ],
+    [
+     "Alors, pendant deux ans, il fixe le va-et-vient du métier, juste au-dessus de son visage.",
+     1.4
+    ],
+    [
+     "Un jour, on approche une pointe de son œil. Il ne cligne pas.",
+     1.4
+    ],
+    [
+     "Le maître dit : ce n'est pas encore suffisant. Apprends à voir le petit comme s'il était grand.",
+     1.4
+    ],
+    [
+     "Ji Chang attrape un pou. Il l'attache à un poil, devant sa fenêtre. Et il le regarde.",
+     1.4
+    ],
+    [
+     "Des jours. Des mois. Trois ans.",
+     1.4
+    ],
+    [
+     "Un matin, le pou lui paraît aussi gros qu'une roue de *charrette*.",
+     1.8
+    ],
+    [
+     "Alors seulement, il prend son arc. La flèche traverse le pou. Le poil ne casse pas.",
+     1.6
+    ],
+    [
+     "Toi, tu veux tirer tout de suite. Le succès, l'argent, le résultat.",
+     1.4
+    ],
+    [
+     "Mais personne ne voit les cinq années passées à regarder.",
+     1.2
+    ],
+    [
+     "Avant de viser, apprends à *regarder*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

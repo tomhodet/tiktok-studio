@@ -1,0 +1,356 @@
+{
+ "nom": "j026",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j026_grandmere",
+   "perso": "grandmere",
+   "episode": 27,
+   "fin": "Envoie-la à quelqu'un qui rentre du travail épuisé.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Maman, tu sens la mer.",
+   "legende": "Ne rougis jamais de l'odeur de ton travail. C'est l'odeur du pain que tu mets sur la table. #grandmere #travail #fierte #emotion",
+   "phrases": [
+    [
+     "À quatorze ans, je suis entrée à la conserverie de sardines. J'ai senti le *poisson* pendant vingt ans.",
+     1.3
+    ],
+    [
+     "Debout de six heures du matin jusqu'au soir, les mains dans la saumure.",
+     1.2
+    ],
+    [
+     "L'odeur restait partout. Dans les cheveux, sur la peau, jusque dans les draps.",
+     1.2
+    ],
+    [
+     "Au bal, un garçon s'est bouché le nez en dansant avec moi. Toute la salle a ri.",
+     1.4
+    ],
+    [
+     "Je suis rentrée à pied. J'ai frotté mes mains jusqu'au sang.",
+     1.4
+    ],
+    [
+     "Pendant des années, je me suis lavée trois fois avant de sortir. Je me cachais.",
+     1.4
+    ],
+    [
+     "Et puis ta mère est née. Le soir, elle courait se jeter dans mes bras.",
+     1.2
+    ],
+    [
+     "Un jour, elle a mis son nez dans mon cou. Elle a dit : maman, tu sens la *mer*.",
+     1.8
+    ],
+    [
+     "Elle avait quatre ans. Pour elle, c'était le plus beau parfum du monde.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai arrêté de me cacher.",
+     1.6
+    ],
+    [
+     "Ne rougis jamais de l'odeur de ton travail.",
+     1.2
+    ],
+    [
+     "C'est l'odeur du pain que tu mets sur la table.",
+     1.4
+    ],
+    [
+     "Et un jour, quelqu'un qui t'aime la respirera comme un *parfum*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j026_grandpere",
+   "perso": "grandpere",
+   "episode": 28,
+   "fin": "Envoie-la à quelqu'un qui regarde son téléphone en conduisant.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Un requin m'a mangé ce doigt.",
+   "legende": "La machine ne sait pas que tu es amoureux. #grandpere #travail #humour #prudence",
+   "phrases": [
+    [
+     "Il me manque un *doigt*. À tous les enfants de la famille, j'ai raconté qu'un requin l'avait mangé.",
+     1.3
+    ],
+    [
+     "Ton père y a cru jusqu'à douze ans. Ta cousine y croit encore.",
+     1.2
+    ],
+    [
+     "La vérité est moins glorieuse. J'avais dix-neuf ans, j'étais apprenti menuisier.",
+     1.2
+    ],
+    [
+     "Ce matin-là, une jolie fille attendait devant l'atelier.",
+     1.0
+    ],
+    [
+     "J'ai voulu lui faire un signe pendant que je poussais une planche dans la scie.",
+     1.4
+    ],
+    [
+     "Une seconde. Il n'a fallu qu'une seconde.",
+     1.6
+    ],
+    [
+     "Mon patron m'a conduit à l'hôpital. Sur la route, il n'a prononcé qu'une phrase.",
+     1.2
+    ],
+    [
+     "Il m'a dit : la machine ne sait pas que tu es *amoureux*.",
+     1.8
+    ],
+    [
+     "J'ai travaillé le bois encore quarante ans. Avec neuf doigts, et toute ma tête.",
+     1.4
+    ],
+    [
+     "Toi, tu n'as pas de scie. Mais tu as une route, une voiture et un téléphone.",
+     1.4
+    ],
+    [
+     "Eux non plus ne savent pas que tu es pressé, fatigué ou amoureux.",
+     1.4
+    ],
+    [
+     "Une seconde d'inattention, ça se paie toute une vie.",
+     1.4
+    ],
+    [
+     "Et la jolie fille ? Elle m'a épousé quand même. Elle adorait les histoires de *requin*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j026_pere",
+   "perso": "pere",
+   "episode": 27,
+   "fin": "Envoie-la à quelqu'un qui a grandi en chuchotant.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ton père était un vampire.",
+   "legende": "Les enfants aussi font des sacrifices. Ils ne le disent simplement pas. #papa #pere #travail #famille #emotion",
+   "phrases": [
+    [
+     "Pendant huit ans, j'ai travaillé de *nuit*. À l'école, tu racontais que ton père était un vampire.",
+     1.3
+    ],
+    [
+     "Ta maîtresse a convoqué ta mère. Elle n'a pas trouvé ça drôle du tout.",
+     1.2
+    ],
+    [
+     "Je partais au centre de tri à neuf heures du soir. Je rentrais quand tu partais à l'école.",
+     1.2
+    ],
+    [
+     "L'après-midi, je dormais. La maison devait rester silencieuse.",
+     1.2
+    ],
+    [
+     "Tu avais fabriqué une pancarte pour ma porte : chut, papa dort.",
+     1.4
+    ],
+    [
+     "Je croyais que ta mère t'obligeait à te taire. Je me trompais.",
+     1.4
+    ],
+    [
+     "Des années plus tard, ton copain Mathis m'a raconté une chose.",
+     1.2
+    ],
+    [
+     "Tu ne l'invitais jamais à la maison. Tu lui disais : mon papa travaille la nuit.",
+     1.4
+    ],
+    [
+     "Tu préférais jouer seul dans ta chambre, sans faire de *bruit*.",
+     1.8
+    ],
+    [
+     "Huit ans de mercredis à chuchoter. Et jamais une plainte.",
+     1.6
+    ],
+    [
+     "On croit que les sacrifices, ce sont les parents qui les font.",
+     1.2
+    ],
+    [
+     "Les enfants en font aussi. Ils ne le disent simplement pas.",
+     1.4
+    ],
+    [
+     "Ta pancarte, je l'ai gardée. Elle est accrochée dans mon garage.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, je n'ai qu'un mot à te dire, tout bas : *merci*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j026_mere",
+   "perso": "mere",
+   "episode": 27,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas demander.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "J'ai vomi avant d'entrer.",
+   "legende": "Personne ne te donnera ce que tu n'oses pas demander. #maman #mere #travail #courage #conseildevie",
+   "phrases": [
+    [
+     "La première fois que j'ai demandé une augmentation, j'ai *vomi* avant d'entrer dans le bureau.",
+     1.3
+    ],
+    [
+     "J'avais trente-huit ans. Douze ans dans la même entreprise. Jamais un retard.",
+     1.2
+    ],
+    [
+     "Un jour, par hasard, j'ai vu la fiche de paie d'un collègue.",
+     1.2
+    ],
+    [
+     "Même poste que moi. Arrivé deux ans après moi. Trois cents euros de plus par mois.",
+     1.4
+    ],
+    [
+     "Le soir, j'ai répété mon discours dans la salle de bains.",
+     1.2
+    ],
+    [
+     "Tu avais dix ans. Tu jouais le patron, assis sur le bord de la baignoire.",
+     1.2
+    ],
+    [
+     "Tu croisais les bras et tu disais : non, madame, c'est la crise.",
+     1.4
+    ],
+    [
+     "Le lendemain, j'ai frappé à sa porte avec les jambes qui tremblaient.",
+     1.2
+    ],
+    [
+     "J'ai tout dit d'un coup, sans respirer.",
+     1.4
+    ],
+    [
+     "Mon patron a souri. Il m'a dit : je me demandais quand vous alliez venir.",
+     1.8
+    ],
+    [
+     "Il attendait depuis des années. Et moi, j'attendais qu'il me le *propose*.",
+     1.6
+    ],
+    [
+     "Personne ne te donnera ce que tu n'oses pas demander.",
+     1.4
+    ],
+    [
+     "Pas par méchanceté. Simplement parce que personne ne pense à ta place.",
+     1.4
+    ],
+    [
+     "Alors demande. Et si tu as peur, entraîne-toi devant quelqu'un qui croise les *bras*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j026_fou",
+   "perso": "fou",
+   "episode": 26,
+   "fin": "Envoie-la à quelqu'un qui ne sait pas s'arrêter.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Il a perdu le titre pour un point.",
+   "legende": "Le monde applaudit ceux qui foncent. Il oublie ceux qui savent s'arrêter. #motivation #sport #courage #conseildevie",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-seize, un pilote de Formule un est prisonnier de sa voiture en *flammes*.",
+     1.3
+    ],
+    [
+     "Il s'appelle Niki Lauda. Il est champion du monde en titre.",
+     1.2
+    ],
+    [
+     "On le sort du feu brûlé au visage, les poumons remplis de fumée toxique.",
+     1.2
+    ],
+    [
+     "À l'hôpital, un prêtre vient lui donner les derniers sacrements.",
+     1.4
+    ],
+    [
+     "Six semaines plus tard, il est de retour au volant. Ses blessures saignent sous son casque.",
+     1.4
+    ],
+    [
+     "Il finit quatrième. Le monde entier parle de son courage.",
+     1.4
+    ],
+    [
+     "Dernière course de la saison, au Japon. Il pleut à torrents.",
+     1.2
+    ],
+    [
+     "Le titre se joue entre lui et son rival. Après deux tours, Lauda rentre au stand.",
+     1.4
+    ],
+    [
+     "Il descend de sa voiture. Il dit simplement que c'est trop dangereux.",
+     1.6
+    ],
+    [
+     "Il perd le championnat pour un seul *point*.",
+     1.8
+    ],
+    [
+     "L'année suivante, il redevient champion du monde.",
+     1.4
+    ],
+    [
+     "Ce jour-là, sous la pluie, il a montré un autre courage. Celui de dire non.",
+     1.4
+    ],
+    [
+     "Le monde applaudit ceux qui foncent. Il oublie ceux qui savent s'arrêter.",
+     1.4
+    ],
+    [
+     "Toi, apprends à reconnaître le jour où il faut rentrer au *stand*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

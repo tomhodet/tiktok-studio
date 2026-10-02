@@ -1,0 +1,352 @@
+{
+ "nom": "j116",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j116_grandmere",
+   "perso": "grandmere",
+   "episode": 117,
+   "fin": "Envoie-la à quelqu'un qui a défendu son enfant.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "J'ai reconnu la règle.",
+   "legende": "Les peurs d'enfance, on les croit plus fortes que nous. Elles ne le sont plus. #grandmere #courage #peur #ecole #famille",
+   "phrases": [
+    [
+     "Le jour où ton père est rentré de l'école avec les doigts rouges, j'ai reconnu la *règle*.",
+     1.3
+    ],
+    [
+     "La même qui avait frappé mes doigts, vingt-cinq ans plus tôt. Le même instituteur.",
+     1.2
+    ],
+    [
+     "À trente-deux ans, j'avais encore peur de lui. Je changeais de trottoir quand je le croisais.",
+     1.2
+    ],
+    [
+     "Cette nuit-là, j'ai répété ma phrase cent fois.",
+     1.2
+    ],
+    [
+     "Le lendemain, j'ai frappé à la porte de sa classe. Mes jambes tremblaient.",
+     1.4
+    ],
+    [
+     "Il a dit mon nom de jeune fille. Comme à l'appel.",
+     1.4
+    ],
+    [
+     "J'ai failli baisser les yeux. Comme avant.",
+     1.6
+    ],
+    [
+     "Puis j'ai dit : vous m'avez frappée, moi. Vous ne frapperez pas mon *fils*.",
+     1.8
+    ],
+    [
+     "Il n'a rien répondu. Il a rangé la règle dans un tiroir.",
+     1.6
+    ],
+    [
+     "Plus aucun enfant de cette classe n'a eu les doigts rouges.",
+     1.4
+    ],
+    [
+     "Ce jour-là, je n'ai pas seulement défendu ton père. J'ai défendu la petite fille que j'étais.",
+     1.6
+    ],
+    [
+     "Les peurs d'enfance, on les croit plus fortes que nous.",
+     1.2
+    ],
+    [
+     "Elles ne le sont plus. On a juste oublié de *grandir* devant elles.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j116_grandpere",
+   "perso": "grandpere",
+   "episode": 118,
+   "fin": "Envoie-la à quelqu'un qui a osé dire non.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "J'ai refusé de tuer le cochon.",
+   "legende": "Ton non, c'est parfois celui qu'un autre n'a jamais pu dire. #grandpere #direnon #famille #humour #courage",
+   "phrases": [
+    [
+     "À quatorze ans, j'ai refusé de tuer le *cochon*. Mon père n'en revenait pas.",
+     1.3
+    ],
+    [
+     "À la ferme, c'était une fête. Toute la famille venait, les voisins aussi.",
+     1.2
+    ],
+    [
+     "Cette année-là, mon père m'a tendu le couteau. J'étais devenu un homme, paraît-il.",
+     1.2
+    ],
+    [
+     "Le problème, c'est que ce cochon, je l'avais nourri tous les matins. Il s'appelait Gaston.",
+     1.4
+    ],
+    [
+     "J'ai posé le couteau sur la table. J'ai dit : non.",
+     1.4
+    ],
+    [
+     "Personne ne disait non à mon père. Pas même ma mère. Le silence a duré une éternité.",
+     1.2
+    ],
+    [
+     "J'étais sûr de prendre la raclée de ma vie.",
+     1.4
+    ],
+    [
+     "Mon père a fini par dire : très bien. Alors tu ne mangeras plus jamais de *saucisson*.",
+     1.6
+    ],
+    [
+     "J'ai tenu soixante-six ans. Pas une tranche. Même aux mariages.",
+     1.4
+    ],
+    [
+     "Gaston, lui, est mort de vieillesse. Mon père n'a jamais voulu qu'on y touche.",
+     1.2
+    ],
+    [
+     "Bien plus tard, ma mère m'a expliqué pourquoi.",
+     1.6
+    ],
+    [
+     "À quatorze ans, lui aussi avait dit non. Et son père l'avait *forcé*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, il a choisi de ne pas être son père.",
+     1.4
+    ],
+    [
+     "Ton non, c'est parfois celui qu'un autre n'a jamais pu dire.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j116_pere",
+   "perso": "pere",
+   "episode": 117,
+   "fin": "Envoie-la à quelqu'un qui refuse toujours de danser.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "J'ai pris des cours de danse en cachette.",
+   "legende": "Le ridicule ne tue pas. La peur du ridicule, elle, m'a volé trente ans de danses. #papa #pere #mariage #humour #peur",
+   "phrases": [
+    [
+     "Pour ton mariage, j'ai pris des cours de *danse*. En cachette. Pendant trois mois.",
+     1.3
+    ],
+    [
+     "Moi, je ne danse pas. Même à mon propre mariage, je suis resté assis.",
+     1.2
+    ],
+    [
+     "J'avais peur du ridicule. Une peur bête, énorme.",
+     1.4
+    ],
+    [
+     "Quand tu m'as dit : papa, je voudrais ouvrir le bal avec toi, j'ai dit oui. Puis j'ai paniqué.",
+     1.4
+    ],
+    [
+     "Le lendemain, je me suis inscrit à un cours. Le mardi soir, avec des étudiants.",
+     1.2
+    ],
+    [
+     "Je disais à ta mère que j'allais à la pétanque.",
+     1.4
+    ],
+    [
+     "J'ai écrasé les pieds de la professeure environ quatre cents fois.",
+     1.4
+    ],
+    [
+     "Le soir du mariage, tout le monde nous regardait. J'avais les jambes en coton.",
+     1.4
+    ],
+    [
+     "Et puis tu as souri. Et j'ai oublié tout le monde.",
+     1.6
+    ],
+    [
+     "On a dansé trois minutes. Je ne t'ai pas marché sur les pieds. Pas une fois.",
+     1.4
+    ],
+    [
+     "Ensuite, j'ai traversé la salle, et j'ai invité ta *mère*. Pour la première fois en trente ans.",
+     1.8
+    ],
+    [
+     "Elle a pleuré. Moi aussi, un peu.",
+     1.6
+    ],
+    [
+     "Le ridicule ne tue pas. La peur du ridicule, elle, m'a volé trente ans de *danses*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j116_mere",
+   "perso": "mere",
+   "episode": 117,
+   "fin": "Envoie-la à quelqu'un qui va devenir parent.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Je ne voulais pas d'enfant.",
+   "legende": "Avoir peur d'être un mauvais parent, c'est déjà le début d'un bon. #maman #mere #parentalite #peur #emotion",
+   "phrases": [
+    [
+     "Je ne voulais pas d'*enfant*. Je ne te l'ai jamais dit.",
+     1.3
+    ],
+    [
+     "Pas par égoïsme. Par peur.",
+     1.4
+    ],
+    [
+     "Ma mère criait beaucoup. Elle claquait les portes, elle oubliait de venir me chercher.",
+     1.2
+    ],
+    [
+     "J'avais peur d'avoir ça dans le sang. Peur de devenir elle.",
+     1.4
+    ],
+    [
+     "Quand j'ai su que je t'attendais, j'ai pleuré toute une nuit. Pas de joie.",
+     1.6
+    ],
+    [
+     "Ton père m'a tenu la main jusqu'au matin. Il n'a rien dit. Il a juste tenu.",
+     1.6
+    ],
+    [
+     "Après ta naissance, je me surveillais tout le temps. Chaque fois que j'élevais la voix, j'avais honte.",
+     1.2
+    ],
+    [
+     "J'ai lu des livres, j'ai demandé conseil, je me suis excusée auprès de toi. Souvent.",
+     1.4
+    ],
+    [
+     "Ma mère ne s'est jamais excusée. Pas une fois.",
+     1.6
+    ],
+    [
+     "Hier, tu m'as appelée. Tu vas avoir un enfant. Et tu m'as dit : j'ai peur d'être nul.",
+     1.8
+    ],
+    [
+     "J'ai souri. Parce que je connais cette *peur*. Et je sais ce qu'elle fabrique.",
+     1.4
+    ],
+    [
+     "Les parents qui ont peur de mal faire, ce sont ceux qui font attention.",
+     1.2
+    ],
+    [
+     "Avoir peur d'être un mauvais parent, c'est déjà le début d'un *bon*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j116_fou",
+   "perso": "fou",
+   "episode": 116,
+   "fin": "Envoie-la à quelqu'un qui a une montagne devant lui.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Un homme a frappé une colline.",
+   "legende": "Tu n'as pas besoin d'une machine. Juste d'un marteau. Et de tous tes matins. #motivation #perseverance #discipline #inde #histoirevraie",
+   "phrases": [
+    [
+     "Un homme a frappé une colline avec un *marteau*. Pendant vingt-deux ans.",
+     1.3
+    ],
+    [
+     "Il s'appelait Dashrath Manjhi. Un ouvrier pauvre, dans un village du Bihar, en Inde.",
+     1.2
+    ],
+    [
+     "Entre son village et la ville se dressait une colline de roche.",
+     1.2
+    ],
+    [
+     "Pour aller chez le médecin, il fallait la contourner. Des dizaines de kilomètres.",
+     1.4
+    ],
+    [
+     "Un jour, sa femme a glissé en traversant la colline. Elle s'est blessée.",
+     1.6
+    ],
+    [
+     "Alors il a pris un marteau et un burin. Et il a attaqué la colline.",
+     1.4
+    ],
+    [
+     "Les gens du village se moquaient de lui. Il continuait. Chaque jour, un peu de pierre.",
+     1.4
+    ],
+    [
+     "Un an. Dix ans. Vingt ans.",
+     1.6
+    ],
+    [
+     "En mille neuf cent quatre-vingt-deux, la colline était *coupée* en deux.",
+     1.8
+    ],
+    [
+     "Plus de cent mètres de long, plusieurs mètres de large.",
+     1.2
+    ],
+    [
+     "Pour les villageois, la route est passée de cinquante-cinq kilomètres à quinze.",
+     1.4
+    ],
+    [
+     "Sa femme n'a jamais vu ce passage. Mais des milliers d'autres l'ont pris.",
+     1.6
+    ],
+    [
+     "Toi, il y a peut-être une montagne entre toi et ce que tu veux.",
+     1.2
+    ],
+    [
+     "Tu n'as pas besoin d'une machine. Juste d'un marteau. Et de tous tes *matins*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

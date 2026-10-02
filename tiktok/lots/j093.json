@@ -1,0 +1,364 @@
+{
+ "nom": "j093",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j093_grandmere",
+   "perso": "grandmere",
+   "episode": 94,
+   "fin": "Envoie-la à quelqu'un qui a peur du regard des autres.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'ai porté ma robe à l'envers.",
+   "legende": "Personne ne te regarde autant que tu le crois. #grandmere #humour #confiance #mariage #conseildevie",
+   "phrases": [
+    [
+     "Au mariage de ta mère, j'ai porté ma robe à l'*envers*. Toute la journée.",
+     1.3
+    ],
+    [
+     "Une robe bleue, achetée pour l'occasion. Enfilée à six heures du matin, sans mes lunettes.",
+     1.2
+    ],
+    [
+     "Les coutures dehors. Les ourlets à l'air. Une petite étiquette dans le cou.",
+     1.4
+    ],
+    [
+     "J'ai embrassé cent cinquante personnes. J'ai fait un discours. J'ai dansé avec le maire.",
+     1.4
+    ],
+    [
+     "J'étais si fière de ma robe. Je n'arrêtais pas de tourner sur moi-même.",
+     1.4
+    ],
+    [
+     "Le soir, en me déshabillant, j'ai compris. J'ai failli m'évanouir.",
+     1.4
+    ],
+    [
+     "Le lendemain, j'ai appelé tout le monde pour m'excuser. Ma sœur, mes cousines, les voisins.",
+     1.4
+    ],
+    [
+     "Personne n'avait rien remarqué. Pas une seule *personne*.",
+     1.8
+    ],
+    [
+     "Même sur les photos, il faut chercher pour le voir.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai compris une chose que j'aurais aimé savoir à vingt ans.",
+     1.6
+    ],
+    [
+     "Personne ne te regarde autant que tu le crois.",
+     1.4
+    ],
+    [
+     "Les gens sont bien trop occupés à se demander de quoi ils ont l'air.",
+     1.4
+    ],
+    [
+     "Alors arrête de vivre en te demandant ce qu'on va penser.",
+     1.2
+    ],
+    [
+     "Danse. Et tant pis si l'*étiquette* dépasse.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j093_grandpere",
+   "perso": "grandpere",
+   "episode": 95,
+   "fin": "Envoie-la à quelqu'un qui dit oui sans écouter.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Tu veux qu'on divorce ? Oui, bien sûr.",
+   "legende": "Ne fais jamais semblant d'avoir compris. #grandpere #humour #couple #conseildevie",
+   "phrases": [
+    [
+     "Depuis dix ans, j'entends mal. Et pendant dix ans, j'ai répondu *oui* à tout.",
+     1.3
+    ],
+    [
+     "Je n'osais pas faire répéter. Je trouvais ça humiliant.",
+     1.2
+    ],
+    [
+     "Alors je souriais, je hochais la tête, et je disais : oui, bien sûr.",
+     1.4
+    ],
+    [
+     "Comme ça, je suis devenu trésorier du club de pétanque.",
+     1.2
+    ],
+    [
+     "J'ai promis à ta cousine de lui apprendre à conduire.",
+     1.2
+    ],
+    [
+     "J'ai accepté de garder le chien du voisin pendant trois semaines. Il mord.",
+     1.4
+    ],
+    [
+     "Un soir, à table, ta grand-mère m'a demandé tout doucement : tu veux qu'on *divorce* ?",
+     1.6
+    ],
+    [
+     "J'ai souri. J'ai dit : oui, bien sûr.",
+     1.8
+    ],
+    [
+     "Elle a ri pendant une heure. Puis elle m'a pris rendez-vous pour des appareils auditifs.",
+     1.6
+    ],
+    [
+     "Depuis, j'entends tout. Même ce que je préférais ne pas entendre.",
+     1.4
+    ],
+    [
+     "Ne fais jamais semblant d'avoir compris. Par fierté, par timidité, par fatigue.",
+     1.4
+    ],
+    [
+     "Faire répéter, ça dure trois secondes.",
+     1.0
+    ],
+    [
+     "Un mauvais oui, ça peut durer trois semaines.",
+     1.2
+    ],
+    [
+     "Ou toute une *vie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j093_pere",
+   "perso": "pere",
+   "episode": 94,
+   "fin": "Envoie-la à quelqu'un qui filme tout.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Quarante minutes. Du plafond.",
+   "legende": "Les plus beaux moments, regarde-les avec tes yeux. #papa #pere #humour #naissance #emotion",
+   "phrases": [
+    [
+     "Ta naissance, je l'ai filmée en entier. Quarante minutes. Du *plafond*.",
+     1.3
+    ],
+    [
+     "J'avais emprunté la caméra de ton oncle. J'avais même lu le mode d'emploi.",
+     1.2
+    ],
+    [
+     "En salle d'accouchement, j'ai appuyé sur le bouton. Puis tout est allé très vite.",
+     1.2
+    ],
+    [
+     "Ta mère criait. La sage-femme courait. Moi, je tenais la main de ta mère.",
+     1.4
+    ],
+    [
+     "La caméra pendait au bout de mon bras. Elle filmait le néon.",
+     1.4
+    ],
+    [
+     "Le soir, toute la famille s'est installée devant la télévision.",
+     1.2
+    ],
+    [
+     "Quarante minutes de plafond. Des cris. Et ma voix qui répète : respire, respire.",
+     1.6
+    ],
+    [
+     "Ta grand-mère a demandé si on pouvait avancer jusqu'au bébé. Il n'y avait pas de bébé.",
+     1.4
+    ],
+    [
+     "Ta mère ne m'a pas parlé pendant deux jours.",
+     1.4
+    ],
+    [
+     "Mais moi, je n'ai pas raté une seconde. Ton premier cri, ta main sur mon *doigt*, tes yeux fermés.",
+     1.8
+    ],
+    [
+     "Tout ça, je l'ai vu avec mes yeux. Pas à travers un écran.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, on filme tout. Les concerts, les anniversaires, les premiers pas.",
+     1.4
+    ],
+    [
+     "Je n'ai aucune image de ta naissance. Et c'est mon souvenir le plus net.",
+     1.4
+    ],
+    [
+     "Les plus beaux moments, regarde-les avec tes *yeux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j093_mere",
+   "perso": "mere",
+   "episode": 94,
+   "fin": "Envoie-la à quelqu'un qui jure dans la voiture.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Comme maman dans la voiture.",
+   "legende": "Les enfants ne font pas ce qu'on leur dit. Ils font ce qu'ils nous voient faire. #maman #mere #humour #education #famille",
+   "phrases": [
+    [
+     "Ton premier gros *mot*, tu l'as dit à trois ans. Devant le curé.",
+     1.3
+    ],
+    [
+     "C'était à la communion de ta cousine. Grand repas chez ta grand-mère, nappe blanche.",
+     1.2
+    ],
+    [
+     "Le curé t'a demandé gentiment ce que tu voulais faire plus tard.",
+     1.2
+    ],
+    [
+     "Tu t'es levé sur ta chaise. Tu as répondu avec un mot que je ne répéterai pas.",
+     1.4
+    ],
+    [
+     "Et tu as ajouté, très fier : comme maman dans la voiture.",
+     1.6
+    ],
+    [
+     "Toute la table s'est tournée vers moi. Le curé a reposé sa fourchette.",
+     1.4
+    ],
+    [
+     "Je voulais disparaître sous la nappe.",
+     1.4
+    ],
+    [
+     "C'est ta grand-mère qui a sauvé la situation. Elle a éclaté de rire.",
+     1.4
+    ],
+    [
+     "Elle a dit : enfin. Sa mère, à son âge, disait bien pire. Et en *chantant*.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai compris que tu m'écoutais. Tout le temps. Même quand je croyais être seule.",
+     1.4
+    ],
+    [
+     "Les enfants ne font pas ce qu'on leur dit. Ils font ce qu'ils nous voient faire.",
+     1.4
+    ],
+    [
+     "J'ai arrêté de jurer dans la voiture. Enfin, presque.",
+     1.2
+    ],
+    [
+     "Un jour, toi aussi, tu auras un petit perroquet à l'arrière de ta voiture.",
+     1.4
+    ],
+    [
+     "Choisis bien tes mots. Ce seront bientôt les *siens*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j093_fou",
+   "perso": "fou",
+   "episode": 93,
+   "fin": "Envoie-la à quelqu'un qui se demande toujours pourquoi.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il refuse qu'on retire la flèche.",
+   "legende": "Commence par retirer la flèche. Tu chercheras le tireur plus tard. #motivation #bouddha #conte #resilience #sagesse",
+   "phrases": [
+    [
+     "Le Bouddha racontait l'histoire d'un homme touché par une *flèche* empoisonnée.",
+     1.3
+    ],
+    [
+     "Ses amis veulent appeler un médecin. Il refuse.",
+     1.2
+    ],
+    [
+     "Il dit : personne ne touchera à cette flèche avant que je sache qui l'a tirée.",
+     1.4
+    ],
+    [
+     "Je veux connaître son nom. Son village. La couleur de sa peau.",
+     1.4
+    ],
+    [
+     "Je veux savoir avec quel arc il a tiré. Et de quel oiseau viennent les plumes.",
+     1.4
+    ],
+    [
+     "Pendant qu'il pose ses questions, le poison avance.",
+     1.6
+    ],
+    [
+     "L'homme mourra avant d'avoir ses réponses.",
+     1.8
+    ],
+    [
+     "Le Bouddha racontait cette histoire à un disciple qui voulait tout comprendre avant de commencer.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as peut-être une flèche plantée quelque part. Une rupture, un échec, une injustice.",
+     1.4
+    ],
+    [
+     "Et tu passes tes nuits à demander pourquoi. Pourquoi moi. Pourquoi maintenant. Qui a tiré.",
+     1.4
+    ],
+    [
+     "Ces questions sont légitimes. Mais elles ne te soignent pas.",
+     1.4
+    ],
+    [
+     "Il y a des réponses que tu n'auras jamais.",
+     1.2
+    ],
+    [
+     "Commence par *retirer* la flèche. Soigne la plaie.",
+     1.4
+    ],
+    [
+     "Tu chercheras le *tireur* plus tard. Si tu en as encore envie.",
+     0
+    ]
+   ]
+  }
+ ]
+}

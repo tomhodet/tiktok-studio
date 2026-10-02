@@ -1,0 +1,356 @@
+{
+ "nom": "j169",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j169_grandmere",
+   "perso": "grandmere",
+   "episode": 170,
+   "fin": "Envoie-la à quelqu'un qui plante quelque chose de lent.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Il s'est moqué de moi trois ans.",
+   "legende": "La première année, on rit de toi. La troisième, on mange chez toi. #grandmere #patience #jardin #humour",
+   "phrases": [
+    [
+     "Ton grand-père s'est moqué de moi pendant trois ans. À cause des *asperges*.",
+     1.3
+    ],
+    [
+     "Au printemps soixante-dix, j'ai planté quarante griffes d'asperges au fond du jardin.",
+     1.2
+    ],
+    [
+     "Il faut attendre trois ans avant la première récolte. Trois ans à désherber pour rien.",
+     1.2
+    ],
+    [
+     "Chaque soir, ton grand-père passait devant et demandait : alors, ce dîner ?",
+     1.4
+    ],
+    [
+     "La première année, rien. La deuxième, de petites tiges que je n'avais pas le droit de couper.",
+     1.4
+    ],
+    [
+     "J'ai failli tout arracher pour planter des pommes de terre.",
+     1.4
+    ],
+    [
+     "Ma mère disait : ce qui pousse vite nourrit un été. Ce qui pousse lentement nourrit une *vie*.",
+     1.6
+    ],
+    [
+     "Le troisième printemps, elles sont sorties de terre. Des dizaines, droites comme des bougies.",
+     1.4
+    ],
+    [
+     "Ton grand-père en a mangé une assiette entière. Sans dire un mot.",
+     1.6
+    ],
+    [
+     "Pendant vingt ans, elles ont repoussé tous les printemps.",
+     1.2
+    ],
+    [
+     "Il ne s'est jamais excusé. Mais c'est lui qui se levait à l'aube pour les cueillir.",
+     1.6
+    ],
+    [
+     "Quand tu plantes quelque chose de lent, on se moquera de toi.",
+     1.2
+    ],
+    [
+     "La première année, on rit de toi. La troisième, on *mange* chez toi.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j169_grandpere",
+   "perso": "grandpere",
+   "episode": 171,
+   "fin": "Envoie-la à quelqu'un qui recommence pour la quatrième fois.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Deux ans. Il tient dans une main.",
+   "legende": "Le talent, c'est la première fois. Le métier, c'est la quatrième. #grandpere #metier #compagnon #patience",
+   "phrases": [
+    [
+     "Mon chef-d'œuvre m'a pris deux ans. Il tient dans une *main*.",
+     1.3
+    ],
+    [
+     "À dix-sept ans, je suis parti faire mon tour de France de charpentier. Une ville par an.",
+     1.2
+    ],
+    [
+     "Le soir, après le chantier, on travaillait encore. Sur nos maquettes.",
+     1.2
+    ],
+    [
+     "La mienne, c'était un escalier tournant. Cent quarante pièces de chêne, sans un clou, sans colle.",
+     1.4
+    ],
+    [
+     "Trois fois, une marche s'est fendue. Trois fois, j'ai tout recommencé.",
+     1.4
+    ],
+    [
+     "Un soir, j'ai tout jeté contre le mur. J'ai voulu rentrer chez ma mère.",
+     1.4
+    ],
+    [
+     "La dame qui tenait la maison des compagnons a ramassé les morceaux.",
+     1.2
+    ],
+    [
+     "Le lendemain, je les ai retrouvés sur mon établi. Rangés dans l'ordre.",
+     1.4
+    ],
+    [
+     "J'ai recommencé une quatrième fois.",
+     1.6
+    ],
+    [
+     "Le jour de ma réception, un vieux compagnon l'a tourné entre ses doigts. Dix minutes, sans un mot.",
+     1.4
+    ],
+    [
+     "Puis il a dit : celui-là, il ne tombera *jamais*.",
+     1.8
+    ],
+    [
+     "Il est sur le buffet du salon. Petit, tu l'appelais l'escalier des fourmis.",
+     1.4
+    ],
+    [
+     "Ce qui compte, ce n'est pas de réussir. C'est de ramasser les morceaux.",
+     1.4
+    ],
+    [
+     "Le talent, c'est la première fois. Le *métier*, c'est la quatrième.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j169_pere",
+   "perso": "pere",
+   "episode": 170,
+   "fin": "Envoie-la à quelqu'un qui t'a laissé apprendre seul.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "J'ai vu ton erreur. Je n'ai rien dit.",
+   "legende": "Être père, parfois, c'est voir l'erreur, se taire, et suivre de loin. #papa #pere #autonomie #confiance #emotion",
+   "phrases": [
+    [
+     "À seize ans, tu as remonté un vieux vélomoteur tout seul. J'ai vu ton *erreur* tout de suite.",
+     1.3
+    ],
+    [
+     "La chaîne était trop lâche. Elle allait sauter à la première côte.",
+     1.2
+    ],
+    [
+     "Je n'ai rien dit. Le plus difficile de ma vie de père.",
+     1.4
+    ],
+    [
+     "Tu es parti un samedi matin, fier comme tout, vers le lac.",
+     1.2
+    ],
+    [
+     "Dix minutes plus tard, j'ai pris la voiture. Je t'ai suivi de loin.",
+     1.4
+    ],
+    [
+     "Dans la grande côte, la chaîne a sauté. Comme prévu.",
+     1.4
+    ],
+    [
+     "Tu as juré, tu as donné un coup de pied dans la roue.",
+     1.2
+    ],
+    [
+     "Moi, j'étais garé derrière une haie, à cent mètres. Je serrais le volant.",
+     1.4
+    ],
+    [
+     "Puis tu as sorti tes outils. Tu as retendu la chaîne, au bord de la route.",
+     1.4
+    ],
+    [
+     "Le soir, tu as juste dit : j'ai eu un petit souci.",
+     1.4
+    ],
+    [
+     "Tu n'as jamais su que j'étais derrière toi.",
+     1.8
+    ],
+    [
+     "Si je t'avais corrigé, tu aurais appris à régler une chaîne.",
+     1.2
+    ],
+    [
+     "Ce jour-là, tu as appris que tu savais te *dépanner*. Tout seul.",
+     1.6
+    ],
+    [
+     "Être père, parfois, c'est voir l'erreur, se taire, et suivre de *loin*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j169_mere",
+   "perso": "mere",
+   "episode": 170,
+   "fin": "Envoie-la à quelqu'un qui t'a laissé le temps de parler.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je n'ai jamais fini tes phrases.",
+   "legende": "Le plus dur, ce n'était pas de t'apprendre à parler. C'était de me taire. #maman #mere #patience #emotion #begaiement",
+   "phrases": [
+    [
+     "Pendant cinq ans, je n'ai jamais fini une seule de tes *phrases*.",
+     1.3
+    ],
+    [
+     "Tu as bégayé de quatre à neuf ans. Surtout au début des mots. Maman, c'était le plus dur.",
+     1.2
+    ],
+    [
+     "Tout le monde voulait t'aider. Ta grand-mère, la boulangère, la maîtresse.",
+     1.2
+    ],
+    [
+     "Ils finissaient tes phrases à ta place. Gentiment. Pour aller plus vite.",
+     1.4
+    ],
+    [
+     "L'orthophoniste m'avait dit une seule chose : ne finissez jamais ses phrases.",
+     1.4
+    ],
+    [
+     "Alors j'attendais. Dix secondes. Vingt secondes. Parfois une minute entière, pour un mot.",
+     1.4
+    ],
+    [
+     "Je souriais. Je te regardais dans les yeux. Je ne bougeais pas.",
+     1.2
+    ],
+    [
+     "À l'intérieur, je hurlais. J'avais tellement envie de dire le mot à ta place.",
+     1.4
+    ],
+    [
+     "Un soir, tu as mis presque une minute à dire : je t'aime, maman.",
+     1.6
+    ],
+    [
+     "J'aurais pu le dire avant toi. J'ai *attendu*. Ça valait chaque seconde.",
+     1.8
+    ],
+    [
+     "Aujourd'hui, tu parles devant des salles entières. Sans une hésitation.",
+     1.4
+    ],
+    [
+     "Les gens pensent que tu es doué. Ils ne savent pas.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un cherche ses mots devant toi, ne les cherche pas pour lui.",
+     1.4
+    ],
+    [
+     "Le plus dur, ce n'était pas de t'apprendre à *parler*. C'était de me taire.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j169_fou",
+   "perso": "fou",
+   "episode": 169,
+   "fin": "Envoie-la à quelqu'un dont la tête ne s'arrête jamais.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Il s'enferme dans une tour pour se reposer.",
+   "legende": "Tu n'es pas un livre fini. Tu es un essai. #motivation #montaigne #philosophie #ecriture",
+   "phrases": [
+    [
+     "À trente-huit ans, un magistrat quitte tout pour s'enfermer dans une *tour*. Pour se reposer.",
+     1.3
+    ],
+    [
+     "Sur les poutres de son plafond, il fait peindre des phrases en latin et en grec.",
+     1.2
+    ],
+    [
+     "Il pense avoir enfin trouvé la paix. C'est le contraire qui arrive.",
+     1.4
+    ],
+    [
+     "Son esprit, sans travail, s'emballe comme un cheval échappé. Il le dit lui-même.",
+     1.2
+    ],
+    [
+     "Des chimères, des peurs, des idées absurdes, les unes sur les autres.",
+     1.4
+    ],
+    [
+     "Alors il prend une plume. Il décide de les écrire, pour que son esprit en ait honte.",
+     1.4
+    ],
+    [
+     "Il écrit sur l'amitié, sur la peur, sur les odeurs, et même sur les pouces.",
+     1.4
+    ],
+    [
+     "Il appelle ces textes des *essais*. Des tentatives.",
+     1.6
+    ],
+    [
+     "Pendant vingt ans, il les reprend, les corrige, les complète dans les marges.",
+     1.2
+    ],
+    [
+     "Jusqu'à sa mort, son exemplaire est couvert de notes à la main. Il n'a jamais fini.",
+     1.6
+    ],
+    [
+     "Cet homme s'appelait Montaigne. On lit ses Essais depuis plus de quatre siècles.",
+     1.6
+    ],
+    [
+     "Toi aussi, quand tout s'emballe dans ta tête, prends une feuille et écris.",
+     1.4
+    ],
+    [
+     "Et rature, corrige, recommence. Tu n'es pas un livre fini. Tu es un *essai*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

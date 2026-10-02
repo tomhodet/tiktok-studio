@@ -1,0 +1,360 @@
+{
+ "nom": "j076",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j076_grandmere",
+   "perso": "grandmere",
+   "episode": 77,
+   "fin": "Envoie-la à quelqu'un qui parle encore à ceux qui sont partis.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Je mens à ton grand-père.",
+   "legende": "On va au cimetière pour continuer à prendre soin de quelqu'un. #grandmere #deuil #humour #amour",
+   "phrases": [
+    [
+     "Tous les jeudis, je *mens* à ton grand-père.",
+     1.3
+    ],
+    [
+     "Je m'assieds sur le banc du cimetière et je lui raconte la semaine.",
+     1.2
+    ],
+    [
+     "Les voisins, le prix du pain, ta cousine qui a enfin son permis.",
+     1.2
+    ],
+    [
+     "Et surtout, les résultats de son équipe. Celle qu'il écoutait à la radio depuis ses dix ans.",
+     1.4
+    ],
+    [
+     "Le problème, c'est que depuis sa mort, son équipe est devenue catastrophique.",
+     1.2
+    ],
+    [
+     "La première fois, je n'ai pas pu lui annoncer la défaite.",
+     1.4
+    ],
+    [
+     "Je lui ai dit : trois à zéro. Pour nous.",
+     1.6
+    ],
+    [
+     "Depuis six ans, ils n'ont jamais perdu. Ils sont premiers de leur championnat.",
+     1.4
+    ],
+    [
+     "Un jeudi, une dame qui fleurit la tombe d'à côté m'a entendue.",
+     1.2
+    ],
+    [
+     "Elle m'a dit : vous savez que votre équipe a encore perdu ?",
+     1.2
+    ],
+    [
+     "Je lui ai répondu : moi, je sais. Lui, il n'a pas besoin de le *savoir*.",
+     1.6
+    ],
+    [
+     "Maintenant, elle ment aussi. Elle dit à son mari que leur fils appelle tous les dimanches.",
+     1.8
+    ],
+    [
+     "On croit qu'on va au cimetière pour pleurer. On y va pour continuer à prendre *soin* de quelqu'un.",
+     1.4
+    ],
+    [
+     "Et jeudi prochain, je te préviens : on gagne encore.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j076_grandpere",
+   "perso": "grandpere",
+   "episode": 78,
+   "fin": "Envoie-la à quelqu'un qui a un grand-père à appeler.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Bonne nuit, Lucien.",
+   "legende": "Quand on vieillit, on perd aussi ceux qui disaient notre prénom. #grandpere #deuil #vieillesse #emotion",
+   "phrases": [
+    [
+     "Je m'appelle *Lucien*. Ça fait quatre ans que personne ne m'a appelé comme ça.",
+     1.3
+    ],
+    [
+     "Pour toi, je suis papi. Pour ton père, papa. Pour la boulangère, monsieur.",
+     1.2
+    ],
+    [
+     "À la mairie, on crie mon nom de famille. On croit que je suis sourd.",
+     1.2
+    ],
+    [
+     "Lucien, c'était ta grand-mère. Elle était la dernière à le dire.",
+     1.4
+    ],
+    [
+     "Elle le disait de cent façons.",
+     1.0
+    ],
+    [
+     "Lucien, pour me réveiller. Lucien, quand je rentrais plein de boue. Lucien, tout doucement, le soir.",
+     1.4
+    ],
+    [
+     "Le jour de l'enterrement, je n'ai pas pensé à ça.",
+     1.2
+    ],
+    [
+     "C'est venu après. Un matin, en me rasant, j'ai dit mon prénom tout haut. Pour l'entendre.",
+     1.4
+    ],
+    [
+     "Il sonnait faux. Ce n'était pas ma voix qui devait le dire.",
+     1.4
+    ],
+    [
+     "Et puis, à Noël dernier, tu es passé derrière moi et tu as dit : bonne nuit, Lucien.",
+     1.8
+    ],
+    [
+     "Tu disais ça pour rire. Moi, je suis sorti dans le jardin. Longtemps.",
+     1.6
+    ],
+    [
+     "Quand on devient vieux, on ne perd pas seulement des gens. On perd ceux qui disaient notre *prénom*.",
+     1.4
+    ],
+    [
+     "Alors de temps en temps, ne dis pas papi.",
+     1.0
+    ],
+    [
+     "Dis Lucien. Pour que je me souvienne que je suis encore *quelqu'un*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j076_pere",
+   "perso": "pere",
+   "episode": 77,
+   "fin": "Envoie-la à quelqu'un qui a appris un geste de son père.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "La dernière fois, je l'ai rasé.",
+   "legende": "Parfois, dire adieu, c'est juste rendre un geste à celui qui te l'a appris. #papa #pere #deuil #emotion #transmission",
+   "phrases": [
+    [
+     "La dernière fois que j'ai vu mon père, je l'ai *rasé*.",
+     1.3
+    ],
+    [
+     "Il n'avait plus la force de tenir le rasoir.",
+     1.2
+    ],
+    [
+     "Lui qui s'était rasé tous les matins de sa vie. Même le dimanche.",
+     1.4
+    ],
+    [
+     "J'ai pris le blaireau, le savon, la vieille serviette verte.",
+     1.2
+    ],
+    [
+     "Quand j'avais six ans, c'est lui qui m'avait appris. Avec un rasoir sans lame.",
+     1.2
+    ],
+    [
+     "Il me mettait de la mousse sur les joues, et on se rasait côte à côte.",
+     1.4
+    ],
+    [
+     "Ce jour-là, c'était l'inverse. Moi debout. Lui assis.",
+     1.2
+    ],
+    [
+     "J'avais les mains qui tremblaient. Pas lui.",
+     1.4
+    ],
+    [
+     "Il a fermé les yeux et il a dit : prends ton temps, on n'est pas pressés.",
+     1.6
+    ],
+    [
+     "À la fin, il a passé la main sur sa joue. Il a dit : pas mal, pour un apprenti.",
+     1.6
+    ],
+    [
+     "Il est parti trois jours plus tard. Rasé de près.",
+     1.8
+    ],
+    [
+     "On croit que dire adieu, c'est trouver les grands mots.",
+     1.2
+    ],
+    [
+     "Parfois, c'est juste rendre un *geste* à celui qui te l'a appris.",
+     1.4
+    ],
+    [
+     "Le jour venu, tu sauras quoi faire. Et surtout, prends ton *temps*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j076_mere",
+   "perso": "mere",
+   "episode": 77,
+   "fin": "Envoie-la à quelqu'un qui ne sait pas où sont les draps.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "Une liste pour après moi.",
+   "legende": "Les draps sont dans l'armoire du couloir. Et l'amour, dans le tiroir de la cuisine. #maman #mere #humour #famille #amour",
+   "phrases": [
+    [
+     "Dans le tiroir de la cuisine, il y a une *liste*. Pour après moi.",
+     1.3
+    ],
+    [
+     "Rassure-toi, je vais très bien. Mais je connais ton père.",
+     1.2
+    ],
+    [
+     "Numéro un : les draps sont dans l'armoire du couloir. Ton père ne l'a jamais su.",
+     1.4
+    ],
+    [
+     "Numéro deux : le chat n'a pas le droit au jambon, même s'il fait ces yeux-là.",
+     1.2
+    ],
+    [
+     "Il y en a vingt-deux. Ton père a trouvé la liste la semaine dernière.",
+     1.2
+    ],
+    [
+     "Il était vexé. Il m'a dit : tu me prends pour un incapable ?",
+     1.2
+    ],
+    [
+     "Je lui ai répondu : pour un homme qui ne sait pas où sont les draps.",
+     1.6
+    ],
+    [
+     "Il a ri. Puis il a pris un stylo et il a ajouté une ligne.",
+     1.4
+    ],
+    [
+     "Numéro vingt-trois. Avec son écriture de cochon.",
+     1.2
+    ],
+    [
+     "Si c'est moi qui pars le premier, emmène ta mère au cinéma le dimanche. Elle n'ira jamais seule.",
+     1.8
+    ],
+    [
+     "On dit que parler de sa mort, ça porte malheur.",
+     1.2
+    ],
+    [
+     "Chez nous, ça nous a fait rire. Et pleurer un peu. Dans cet ordre.",
+     1.4
+    ],
+    [
+     "Les draps sont dans l'armoire du couloir. Et l'*amour*, dans le tiroir de la cuisine.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j076_fou",
+   "perso": "fou",
+   "episode": 76,
+   "fin": "Envoie-la à quelqu'un qui a frôlé le pire.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Heureuse que vous n'ayez pas éternué.",
+   "legende": "Tu n'as pas éternué. Alors qu'est-ce que tu vas faire de tes années ? #motivation #histoire #martinlutherking #droitsciviques #courage",
+   "phrases": [
+    [
+     "La lettre que Martin Luther King n'a jamais oubliée tenait en une phrase. Elle parlait d'un *éternuement*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent cinquante-huit, à New York, il signe des livres dans un grand magasin.",
+     1.2
+    ],
+    [
+     "Une femme s'approche et lui plante un coupe-papier dans la poitrine. La lame s'arrête tout près du cœur.",
+     1.4
+    ],
+    [
+     "Le lendemain, un journal écrit que s'il avait éternué, il serait mort.",
+     1.4
+    ],
+    [
+     "Des messages arrivent de partout. Même du président des États-Unis.",
+     1.2
+    ],
+    [
+     "Il les a tous oubliés. Sauf la lettre d'une lycéenne.",
+     1.4
+    ],
+    [
+     "Elle écrit : je suis simplement heureuse que vous n'ayez pas éternué.",
+     1.8
+    ],
+    [
+     "Près de dix ans plus tard, à Memphis, il raconte cette lettre devant une foule.",
+     1.2
+    ],
+    [
+     "Il dit : si j'avais éternué, je n'aurais pas vu les étudiants s'asseoir aux comptoirs interdits.",
+     1.2
+    ],
+    [
+     "Je n'aurais pas pu raconter mon *rêve* à l'Amérique.",
+     1.4
+    ],
+    [
+     "Le lendemain, il est assassiné.",
+     1.8
+    ],
+    [
+     "Il a eu presque dix ans de plus. Il n'en a pas gaspillé un seul jour.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as déjà frôlé quelque chose. Une route, une nuit, une chute.",
+     1.4
+    ],
+    [
+     "Tu n'as pas éternué. Alors qu'est-ce que tu vas *faire* de tes années ?",
+     0
+    ]
+   ]
+  }
+ ]
+}

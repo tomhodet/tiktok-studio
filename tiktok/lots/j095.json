@@ -1,0 +1,360 @@
+{
+ "nom": "j095",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j095_grandmere",
+   "perso": "grandmere",
+   "episode": 96,
+   "fin": "Envoie-la à quelqu'un qui s'est trompé de porte.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "On a pleuré à l'enterrement d'un inconnu.",
+   "legende": "Il n'y a pas de mauvais endroit pour être gentil. #grandmere #humour #gentillesse #emotion",
+   "phrases": [
+    [
+     "Un jour, ton grand-père et moi, on a pleuré à l'enterrement d'un parfait *inconnu*.",
+     1.3
+    ],
+    [
+     "On venait pour Gaston, un ancien collègue de l'usine. Mort à quatre-vingt-cinq ans.",
+     1.2
+    ],
+    [
+     "On est arrivés en retard. L'église était presque vide. On s'est assis au deuxième rang.",
+     1.2
+    ],
+    [
+     "Le curé avait un accent terrible. On comprenait un mot sur deux.",
+     1.2
+    ],
+    [
+     "Il a parlé d'un homme qui aimait les oiseaux. Ton grand-père m'a soufflé : je ne savais pas.",
+     1.4
+    ],
+    [
+     "On a chanté. J'ai pleuré. Ton grand-père a pleuré aussi.",
+     1.4
+    ],
+    [
+     "À la sortie, on a vu la photo sur le cercueil. Ce n'était pas Gaston.",
+     1.6
+    ],
+    [
+     "Gaston, c'était dans l'autre église de la ville. À la même heure.",
+     1.4
+    ],
+    [
+     "On voulait s'enfuir. Mais une vieille dame nous a pris les mains.",
+     1.4
+    ],
+    [
+     "Elle a dit : merci d'être venus. À part moi, il n'avait plus *personne*.",
+     1.8
+    ],
+    [
+     "On n'a jamais osé lui avouer. On lui a écrit chaque Noël, pendant dix ans.",
+     1.4
+    ],
+    [
+     "Il n'y a pas de mauvais endroit pour être gentil.",
+     1.4
+    ],
+    [
+     "Parfois, tu crois t'être trompé de porte. Et c'est exactement là qu'on t'*attendait*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j095_grandpere",
+   "perso": "grandpere",
+   "episode": 97,
+   "fin": "Envoie-la à quelqu'un qui n'avoue jamais ses erreurs.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il manquait dix centimètres.",
+   "legende": "Avoue tes erreurs tout de suite. Elles sont plus petites le premier jour. #grandpere #humour #orgueil #conseildevie",
+   "phrases": [
+    [
+     "Pendant quarante hivers, j'ai gratté le givre de ma voiture. Garée à côté de mon *garage*.",
+     1.3
+    ],
+    [
+     "Ce garage, je l'ai construit moi-même, en mille neuf cent quatre-vingt. Brique par brique. Un an de samedis.",
+     1.2
+    ],
+    [
+     "Pendant les travaux, on a changé de voiture. Plus grande. Pour les enfants.",
+     1.2
+    ],
+    [
+     "Le jour de l'inauguration, j'ai voulu la rentrer. Il manquait dix centimètres.",
+     1.4
+    ],
+    [
+     "Dix centimètres. Les rétroviseurs touchaient les murs.",
+     1.4
+    ],
+    [
+     "J'aurais pu l'avouer. J'ai préféré dire que la voiture aimait le grand air.",
+     1.6
+    ],
+    [
+     "Alors pendant quarante ans, elle a dormi dehors. Et moi, j'ai gratté.",
+     1.4
+    ],
+    [
+     "Tous les matins d'hiver, le grattoir, les doigts gelés, la buée.",
+     1.4
+    ],
+    [
+     "Le garage est devenu mon atelier. Je disais à tout le monde que c'était prévu.",
+     1.4
+    ],
+    [
+     "L'hiver dernier, j'ai enfin avoué la vérité à ta grand-mère.",
+     1.4
+    ],
+    [
+     "Elle a ri. Elle a dit : je sais. J'ai *mesuré* le garage le premier jour.",
+     1.8
+    ],
+    [
+     "Quarante ans qu'elle me regardait gratter, en buvant son café.",
+     1.6
+    ],
+    [
+     "Avoue tes erreurs tout de suite. Elles sont plus petites le premier jour.",
+     1.4
+    ],
+    [
+     "Sinon, tu grattes le *givre* pendant quarante ans.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j095_pere",
+   "perso": "pere",
+   "episode": 96,
+   "fin": "Envoie-la à quelqu'un qui danse même quand ça craque.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Un pantalon fendu. Jusqu'au genou.",
+   "legende": "Dans la vie, ton pantalon va craquer. Ne quitte jamais la piste. #papa #pere #humour #mariage #confiance",
+   "phrases": [
+    [
+     "À ton mariage, j'ai dansé toute la nuit avec un pantalon *fendu*. De la ceinture jusqu'au genou.",
+     1.3
+    ],
+    [
+     "J'avais fait un régime de trois mois pour rentrer dans ce costume. Trop étroit, évidemment.",
+     1.2
+    ],
+    [
+     "À minuit, l'orchestre a joué une vieille chanson de mes vingt ans.",
+     1.2
+    ],
+    [
+     "J'ai voulu faire mon grand écart d'autrefois. Le pantalon, lui, n'a pas voulu.",
+     1.4
+    ],
+    [
+     "Un bruit de drap qu'on déchire. Et tout le monde a vu mon caleçon. Celui avec les cœurs rouges.",
+     1.6
+    ],
+    [
+     "La musique continuait. Deux cents personnes me regardaient.",
+     1.4
+    ],
+    [
+     "J'avais deux choix : filer à la voiture, ou continuer.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai *continué*.",
+     1.8
+    ],
+    [
+     "Ta belle-mère a ri si fort qu'elle est venue danser avec moi. Puis tes amis. Puis tout le monde.",
+     1.4
+    ],
+    [
+     "On a dansé jusqu'à quatre heures du matin. Moi, le pantalon ouvert, comme un drapeau.",
+     1.4
+    ],
+    [
+     "Le lendemain, tu m'as dit que c'était ton plus beau souvenir de la journée. Après le oui.",
+     1.6
+    ],
+    [
+     "Dans la vie, ton pantalon va craquer. Au travail, en amour, devant ceux que tu veux impressionner.",
+     1.4
+    ],
+    [
+     "Tu auras honte. C'est normal.",
+     1.2
+    ],
+    [
+     "Mais ne quitte jamais la *piste*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j095_mere",
+   "perso": "mere",
+   "episode": 96,
+   "fin": "Envoie-la à quelqu'un qui fait ses cadeaux au dernier moment.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Je me suis battue pour un robot.",
+   "legende": "Le monde est petit. Tu reverras toujours les gens que tu bouscules. #maman #mere #humour #noel #respect",
+   "phrases": [
+    [
+     "Pour ton Noël de six ans, je me suis *battue* avec un homme dans un magasin de jouets.",
+     1.3
+    ],
+    [
+     "Tu voulais un robot qui marche. Introuvable.",
+     1.2
+    ],
+    [
+     "Le vingt-trois décembre, j'en ai vu un. Le dernier. En haut d'un rayon.",
+     1.2
+    ],
+    [
+     "Un homme l'a vu en même temps que moi. On a attrapé la boîte ensemble.",
+     1.4
+    ],
+    [
+     "Personne ne lâchait. Il disait : je l'ai vu le premier. Je disais : c'est pour mon fils.",
+     1.4
+    ],
+    [
+     "On a tiré. La boîte s'est déchirée. Une vendeuse a dû nous séparer.",
+     1.4
+    ],
+    [
+     "J'ai gagné. Je suis sortie du magasin comme une reine.",
+     1.4
+    ],
+    [
+     "En janvier, ta maîtresse est partie en congé. J'ai rencontré son remplaçant.",
+     1.6
+    ],
+    [
+     "C'était *lui*.",
+     1.8
+    ],
+    [
+     "Il m'a regardée. J'ai rougi jusqu'aux oreilles. Il a souri : alors, il marche, ce robot ?",
+     1.6
+    ],
+    [
+     "Il t'a eu dans sa classe jusqu'à l'été. Il a été adorable avec toi.",
+     1.4
+    ],
+    [
+     "Ce robot, tu y as joué deux semaines. La honte, je l'ai gardée vingt ans.",
+     1.4
+    ],
+    [
+     "Le monde est petit. Tu reverras toujours les gens que tu bouscules.",
+     1.4
+    ],
+    [
+     "Alors même quand tu te bats pour quelque chose, bats-toi *poliment*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j095_fou",
+   "perso": "fou",
+   "episode": 95,
+   "fin": "Envoie-la à quelqu'un qui rumine depuis trop longtemps.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Toi, tu la portes encore ?",
+   "legende": "Celui qui t'a blessé l'a peut-être oublié depuis longtemps. Toi, tu le portes à chaque pas. #motivation #zen #conte #lacherprise #sagesse",
+   "phrases": [
+    [
+     "Dans un vieux récit zen, deux moines marchent sous la pluie, sur une route pleine de *boue*.",
+     1.3
+    ],
+    [
+     "Le plus âgé s'appelle Tanzan. Le plus jeune, Ekido.",
+     1.2
+    ],
+    [
+     "À un carrefour, une jeune femme en kimono de soie n'ose pas traverser.",
+     1.4
+    ],
+    [
+     "Tanzan ne réfléchit pas. Il la soulève dans ses bras et la dépose de l'autre côté.",
+     1.4
+    ],
+    [
+     "Puis il reprend sa route. Ekido le suit, sans un mot.",
+     1.4
+    ],
+    [
+     "Des heures passent. Ekido ne dit rien. Mais il bouillonne.",
+     1.4
+    ],
+    [
+     "Le soir, au temple, il explose : un moine ne doit pas toucher une femme.",
+     1.0
+    ],
+    [
+     "Pourquoi as-tu fait ça ?",
+     1.6
+    ],
+    [
+     "Tanzan le regarde, calmement.",
+     1.4
+    ],
+    [
+     "Il répond : moi, je l'ai déposée au bord de la route. Toi, tu la *portes* encore ?",
+     1.8
+    ],
+    [
+     "Toi aussi, tu portes peut-être quelqu'un depuis des heures. Des mois. Des années.",
+     1.4
+    ],
+    [
+     "Une phrase qu'on t'a dite. Un échec. Une humiliation qui a duré deux minutes.",
+     1.4
+    ],
+    [
+     "Celui qui t'a blessé l'a peut-être oublié depuis longtemps. Toi, tu le portes à chaque pas.",
+     1.4
+    ],
+    [
+     "Dépose-le. Au bord de la *route*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

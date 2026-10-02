@@ -1,0 +1,384 @@
+{
+ "nom": "j039",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j039_grandmere",
+   "perso": "grandmere",
+   "episode": 40,
+   "fin": "Envoie-la à quelqu'un qui danserait en chaussettes pour toi.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "J'ai refusé onze fois de danser.",
+   "legende": "Cherche quelqu'un qui remarque ce que tu caches. #grandmere #amour #rencontre #bal #tendresse",
+   "phrases": [
+    [
+     "Au bal de mille neuf cent soixante-quatre, j'ai refusé *onze* fois de danser avec ton grand-père.",
+     1.3
+    ],
+    [
+     "Il était grand, timide, avec une cravate prêtée par son oncle.",
+     1.2
+    ],
+    [
+     "Il traversait la salle. Il s'inclinait. Je disais non. Il repartait.",
+     1.2
+    ],
+    [
+     "Les copines riaient. Elles disaient que j'étais trop fière.",
+     1.2
+    ],
+    [
+     "Ce n'était pas de la fierté. J'avais emprunté les chaussures de ma sœur.",
+     1.4
+    ],
+    [
+     "Deux pointures trop grandes. Au premier tour de valse, je les aurais perdues.",
+     1.4
+    ],
+    [
+     "Alors je restais assise. Et je mourais d'envie de danser.",
+     1.4
+    ],
+    [
+     "Vers minuit, il est revenu une douzième fois.",
+     1.4
+    ],
+    [
+     "Il était en chaussettes. Une chaussette trouée, au gros orteil.",
+     1.6
+    ],
+    [
+     "Il a dit : enlevez les vôtres. On dansera en chaussettes tous les deux.",
+     1.8
+    ],
+    [
+     "Il avait tout *vu*. Depuis le début.",
+     1.8
+    ],
+    [
+     "On a dansé jusqu'à trois heures du matin, nos chaussures alignées sous une chaise.",
+     1.4
+    ],
+    [
+     "Le lendemain, j'avais les pieds noirs. Ma mère n'a rien compris.",
+     1.4
+    ],
+    [
+     "Cherche quelqu'un qui remarque ce que tu caches.",
+     1.4
+    ],
+    [
+     "Et qui enlève ses *chaussures*, pour que tu n'aies plus honte des tiennes.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j039_grandpere",
+   "perso": "grandpere",
+   "episode": 41,
+   "fin": "Envoie-la à quelqu'un qui ne lâche jamais rien.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Si tu gagnes, tu l'épouses.",
+   "legende": "Ceux qui t'aiment ne regardent pas qui gagne. Ils regardent qui reste à la table. #grandpere #amour #perseverance #humour",
+   "phrases": [
+    [
+     "Pour épouser ta grand-mère, j'ai dû affronter son père au *bras de fer*.",
+     1.3
+    ],
+    [
+     "C'était un forgeron. Il avait des mains comme des pelles.",
+     1.2
+    ],
+    [
+     "Moi, j'étais apprenti boulanger. Je soulevais des sacs de farine, pas des enclumes.",
+     1.4
+    ],
+    [
+     "Il a posé son coude sur la table de la cuisine.",
+     1.2
+    ],
+    [
+     "Il a dit : si tu gagnes, tu l'épouses.",
+     1.4
+    ],
+    [
+     "Ta grand-mère était derrière la porte. Je l'entendais respirer.",
+     1.4
+    ],
+    [
+     "J'ai perdu en trois secondes. J'ai redemandé. J'ai reperdu. Sept fois.",
+     1.4
+    ],
+    [
+     "À la fin, je ne sentais plus mon bras. Mais je reposais le coude.",
+     1.6
+    ],
+    [
+     "Son père s'est levé. Il est allé chercher la bouteille de prune et deux verres.",
+     1.6
+    ],
+    [
+     "Il a dit : tu as perdu sept fois. Et sept fois, tu es revenu.",
+     1.8
+    ],
+    [
+     "La force, je m'en moque. Je voulais voir si tu *lâchais*.",
+     1.8
+    ],
+    [
+     "J'ai eu mal au bras une semaine. Je n'ai jamais été aussi heureux.",
+     1.4
+    ],
+    [
+     "Dans la vie, tu ne gagneras pas toujours.",
+     1.2
+    ],
+    [
+     "Mais ceux qui t'aiment ne regardent pas qui gagne. Ils regardent qui reste à la table.",
+     1.4
+    ],
+    [
+     "Alors perds, s'il le faut. Mais remets ton *coude*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j039_pere",
+   "perso": "pere",
+   "episode": 40,
+   "fin": "Envoie-la à quelqu'un qui se bat pour son couple.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "On t'a menti tous les jeudis soir.",
+   "legende": "Demander de l'aide pour sauver son couple, ce n'est pas une honte. #papa #pere #couple #amour #humour",
+   "phrases": [
+    [
+     "Pendant un an, ta mère et moi, on t'a *menti* tous les jeudis soir.",
+     1.3
+    ],
+    [
+     "On te disait qu'on allait à un cours de cuisine.",
+     1.2
+    ],
+    [
+     "En réalité, on allait chez une conseillère conjugale. On était à deux doigts de se séparer.",
+     1.4
+    ],
+    [
+     "On ne se parlait plus. On se croisait comme deux colocataires fâchés.",
+     1.4
+    ],
+    [
+     "Le premier jeudi, on a pleuré tous les deux dans la voiture.",
+     1.4
+    ],
+    [
+     "Et on a eu un problème. Tu voulais goûter ce qu'on avait cuisiné.",
+     1.4
+    ],
+    [
+     "Alors, chaque jeudi, on s'arrêtait chez le traiteur. On rentrait avec un plat.",
+     1.4
+    ],
+    [
+     "Tu disais : vous faites des *progrès* incroyables.",
+     1.6
+    ],
+    [
+     "Ta mère étouffait de rire. On n'avait pas ri ensemble depuis des mois.",
+     1.6
+    ],
+    [
+     "C'est là que ça a commencé à aller mieux. Avec nos mensonges en barquette.",
+     1.6
+    ],
+    [
+     "Un an plus tard, on n'avait plus besoin d'y aller.",
+     1.4
+    ],
+    [
+     "Mais on a gardé le jeudi. Restaurant, juste nous deux.",
+     1.4
+    ],
+    [
+     "Ta mère ne sait toujours pas faire de bœuf bourguignon. Mais on est là.",
+     1.6
+    ],
+    [
+     "Demander de l'aide pour sauver son couple, ce n'est pas une honte.",
+     1.4
+    ],
+    [
+     "La honte, c'est de laisser mourir ce qu'on pouvait encore *sauver*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j039_mere",
+   "perso": "mere",
+   "episode": 40,
+   "fin": "Envoie-la à quelqu'un qui a peur de dire oui.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Le jour de mon mariage, j'ai failli m'enfuir.",
+   "legende": "On ne reste vraiment que là où on est libre de partir. #maman #mere #mariage #amour #liberte",
+   "phrases": [
+    [
+     "Le jour de mon mariage, j'ai failli m'*enfuir*. Ton grand-père était au volant.",
+     1.3
+    ],
+    [
+     "On était garés devant la mairie. Toute la famille attendait sur les marches.",
+     1.2
+    ],
+    [
+     "Et moi, je n'arrivais plus à respirer dans ma robe.",
+     1.4
+    ],
+    [
+     "Ce n'était pas ton père. Je l'aimais. C'était le mot toujours qui me terrifiait.",
+     1.4
+    ],
+    [
+     "J'ai dit à mon père : je ne peux pas.",
+     1.4
+    ],
+    [
+     "Il n'a pas crié. Il n'a parlé ni des invités, ni de la honte.",
+     1.4
+    ],
+    [
+     "Il a remis le contact. Il a dit : si tu veux, je fais demi-tour. Personne ne te le reprochera.",
+     1.8
+    ],
+    [
+     "Et il a attendu, la main sur le levier de vitesse.",
+     1.6
+    ],
+    [
+     "C'est drôle. À la seconde où j'ai pu partir, je n'ai plus eu envie de partir.",
+     1.8
+    ],
+    [
+     "J'ai ouvert la portière. J'ai monté les marches. J'ai dit oui.",
+     1.4
+    ],
+    [
+     "Ça fait trente ans. Je n'ai jamais regretté.",
+     1.4
+    ],
+    [
+     "Ce jour-là, mon père m'a appris quelque chose sur l'amour.",
+     1.2
+    ],
+    [
+     "On ne reste vraiment que là où on est *libre* de partir.",
+     1.4
+    ],
+    [
+     "Si un jour tu as peur, tu auras le droit de faire demi-tour.",
+     1.4
+    ],
+    [
+     "Ce jour-là, c'est moi qui serai au *volant*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j039_fou",
+   "perso": "fou",
+   "episode": 39,
+   "fin": "Envoie-la à quelqu'un qui n'a que sa patience.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Douze secondes. Moins de quarante mètres.",
+   "legende": "Le ciel se moque de tes diplômes. Il regarde seulement si tu voles. #motivation #inventeurs #aviation #perseverance",
+   "phrases": [
+    [
+     "Le huit décembre mille neuf cent trois, une machine volante s'*écrase* dans un fleuve américain.",
+     1.3
+    ],
+    [
+     "C'est la deuxième fois en deux mois.",
+     1.2
+    ],
+    [
+     "Son inventeur est un savant célèbre, financé par l'armée.",
+     1.4
+    ],
+    [
+     "Les journaux se moquent. Pour eux, l'homme ne volera pas avant très longtemps.",
+     1.4
+    ],
+    [
+     "Au même moment, sur une plage de Caroline du Nord, deux frères préparent leur machine.",
+     1.2
+    ],
+    [
+     "Wilbur et Orville Wright. Pas de diplôme. Pas d'argent public. Ils réparent des vélos.",
+     1.4
+    ],
+    [
+     "Le quatorze décembre, ils tirent à pile ou face pour savoir qui volera le premier.",
+     1.2
+    ],
+    [
+     "Wilbur gagne. La machine décolle, cale, et retombe dans le sable.",
+     1.4
+    ],
+    [
+     "Ils réparent. Trois jours plus tard, c'est au tour d'Orville.",
+     1.6
+    ],
+    [
+     "Le dix-sept décembre, la machine quitte le sol. Elle vole *douze* secondes.",
+     1.8
+    ],
+    [
+     "Douze secondes. Moins de quarante mètres. L'aviation vient de naître.",
+     1.6
+    ],
+    [
+     "Le savant avait l'argent et la gloire. Eux, un atelier de vélos et de la patience.",
+     1.4
+    ],
+    [
+     "Tu n'as pas besoin d'avoir tout ce qu'ont les autres.",
+     1.2
+    ],
+    [
+     "Tu as juste besoin de recommencer une fois de plus.",
+     1.4
+    ],
+    [
+     "Le ciel se moque de tes diplômes. Il regarde seulement si tu *voles*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

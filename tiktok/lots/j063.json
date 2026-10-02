@@ -1,0 +1,356 @@
+{
+ "nom": "j063",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j063_grandmere",
+   "perso": "grandmere",
+   "episode": 64,
+   "fin": "Envoie-la à quelqu'un qui t'a choisi chaque matin.",
+   "lueurs": [
+    1,
+    8,
+    12
+   ],
+   "accroche": "J'avais un compte en banque secret.",
+   "legende": "Tous les matins, je pouvais partir. Et tous les matins, je t'ai choisi. #grandmere #amour #couple #argent #emotion",
+   "phrases": [
+    [
+     "Pendant soixante ans, j'ai eu un compte en banque *secret*. Ton grand-père l'a découvert l'an dernier.",
+     1.3
+    ],
+    [
+     "Je l'ai ouvert à vingt et un ans. Une femme mariée venait d'obtenir le droit d'ouvrir un compte seule.",
+     1.4
+    ],
+    [
+     "Chaque mois, j'y glissais un petit billet. Jamais beaucoup. Juste de quoi tenir deux mois, ailleurs.",
+     1.4
+    ],
+    [
+     "L'an dernier, la banque a envoyé une lettre à la maison. C'est lui qui l'a ouverte.",
+     1.2
+    ],
+    [
+     "Il est entré dans la cuisine, tout pâle. Il a demandé : c'était pour me quitter ?",
+     1.4
+    ],
+    [
+     "J'ai répondu : non. C'était pour pouvoir le faire.",
+     1.4
+    ],
+    [
+     "Il s'est assis. Il a demandé, tout bas : et pourquoi tu es restée ?",
+     1.6
+    ],
+    [
+     "Je lui ai dit : parce que tous les matins, je pouvais partir. Et tous les matins, je t'ai *choisi*.",
+     1.8
+    ],
+    [
+     "Il n'a rien dit. Il est sorti. Il est revenu avec les roses de la voisine.",
+     1.6
+    ],
+    [
+     "Garde toujours un peu d'argent à toi. Pas pour t'en aller.",
+     1.4
+    ],
+    [
+     "Pour que rester soit toujours un choix. Jamais une obligation.",
+     1.4
+    ],
+    [
+     "Un compte secret, ça ne sert pas à partir. Ça sert à savoir pourquoi on *reste*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j063_grandpere",
+   "perso": "grandpere",
+   "episode": 65,
+   "fin": "Envoie-la à quelqu'un qui donne tout ce qu'il a.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "On m'a payé avec un cochon.",
+   "legende": "Quand quelqu'un te donne tout ce qu'il a, ne regarde pas ce que c'est. Regarde ce que ça lui coûte. #grandpere #humour #generosite #travail",
+   "phrases": [
+    [
+     "Une fois dans ma vie, on m'a payé avec un *cochon*. Vivant.",
+     1.3
+    ],
+    [
+     "J'avais dix-neuf ans. Je venais de refaire le toit d'une petite ferme.",
+     1.2
+    ],
+    [
+     "Le fermier m'a dit : je n'ai pas d'argent. Mais j'ai un cochon.",
+     1.4
+    ],
+    [
+     "Je l'ai ramené à pied. Douze kilomètres, au bout d'une corde.",
+     1.2
+    ],
+    [
+     "Ta grand-mère m'a vu entrer dans la cour. Elle a demandé : qu'est-ce que c'est que cette bête ?",
+     1.0
+    ],
+    [
+     "J'ai répondu : mon salaire.",
+     1.4
+    ],
+    [
+     "Le plan, c'était de le manger à Noël.",
+     1.4
+    ],
+    [
+     "Mais ta grand-mère lui a donné un nom. Et un cochon qui a un nom, on ne le mange plus.",
+     1.6
+    ],
+    [
+     "On l'a appelé le *Patron*. Il a vécu onze ans dans notre jardin.",
+     1.6
+    ],
+    [
+     "Plus tard, j'ai appris que c'était le seul cochon de cette famille.",
+     1.6
+    ],
+    [
+     "Il ne m'avait pas payé avec ce qu'il avait en trop. Il m'avait donné ce qu'il avait.",
+     1.8
+    ],
+    [
+     "Aucun patron ne m'a jamais aussi bien payé. Même pas celui du jardin.",
+     1.4
+    ],
+    [
+     "Alors souviens-toi. Quand quelqu'un te donne tout ce qu'il a, ne regarde pas ce que c'est.",
+     1.2
+    ],
+    [
+     "Regarde ce que ça lui *coûte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j063_pere",
+   "perso": "pere",
+   "episode": 64,
+   "fin": "Envoie-la à quelqu'un qui tient toujours parole.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Mon père m'a laissé une dette.",
+   "legende": "Personne ne prononcera notre nom en baissant les yeux. #papa #pere #heritage #honneur #famille",
+   "phrases": [
+    [
+     "Quand ton grand-père est mort, il m'a laissé une *dette*. Le notaire m'a conseillé de refuser l'héritage.",
+     1.3
+    ],
+    [
+     "C'est possible. On ne touche rien, et on ne doit rien.",
+     1.2
+    ],
+    [
+     "Il n'y avait presque rien. Une vieille voiture, des outils. Et une facture jamais payée.",
+     1.2
+    ],
+    [
+     "Celle d'un vieux menuisier, qui avait refait son escalier quand il était déjà malade.",
+     1.4
+    ],
+    [
+     "Si je refusais l'héritage, cet homme ne serait jamais payé. Personne ne me l'aurait reproché.",
+     1.4
+    ],
+    [
+     "Ta mère m'a dit : tu n'es pas obligé. Elle avait raison.",
+     1.4
+    ],
+    [
+     "Je suis allé le voir. Il ne m'a rien réclamé. Il m'a servi un café.",
+     1.2
+    ],
+    [
+     "J'ai payé chaque mois, pendant trois ans. Le premier été, on n'est pas partis en vacances.",
+     1.4
+    ],
+    [
+     "Je t'ai dit que la voiture était trop vieille pour partir. C'était un peu vrai.",
+     1.6
+    ],
+    [
+     "Le jour du dernier versement, il m'a rendu la facture. Au dos, il avait écrit une phrase.",
+     1.6
+    ],
+    [
+     "Votre père peut *dormir* tranquille.",
+     1.8
+    ],
+    [
+     "Un jour, tu hériteras de moi. Il n'y aura pas grand-chose.",
+     1.4
+    ],
+    [
+     "Mais personne ne prononcera notre nom en baissant les yeux.",
+     1.4
+    ],
+    [
+     "C'est le seul héritage qu'on ne peut pas *refuser*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j063_mere",
+   "perso": "mere",
+   "episode": 64,
+   "fin": "Envoie-la à quelqu'un qui t'envoie encore des colis.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Trente pots de confiture. Pas un ouvert.",
+   "legende": "Je ne t'envoyais pas de la confiture. Je t'envoyais la maison. #maman #mere #etudiant #emotion #famille",
+   "phrases": [
+    [
+     "Pendant cinq ans, je t'ai envoyé des *colis* qui ne valaient rien.",
+     1.3
+    ],
+    [
+     "Le timbre coûtait plus cher que ce qu'il y avait dedans.",
+     1.2
+    ],
+    [
+     "Un pot de confiture de prunes. Des chaussettes. Un petit mot.",
+     1.2
+    ],
+    [
+     "Tu étudiais à l'autre bout du pays. Dans une ville où on trouve tout.",
+     1.2
+    ],
+    [
+     "Un jour, au téléphone, tu m'as dit : maman, arrête. Tout ça, je peux l'acheter ici.",
+     1.4
+    ],
+    [
+     "Tu avais raison. J'ai boudé une semaine. Et j'ai continué.",
+     1.4
+    ],
+    [
+     "Ta dernière année, je suis venue te voir. J'ai ouvert ton placard.",
+     1.6
+    ],
+    [
+     "Il y avait trente pots de confiture. Alignés. Pas un seul n'était ouvert.",
+     1.6
+    ],
+    [
+     "Je t'ai demandé si tu n'aimais plus les prunes. Tu es devenu tout rouge.",
+     1.4
+    ],
+    [
+     "Tu m'as répondu : si je les mange, il n'y aura plus rien de toi ici.",
+     1.8
+    ],
+    [
+     "Ce jour-là, j'ai compris. Je ne t'envoyais pas de la confiture. Je t'envoyais la *maison*.",
+     1.6
+    ],
+    [
+     "On a ouvert un pot ensemble. Avec deux cuillères.",
+     1.4
+    ],
+    [
+     "Ce qu'il y a dans un colis, tout le monde peut l'acheter.",
+     1.2
+    ],
+    [
+     "Mais la main qui a fermé le *carton*, elle, ne se vend nulle part.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j063_fou",
+   "perso": "fou",
+   "episode": 63,
+   "fin": "Envoie-la à quelqu'un qui en est à son centième essai.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Cinq mille cent vingt-six échecs.",
+   "legende": "Il ne s'est pas arrêté quand c'était dur. Il s'est arrêté quand ça a marché. #motivation #perseverance #entrepreneur #echec",
+   "phrases": [
+    [
+     "Un ingénieur anglais a raté cinq mille cent vingt-six *aspirateurs*.",
+     1.3
+    ],
+    [
+     "Tout commence par un agacement. Son aspirateur perd sa puissance à mesure que le sac se remplit.",
+     1.2
+    ],
+    [
+     "Il se dit : il faut supprimer le sac.",
+     1.2
+    ],
+    [
+     "Il s'enferme dans son atelier. Il fabrique un prototype. Il ne marche pas.",
+     1.0
+    ],
+    [
+     "Alors il change un détail, et il recommence. Puis encore. Pendant cinq ans.",
+     1.4
+    ],
+    [
+     "Il s'endette. Les années passent. Toujours rien à vendre.",
+     1.4
+    ],
+    [
+     "Le cinq mille cent vingt-septième *fonctionne*.",
+     1.8
+    ],
+    [
+     "Il le présente aux grands fabricants. Ils refusent, les uns après les autres.",
+     1.2
+    ],
+    [
+     "Leur argent, ils le gagnent aussi en vendant des sacs.",
+     1.4
+    ],
+    [
+     "Alors il le fabrique lui-même. En quelques années, son aspirateur devient le plus vendu du pays.",
+     1.6
+    ],
+    [
+     "Cet homme s'appelle James Dyson.",
+     1.6
+    ],
+    [
+     "Toi, combien de fois as-tu essayé avant de dire : ce n'est pas pour moi ?",
+     1.2
+    ],
+    [
+     "Trois fois ? Dix fois ?",
+     1.6
+    ],
+    [
+     "Lui ne s'est pas arrêté quand c'était dur. Il s'est arrêté quand ça a *marché*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

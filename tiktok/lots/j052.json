@@ -1,0 +1,360 @@
+{
+ "nom": "j052",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j052_grandmere",
+   "perso": "grandmere",
+   "episode": 53,
+   "fin": "Envoie-la à l'amie qui fait semblant de ne rien voir.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Elle oubliait toujours ses lunettes.",
+   "legende": "Elle n'avait jamais eu besoin de lunettes. Elle avait besoin d'une amie. #grandmere #amitie #emotion #pudeur",
+   "phrases": [
+    [
+     "Pendant vingt ans, ma meilleure amie a oublié ses *lunettes*. Tous les jours.",
+     1.3
+    ],
+    [
+     "Elle s'appelait Marthe. Elle arrivait chez moi, son courrier à la main.",
+     1.2
+    ],
+    [
+     "Elle disait : lis-moi ça, je n'ai pas mes lunettes.",
+     1.2
+    ],
+    [
+     "Je lisais tout. Les factures, les cartes postales, les lettres de son fils.",
+     1.4
+    ],
+    [
+     "Un jour, au marché, je l'ai vue tenir le journal à l'envers.",
+     1.6
+    ],
+    [
+     "Marthe ne savait pas lire. Elle avait quitté l'école à huit ans pour garder ses frères.",
+     1.6
+    ],
+    [
+     "Je n'ai rien dit. Pendant des années, j'ai fait semblant de croire à ses lunettes.",
+     1.4
+    ],
+    [
+     "Un soir, elle est arrivée avec une lettre de son premier petit-fils.",
+     1.2
+    ],
+    [
+     "Elle a dit : celle-là, je veux la lire *moi-même*.",
+     1.8
+    ],
+    [
+     "On s'est assises à la table de la cuisine, avec un cahier d'écolier.",
+     1.4
+    ],
+    [
+     "Il lui a fallu deux hivers. Elle avait soixante ans.",
+     1.4
+    ],
+    [
+     "Le jour où elle a lu la lettre jusqu'au bout, on a pleuré toutes les deux.",
+     1.6
+    ],
+    [
+     "Une vraie amie voit ta honte. Et elle se tait, jusqu'au jour où tu es prête.",
+     1.4
+    ],
+    [
+     "Marthe n'avait jamais eu besoin de lunettes. Elle avait besoin d'une *amie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j052_grandpere",
+   "perso": "grandpere",
+   "episode": 54,
+   "fin": "Envoie-la à l'ami qui te fera rire jusqu'au bout.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Ce n'était pas du calvados.",
+   "legende": "Choisis des amis qui te feront rire. Même le jour de leur enterrement. #grandpere #amitie #humour #pari",
+   "phrases": [
+    [
+     "Sous mon cerisier, il y avait une *bouteille* enterrée depuis mille neuf cent soixante-huit.",
+     1.3
+    ],
+    [
+     "Du calvados. Marcel et moi, on l'avait mise en terre le soir de mon mariage.",
+     1.2
+    ],
+    [
+     "Le pari était simple. Le dernier de nous deux encore vivant la boirait.",
+     1.4
+    ],
+    [
+     "Pendant cinquante ans, on s'est surveillés. Au moindre rhume de l'autre, on souriait.",
+     1.4
+    ],
+    [
+     "Marcel est parti au printemps. Quatre-vingts ans. Le cœur.",
+     1.6
+    ],
+    [
+     "Le soir de l'enterrement, j'ai pris la pelle. J'ai creusé sous le cerisier.",
+     1.2
+    ],
+    [
+     "J'ai sorti deux verres. Un pour moi, un pour lui.",
+     1.4
+    ],
+    [
+     "J'ai débouché la bouteille. Ce n'était pas du calvados. C'était du *thé* froid.",
+     1.8
+    ],
+    [
+     "Dans le goulot, il y avait un petit papier roulé.",
+     1.2
+    ],
+    [
+     "Marcel avait écrit : tu as gagné, mon vieux. Mais c'est moi qui l'ai bue.",
+     1.6
+    ],
+    [
+     "Il l'avait déterrée il y a trente ans. En venant arroser mes tomates.",
+     1.4
+    ],
+    [
+     "J'ai ri tout seul dans le jardin, appuyé sur ma pelle. Jusqu'aux larmes.",
+     1.4
+    ],
+    [
+     "Il avait gardé cette blague trente ans. Rien que pour me faire rire après lui.",
+     1.4
+    ],
+    [
+     "Choisis des amis qui te feront rire. Même le jour de leur *enterrement*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j052_pere",
+   "perso": "pere",
+   "episode": 53,
+   "fin": "Envoie-la à quelqu'un qui t'a ouvert sa porte.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Il dormait chez nous tous les vendredis.",
+   "legende": "Parfois, aider quelqu'un, c'est lui ouvrir une porte avant qu'il ait besoin de frapper. #papa #pere #amitie #emotion",
+   "phrases": [
+    [
+     "Au lycée, ton ami Mehdi dormait chez nous tous les *vendredis*. Tu n'as jamais su pourquoi.",
+     1.3
+    ],
+    [
+     "Tu croyais que c'était pour les jeux vidéo et les crêpes du samedi matin.",
+     1.2
+    ],
+    [
+     "La première fois, c'était un hasard. Je l'avais raccompagné chez lui en voiture.",
+     1.2
+    ],
+    [
+     "Devant son immeuble, il n'est pas descendu. Il regardait ses fenêtres.",
+     1.4
+    ],
+    [
+     "Là-haut, on entendait crier. Quelque chose s'est cassé contre un mur.",
+     1.6
+    ],
+    [
+     "Il m'a dit, tout bas : ce n'est rien, c'est toujours comme ça le vendredi.",
+     1.4
+    ],
+    [
+     "J'ai redémarré. Je l'ai ramené à la maison.",
+     1.2
+    ],
+    [
+     "Le lendemain, j'ai dit à ta mère : le vendredi, Mehdi dort ici. Sans avoir à demander.",
+     1.4
+    ],
+    [
+     "Je ne t'ai rien dit. Il n'avait pas besoin qu'on le regarde avec *pitié*.",
+     1.6
+    ],
+    [
+     "Pendant quatre ans, il n'a jamais raté un vendredi.",
+     1.4
+    ],
+    [
+     "La semaine dernière, il m'a appelé. Il va être père.",
+     1.6
+    ],
+    [
+     "Il m'a dit : c'est chez vous que j'ai appris ce qu'est une maison calme.",
+     1.8
+    ],
+    [
+     "Parfois, aider quelqu'un, ce n'est pas lui donner quelque chose.",
+     1.4
+    ],
+    [
+     "C'est lui ouvrir une porte avant qu'il ait besoin de *frapper*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j052_mere",
+   "perso": "mere",
+   "episode": 53,
+   "fin": "Envoie-la à l'amie qui t'a appris à lâcher prise.",
+   "lueurs": [
+    1,
+    10,
+    13
+   ],
+   "accroche": "C'est toi qui en avais besoin.",
+   "legende": "Tout le monde a besoin d'une amie qui lui enlève ses petites roues. #maman #mere #amitie #humour",
+   "phrases": [
+    [
+     "Tu as appris à faire du vélo en un *seul* après-midi. Pendant que je n'étais pas là.",
+     1.3
+    ],
+    [
+     "Pendant deux ans, j'avais refusé d'enlever tes petites roues.",
+     1.2
+    ],
+    [
+     "Tu avais sept ans. Tous tes copains roulaient sans. Toi, tu raclais le trottoir.",
+     1.2
+    ],
+    [
+     "Ton père voulait les enlever. Je disais : pas encore, il va tomber.",
+     1.4
+    ],
+    [
+     "Un samedi, j'ai dû partir toute la journée. Mon amie Sophie t'a gardé.",
+     1.2
+    ],
+    [
+     "Quand je suis rentrée, tu roulais dans l'allée. Sans les petites roues.",
+     1.4
+    ],
+    [
+     "Tu avais les genoux en sang et un sourire jusqu'aux oreilles.",
+     1.4
+    ],
+    [
+     "Sophie était assise sur les marches avec une clé à molette et un paquet de pansements.",
+     1.6
+    ],
+    [
+     "J'étais furieuse. Je lui ai dit : tu n'avais pas le droit.",
+     1.2
+    ],
+    [
+     "Elle m'a répondu : il n'avait pas besoin de petites roues. C'est toi qui en avais *besoin*.",
+     1.8
+    ],
+    [
+     "Je ne lui ai pas parlé pendant trois jours. Puis je l'ai remerciée.",
+     1.4
+    ],
+    [
+     "Depuis, chaque fois que je te retiens trop, je pense à Sophie et à sa clé à molette.",
+     1.4
+    ],
+    [
+     "Tout le monde a besoin d'une amie qui lui enlève ses petites *roues*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j052_fou",
+   "perso": "fou",
+   "episode": 52,
+   "fin": "Envoie-la à l'ami qui t'empêche de tout abandonner.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Il lui a demandé de tout brûler.",
+   "legende": "J'espère que tu auras un ami qui refusera de t'obéir. #motivation #litterature #kafka #amitie",
+   "phrases": [
+    [
+     "Avant de mourir, un homme demande à son meilleur ami de *brûler* tout ce qu'il a écrit.",
+     1.4
+    ],
+    [
+     "Ses romans inachevés, ses carnets, ses lettres. Tout. Sans les lire.",
+     1.2
+    ],
+    [
+     "Il a quarante ans. La tuberculose l'emporte. Le grand public ne connaît pas son nom.",
+     1.2
+    ],
+    [
+     "De son vivant, il n'a publié que quelques textes courts. Il doutait de chaque page.",
+     1.4
+    ],
+    [
+     "Son ami s'appelle Max Brod. Il retrouve la demande écrite dans un tiroir du bureau.",
+     1.4
+    ],
+    [
+     "Obéir, c'est trahir l'œuvre. Désobéir, c'est trahir son ami.",
+     1.6
+    ],
+    [
+     "Brod choisit de *désobéir*.",
+     1.8
+    ],
+    [
+     "L'année suivante, il publie un roman inachevé de son ami. Le Procès.",
+     1.2
+    ],
+    [
+     "Puis Le Château. Puis les autres.",
+     1.4
+    ],
+    [
+     "En mille neuf cent trente-neuf, les nazis entrent à Prague. Brod s'enfuit avec une valise.",
+     1.2
+    ],
+    [
+     "Dedans, les manuscrits de son ami.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, Franz Kafka est l'un des écrivains les plus importants du vingtième siècle.",
+     1.4
+    ],
+    [
+     "Toi aussi, un soir, tu voudras peut-être tout brûler. Un projet, un rêve, un carnet.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'espère que tu auras un ami qui refusera de t'*obéir*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

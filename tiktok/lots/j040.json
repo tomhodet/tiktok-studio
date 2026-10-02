@@ -1,0 +1,376 @@
+{
+ "nom": "j040",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j040_grandmere",
+   "perso": "grandmere",
+   "episode": 41,
+   "fin": "Envoie-la à quelqu'un qui pense encore à son premier amour.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Savoir si tu avais été heureuse.",
+   "legende": "Il y a des amours qu'on laisse partir, pour que chacun vive sa vie. #grandmere #amour #premieramour #emotion",
+   "phrases": [
+    [
+     "Avant ton grand-père, j'ai aimé un garçon qui s'appelait Lucien. Je l'ai laissé *partir*.",
+     1.3
+    ],
+    [
+     "En mille neuf cent soixante-quatre, il est parti travailler au Canada. Il voulait m'emmener.",
+     1.2
+    ],
+    [
+     "Ma mère était malade. Mes petits frères avaient besoin de moi.",
+     1.4
+    ],
+    [
+     "Je lui ai dit non. Je ne voulais pas qu'il reste pour moi.",
+     1.4
+    ],
+    [
+     "Sur le quai, il m'a dit : écris-moi. Je ne l'ai jamais fait.",
+     1.6
+    ],
+    [
+     "Deux ans plus tard, j'ai rencontré ton grand-père. Et j'ai été heureuse.",
+     1.4
+    ],
+    [
+     "L'an dernier, j'ai reçu une carte postale. Un lac, des sapins, de la neige.",
+     1.4
+    ],
+    [
+     "Au dos, une écriture tremblante. Trois lignes.",
+     1.6
+    ],
+    [
+     "Il avait écrit : je ne veux rien. Je voulais juste savoir si tu avais été heureuse.",
+     1.8
+    ],
+    [
+     "J'ai mis une semaine à répondre. Un seul mot : *oui*.",
+     1.8
+    ],
+    [
+     "Quinze jours après, une autre carte est arrivée. Deux mots : moi aussi.",
+     1.6
+    ],
+    [
+     "On croit qu'un amour perdu, c'est un amour raté.",
+     1.4
+    ],
+    [
+     "Il y a des amours qu'on laisse partir, pour que chacun vive sa vie.",
+     1.4
+    ],
+    [
+     "Ce n'est pas un échec. C'est une autre façon d'aimer.",
+     1.2
+    ],
+    [
+     "Soixante ans de silence. Deux cartes postales. Et pas un seul *regret*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j040_grandpere",
+   "perso": "grandpere",
+   "episode": 42,
+   "fin": "Envoie-la à quelqu'un qui construit quelque chose à deux.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Ta grand-mère a refusé d'y entrer.",
+   "legende": "Une maison, ça se construit à deux. Sinon, ce n'est qu'un tas de pierres. #grandpere #amour #couple #maison",
+   "phrases": [
+    [
+     "J'ai construit notre maison de mes mains. Ta grand-mère a *refusé* d'y entrer.",
+     1.3
+    ],
+    [
+     "J'étais maçon. Pendant deux ans, j'ai travaillé dessus tous les soirs, après le chantier.",
+     1.2
+    ],
+    [
+     "Je voulais lui faire la surprise. Je ne lui ai rien montré. Rien demandé.",
+     1.4
+    ],
+    [
+     "Le jour où je lui ai donné la clé, elle a fait le tour. Deux fois.",
+     1.4
+    ],
+    [
+     "Puis elle s'est assise sur une pierre, dans le jardin.",
+     1.4
+    ],
+    [
+     "Elle a dit : il n'y a pas de fenêtre à l'est.",
+     1.4
+    ],
+    [
+     "Je n'ai pas compris. J'étais vexé comme un pou.",
+     1.4
+    ],
+    [
+     "Elle m'a expliqué. Petite, elle dormait dans une chambre sans soleil.",
+     1.6
+    ],
+    [
+     "Elle voulait se réveiller avec le soleil du matin sur le visage.",
+     1.6
+    ],
+    [
+     "Le lendemain, j'ai pris ma masse. J'ai ouvert le mur de la chambre.",
+     1.8
+    ],
+    [
+     "Ça m'a pris un mois. Elle m'apportait le café sur l'échafaudage.",
+     1.4
+    ],
+    [
+     "Depuis soixante ans, elle se réveille avec le *soleil*. Et moi, je la regarde se réveiller.",
+     1.6
+    ],
+    [
+     "Une maison, ça se construit à deux. Sinon, ce n'est qu'un tas de pierres.",
+     1.4
+    ],
+    [
+     "Avant de tout donner à quelqu'un, demande-lui d'abord où il veut la *fenêtre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j040_pere",
+   "perso": "pere",
+   "episode": 41,
+   "fin": "Envoie-la à quelqu'un qui est un peu trop jaloux.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Il y avait un certain Gérard.",
+   "legende": "La jalousie te fait toujours imaginer le pire. Rarement un vieux monsieur à bretelles. #papa #pere #couple #jalousie #humour",
+   "phrases": [
+    [
+     "Il y a dix ans, j'ai *fouillé* le téléphone de ta mère.",
+     1.3
+    ],
+    [
+     "Depuis des semaines, elle rentrait tard le mardi. Elle souriait à son téléphone.",
+     1.2
+    ],
+    [
+     "Elle disait : une réunion. Le mardi, toujours une réunion.",
+     1.4
+    ],
+    [
+     "Un soir, pendant sa douche, j'ai lu ses messages.",
+     1.4
+    ],
+    [
+     "Il y avait un certain Gérard. Mardi, comme d'habitude. Vous êtes de plus en plus douée.",
+     1.6
+    ],
+    [
+     "Je n'ai pas dormi. J'imaginais un grand brun, plus jeune que moi.",
+     1.4
+    ],
+    [
+     "Le mardi suivant, je l'ai suivie en voiture. Comme dans un mauvais film.",
+     1.4
+    ],
+    [
+     "Elle est entrée chez un vieux monsieur. Quatre-vingts ans, des bretelles, une canne.",
+     1.6
+    ],
+    [
+     "Par la fenêtre, je l'ai vue s'asseoir à un *piano*.",
+     1.8
+    ],
+    [
+     "Elle apprenait notre chanson. Pour nos vingt ans de mariage.",
+     1.8
+    ],
+    [
+     "Je suis rentré avant elle. J'ai remis le téléphone exactement à sa place.",
+     1.4
+    ],
+    [
+     "Le jour de l'anniversaire, elle a joué. Faux, lentement. J'ai pleuré comme un enfant.",
+     1.6
+    ],
+    [
+     "Elle croit que c'était la chanson. C'était surtout Gérard.",
+     1.4
+    ],
+    [
+     "La jalousie te fait toujours imaginer le pire. Rarement un vieux monsieur à bretelles.",
+     1.4
+    ],
+    [
+     "Si tu doutes, ne fouille pas. Pose la question. Tu entendras peut-être du *piano*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j040_mere",
+   "perso": "mere",
+   "episode": 41,
+   "fin": "Envoie-la à quelqu'un qui a peur de revivre.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Un homme m'a invitée à dîner.",
+   "legende": "Ne fais pas de moi une excuse pour arrêter de vivre. #maman #mere #deuil #amour #secondechance",
+   "phrases": [
+    [
+     "Samedi, un homme m'a invitée à *dîner*. J'ai dit oui.",
+     1.3
+    ],
+    [
+     "Ça fait deux ans que ton père est parti. Je ne pensais pas qu'on m'inviterait encore.",
+     1.4
+    ],
+    [
+     "Il s'appelle Alain. On s'est connus à la chorale. Il me fait rire.",
+     1.2
+    ],
+    [
+     "Mais depuis samedi, je me sens coupable. Comme si je trompais ton père.",
+     1.4
+    ],
+    [
+     "Hier, j'ai rangé son pull dans l'armoire. Il était sur la chaise depuis deux ans.",
+     1.6
+    ],
+    [
+     "Et j'ai pensé à une chose qu'il m'a dite à l'hôpital.",
+     1.4
+    ],
+    [
+     "Il m'a dit : ne fais pas de moi une excuse pour arrêter de *vivre*.",
+     1.8
+    ],
+    [
+     "Sur le moment, je lui ai dit de se taire. Je ne voulais pas entendre ça.",
+     1.4
+    ],
+    [
+     "Aujourd'hui, je l'entends.",
+     1.6
+    ],
+    [
+     "Je ne remplace pas ton père. Personne ne le remplacera.",
+     1.4
+    ],
+    [
+     "Mais j'ai cinquante-six ans. Et je crois que j'ai encore le droit de rire au restaurant.",
+     1.4
+    ],
+    [
+     "Samedi, j'ai peur. Comme à vingt ans.",
+     1.6
+    ],
+    [
+     "Alors je ne te demande pas ta permission. Je te demande ta *main*.",
+     1.6
+    ],
+    [
+     "Comme quand tu étais petit, pour traverser la rue.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j040_fou",
+   "perso": "fou",
+   "episode": 40,
+   "fin": "Envoie-la à quelqu'un dont le travail n'est pas encore compris.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Un moine a compté des petits pois.",
+   "legende": "Ce que tu fais aujourd'hui, personne ne le comprendra peut-être. Fais-le avec soin. #motivation #science #genetique #perseverance",
+   "phrases": [
+    [
+     "Pendant huit ans, un moine a *compté* des petits pois.",
+     1.3
+    ],
+    [
+     "Il s'appelle Gregor Mendel. Il vit dans un monastère de Moravie, vers mille huit cent soixante.",
+     1.2
+    ],
+    [
+     "Avant ça, il a raté l'examen pour devenir professeur.",
+     1.2
+    ],
+    [
+     "Alors il cultive des pois dans le jardin du monastère. Des milliers de plants.",
+     1.2
+    ],
+    [
+     "Il croise les fleurs une à une, à la main.",
+     1.2
+    ],
+    [
+     "Il note tout. Pois lisses ou ridés. Jaunes ou verts. Il compte.",
+     1.4
+    ],
+    [
+     "Dans ses chiffres, il voit apparaître des lois. Comment les parents transmettent leurs traits aux enfants.",
+     1.6
+    ],
+    [
+     "Il présente son travail. Il le publie. Personne ne comprend.",
+     1.6
+    ],
+    [
+     "Il devient abbé du monastère. Il n'a plus le temps de chercher.",
+     1.4
+    ],
+    [
+     "Il meurt en mille huit cent quatre-vingt-quatre, inconnu des savants.",
+     1.6
+    ],
+    [
+     "Seize ans plus tard, trois chercheurs, chacun de son côté, redécouvrent ses lois.",
+     1.8
+    ],
+    [
+     "Et ils découvrent qu'un moine les avait trouvées avant eux.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, on l'appelle le père de la *génétique*.",
+     1.6
+    ],
+    [
+     "Ce que tu fais aujourd'hui, personne ne le comprendra peut-être.",
+     1.2
+    ],
+    [
+     "Fais-le avec soin. Un jour, quelqu'un ouvrira tes *carnets*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

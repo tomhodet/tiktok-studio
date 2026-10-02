@@ -1,0 +1,360 @@
+{
+ "nom": "j027",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j027_grandmere",
+   "perso": "grandmere",
+   "episode": 28,
+   "fin": "Envoie-la à quelqu'un qui relit les autres en silence.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "J'ai corrigé ses fautes pendant vingt ans.",
+   "legende": "Les gens importants ont presque toujours quelqu'un qui corrige leurs fautes sans rien dire. #grandmere #travail #humour #reconnaissance",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai corrigé les *fautes* de mon directeur. Il ne l'a jamais su.",
+     1.3
+    ],
+    [
+     "J'étais dactylo dans une compagnie d'assurances. Trente machines à écrire dans la même salle.",
+     1.2
+    ],
+    [
+     "Monsieur le directeur me dictait ses lettres en marchant de long en large.",
+     1.2
+    ],
+    [
+     "Il oubliait des mots, il confondait les clients, et l'orthographe le fuyait.",
+     1.4
+    ],
+    [
+     "Moi, je tapais ce qu'il aurait dû dire.",
+     1.4
+    ],
+    [
+     "Ses lettres étaient réputées dans toute la région. On le disait très cultivé.",
+     1.4
+    ],
+    [
+     "Le jour de son départ en retraite, il a fait un discours devant tout le personnel.",
+     1.2
+    ],
+    [
+     "Il a dit : ma plus grande fierté, ce sont mes lettres. Pas une seule *faute* en vingt ans.",
+     1.8
+    ],
+    [
+     "Toutes les dactylos se sont regardées. On a gardé notre sérieux. Difficilement.",
+     1.6
+    ],
+    [
+     "Je ne lui en ai jamais voulu. J'étais fière, en silence.",
+     1.4
+    ],
+    [
+     "Les gens importants ont presque toujours quelqu'un qui corrige leurs fautes sans rien dire.",
+     1.4
+    ],
+    [
+     "Le jour où on te trouvera brillant, cherche qui relit tes lettres.",
+     1.2
+    ],
+    [
+     "Et pense à lui dire *merci*. Lui ne l'a jamais fait.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j027_grandpere",
+   "perso": "grandpere",
+   "episode": 29,
+   "fin": "Envoie-la à quelqu'un qui a dû laisser partir son métier.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je me suis caché dans la grange.",
+   "legende": "Ce que tu construis ne s'arrête pas quand tu t'arrêtes. #grandpere #ferme #travail #humour #transmission",
+   "phrases": [
+    [
+     "Le jour où j'ai vendu mes *vaches*, je me suis caché dans la grange.",
+     1.3
+    ],
+    [
+     "Quarante ans de traite, matin et soir. Pas un dimanche, pas un Noël sans elles.",
+     1.2
+    ],
+    [
+     "Elles avaient toutes un nom. Ta grand-mère disait que je leur parlais plus qu'à elle.",
+     1.4
+    ],
+    [
+     "Ce n'était pas tout à fait faux.",
+     1.2
+    ],
+    [
+     "À soixante-cinq ans, mon dos a lâché. Personne pour reprendre la ferme.",
+     1.2
+    ],
+    [
+     "Un jeune couple est venu acheter le troupeau. Ils commençaient, ils n'avaient presque rien.",
+     1.4
+    ],
+    [
+     "Je n'ai pas pu regarder le camion partir. Je suis resté dans le noir, avec le foin.",
+     1.6
+    ],
+    [
+     "Un an plus tard, ils sont revenus me voir. Avec une photo.",
+     1.2
+    ],
+    [
+     "Une petite génisse, née chez eux, de ma vieille Marguerite.",
+     1.4
+    ],
+    [
+     "Ils lui avaient donné mon *prénom*. Au féminin. Elle s'appelait Raymonde.",
+     1.8
+    ],
+    [
+     "J'ai ri. J'ai pleuré aussi. Les deux en même temps.",
+     1.4
+    ],
+    [
+     "Ce que tu construis ne s'arrête pas quand tu t'arrêtes.",
+     1.4
+    ],
+    [
+     "Ça continue ailleurs, chez d'autres, sous un autre nom.",
+     1.2
+    ],
+    [
+     "Et parfois même sous le tien. Avec des *cornes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j027_pere",
+   "perso": "pere",
+   "episode": 28,
+   "fin": "Envoie-la à quelqu'un qui hoche la tête sans comprendre.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "J'ai écrit que je parlais anglais.",
+   "legende": "Le culot peut t'ouvrir une porte. Seul le travail l'empêche de te revenir dans la figure. #papa #pere #travail #humour #premieremploi",
+   "phrases": [
+    [
+     "Pour décrocher mon premier vrai travail, j'ai *menti*. J'ai écrit que je parlais anglais.",
+     1.3
+    ],
+    [
+     "Je connaissais trois mots. Et encore, mal prononcés.",
+     1.2
+    ],
+    [
+     "Le premier lundi, mon chef m'a envoyé chercher un client anglais à la gare.",
+     1.2
+    ],
+    [
+     "Quarante minutes de voiture. Il me parlait. Je souriais et je hochais la tête.",
+     1.4
+    ],
+    [
+     "À un moment, il a eu l'air très triste. J'ai hoché la tête avec enthousiasme.",
+     1.4
+    ],
+    [
+     "J'ai compris plus tard qu'il me parlait de son chien, mort la semaine d'avant.",
+     1.6
+    ],
+    [
+     "Le soir même, j'ai acheté des cassettes pour apprendre. Une heure chaque nuit, pendant deux ans.",
+     1.4
+    ],
+    [
+     "Le matin, je répétais mes phrases au volant, à voix haute, comme un idiot.",
+     1.2
+    ],
+    [
+     "Deux ans plus tard, c'est moi qu'on envoyait à *Londres* négocier les contrats.",
+     1.6
+    ],
+    [
+     "Je ne te dis pas de mentir. Ce n'était pas joli.",
+     1.2
+    ],
+    [
+     "Mais retiens ceci : le culot peut t'ouvrir une porte.",
+     1.2
+    ],
+    [
+     "Seul le travail l'empêche de te revenir dans la figure.",
+     1.6
+    ],
+    [
+     "Et si un jour tu ne comprends rien, ne hoche jamais la tête.",
+     1.2
+    ],
+    [
+     "Demande. Ça t'évitera de sourire à un homme qui pleure son *chien*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j027_mere",
+   "perso": "mere",
+   "episode": 28,
+   "fin": "Envoie-la à quelqu'un qui soigne les autres.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Le jour où tu ne pleureras plus.",
+   "legende": "Le jour où tu ne pleureras plus, change de métier. #maman #mere #travail #soignant #emotion",
+   "phrases": [
+    [
+     "La première fois qu'un patient est mort devant moi, j'avais vingt-trois ans. Une nuit de *garde*.",
+     1.3
+    ],
+    [
+     "Un vieux monsieur. Il m'avait demandé de lui tenir la main. Je l'ai tenue jusqu'au bout.",
+     1.2
+    ],
+    [
+     "Après, je me suis enfermée dans la réserve à linge. J'ai pleuré une heure.",
+     1.4
+    ],
+    [
+     "Une collègue est entrée. Trente ans de métier, la voix rauque, les yeux fatigués.",
+     1.2
+    ],
+    [
+     "J'ai cru qu'elle allait me dire de me ressaisir.",
+     1.2
+    ],
+    [
+     "Elle s'est assise sur les draps, à côté de moi.",
+     1.2
+    ],
+    [
+     "Elle a dit : le jour où tu ne pleureras plus, change de *métier*.",
+     1.8
+    ],
+    [
+     "J'ai fait ce métier trente-deux ans. J'ai pleuré presque à chaque fois.",
+     1.4
+    ],
+    [
+     "Jamais devant les familles. Dans la réserve à linge, porte fermée.",
+     1.4
+    ],
+    [
+     "Le jour où tu m'as annoncé que tu voulais soigner les gens, j'ai eu peur.",
+     1.4
+    ],
+    [
+     "Peur que tu deviennes dur. Ou pire, que tu deviennes triste.",
+     1.2
+    ],
+    [
+     "Alors voilà ce que je ne t'ai jamais dit.",
+     1.0
+    ],
+    [
+     "Pleurer n'est pas une faiblesse dans ce métier. C'est la preuve que tu n'es pas devenu une *machine*.",
+     1.6
+    ],
+    [
+     "Garde ton cœur ouvert. Et trouve-toi une réserve à linge.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j027_fou",
+   "perso": "fou",
+   "episode": 27,
+   "fin": "Envoie-la à quelqu'un qui fuit son point faible.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il a tiré avec son mauvais pied.",
+   "legende": "Entraîne ton mauvais pied. C'est souvent lui qui gagne la finale. #motivation #sport #rugby #discipline",
+   "phrases": [
+    [
+     "Le coup le plus important de sa vie, il l'a tiré avec son *mauvais* pied.",
+     1.3
+    ],
+    [
+     "Sydney, deux mille trois. Finale de la Coupe du monde de rugby, l'Angleterre contre l'Australie.",
+     1.2
+    ],
+    [
+     "Égalité. Prolongation. Il ne reste que quelques secondes à jouer.",
+     1.2
+    ],
+    [
+     "Le ballon arrive dans les mains de Jonny Wilkinson. Il est gaucher.",
+     1.4
+    ],
+    [
+     "Ce jour-là, il frappe du pied droit. Celui qu'on dit faible.",
+     1.4
+    ],
+    [
+     "Le ballon passe entre les poteaux. L'Angleterre est championne du monde.",
+     1.8
+    ],
+    [
+     "Ce que le public ne voit pas, ce sont les années d'avant.",
+     1.2
+    ],
+    [
+     "Des heures seul sur un terrain, à frapper encore et encore, bien après le départ des autres.",
+     1.4
+    ],
+    [
+     "Et des tirs, toujours plus de tirs, avec le pied qui ne lui servait presque jamais.",
+     1.6
+    ],
+    [
+     "Il entraînait sa faiblesse comme si elle allait un jour tout décider.",
+     1.4
+    ],
+    [
+     "Et un jour, elle a tout *décidé*.",
+     1.8
+    ],
+    [
+     "Toi aussi, tu as un mauvais pied. Une matière, une peur, un geste que tu évites.",
+     1.4
+    ],
+    [
+     "Ne le laisse pas de côté. Le jour où tout se jouera, ce sera peut-être lui.",
+     1.4
+    ],
+    [
+     "Entraîne ton mauvais pied. C'est souvent lui qui gagne la *finale*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

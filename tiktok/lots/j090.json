@@ -1,0 +1,364 @@
+{
+ "nom": "j090",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j090_grandmere",
+   "perso": "grandmere",
+   "episode": 91,
+   "fin": "Envoie-la à quelqu'un qui croit avoir tout raté.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "C'était de la confiture ratée.",
+   "legende": "Peut-être que tu n'as pas raté ta confiture. Peut-être que tu as réussi un sirop. #grandmere #humour #cuisine #echec #conseildevie",
+   "phrases": [
+    [
+     "Mon sirop de fraise a gagné un prix à la foire du canton. C'était de la *confiture* ratée.",
+     1.3
+    ],
+    [
+     "L'été de mes vingt-cinq ans, j'ai voulu faire des confitures comme ma mère.",
+     1.2
+    ],
+    [
+     "Dix kilos de fraises. Une journée entière à touiller dans la chaleur.",
+     1.2
+    ],
+    [
+     "Le lendemain matin, rien n'avait pris. Vingt pots, liquides comme de l'eau.",
+     1.4
+    ],
+    [
+     "J'ai pleuré dans la cuisine. Ton grand-père voulait tout donner aux cochons.",
+     1.4
+    ],
+    [
+     "Ma voisine a goûté avec le doigt. Elle a dit : il est délicieux, ton sirop.",
+     1.6
+    ],
+    [
+     "Je n'ai rien répondu. Le soir même, j'ai changé toutes les *étiquettes*.",
+     1.8
+    ],
+    [
+     "Tout le village en a voulu. Le curé en mettait dans son eau.",
+     1.2
+    ],
+    [
+     "L'année suivante, à la foire, j'ai eu le premier prix.",
+     1.4
+    ],
+    [
+     "Je n'ai jamais avoué. Pendant trente ans, j'ai raté exprès toutes mes confitures.",
+     1.6
+    ],
+    [
+     "Tu vas rater des choses, toi aussi. Des examens, des projets, des amours.",
+     1.4
+    ],
+    [
+     "Avant de tout donner aux cochons, goûte avec le doigt.",
+     1.4
+    ],
+    [
+     "Peut-être que tu n'as pas raté ta confiture.",
+     1.0
+    ],
+    [
+     "Peut-être que tu as réussi un *sirop*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j090_grandpere",
+   "perso": "grandpere",
+   "episode": 92,
+   "fin": "Envoie-la à quelqu'un qui commence un nouveau travail.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "J'ai envoyé promener un vieux qui balayait.",
+   "legende": "Traite chaque personne comme si c'était le patron. #grandpere #travail #humilite #respect",
+   "phrases": [
+    [
+     "À seize ans, à l'usine, j'ai envoyé promener un vieux qui *balayait* la cour.",
+     1.3
+    ],
+    [
+     "C'était mon premier jour. J'avais une casquette neuve et une très haute idée de moi-même.",
+     1.2
+    ],
+    [
+     "Le vieux m'a demandé de l'aider à porter sa poubelle.",
+     1.2
+    ],
+    [
+     "J'ai répondu : je suis là pour apprendre un métier, pas pour porter vos ordures.",
+     1.4
+    ],
+    [
+     "Il a souri. Il a porté sa poubelle tout seul.",
+     1.4
+    ],
+    [
+     "À midi, à la cantine, tout le monde s'est levé. Les chefs ont enlevé leur casquette.",
+     1.4
+    ],
+    [
+     "Le vieux passait entre les tables. Il serrait la main de chaque ouvrier.",
+     1.4
+    ],
+    [
+     "C'était le *patron*. Il avait fondé l'usine quarante ans plus tôt.",
+     1.8
+    ],
+    [
+     "Chaque matin, avant tout le monde, il balayait la cour. Pour garder les pieds sur terre, disait-il.",
+     1.4
+    ],
+    [
+     "Il s'est arrêté devant moi. J'aurais voulu disparaître sous ma casquette.",
+     1.4
+    ],
+    [
+     "Il a dit : demain, six heures. Tu porteras la poubelle.",
+     1.6
+    ],
+    [
+     "Je l'ai portée pendant un an. Chaque matin, avec lui. Il m'a appris tout mon métier.",
+     1.4
+    ],
+    [
+     "Traite chaque personne comme si c'était le patron.",
+     1.2
+    ],
+    [
+     "Et le jour où tu seras le patron, prends le *balai*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j090_pere",
+   "perso": "pere",
+   "episode": 91,
+   "fin": "Envoie-la à quelqu'un qui a déjà partagé ta honte.",
+   "lueurs": [
+    1,
+    7,
+    13
+   ],
+   "accroche": "J'ai rasé ta tête. Puis la mienne.",
+   "legende": "À deux, la honte devient un souvenir. #papa #pere #humour #famille #enfance",
+   "phrases": [
+    [
+     "La veille de ta photo de classe, j'ai voulu te couper les cheveux *moi-même*.",
+     1.3
+    ],
+    [
+     "Tu avais sept ans. Le coiffeur coûtait cher, ça n'avait pas l'air compliqué.",
+     1.2
+    ],
+    [
+     "Une serviette sur tes épaules, une chaise dans la cuisine, et les ciseaux à papier.",
+     1.2
+    ],
+    [
+     "Un peu à gauche. Un peu à droite, pour égaliser. Encore un peu à gauche.",
+     1.4
+    ],
+    [
+     "Au bout de vingt minutes, il te restait trois centimètres de cheveux. Et un trou derrière l'oreille.",
+     1.4
+    ],
+    [
+     "Tu t'es regardé dans le miroir. Tu as dit tout bas : demain, c'est la photo.",
+     1.6
+    ],
+    [
+     "Alors j'ai sorti la tondeuse. J'ai rasé ta tête. Puis j'ai rasé la *mienne*.",
+     1.8
+    ],
+    [
+     "Le lendemain, on est arrivés à l'école main dans la main. Deux œufs durs.",
+     1.4
+    ],
+    [
+     "Tes copains ont ri. Le lundi suivant, trois d'entre eux avaient la même coupe.",
+     1.4
+    ],
+    [
+     "Sur la photo, tu as le sourire le plus fier de toute la classe.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu rateras des choses sur les autres. Une coupe, un conseil, une promesse.",
+     1.2
+    ],
+    [
+     "Ce jour-là, ne les laisse pas porter la honte tout seuls.",
+     1.4
+    ],
+    [
+     "À deux, la honte devient un *souvenir*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j090_mere",
+   "perso": "mere",
+   "episode": 91,
+   "fin": "Envoie-la à quelqu'un qui a déjoué tous les pronostics.",
+   "lueurs": [
+    1,
+    8,
+    14
+   ],
+   "accroche": "Celle-là, elle ne tiendra pas trois mois.",
+   "legende": "Méfie-toi des premières impressions. Surtout des tiennes. #maman #mere #humour #famille #couple",
+   "phrases": [
+    [
+     "Le soir où tu nous as présenté Claire, j'ai envoyé un *message* à ta tante. Enfin, je croyais.",
+     1.3
+    ],
+    [
+     "Tu avais vingt-deux ans. Elle est arrivée en retard, avec des fleurs à moitié fanées.",
+     1.2
+    ],
+    [
+     "Elle a ri trop fort à table. Elle a contredit ton père. Deux fois.",
+     1.2
+    ],
+    [
+     "Après le dessert, j'ai écrit : celle-là, elle ne tiendra pas trois mois.",
+     1.4
+    ],
+    [
+     "Une seconde plus tard, un téléphone a vibré. Pas dans la cuisine. Dans le salon.",
+     1.6
+    ],
+    [
+     "J'avais enregistré son numéro juste sous celui de ta tante Christine.",
+     1.4
+    ],
+    [
+     "Je suis restée figée, le torchon à la main.",
+     1.4
+    ],
+    [
+     "Elle est entrée. Elle m'a montré l'écran. Elle a dit : pari *tenu*.",
+     1.8
+    ],
+    [
+     "Ça fait dix ans aujourd'hui. Vous avez deux enfants. Et elle contredit toujours ton père.",
+     1.4
+    ],
+    [
+     "Chaque année, pour mon anniversaire, elle m'envoie le même message : trois mois de plus.",
+     1.6
+    ],
+    [
+     "Je me suis trompée de destinataire. Et je me suis trompée sur elle.",
+     1.4
+    ],
+    [
+     "Méfie-toi des premières impressions. Surtout des tiennes.",
+     1.4
+    ],
+    [
+     "Et le jour où quelqu'un parie contre toi, ne te fâche pas.",
+     1.2
+    ],
+    [
+     "Souris. Et prends dix ans pour gagner le *pari*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j090_fou",
+   "perso": "fou",
+   "episode": 90,
+   "fin": "Envoie-la à quelqu'un qui est accusé à tort.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "On l'accuse. Il répond : ah bon ?",
+   "legende": "Continue simplement à faire ce qui est juste. #motivation #zen #conte #sagesse #reputation",
+   "phrases": [
+    [
+     "Dans un vieux récit zen, on accuse un moine d'être le père d'un *bébé*.",
+     1.3
+    ],
+    [
+     "Le moine s'appelle Hakuin. Tout le village le respecte.",
+     1.2
+    ],
+    [
+     "Un jour, la fille d'un commerçant tombe enceinte. Elle refuse de dire de qui.",
+     1.2
+    ],
+    [
+     "À force de questions, elle finit par donner un nom : Hakuin.",
+     1.4
+    ],
+    [
+     "Les parents, furieux, viennent l'insulter devant tout le monde.",
+     1.4
+    ],
+    [
+     "Il les écoute. Il répond seulement : ah bon ?",
+     1.6
+    ],
+    [
+     "À la naissance, on lui apporte l'enfant. Le village lui tourne le dos.",
+     1.4
+    ],
+    [
+     "Hakuin ne se défend pas. Il demande du lait aux voisins. Il s'occupe du bébé.",
+     1.4
+    ],
+    [
+     "Un an plus tard, la jeune mère avoue. Le vrai père travaille au marché aux poissons.",
+     1.6
+    ],
+    [
+     "Les parents reviennent, honteux. Ils s'excusent. Ils reprennent l'enfant.",
+     1.4
+    ],
+    [
+     "Hakuin leur rend le bébé. Il dit seulement : ah bon ?",
+     1.8
+    ],
+    [
+     "Un jour, on dira du mal de toi. Peut-être à tort.",
+     1.4
+    ],
+    [
+     "Tu voudras crier, te justifier, convaincre la terre entière.",
+     1.2
+    ],
+    [
+     "Fais comme Hakuin. Continue simplement à faire ce qui est *juste*.",
+     1.4
+    ],
+    [
+     "Et le jour où ils reviendront s'excuser, souris. Et dis : ah bon ?",
+     0
+    ]
+   ]
+  }
+ ]
+}

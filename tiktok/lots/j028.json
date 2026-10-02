@@ -1,0 +1,364 @@
+{
+ "nom": "j028",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j028_grandmere",
+   "perso": "grandmere",
+   "episode": 29,
+   "fin": "Envoie-la à quelqu'un qui remarque quand tu manques.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Je coupais dans le vide.",
+   "legende": "Les gens ne viennent pas toujours pour ce qu'ils demandent. #grandmere #travail #solitude #emotion",
+   "phrases": [
+    [
+     "Pendant quarante ans, j'ai été coiffeuse. J'ai entendu plus de *confessions* que le curé.",
+     1.3
+    ],
+    [
+     "Les maris, les belles-mères, les voisins. Tout passait sous mes ciseaux.",
+     1.2
+    ],
+    [
+     "Il y avait madame Lucienne. Elle venait tous les jeudis, à neuf heures.",
+     1.2
+    ],
+    [
+     "Elle n'avait presque plus de cheveux. Je coupais dans le vide pendant une heure.",
+     1.4
+    ],
+    [
+     "Elle me racontait sa semaine. Je faisais semblant de couper.",
+     1.4
+    ],
+    [
+     "Un jeudi, elle n'est pas venue. Ni le suivant.",
+     1.4
+    ],
+    [
+     "Je suis allée sonner chez elle. Elle était malade, toute seule, depuis dix jours.",
+     1.4
+    ],
+    [
+     "Personne ne s'en était aperçu. Sauf sa coiffeuse.",
+     1.6
+    ],
+    [
+     "Après ça, j'allais chez elle tous les jeudis. Avec mes ciseaux, pour couper le vide.",
+     1.4
+    ],
+    [
+     "J'ai compris qu'elle ne venait pas pour ses cheveux.",
+     1.4
+    ],
+    [
+     "Elle venait pour que quelqu'un l'*attende*.",
+     1.8
+    ],
+    [
+     "Les gens ne viennent pas toujours pour ce qu'ils demandent.",
+     1.2
+    ],
+    [
+     "Alors écoute aussi ce qu'on ne te dit pas.",
+     1.2
+    ],
+    [
+     "Et si quelqu'un ne vient pas un jeudi, va *sonner*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j028_grandpere",
+   "perso": "grandpere",
+   "episode": 30,
+   "fin": "Envoie-la à quelqu'un qui commence un nouveau travail.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Va me chercher un seau de vapeur.",
+   "legende": "Le premier jour, on ne te teste pas sur ce que tu sais. On te teste sur la façon dont tu encaisses. #grandpere #travail #humour #premieremploi",
+   "phrases": [
+    [
+     "Mon premier jour à l'usine, on m'a envoyé chercher un *seau* de vapeur.",
+     1.3
+    ],
+    [
+     "J'avais quatorze ans. Je ne voulais pas passer pour un idiot. J'y suis allé.",
+     1.2
+    ],
+    [
+     "Le chef d'atelier m'a envoyé au magasin. Le magasinier m'a envoyé à la forge.",
+     1.2
+    ],
+    [
+     "La forge m'a envoyé à la chaufferie. Toute l'usine était dans le coup.",
+     1.4
+    ],
+    [
+     "À midi, je cherchais encore. Les ouvriers pleuraient de rire derrière leurs machines.",
+     1.4
+    ],
+    [
+     "Le soir, j'ai trouvé une vieille bouilloire. Je l'ai remplie, je l'ai fait chauffer.",
+     1.4
+    ],
+    [
+     "Et je l'ai posée, toute fumante, sur l'établi du chef. Voilà votre vapeur, chef.",
+     1.6
+    ],
+    [
+     "Il m'a regardé longtemps. Puis il a ri, plus fort que tout le monde.",
+     1.4
+    ],
+    [
+     "Le lendemain, c'est moi qu'il a pris à côté de lui. Pas un ancien.",
+     1.6
+    ],
+    [
+     "Il m'a dit : celui qui cherche toute la journée sans se plaindre, je le *garde*.",
+     1.8
+    ],
+    [
+     "Le premier jour, on ne te teste pas sur ce que tu sais.",
+     1.2
+    ],
+    [
+     "On te teste sur la façon dont tu encaisses.",
+     1.4
+    ],
+    [
+     "Alors si on t'envoie chercher un seau de vapeur, ne boude pas.",
+     1.2
+    ],
+    [
+     "Reviens avec une *bouilloire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j028_pere",
+   "perso": "pere",
+   "episode": 29,
+   "fin": "Envoie-la à quelqu'un qui a un chef plus jeune que lui.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Une jeune femme de ton âge.",
+   "legende": "L'âge n'est pas un grade. Apprends de tout le monde, surtout des plus jeunes. #papa #pere #travail #humilite #reconversion",
+   "phrases": [
+    [
+     "À quarante-huit ans, j'ai passé un entretien d'embauche. En face de moi, une jeune femme de ton *âge*.",
+     1.3
+    ],
+    [
+     "Mon entreprise avait fermé. Vingt-deux ans de maison, et une lettre recommandée.",
+     1.2
+    ],
+    [
+     "Elle avait un ordinateur et des chaussures de sport. Moi, le costume du mariage de ta cousine.",
+     1.4
+    ],
+    [
+     "Elle m'a demandé : où vous voyez-vous dans cinq ans ?",
+     1.2
+    ],
+    [
+     "J'ai failli répondre : à votre place.",
+     1.4
+    ],
+    [
+     "Je l'ai trouvée trop jeune pour me juger. Je suis reparti vexé.",
+     1.2
+    ],
+    [
+     "Elle m'a pourtant embauché. Elle est devenue ma cheffe.",
+     1.4
+    ],
+    [
+     "Les premiers mois, j'attendais qu'elle se trompe. Pour avoir raison.",
+     1.4
+    ],
+    [
+     "Elle ne s'est presque jamais trompée. Elle m'a appris plus que tous mes anciens patrons.",
+     1.6
+    ],
+    [
+     "Un soir, je l'ai vue pleurer dans sa voiture, après une réunion avec la direction.",
+     1.4
+    ],
+    [
+     "Elle venait de se battre pour garder mon *poste*. Je ne l'ai su que bien plus tard.",
+     1.8
+    ],
+    [
+     "J'avais pris sa jeunesse pour de l'arrogance. L'arrogant, c'était moi.",
+     1.6
+    ],
+    [
+     "L'âge n'est pas un grade. Apprends de tout le monde, surtout des plus jeunes.",
+     1.2
+    ],
+    [
+     "Et ne réponds jamais : à votre *place*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j028_mere",
+   "perso": "mere",
+   "episode": 29,
+   "fin": "Envoie-la à quelqu'un qui a dû cacher sa grossesse.",
+   "lueurs": [
+    1,
+    12,
+    14
+   ],
+   "accroche": "Je t'ai caché sous des pulls.",
+   "legende": "Tu n'as jamais été un problème. Tu as été la raison de tenir. #maman #mere #travail #grossesse #emotion",
+   "phrases": [
+    [
+     "Pendant cinq mois, je t'ai *caché* sous des pulls trop grands. Au travail, personne ne devait savoir.",
+     1.3
+    ],
+    [
+     "J'avais un contrat de six mois. Le renouvellement se décidait en juin.",
+     1.2
+    ],
+    [
+     "L'année d'avant, une collègue enceinte n'avait pas été renouvelée. Tout le monde avait compris.",
+     1.4
+    ],
+    [
+     "Alors je serrais ma ceinture. Je cachais mes nausées dans les toilettes du deuxième étage.",
+     1.4
+    ],
+    [
+     "Je disais que j'avais grossi. On me conseillait des régimes.",
+     1.4
+    ],
+    [
+     "En juin, mon contrat a été renouvelé. Le lendemain, j'ai tout dit.",
+     1.4
+    ],
+    [
+     "Le directeur m'a regardée. Il a dit : vous auriez pu nous le dire avant.",
+     1.6
+    ],
+    [
+     "J'ai répondu : non. Je n'aurais pas pu.",
+     1.8
+    ],
+    [
+     "Il n'a rien ajouté. Il savait très bien pourquoi.",
+     1.4
+    ],
+    [
+     "Je te raconte ça parce que tu dis parfois que tu as compliqué ma vie.",
+     1.2
+    ],
+    [
+     "Ce n'est pas toi qui compliquais les choses. C'était le monde autour.",
+     1.4
+    ],
+    [
+     "Tu n'as jamais été un *problème*. Tu as été la raison de tenir.",
+     1.6
+    ],
+    [
+     "Si un jour une collègue cache son ventre sous un pull, ne dis rien.",
+     1.2
+    ],
+    [
+     "Prends un peu de son travail. Et garde son *secret*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j028_fou",
+   "perso": "fou",
+   "episode": 28,
+   "fin": "Envoie-la à quelqu'un qui a peur d'avoir l'air ridicule.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "La course la plus laide du monde.",
+   "legende": "Personne ne se souvient de son style. Tout le monde se souvient de ses victoires. #motivation #sport #athletisme #discipline #humour",
+   "phrases": [
+    [
+     "Il avait la façon de courir la plus *laide* du monde.",
+     1.3
+    ],
+    [
+     "La tête qui roule, le visage tordu de douleur, les bras dans tous les sens.",
+     1.2
+    ],
+    [
+     "Les gens riaient en le voyant passer. Les entraîneurs secouaient la tête.",
+     1.2
+    ],
+    [
+     "Il s'appelait Emil Zátopek. Un soldat tchécoslovaque. On le surnommait la locomotive.",
+     1.4
+    ],
+    [
+     "Lui ne s'occupait pas du style. Il s'entraînait plus que tout le monde.",
+     1.4
+    ],
+    [
+     "Il courait dans la neige, la nuit, parfois avec ses grosses bottes de l'armée.",
+     1.4
+    ],
+    [
+     "Aux Jeux d'Helsinki, en mille neuf cent cinquante-deux, il gagne le dix mille mètres.",
+     1.2
+    ],
+    [
+     "Puis le cinq mille mètres.",
+     1.2
+    ],
+    [
+     "Alors il décide de courir le marathon. Il n'en a jamais couru un seul de sa vie.",
+     1.6
+    ],
+    [
+     "Il le *gagne*. Avec plus de deux minutes d'avance sur le deuxième.",
+     1.8
+    ],
+    [
+     "Trois médailles d'or aux mêmes Jeux. Avec la course la plus moche de l'histoire.",
+     1.4
+    ],
+    [
+     "Personne ne se souvient de son style. Tout le monde se souvient de ses victoires.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as peut-être peur d'avoir l'air ridicule quand tu essaies.",
+     1.2
+    ],
+    [
+     "Cours moche. Mais *cours*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

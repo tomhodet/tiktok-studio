@@ -1,0 +1,360 @@
+{
+ "nom": "j094",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j094_grandmere",
+   "perso": "grandmere",
+   "episode": 95,
+   "fin": "Envoie-la à quelqu'un qui connaît le prénom de tout le monde.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "La dinde de Noël a vécu dix ans.",
+   "legende": "Ce qui a un prénom, on ne le mange plus. C'est vrai pour les dindes. C'est vrai pour les gens. #grandmere #humour #noel #respect",
+   "phrases": [
+    [
+     "Un mois avant Noël, ton grand-père a ramené une *dinde* vivante. Elle a vécu dix ans.",
+     1.3
+    ],
+    [
+     "C'était en mille neuf cent soixante-dix-huit. Il voulait l'engraisser pour le réveillon.",
+     1.2
+    ],
+    [
+     "Il l'a installée dans le jardin. Et il a fait une erreur terrible.",
+     1.4
+    ],
+    [
+     "Il a laissé les enfants lui donner un nom.",
+     1.4
+    ],
+    [
+     "Ton père l'a appelée Noël. Ta tante lui a noué un ruban rouge autour du cou.",
+     1.4
+    ],
+    [
+     "Le vingt-trois décembre, ton grand-père est sorti avec son couteau.",
+     1.4
+    ],
+    [
+     "Il est revenu un quart d'heure plus tard. Sans la dinde. Il a dit : on mangera des *sardines*.",
+     1.8
+    ],
+    [
+     "Ce réveillon-là, on a mangé des sardines. L'année d'après aussi. Et toutes les autres.",
+     1.4
+    ],
+    [
+     "Noël suivait ton grand-père partout. Elle dormait sur la marche de la cuisine.",
+     1.4
+    ],
+    [
+     "Quand elle est morte de vieillesse, il l'a enterrée sous le pommier. Il a pleuré.",
+     1.6
+    ],
+    [
+     "Ce qui a un prénom, on ne le mange plus.",
+     1.4
+    ],
+    [
+     "C'est vrai pour les dindes. C'est vrai pour les gens.",
+     1.4
+    ],
+    [
+     "Apprends le prénom du gardien, de la dame de la cantine, du livreur.",
+     1.2
+    ],
+    [
+     "Après, tu ne pourras plus jamais les traiter comme des *choses*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j094_grandpere",
+   "perso": "grandpere",
+   "episode": 96,
+   "fin": "Envoie-la à quelqu'un qui rit au mauvais moment.",
+   "lueurs": [
+    1,
+    9,
+    13
+   ],
+   "accroche": "Un fou rire pendant la minute de silence.",
+   "legende": "Le silence est pour les morts. Le rire est pour les vivants. #grandpere #humour #memoire #emotion",
+   "phrases": [
+    [
+     "Le onze novembre de mes dix-neuf ans, j'ai eu un fou *rire* pendant la minute de silence.",
+     1.3
+    ],
+    [
+     "Devant le monument aux morts. Avec tout le village, le maire, les drapeaux.",
+     1.2
+    ],
+    [
+     "Le clairon a joué. Puis le silence. Un vrai silence de pierre.",
+     1.2
+    ],
+    [
+     "Et dans ce silence, le ventre de mon copain Marcel a gargouillé. Longtemps. Comme un évier.",
+     1.4
+    ],
+    [
+     "J'ai serré les dents. J'ai pensé à des choses tristes. Rien à faire.",
+     1.4
+    ],
+    [
+     "Mes épaules tremblaient. Marcel pleurait de rire à côté de moi.",
+     1.4
+    ],
+    [
+     "Devant nous, il y avait le père Lucien. Un ancien de Verdun. Quatre-vingts ans, une jambe en moins.",
+     1.4
+    ],
+    [
+     "Il s'est retourné lentement. J'ai cru qu'il allait nous gifler.",
+     1.6
+    ],
+    [
+     "Il a dit tout bas : riez, les gars. C'est pour ça qu'on s'est *battus*.",
+     1.8
+    ],
+    [
+     "Puis il s'est retourné vers le monument. Et je l'ai vu sourire.",
+     1.6
+    ],
+    [
+     "Ce jour-là, j'ai compris que le silence est pour les morts. Le rire est pour les vivants.",
+     1.4
+    ],
+    [
+     "Les gens qui ont souffert ne t'en veulent pas d'être heureux. Souvent, c'est tout ce qu'ils voulaient.",
+     1.4
+    ],
+    [
+     "Alors ne t'excuse jamais d'être *vivant*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j094_pere",
+   "perso": "pere",
+   "episode": 95,
+   "fin": "Envoie-la à quelqu'un qui sait mettre les gens à l'aise.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Maintenant, on est à égalité.",
+   "legende": "La vraie classe, ce n'est pas de ne jamais rien renverser. C'est de mettre les autres à l'aise. #papa #pere #humour #famille #bellefamille",
+   "phrases": [
+    [
+     "Le premier soir chez les parents de ta mère, j'ai renversé du vin rouge sur leur *nappe* blanche.",
+     1.3
+    ],
+    [
+     "Une nappe brodée par sa grand-mère. Sortie pour les grandes occasions.",
+     1.2
+    ],
+    [
+     "J'avais vingt-quatre ans. J'avais répété mes phrases toute la semaine.",
+     1.2
+    ],
+    [
+     "En trinquant, j'ai heurté la bouteille. Une grande tache, au milieu de la table.",
+     1.4
+    ],
+    [
+     "J'ai voulu réparer. J'ai renversé la salière dessus. Puis le verre d'eau.",
+     1.4
+    ],
+    [
+     "Ta mère regardait son assiette. Sa mère ne disait plus rien.",
+     1.4
+    ],
+    [
+     "Alors ton grand-père a pris son verre. Il l'a regardé. Et il l'a renversé sur la nappe.",
+     1.8
+    ],
+    [
+     "Lentement. Exprès. Juste à côté de ma tache.",
+     1.6
+    ],
+    [
+     "Il a dit : voilà. Maintenant, on est à *égalité*. Passe-moi le pain.",
+     1.6
+    ],
+    [
+     "Toute la table a éclaté de rire. Même ta grand-mère.",
+     1.4
+    ],
+    [
+     "Les deux taches ne sont jamais parties. Ta grand-mère sort encore cette nappe à Noël.",
+     1.4
+    ],
+    [
+     "Ce soir-là, j'ai appris ce que c'est, la vraie classe.",
+     1.4
+    ],
+    [
+     "Ce n'est pas de ne jamais rien renverser. C'est de mettre les autres à l'aise.",
+     1.4
+    ],
+    [
+     "Si un jour quelqu'un tremble à ta table, renverse ton *verre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j094_mere",
+   "perso": "mere",
+   "episode": 95,
+   "fin": "Envoie-la à quelqu'un qui t'a couvert un jour.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "C'est bien vous qui avez signé ?",
+   "legende": "Les gens qui t'aiment vraiment te défendent dehors. Et ils te disent la vérité dedans. #maman #mere #ecole #famille #loyaute",
+   "phrases": [
+    [
+     "À treize ans, tu as imité ma *signature* sur un mot d'absence.",
+     1.3
+    ],
+    [
+     "Tu avais séché les maths pour aller au lac.",
+     1.2
+    ],
+    [
+     "Le lendemain, le principal m'a convoquée. Il avait le mot sur son bureau.",
+     1.2
+    ],
+    [
+     "Une signature tremblante. Et une faute d'orthographe à mon propre prénom.",
+     1.4
+    ],
+    [
+     "Tu étais assis à côté de moi. Tout blanc.",
+     1.4
+    ],
+    [
+     "Le principal m'a demandé : c'est bien vous qui avez signé ?",
+     1.4
+    ],
+    [
+     "J'ai pris le papier. Je l'ai regardé longtemps. Et j'ai dit : oui, c'est moi.",
+     1.8
+    ],
+    [
+     "Tu m'as regardée. Je ne t'avais jamais vu aussi surpris.",
+     1.4
+    ],
+    [
+     "Dans la voiture, je n'ai pas dit un mot. Pendant tout le trajet.",
+     1.4
+    ],
+    [
+     "À la maison, je t'ai dit : tu ne signes plus jamais à ma place.",
+     1.4
+    ],
+    [
+     "Mais devant les autres, je ne te laisserai jamais *tomber*.",
+     1.6
+    ],
+    [
+     "Tu as été privé de sorties un mois. Tu n'as plus jamais séché.",
+     1.4
+    ],
+    [
+     "Les gens qui t'aiment vraiment te défendent dehors. Et ils te disent la vérité dedans.",
+     1.4
+    ],
+    [
+     "Garde près de toi ceux qui se taisent devant le principal. Et qui parlent dans la *voiture*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j094_fou",
+   "perso": "fou",
+   "episode": 94,
+   "fin": "Envoie-la à quelqu'un qui a envie d'abandonner.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Une aiguille, avec une barre de fer.",
+   "legende": "Personne ne fait une aiguille en un jour. On la fait un peu chaque jour. #motivation #discipline #chine #conte #perseverance",
+   "phrases": [
+    [
+     "Une vieille femme frotte une barre de *fer* contre une pierre. Inlassablement.",
+     1.3
+    ],
+    [
+     "Une légende chinoise raconte qu'un jeune garçon passe par là. Il a fait l'école buissonnière.",
+     1.2
+    ],
+    [
+     "Il déteste l'étude. Les livres l'ennuient. Il abandonne tout ce qu'il commence.",
+     1.2
+    ],
+    [
+     "Il demande à la vieille femme ce qu'elle fabrique.",
+     1.4
+    ],
+    [
+     "Elle répond sans lever les yeux : une aiguille.",
+     1.6
+    ],
+    [
+     "Le garçon éclate de rire. Une aiguille ? Avec une barre de fer ? Vous n'aurez jamais fini.",
+     1.4
+    ],
+    [
+     "Elle dit : si je ne m'arrête pas, elle deviendra une aiguille.",
+     1.4
+    ],
+    [
+     "Le garçon regarde la barre. Puis la pierre, creusée par des jours de travail.",
+     1.6
+    ],
+    [
+     "Il fait demi-tour. Il retourne à l'école. Il ne lâchera plus jamais un livre.",
+     1.8
+    ],
+    [
+     "Ce garçon s'appelait Li Bai. Il est devenu l'un des plus grands *poètes* de Chine.",
+     1.6
+    ],
+    [
+     "Toi aussi, tu as une barre de fer devant toi. Un diplôme, un métier, un corps à reconstruire.",
+     1.4
+    ],
+    [
+     "Elle te paraît énorme. Impossible à transformer.",
+     1.2
+    ],
+    [
+     "Personne ne fait une aiguille en un jour. On la fait un peu chaque jour.",
+     1.4
+    ],
+    [
+     "Frotte. Encore. La barre finira par céder avant *toi*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

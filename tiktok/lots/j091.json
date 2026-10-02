@@ -1,0 +1,364 @@
+{
+ "nom": "j091",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j091_grandmere",
+   "perso": "grandmere",
+   "episode": 92,
+   "fin": "Envoie-la à quelqu'un qui rit même dans les moments difficiles.",
+   "lueurs": [
+    1,
+    8,
+    15
+   ],
+   "accroche": "Un réveil a sonné dans le cercueil.",
+   "legende": "Les larmes et le rire viennent du même endroit. #grandmere #humour #famille #deuil #emotion",
+   "phrases": [
+    [
+     "À l'enterrement de mon père, un *réveil* a sonné dans le cercueil.",
+     1.3
+    ],
+    [
+     "Mon père a été en retard toute sa vie.",
+     1.2
+    ],
+    [
+     "À son propre mariage. À ma naissance. À la messe, tous les dimanches.",
+     1.2
+    ],
+    [
+     "Ma mère lui avait offert des dizaines de réveils. Il ne les entendait jamais.",
+     1.4
+    ],
+    [
+     "L'église était pleine. Le curé venait de commencer son sermon.",
+     1.2
+    ],
+    [
+     "Et soudain, dans le cercueil, ça s'est mis à sonner. Fort. Longtemps.",
+     1.6
+    ],
+    [
+     "Tout le monde s'est figé. Le curé a perdu sa page.",
+     1.4
+    ],
+    [
+     "Et ma mère, au premier rang, a éclaté de *rire*.",
+     1.8
+    ],
+    [
+     "Elle avait glissé un réveil dans la poche de son costume. Réglé sur l'heure de la messe.",
+     1.4
+    ],
+    [
+     "Elle a dit tout fort : pour une fois, il sera à l'heure.",
+     1.6
+    ],
+    [
+     "Toute l'église a ri. Et toute l'église a pleuré. En même temps.",
+     1.4
+    ],
+    [
+     "Ce jour-là, j'ai compris que les larmes et le rire viennent du même endroit.",
+     1.4
+    ],
+    [
+     "Rire à un enterrement, ce n'est pas manquer de respect. C'est se souvenir de quelqu'un en entier.",
+     1.4
+    ],
+    [
+     "Alors quand ce sera mon tour, je veux un réveil.",
+     1.2
+    ],
+    [
+     "Réglé sur l'heure de l'*apéritif*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j091_grandpere",
+   "perso": "grandpere",
+   "episode": 93,
+   "fin": "Envoie-la à quelqu'un qui se moque des anciens.",
+   "lueurs": [
+    1,
+    8,
+    13
+   ],
+   "accroche": "Il s'est couché dans la mare aux canards.",
+   "legende": "Ne te moque jamais de ce qui est ancien. #grandpere #humour #ferme #transmission",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix, mon père labourait encore avec deux chevaux. Je me *moquais* de lui.",
+     1.3
+    ],
+    [
+     "J'avais vingt-quatre ans. Pour moi, les chevaux, c'était l'ancien temps.",
+     1.2
+    ],
+    [
+     "Alors je me suis acheté un tracteur. À crédit. Rouge, tout neuf, le plus beau du canton.",
+     1.4
+    ],
+    [
+     "Le dimanche, je l'ai promené sur la place du village.",
+     1.2
+    ],
+    [
+     "J'ai fait un tour d'honneur. J'ai salué de la main. J'ai raté le virage.",
+     1.4
+    ],
+    [
+     "Le tracteur a descendu la pente, tout doucement. Il s'est couché dans la mare aux canards.",
+     1.6
+    ],
+    [
+     "Les canards sont partis. Le village est resté.",
+     1.4
+    ],
+    [
+     "Une heure plus tard, mon père est arrivé. Avec ses deux *chevaux*.",
+     1.8
+    ],
+    [
+     "Il n'a rien dit. Il a attaché la chaîne. Les chevaux ont tiré.",
+     1.4
+    ],
+    [
+     "Le tracteur est sorti. Le village a applaudi. Les chevaux, pas moi.",
+     1.6
+    ],
+    [
+     "Le soir, mon père m'a dit : le neuf, c'est bien. Mais garde toujours un cheval.",
+     1.4
+    ],
+    [
+     "Ne te moque jamais de ce qui est ancien.",
+     1.2
+    ],
+    [
+     "Un jour ou l'autre, c'est lui qui sortira ton neuf de la *mare*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j091_pere",
+   "perso": "pere",
+   "episode": 92,
+   "fin": "Envoie-la à quelqu'un qui fait les devoirs de ses enfants.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Le volcan qui a explosé sur ta maîtresse.",
+   "legende": "Laisse-les rater leurs volcans eux-mêmes. #papa #pere #humour #education #enfance",
+   "phrases": [
+    [
+     "Le volcan qui a explosé sur ta maîtresse, en primaire, ce n'était pas le tien. C'était le *mien*.",
+     1.3
+    ],
+    [
+     "Tu avais dix ans. Tu devais fabriquer un volcan pour l'exposé de sciences.",
+     1.2
+    ],
+    [
+     "Tu avais fait un petit volcan en pâte à sel. Tordu. Tu en étais fier.",
+     1.2
+    ],
+    [
+     "Moi, je l'ai trouvé trop petit. Alors j'ai pris les choses en main.",
+     1.4
+    ],
+    [
+     "Trois soirs au garage. Du plâtre, de la peinture, et beaucoup trop de bicarbonate.",
+     1.4
+    ],
+    [
+     "Toi, tu me passais les outils. Tu ne disais plus rien.",
+     1.4
+    ],
+    [
+     "Le jour de l'exposé, il a fonctionné. Un peu trop bien.",
+     1.4
+    ],
+    [
+     "La lave a traversé la classe. La maîtresse en avait jusque dans les cheveux.",
+     1.6
+    ],
+    [
+     "Elle t'a mis deux sur vingt. Avec un mot : ce n'était pas ton *travail*.",
+     1.8
+    ],
+    [
+     "Elle avait raison. J'avais fait ton volcan pour être fier de moi.",
+     1.6
+    ],
+    [
+     "Ton petit volcan tordu, je l'avais rangé au grenier. Il y est toujours.",
+     1.4
+    ],
+    [
+     "Quand tu auras des enfants, tu voudras les aider. C'est normal.",
+     1.2
+    ],
+    [
+     "Mais laisse-les rater leurs volcans eux-mêmes.",
+     1.4
+    ],
+    [
+     "Un volcan tordu fait de tes mains vaut mieux qu'un chef-d'œuvre qu'on t'a *volé*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j091_mere",
+   "perso": "mere",
+   "episode": 92,
+   "fin": "Envoie-la à quelqu'un qui part toujours avec trop de valises.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Toutes les valises. Sauf la mienne.",
+   "legende": "La plupart du temps, ce qui nous pèse, c'est ce qu'on emporte. #maman #mere #humour #vacances #famille",
+   "phrases": [
+    [
+     "Pour nos vacances en Espagne, j'ai fait toutes les valises. Sauf la *mienne*.",
+     1.3
+    ],
+    [
+     "Tu avais huit ans. J'avais fait des listes pendant un mois.",
+     1.2
+    ],
+    [
+     "Les maillots, les crèmes, les jeux pour la voiture. Rien ne manquait.",
+     1.2
+    ],
+    [
+     "À l'arrivée, ton père a vidé le coffre. Il a compté. Il a recompté.",
+     1.4
+    ],
+    [
+     "Ma valise était restée dans l'entrée. À mille kilomètres.",
+     1.6
+    ],
+    [
+     "J'ai passé deux semaines dans les chemises de ton père. Avec un maillot du marché, trop grand.",
+     1.4
+    ],
+    [
+     "Les premiers jours, j'étais furieuse. Puis j'ai remarqué quelque chose.",
+     1.4
+    ],
+    [
+     "Je n'avais rien à ranger. Rien à repasser. Rien à choisir le matin.",
+     1.4
+    ],
+    [
+     "Pour la première fois depuis des années, j'étais en *vacances*. Moi aussi.",
+     1.8
+    ],
+    [
+     "Tu te souviens de cet été-là ? Tu disais que maman riait tout le temps.",
+     1.4
+    ],
+    [
+     "Depuis, je pars avec un seul sac. Ton père n'en revient toujours pas.",
+     1.4
+    ],
+    [
+     "On croit qu'on a besoin de beaucoup de choses pour être bien.",
+     1.2
+    ],
+    [
+     "La plupart du temps, ce qui nous pèse, c'est justement ce qu'on emporte.",
+     1.4
+    ],
+    [
+     "Emporte moins. Tu riras *plus*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j091_fou",
+   "perso": "fou",
+   "episode": 91,
+   "fin": "Envoie-la à quelqu'un qui doit tout recommencer.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Son maître lui a dit : démolis-la.",
+   "legende": "Chaque pierre que tu portes, c'est toi qu'elle construit. #motivation #discipline #tibet #conte #resilience",
+   "phrases": [
+    [
+     "Au Tibet, on raconte qu'un jeune homme a construit une *tour*, seul, pierre par pierre.",
+     1.3
+    ],
+    [
+     "Quand elle a été finie, son maître lui a dit : démolis-la. Et remets chaque pierre à sa place.",
+     1.4
+    ],
+    [
+     "Ce jeune homme s'appelait Milarepa. Dans sa jeunesse, il avait fait beaucoup de mal.",
+     1.2
+    ],
+    [
+     "Il était venu chercher un enseignement. On lui donnait des pierres.",
+     1.4
+    ],
+    [
+     "Alors il a démoli. Puis le maître a demandé une autre tour. Ailleurs. D'une autre forme.",
+     1.4
+    ],
+    [
+     "Puis une autre. Puis encore une autre.",
+     1.2
+    ],
+    [
+     "Son dos n'était plus qu'une plaie. Il portait les pierres quand même.",
+     1.4
+    ],
+    [
+     "Il a pleuré. Il a voulu partir. Il est resté.",
+     1.6
+    ],
+    [
+     "Le jour où le maître l'a enfin accepté, il lui a expliqué.",
+     1.4
+    ],
+    [
+     "Ces tours n'étaient pas des épreuves inutiles. Chacune *effaçait* un peu du mal qu'il avait fait.",
+     1.8
+    ],
+    [
+     "Milarepa est devenu l'un des sages les plus aimés du Tibet.",
+     1.4
+    ],
+    [
+     "Toi aussi, tu as peut-être l'impression de construire pour rien. De recommencer encore et encore.",
+     1.4
+    ],
+    [
+     "Mais ce que tu bâtis, ce ne sont pas des murs.",
+     1.2
+    ],
+    [
+     "Chaque pierre que tu portes, c'est toi qu'elle *construit*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

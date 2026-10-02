@@ -1,0 +1,376 @@
+{
+ "nom": "j168",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j168_grandmere",
+   "perso": "grandmere",
+   "episode": 169,
+   "fin": "Envoie-la à quelqu'un qui doit tout réapprendre.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Une boîte en carton sur les mains.",
+   "legende": "Ce que tu sais faire vieillira. Ta manière d'apprendre, jamais. #grandmere #apprendre #humour #perseverance",
+   "phrases": [
+    [
+     "À dix-sept ans, j'ai appris à taper à la machine avec une boîte en *carton* sur les mains.",
+     1.3
+    ],
+    [
+     "La directrice ne voulait pas qu'on regarde les touches. Jamais.",
+     1.2
+    ],
+    [
+     "On tapait au rythme d'un métronome. Tac, tac, tac.",
+     1.2
+    ],
+    [
+     "Les premières semaines, mes lettres étaient illisibles. Je pleurais dans le bus.",
+     1.4
+    ],
+    [
+     "Au bout d'un an, je tapais soixante mots à la minute. Sans regarder.",
+     1.2
+    ],
+    [
+     "J'ai été secrétaire vingt-cinq ans. La plus rapide de l'étage.",
+     1.4
+    ],
+    [
+     "Et puis, à cinquante ans, on a remplacé ma machine par un ordinateur.",
+     1.2
+    ],
+    [
+     "Le premier jour, j'ai tapé une lettre entière sans regarder. Comme toujours.",
+     1.4
+    ],
+    [
+     "Mes mains étaient décalées d'une touche. Du premier mot jusqu'au dernier.",
+     1.4
+    ],
+    [
+     "Mon directeur l'a lue trois fois. Il a cru à un code secret.",
+     1.6
+    ],
+    [
+     "Le soir, j'ai ressorti du grenier ma vieille boîte en carton.",
+     1.4
+    ],
+    [
+     "Je l'ai posée sur le clavier. Et j'ai tout *recommencé*, comme à dix-sept ans.",
+     1.6
+    ],
+    [
+     "Trois mois plus tard, c'est moi qui formais les jeunes.",
+     1.4
+    ],
+    [
+     "Ce que tu sais faire vieillira. Ta manière d'apprendre, jamais.",
+     1.4
+    ],
+    [
+     "Les machines changent. La boîte en *carton*, elle, sert toujours.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j168_grandpere",
+   "perso": "grandpere",
+   "episode": 170,
+   "fin": "Envoie-la à quelqu'un qui t'aime sans le dire.",
+   "lueurs": [
+    1,
+    12,
+    15
+   ],
+   "accroche": "Ce matin-là, son café était froid.",
+   "legende": "L'amour, c'est une tasse qu'on réchauffe tous les matins. Sans le dire. #grandpere #amour #couple #habitudes",
+   "phrases": [
+    [
+     "Tous les matins, depuis cinquante ans, je verse de l'eau bouillante dans une tasse *vide*.",
+     1.3
+    ],
+    [
+     "Je la laisse une minute. Puis je la vide dans l'évier.",
+     1.2
+    ],
+    [
+     "C'est la tasse de ta grand-mère. Elle aime son café brûlant.",
+     1.2
+    ],
+    [
+     "Et elle descend toujours en retard. Toujours.",
+     1.4
+    ],
+    [
+     "Alors je chauffe sa tasse. Je ne lui ai jamais dit.",
+     1.4
+    ],
+    [
+     "Pendant cinquante ans, j'ai cru qu'elle ne s'en était jamais aperçue.",
+     1.4
+    ],
+    [
+     "Un matin de l'hiver dernier, j'ai oublié. La première fois de ma vie.",
+     1.4
+    ],
+    [
+     "Ta grand-mère a bu une gorgée. Elle a posé la tasse.",
+     1.6
+    ],
+    [
+     "Puis elle a appelé le médecin.",
+     1.6
+    ],
+    [
+     "Elle avait raison. Mon cœur fatiguait. Ils m'ont gardé trois jours.",
+     1.4
+    ],
+    [
+     "À l'hôpital, je lui ai demandé : comment tu as su ?",
+     1.4
+    ],
+    [
+     "Elle a répondu : en cinquante ans, ton café n'a jamais été *froid*.",
+     1.8
+    ],
+    [
+     "Elle savait depuis le premier matin. Elle ne m'avait jamais rien dit non plus.",
+     1.6
+    ],
+    [
+     "L'amour, ce n'est pas un feu d'artifice.",
+     1.2
+    ],
+    [
+     "C'est une tasse qu'on réchauffe tous les matins. Sans le *dire*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j168_pere",
+   "perso": "pere",
+   "episode": 169,
+   "fin": "Envoie-la à quelqu'un qui veut tout arrêter ce soir.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "Tu as voulu arrêter onze fois.",
+   "legende": "Un mauvais soir n'a jamais le droit de signer à ta place. #papa #pere #discipline #perseverance #sport",
+   "phrases": [
+    [
+     "Tu as voulu arrêter le judo onze fois. J'ai compté.",
+     1.3
+    ],
+    [
+     "Chaque fois, c'était un soir de défaite. Tu jetais ton sac dans l'entrée.",
+     1.2
+    ],
+    [
+     "Ta mère disait : laisse-le arrêter, il est malheureux.",
+     1.2
+    ],
+    [
+     "Moi, je te répondais toujours la même chose.",
+     1.2
+    ],
+    [
+     "Tu as le droit d'arrêter. Mais pas un soir où tu as perdu.",
+     1.4
+    ],
+    [
+     "Reviens un jour où tu as gagné. Ce jour-là, je *signerai* le papier.",
+     1.6
+    ],
+    [
+     "Tu me trouvais injuste. Tu disais que c'était une règle de dictateur.",
+     1.2
+    ],
+    [
+     "Mais les jours où tu gagnais, tu avais oublié que tu voulais partir.",
+     1.4
+    ],
+    [
+     "Tu as eu ta ceinture noire à dix-sept ans.",
+     1.6
+    ],
+    [
+     "Ce que tu ne sais pas, c'est d'où vient cette règle.",
+     1.4
+    ],
+    [
+     "À seize ans, j'ai arrêté la boxe. Un soir où j'avais pris une raclée.",
+     1.4
+    ],
+    [
+     "Trente ans plus tard, mon entraîneur m'a dit que j'étais le plus doué du club.",
+     1.6
+    ],
+    [
+     "Je n'ai pas arrêté la boxe. J'ai obéi à un mauvais *soir*.",
+     1.8
+    ],
+    [
+     "Tu peux tout quitter dans la vie. Mais choisis le jour.",
+     1.2
+    ],
+    [
+     "Un mauvais soir n'a jamais le droit de *signer* à ta place.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j168_mere",
+   "perso": "mere",
+   "episode": 169,
+   "fin": "Envoie-la à quelqu'un qui a travaillé la nuit pour toi.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Exactement à la même place.",
+   "legende": "Tu ne sais pas pour qui elle regarde par la fenêtre. #maman #mere #emotion #travail #fierte",
+   "phrases": [
+    [
+     "La tour où tu travailles aujourd'hui, je la connais par cœur. Étage par étage.",
+     1.3
+    ],
+    [
+     "Tu ne m'as jamais vue y entrer. J'y allais la *nuit*.",
+     1.4
+    ],
+    [
+     "Quand l'argent manquait, j'ai nettoyé des bureaux. La nuit, de dix heures à deux heures.",
+     1.2
+    ],
+    [
+     "Je te couchais, j'embrassais ton front, et je partais avec mon seau.",
+     1.2
+    ],
+    [
+     "Le dix-septième étage, c'était le mien. Je vidais les poubelles des grands patrons.",
+     1.2
+    ],
+    [
+     "Il y avait une grande baie vitrée, avec toute la ville éclairée.",
+     1.2
+    ],
+    [
+     "Chaque nuit, je posais mon chiffon une minute devant la fenêtre.",
+     1.4
+    ],
+    [
+     "Je me disais : un jour, mon petit travaillera dans un bureau comme celui-là.",
+     1.6
+    ],
+    [
+     "Le mois dernier, tu m'as fait visiter ton nouveau travail. Tu étais si fier.",
+     1.2
+    ],
+    [
+     "L'ascenseur s'est arrêté au dix-septième. Mes jambes tremblaient.",
+     1.4
+    ],
+    [
+     "Ton bureau est devant la grande baie vitrée. Exactement à la même *place*.",
+     1.8
+    ],
+    [
+     "Tu m'as montré la vue. J'ai dit : c'est joli. Rien d'autre.",
+     1.6
+    ],
+    [
+     "Ce soir-là, en partant, j'ai croisé une dame avec son chariot.",
+     1.4
+    ],
+    [
+     "Quand tu la croises, dis-lui bonsoir. Tu ne sais pas pour qui elle regarde par la *fenêtre*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j168_fou",
+   "perso": "fou",
+   "episode": 168,
+   "fin": "Envoie-la à quelqu'un que personne n'a encore choisi.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Il a l'air d'un chien perdu.",
+   "legende": "C'est toi qui décides où s'arrête la montagne. #motivation #confucius #sagesse #perseverance",
+   "phrases": [
+    [
+     "Pendant quatorze ans, un homme a offert ses conseils aux *princes*, de royaume en royaume. Aucun ne l'a engagé.",
+     1.3
+    ],
+    [
+     "Jeune, il tenait les comptes d'un grenier à grain.",
+     1.2
+    ],
+    [
+     "Il disait seulement : mes comptes doivent être justes.",
+     1.4
+    ],
+    [
+     "Sur les routes, il a connu la faim et les moqueries.",
+     1.2
+    ],
+    [
+     "Un jour, un passant l'a décrit à un de ses élèves : il a l'air d'un chien perdu.",
+     1.4
+    ],
+    [
+     "Quand on lui a répété la phrase, il a ri : c'est vrai. C'est bien vrai.",
+     1.6
+    ],
+    [
+     "À près de soixante-dix ans, il est rentré chez lui. Sans poste, sans royaume.",
+     1.4
+    ],
+    [
+     "Alors il s'est consacré à une seule chose. Ses *élèves*.",
+     1.6
+    ],
+    [
+     "Il disait : si je m'arrête à un panier de terre du sommet, c'est moi qui m'arrête.",
+     1.8
+    ],
+    [
+     "Après sa mort, ses élèves ont écrit ses paroles. Des enfants les apprennent depuis deux mille ans.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Confucius.",
+     1.6
+    ],
+    [
+     "Il n'a jamais eu de royaume. Il a eu vingt-cinq siècles.",
+     1.4
+    ],
+    [
+     "Si personne ne veut de toi aujourd'hui, ne range pas ton panier.",
+     1.2
+    ],
+    [
+     "Ajoute encore un peu de terre. C'est toi qui décides où s'arrête la *montagne*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "nom": "j038",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j038_grandmere",
+   "perso": "grandmere",
+   "episode": 39,
+   "fin": "Envoie-la à quelqu'un qui ronfle comme un moteur.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "Je l'écoute ronfler tous les soirs.",
+   "legende": "Ce qui t'agace chez quelqu'un, c'est souvent ce qui te manquera le plus. #grandmere #amour #couple #humour #emotion",
+   "phrases": [
+    [
+     "Pendant cinquante ans, ton grand-père a *ronflé* comme un vieux moteur de bateau.",
+     1.3
+    ],
+    [
+     "J'ai tout essayé. Le coude dans les côtes. Les bouchons d'oreilles. Le canapé.",
+     1.2
+    ],
+    [
+     "Lui, il jurait qu'il ne ronflait pas. Jamais de la vie.",
+     1.2
+    ],
+    [
+     "Un soir de mille neuf cent quatre-vingt-deux, j'ai posé un magnétophone sur la table de nuit.",
+     1.2
+    ],
+    [
+     "Le lendemain matin, je lui ai fait écouter la cassette. Une heure de tonnerre.",
+     1.4
+    ],
+    [
+     "Il a ri tellement fort que les voisins ont frappé au mur.",
+     1.2
+    ],
+    [
+     "Il a dit : d'accord, je ronfle. Mais toi, tu parles en dormant.",
+     1.6
+    ],
+    [
+     "La cassette a fini dans un tiroir. On l'a oubliée.",
+     1.4
+    ],
+    [
+     "Ton grand-père est parti il y a trois ans.",
+     1.6
+    ],
+    [
+     "Depuis, le silence m'empêche de dormir. C'est le bruit le plus fort que je connaisse.",
+     1.6
+    ],
+    [
+     "Un soir, j'ai retrouvé la *cassette*.",
+     1.8
+    ],
+    [
+     "Maintenant, tous les soirs, je l'écoute ronfler. Et je m'endors en cinq minutes.",
+     1.6
+    ],
+    [
+     "Ce qui t'agace chez quelqu'un, c'est souvent ce qui te manquera le plus.",
+     1.4
+    ],
+    [
+     "Alors plains-toi autant que tu veux. Mais garde toujours une preuve.",
+     1.2
+    ],
+    [
+     "La seule preuve que j'avais contre lui, c'est devenu ma *berceuse*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j038_grandpere",
+   "perso": "grandpere",
+   "episode": 40,
+   "fin": "Envoie-la à quelqu'un qui n'ose pas se déclarer.",
+   "lueurs": [
+    1,
+    11,
+    15
+   ],
+   "accroche": "J'ai acheté un timbre tous les jours.",
+   "legende": "Quelqu'un t'attend peut-être aussi, derrière son guichet. #grandpere #amour #rencontre #timidite",
+   "phrases": [
+    [
+     "Pendant deux ans, j'ai acheté un *timbre* tous les jours. Je n'écrivais à personne.",
+     1.3
+    ],
+    [
+     "J'avais vingt ans. Je travaillais à la scierie, en face de la poste.",
+     1.2
+    ],
+    [
+     "Au guichet, il y avait une demoiselle avec un crayon derrière l'oreille.",
+     1.4
+    ],
+    [
+     "Tous les jours à midi, j'entrais. Je disais : un timbre, s'il vous plaît.",
+     1.2
+    ],
+    [
+     "Elle me rendait la monnaie. Je disais merci. Je repartais.",
+     1.2
+    ],
+    [
+     "Deux ans. Je n'ai jamais trouvé autre chose à lui dire.",
+     1.4
+    ],
+    [
+     "Ma mère trouvait des timbres partout. Dans mes poches. Sous mon oreiller.",
+     1.4
+    ],
+    [
+     "Un matin, la demoiselle a refusé de me vendre mon timbre.",
+     1.4
+    ],
+    [
+     "Elle m'a demandé : mais à qui vous écrivez, à la fin ?",
+     1.4
+    ],
+    [
+     "J'ai rougi jusqu'aux oreilles. J'ai dit : à personne. Je viens pour vous.",
+     1.8
+    ],
+    [
+     "Elle a souri : je *sais*. Depuis deux ans, je déjeune plus tard pour vous servir.",
+     1.8
+    ],
+    [
+     "On s'est mariés l'année suivante. Il me restait six cents timbres.",
+     1.4
+    ],
+    [
+     "On en a collé sur nos faire-part. Il en reste dans le buffet.",
+     1.4
+    ],
+    [
+     "Ne perds pas deux ans à acheter des timbres.",
+     1.2
+    ],
+    [
+     "Dis-lui. Quelqu'un t'attend peut-être aussi, derrière son *guichet*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j038_pere",
+   "perso": "pere",
+   "episode": 39,
+   "fin": "Envoie-la à quelqu'un qui offre des fleurs sans raison.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Les fleurs, ce n'est pas pour toi.",
+   "legende": "Ne t'habitue jamais à la présence de ceux que tu aimes. #papa #pere #amour #naissance #emotion",
+   "phrases": [
+    [
+     "Chaque année, pour ton anniversaire, j'offre des *fleurs* à ta mère. Tu trouves ça bizarre.",
+     1.3
+    ],
+    [
+     "Tu disais : c'est mon anniversaire, pas le sien.",
+     1.2
+    ],
+    [
+     "Je n'ai jamais répondu. Je vais le faire aujourd'hui.",
+     1.4
+    ],
+    [
+     "Le jour de ta naissance, tout allait bien. Puis, d'un coup, plus rien n'allait.",
+     1.2
+    ],
+    [
+     "Ta mère perdait trop de sang. Une infirmière t'a mis dans mes bras et m'a fait sortir.",
+     1.4
+    ],
+    [
+     "Je me suis retrouvé dans un couloir avec toi. Trois heures. Sans nouvelles.",
+     1.4
+    ],
+    [
+     "Un médecin est passé. Il a dit : on fait tout ce qu'on peut.",
+     1.6
+    ],
+    [
+     "Alors je t'ai raconté ta mère. Tout. Au cas où tu ne la connaîtrais jamais.",
+     1.8
+    ],
+    [
+     "À l'aube, la porte s'est ouverte. Elle était *vivante*.",
+     1.8
+    ],
+    [
+     "Elle était blanche comme le drap. Elle a murmuré : il est beau ?",
+     1.6
+    ],
+    [
+     "Ton anniversaire, c'est aussi le jour où je ne l'ai pas perdue.",
+     1.4
+    ],
+    [
+     "Les fleurs, ce n'est pas pour toi. C'est pour la remercier d'être restée.",
+     1.4
+    ],
+    [
+     "Ne t'habitue jamais à la présence de ceux que tu aimes.",
+     1.2
+    ],
+    [
+     "Chaque année où elle est là est une année *offerte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j038_mere",
+   "perso": "mere",
+   "episode": 39,
+   "fin": "Envoie-la à quelqu'un qui s'efface dans son couple.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Quand Camille t'a quitté, j'étais soulagée.",
+   "legende": "L'amour ne devrait jamais te rendre plus petit. #maman #mere #amour #rupture #conseildevie",
+   "phrases": [
+    [
+     "Le jour où Camille t'a quitté, tu as pleuré dans ma cuisine. Moi, j'étais *soulagée*.",
+     1.3
+    ],
+    [
+     "Je ne te l'ai jamais dit. Tu m'en aurais voulu.",
+     1.2
+    ],
+    [
+     "Camille était gentille. Polie. Elle m'apportait toujours des fleurs.",
+     1.2
+    ],
+    [
+     "Je n'avais rien contre elle. J'avais quelque chose contre ce que tu devenais avec elle.",
+     1.4
+    ],
+    [
+     "Avec elle, tu riais moins fort. Tu finissais tes phrases en regardant son visage.",
+     1.4
+    ],
+    [
+     "Au restaurant, tu commandais ce qu'elle aimait. Tu avais arrêté la guitare, elle trouvait ça bruyant.",
+     1.4
+    ],
+    [
+     "Petit à petit, mon grand garçon prenait moins de place.",
+     1.6
+    ],
+    [
+     "Une mère voit ces choses-là. Même quand elle préférerait ne pas les voir.",
+     1.4
+    ],
+    [
+     "Six mois après votre rupture, tu es venu dîner. Tu as ri à table. Fort.",
+     1.4
+    ],
+    [
+     "Un soir, au téléphone, j'ai entendu ta guitare derrière ta voix.",
+     1.8
+    ],
+    [
+     "J'ai raccroché. Et j'ai pleuré, moi aussi. Mais pas pour les mêmes raisons.",
+     1.6
+    ],
+    [
+     "L'amour ne devrait jamais te rendre plus *petit*.",
+     1.6
+    ],
+    [
+     "Avec la bonne personne, tu ne baisseras pas la voix.",
+     1.4
+    ],
+    [
+     "Tu riras fort. Et tu joueras de la *guitare*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j038_fou",
+   "perso": "fou",
+   "episode": 38,
+   "fin": "Envoie-la à quelqu'un qui a raison trop tôt.",
+   "lueurs": [
+    1,
+    7,
+    15
+   ],
+   "accroche": "Il voulait qu'on se lave les mains.",
+   "legende": "Avoir raison trop tôt, c'est encore avoir raison. #motivation #science #medecine #histoire #perseverance",
+   "phrases": [
+    [
+     "Un médecin a perdu sa place pour avoir demandé à ses collègues de se laver les *mains*.",
+     1.4
+    ],
+    [
+     "Vienne, mille huit cent quarante-sept. Dans sa maternité, il y a deux salles.",
+     1.2
+    ],
+    [
+     "Dans l'une, des sages-femmes accouchent les mères. Dans l'autre, des médecins.",
+     1.2
+    ],
+    [
+     "Chez les médecins, les jeunes mères meurent de fièvre bien plus souvent. Personne ne comprend pourquoi.",
+     1.4
+    ],
+    [
+     "Lui remarque une chose : les médecins arrivent tout droit de la salle des autopsies.",
+     1.4
+    ],
+    [
+     "Il impose une règle : se laver les mains à l'eau chlorée avant chaque accouchement.",
+     1.4
+    ],
+    [
+     "En quelques mois, la mortalité s'*effondre*.",
+     1.8
+    ],
+    [
+     "Et pourtant, la plupart de ses collègues se moquent de lui.",
+     1.4
+    ],
+    [
+     "Un médecin qui tuerait ses patientes ? Impossible. Ils se sentent insultés.",
+     1.4
+    ],
+    [
+     "Il perd sa place. Il meurt en mille huit cent soixante-cinq, sans avoir convaincu.",
+     1.6
+    ],
+    [
+     "Peu après, Louis Pasteur montre que des microbes invisibles transmettent les maladies.",
+     1.4
+    ],
+    [
+     "Cet homme s'appelait Ignace Semmelweis. On l'appelle aujourd'hui le sauveur des mères.",
+     1.6
+    ],
+    [
+     "Un jour, toi aussi, tu verras ce que les autres refusent de voir.",
+     1.2
+    ],
+    [
+     "On se moquera de toi. Continue quand même.",
+     1.4
+    ],
+    [
+     "Avoir raison trop tôt, c'est encore avoir *raison*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

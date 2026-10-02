@@ -1,0 +1,364 @@
+{
+ "nom": "j029",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j029_grandmere",
+   "perso": "grandmere",
+   "episode": 30,
+   "fin": "Envoie-la à quelqu'un qui partage ses derniers carrés.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Le patron nous a dit : servez-vous.",
+   "legende": "Le bonheur ne vient pas de ce qu'on a en trop. Il vient de ce qu'on attend un peu. #grandmere #travail #humour #bonheur",
+   "phrases": [
+    [
+     "À seize ans, je suis entrée dans une chocolaterie. Le premier jour, le patron nous a dit : *servez-vous*.",
+     1.3
+    ],
+    [
+     "Mangez autant de chocolat que vous voulez. Toute la semaine.",
+     1.2
+    ],
+    [
+     "J'ai cru que j'étais au paradis. J'en avais dans les poches, dans la bouche, partout.",
+     1.4
+    ],
+    [
+     "Le mercredi, j'avais mal au cœur. Le vendredi, je ne pouvais plus le sentir.",
+     1.4
+    ],
+    [
+     "C'était sa ruse. Après ça, plus aucune ouvrière ne volait un seul carré.",
+     1.6
+    ],
+    [
+     "J'y suis restée dix ans. Je n'en mangeais plus jamais.",
+     1.2
+    ],
+    [
+     "Mais à Noël, on avait le droit d'emporter les chocolats cassés.",
+     1.2
+    ],
+    [
+     "Je rentrais avec un sac en papier. Ta mère et ton oncle m'attendaient derrière la porte.",
+     1.4
+    ],
+    [
+     "Pour eux, ces morceaux cassés, c'était un *trésor*.",
+     1.8
+    ],
+    [
+     "Ils les partageaient en comptant. Un pour toi, un pour moi. Ça durait jusqu'en février.",
+     1.4
+    ],
+    [
+     "Moi, j'avais tout le chocolat du monde, et il n'avait plus de goût.",
+     1.4
+    ],
+    [
+     "Eux avaient trois miettes, et c'était la fête.",
+     1.6
+    ],
+    [
+     "Le bonheur ne vient pas de ce qu'on a en trop.",
+     1.2
+    ],
+    [
+     "Il vient de ce qu'on attend un peu. Et de ce qu'on *partage*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j029_grandpere",
+   "perso": "grandpere",
+   "episode": 31,
+   "fin": "Envoie-la à quelqu'un qui travaillait quand tu dormais.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Il croyait qu'un lutin passait la nuit.",
+   "legende": "Les enfants ne se souviennent pas de nos absences. Ils se souviennent des hérissons. #grandpere #travail #boulanger #transmission #tendresse",
+   "phrases": [
+    [
+     "Pendant quarante ans, j'ai été boulanger. Je n'ai presque jamais vu ton père se *réveiller*.",
+     1.3
+    ],
+    [
+     "Je partais au fournil à trois heures. Quand il ouvrait les yeux, je pétrissais depuis longtemps.",
+     1.2
+    ],
+    [
+     "Le soir, je m'endormais avant lui. Avec la farine encore dans les cheveux.",
+     1.2
+    ],
+    [
+     "Alors j'ai trouvé un moyen.",
+     1.0
+    ],
+    [
+     "Chaque nuit, avec un reste de pâte, je façonnais un petit animal.",
+     1.2
+    ],
+    [
+     "Un hérisson, un chat, un lapin aux oreilles trop longues.",
+     1.2
+    ],
+    [
+     "Je le posais, encore tiède, à côté de son bol.",
+     1.4
+    ],
+    [
+     "Il ne m'a jamais vu le faire. Il croyait qu'un lutin passait dans la nuit.",
+     1.4
+    ],
+    [
+     "Il y a cru jusqu'à neuf ans. Après, il a fait semblant.",
+     1.4
+    ],
+    [
+     "Quand tu avais sept ans, je suis venu dormir chez vous. À six heures, je suis descendu.",
+     1.4
+    ],
+    [
+     "À côté de ton bol, il y avait un hérisson en papier. Plié par ton *père*.",
+     1.8
+    ],
+    [
+     "Je n'ai rien dit. J'ai bu mon café, et j'ai pleuré dedans.",
+     1.4
+    ],
+    [
+     "Quand on ne peut pas être là, on laisse une trace.",
+     1.2
+    ],
+    [
+     "Les enfants ne se souviennent pas de nos absences. Ils se souviennent des *hérissons*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j029_pere",
+   "perso": "pere",
+   "episode": 30,
+   "fin": "Envoie-la à quelqu'un qui fait un travail qu'il n'aime pas.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Je t'ai répondu oui. J'ai menti.",
+   "legende": "On peut ne pas aimer son travail, et en être fier quand même. #papa #pere #travail #fierte #emotion",
+   "phrases": [
+    [
+     "Quand tu avais dix ans, tu m'as demandé si j'aimais mon travail. J'ai répondu oui. J'ai *menti*.",
+     1.3
+    ],
+    [
+     "Je contrôlais des pots de yaourt vides. Des milliers par jour, sous une lumière blanche.",
+     1.2
+    ],
+    [
+     "Huit heures debout, à chercher des fissures. Pendant trente ans.",
+     1.2
+    ],
+    [
+     "Il n'y avait rien à aimer là-dedans. Rien du tout.",
+     1.4
+    ],
+    [
+     "Mais le vendredi, je posais ma fiche de paie sur la table de la cuisine.",
+     1.4
+    ],
+    [
+     "Et je faisais mes comptes. Tes chaussures de foot. Ta classe de neige. Tes lunettes.",
+     1.4
+    ],
+    [
+     "Chaque pot de yaourt avait un petit bout de toi dedans.",
+     1.8
+    ],
+    [
+     "Je n'aimais pas mon travail. J'aimais ce qu'il te donnait.",
+     1.6
+    ],
+    [
+     "Aujourd'hui, tu cherches un métier qui te passionne. Tu as raison de chercher.",
+     1.2
+    ],
+    [
+     "Et j'espère de tout cœur que tu le trouveras.",
+     1.2
+    ],
+    [
+     "Mais si un jour tu fais un travail que tu n'aimes pas, n'aie pas honte.",
+     1.2
+    ],
+    [
+     "On peut ne pas aimer son travail, et en être *fier* quand même.",
+     1.6
+    ],
+    [
+     "Ce qui compte, ce n'est pas ce que tu fabriques. C'est pour qui tu le fabriques.",
+     1.4
+    ],
+    [
+     "Trente ans de pots vides. Et une vie bien *remplie*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j029_mere",
+   "perso": "mere",
+   "episode": 30,
+   "fin": "Envoie-la à quelqu'un qui ne mange que des pâtes.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Des pâtes. Que des pâtes.",
+   "legende": "Les gens ne disent jamais quand ça va mal. Leurs paniers le disent pour eux. #maman #mere #travail #humour #tendresse",
+   "phrases": [
+    [
+     "Pendant vingt ans, j'ai été caissière. Je devinais la vie des gens rien qu'à leurs *courses*.",
+     1.3
+    ],
+    [
+     "Deux brosses à dents neuves, c'était un nouvel amour.",
+     1.2
+    ],
+    [
+     "Des plats pour une personne, toujours les mêmes, c'était la solitude.",
+     1.2
+    ],
+    [
+     "Un paquet de couches avec une seule boîte de pâtes, c'était une mère qui se privait.",
+     1.4
+    ],
+    [
+     "Je ne disais rien. Je souriais un peu plus fort.",
+     1.4
+    ],
+    [
+     "Et puis un jour, c'est toi qui es arrivé à ma caisse. Ta première semaine dans ton appartement.",
+     1.2
+    ],
+    [
+     "Sur le tapis : des pâtes, des pâtes, de la sauce tomate, et encore des pâtes.",
+     1.4
+    ],
+    [
+     "Tu as payé en comptant tes pièces. Tu faisais semblant que tout allait *bien*.",
+     1.6
+    ],
+    [
+     "J'ai lu ta vie dans ton panier, comme celle des autres.",
+     1.4
+    ],
+    [
+     "Le soir, je suis passée devant chez toi. J'ai laissé un sac de courses devant ta porte.",
+     1.4
+    ],
+    [
+     "Tu m'as appelée pour me dire qu'un voisin s'était trompé de porte. J'ai répondu : sûrement.",
+     1.8
+    ],
+    [
+     "Les gens ne disent jamais quand ça va mal. Leurs paniers le disent pour eux.",
+     1.4
+    ],
+    [
+     "Alors regarde ce que les autres posent sur le tapis.",
+     1.2
+    ],
+    [
+     "Et toi, mange des *légumes*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j029_fou",
+   "perso": "fou",
+   "episode": 29,
+   "fin": "Envoie-la à quelqu'un qui a raté devant tout le monde.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Le dernier tir passe au-dessus.",
+   "legende": "On ne retient la chute que de ceux qui portaient les autres. #motivation #sport #football #echec #resilience",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-quatorze, le meilleur joueur du monde rate le tir le plus important de sa *vie*.",
+     1.3
+    ],
+    [
+     "Finale de la Coupe du monde, aux États-Unis. L'Italie contre le Brésil.",
+     1.2
+    ],
+    [
+     "Zéro à zéro. Tirs au but.",
+     1.2
+    ],
+    [
+     "Le dernier tir italien revient à Roberto Baggio. Ballon d'or l'année d'avant.",
+     1.4
+    ],
+    [
+     "C'est lui qui a porté son équipe jusque-là. But après but, match après match.",
+     1.4
+    ],
+    [
+     "Il s'élance. Le ballon passe au-dessus de la barre.",
+     1.4
+    ],
+    [
+     "Le Brésil est champion du monde. Baggio reste immobile, la tête baissée.",
+     1.6
+    ],
+    [
+     "Cette image a fait le tour de la planète.",
+     1.2
+    ],
+    [
+     "Pourtant, ce jour-là, deux autres Italiens avaient déjà raté leur tir. *Personne* ne s'en souvient.",
+     1.8
+    ],
+    [
+     "On se souvient de lui parce qu'on attendait tout de lui.",
+     1.4
+    ],
+    [
+     "Et on attendait tout de lui parce que, sans lui, l'Italie ne serait jamais arrivée en finale.",
+     1.4
+    ],
+    [
+     "Si un jour tu rates devant tout le monde, souviens-toi de ça.",
+     1.2
+    ],
+    [
+     "On ne retient la chute que de ceux qui portaient les autres.",
+     1.4
+    ],
+    [
+     "Ne laisse pas un seul tir effacer tout le *chemin*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

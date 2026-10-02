@@ -1,0 +1,368 @@
+{
+ "nom": "j167",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j167_grandmere",
+   "perso": "grandmere",
+   "episode": 168,
+   "fin": "Envoie-la à quelqu'un qui a repris ses études tard.",
+   "lueurs": [
+    1,
+    14,
+    15
+   ],
+   "accroche": "J'avais douze. Elle avait neuf.",
+   "legende": "Si on t'a pris un rêve trop tôt, il t'attend encore. #grandmere #jamaistroptard #humour #motivation",
+   "phrases": [
+    [
+     "En mille neuf cent quatre-vingt-huit, j'ai passé le *baccalauréat*. La même année que ta mère.",
+     1.3
+    ],
+    [
+     "J'avais quitté l'école à quatorze ans, pour entrer à l'usine.",
+     1.2
+    ],
+    [
+     "À quarante ans, je me suis inscrite aux cours du soir.",
+     1.0
+    ],
+    [
+     "Ton grand-père croyait que j'allais à la gymnastique. Je n'ai jamais démenti.",
+     1.4
+    ],
+    [
+     "Pendant deux ans, j'ai révisé après la vaisselle, sur la table de la cuisine.",
+     1.2
+    ],
+    [
+     "Ta mère révisait dans sa chambre, juste à côté. Elle ne savait rien.",
+     1.4
+    ],
+    [
+     "Le matin de l'épreuve de philosophie, on s'est croisées dans la cour du même lycée.",
+     1.4
+    ],
+    [
+     "Elle est devenue toute blanche. Elle a cru que je venais la surveiller.",
+     1.6
+    ],
+    [
+     "J'ai dû tout lui avouer, devant ses copines.",
+     1.4
+    ],
+    [
+     "En juillet, on a eu nos résultats le même jour. Reçues toutes les deux.",
+     1.4
+    ],
+    [
+     "Moi, j'avais douze en philosophie. Elle avait *neuf*.",
+     1.8
+    ],
+    [
+     "Elle ne me l'a jamais pardonné.",
+     1.4
+    ],
+    [
+     "Ce diplôme ne m'a jamais servi pour un travail.",
+     1.4
+    ],
+    [
+     "Je l'ai passé pour la gamine de quatorze ans qu'on avait sortie de l'école.",
+     1.8
+    ],
+    [
+     "Si on t'a pris un rêve trop tôt, il t'attend encore. Le soir, après la *vaisselle*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j167_grandpere",
+   "perso": "grandpere",
+   "episode": 169,
+   "fin": "Envoie-la à quelqu'un qui a besoin d'un cap.",
+   "lueurs": [
+    1,
+    11,
+    13
+   ],
+   "accroche": "Un bâton planté au bout du champ.",
+   "legende": "Un sillon droit, ça ne se trace pas avec les mains. Ça se trace avec les yeux. #grandpere #patience #discipline #transmission",
+   "phrases": [
+    [
+     "Mon père m'a appris à labourer droit avec un *bâton*. Planté au bout du champ.",
+     1.3
+    ],
+    [
+     "J'avais douze ans. Le cheval connaissait le travail mieux que moi.",
+     1.2
+    ],
+    [
+     "À la fin de la journée, mon sillon faisait des vagues. Les voisins riaient.",
+     1.4
+    ],
+    [
+     "Le lendemain, mon père a planté un bâton au bout du champ, avec un chiffon blanc.",
+     1.2
+    ],
+    [
+     "Il m'a dit : ne regarde plus tes pieds. Regarde le bâton.",
+     1.4
+    ],
+    [
+     "C'était dur. Tout en moi voulait surveiller la terre.",
+     1.4
+    ],
+    [
+     "Le soir, je me suis retourné. Le sillon était droit comme une règle.",
+     1.6
+    ],
+    [
+     "Plus tard, j'ai compris qu'il ne parlait pas du champ.",
+     1.4
+    ],
+    [
+     "L'été de la grande sécheresse, en soixante-seize, on a failli tout perdre.",
+     1.2
+    ],
+    [
+     "Je n'ai pas regardé les factures. J'ai regardé mon bâton : les études de mes enfants.",
+     1.4
+    ],
+    [
+     "Ton père est devenu ingénieur. Il ne sait pas qu'il était mon chiffon *blanc*.",
+     1.8
+    ],
+    [
+     "Quand tout tremble, ne fixe pas tes pieds. Plante un bâton loin devant.",
+     1.4
+    ],
+    [
+     "Un sillon droit, ça ne se trace pas avec les mains. Ça se trace avec les *yeux*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j167_pere",
+   "perso": "pere",
+   "episode": 168,
+   "fin": "Envoie-la à quelqu'un qui t'a appris à réparer.",
+   "lueurs": [
+    1,
+    11,
+    14
+   ],
+   "accroche": "Dix anniversaires. Onze outils.",
+   "legende": "Chez nous, on ne dit pas je t'aime. On se passe un tournevis. #papa #pere #transmission #famille #emotion",
+   "phrases": [
+    [
+     "Pour tes dix-huit ans, tu as reçu une caisse à *outils*. Elle m'a pris dix ans.",
+     1.3
+    ],
+    [
+     "Tu as souri poliment. Tu espérais un téléphone.",
+     1.2
+    ],
+    [
+     "Chaque année, à ton anniversaire, j'achetais un outil. Un seul, le meilleur que je pouvais payer.",
+     1.2
+    ],
+    [
+     "Je le cachais au fond du garage, sous l'établi, dans une vieille couverture.",
+     1.2
+    ],
+    [
+     "Le marteau, la scie, le niveau, les clés. Dix anniversaires, dix outils.",
+     1.4
+    ],
+    [
+     "Tu n'as jamais remarqué qu'il y en avait *onze*.",
+     1.6
+    ],
+    [
+     "Au fond, il y a un vieux tournevis au manche fendu. Celui-là, je ne l'ai pas acheté.",
+     1.4
+    ],
+    [
+     "C'était celui de mon père. Il a tout réparé avec, pendant cinquante ans.",
+     1.6
+    ],
+    [
+     "Lui et moi, on n'a jamais su faire de grands discours.",
+     1.4
+    ],
+    [
+     "L'an dernier, tu m'as envoyé une photo de ta première étagère.",
+     1.2
+    ],
+    [
+     "Dans ta main, il y avait le vieux tournevis.",
+     1.8
+    ],
+    [
+     "J'ai regardé cette photo toute la soirée. Je n'ai rien répondu. Je ne pouvais pas.",
+     1.6
+    ],
+    [
+     "Un jour, tu donneras cette caisse à ton tour. Ajoute un outil. Laisse le tournevis au fond.",
+     1.4
+    ],
+    [
+     "Chez nous, on ne dit pas je t'aime. On se passe un *tournevis*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j167_mere",
+   "perso": "mere",
+   "episode": 168,
+   "fin": "Envoie-la à quelqu'un qui s'entraîne sans que personne l'écoute.",
+   "lueurs": [
+    1,
+    10,
+    14
+   ],
+   "accroche": "Je n'avais rien entendu. Pas une note.",
+   "legende": "Le monde a souvent des bouchons d'oreilles. Joue quand même. #maman #mere #humour #perseverance #musique",
+   "phrases": [
+    [
+     "Pendant huit ans, je t'ai écouté jouer du piano avec des *bouchons* d'oreilles.",
+     1.3
+    ],
+    [
+     "Tu as commencé à sept ans. Tu n'étais pas doué. Pas du tout.",
+     1.2
+    ],
+    [
+     "Tous les soirs, après les devoirs, trente minutes de gammes. Les mêmes fausses notes.",
+     1.4
+    ],
+    [
+     "Ton père fuyait au garage. Le chat se cachait sous le lit.",
+     1.2
+    ],
+    [
+     "Moi, je restais dans la cuisine. Avec mes petits bouchons orange, achetés à la pharmacie.",
+     1.4
+    ],
+    [
+     "Je n'ai jamais osé te dire d'arrêter. Tu y tenais tellement.",
+     1.4
+    ],
+    [
+     "Un soir, tu avais quinze ans, tu es sorti du salon, tout rouge.",
+     1.2
+    ],
+    [
+     "Tu as crié : maman, je l'ai joué sans une seule faute !",
+     1.4
+    ],
+    [
+     "J'ai souri, j'ai applaudi. Et j'ai discrètement enlevé mes bouchons.",
+     1.8
+    ],
+    [
+     "Je n'avais *rien* entendu. Pas une note.",
+     1.6
+    ],
+    [
+     "Tu ne l'as jamais rejoué sans faute. Ça, je le sais : après, j'écoutais.",
+     1.6
+    ],
+    [
+     "Le jour où tu réussis enfin, il y a rarement quelqu'un pour l'entendre.",
+     1.4
+    ],
+    [
+     "Ce n'est pas grave. Toi, tu l'as entendu.",
+     1.4
+    ],
+    [
+     "Le monde a souvent des bouchons d'oreilles. *Joue* quand même.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j167_fou",
+   "perso": "fou",
+   "episode": 167,
+   "fin": "Envoie-la à quelqu'un qui subit ce qu'il n'a pas choisi.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Un maître tord la jambe de son esclave.",
+   "legende": "On peut te casser une jambe. Personne ne peut casser ta réponse. #motivation #stoicisme #epictete #philosophie",
+   "phrases": [
+    [
+     "À Rome, un maître tord la *jambe* de son esclave. L'esclave le regarde calmement.",
+     1.3
+    ],
+    [
+     "Il lui dit, sans élever la voix : tu vas la casser.",
+     1.4
+    ],
+    [
+     "Le maître continue. On entend un craquement.",
+     1.6
+    ],
+    [
+     "L'esclave dit seulement : je te l'avais dit.",
+     1.8
+    ],
+    [
+     "Voilà ce qu'on raconte, depuis près de deux mille ans, sur un homme appelé Épictète.",
+     1.4
+    ],
+    [
+     "Ce qui est sûr, c'est qu'il est né *esclave*. Et qu'il boitait.",
+     1.4
+    ],
+    [
+     "Un jour, il a été affranchi. Il est devenu l'un des plus grands maîtres de l'Antiquité.",
+     1.2
+    ],
+    [
+     "Il n'a jamais rien écrit. Un élève a noté ses leçons, mot après mot.",
+     1.2
+    ],
+    [
+     "Son manuel commence par une phrase toute simple.",
+     1.0
+    ],
+    [
+     "Il y a ce qui dépend de nous. Et ce qui ne dépend pas de nous.",
+     1.8
+    ],
+    [
+     "Son corps, sa naissance, son maître : rien de tout ça ne dépendait de lui.",
+     1.4
+    ],
+    [
+     "Mais sa réponse, toujours.",
+     1.6
+    ],
+    [
+     "Plus tard, un empereur romain a lu ses leçons. Et il les a suivies.",
+     1.2
+    ],
+    [
+     "Toi, tu ne choisis pas tout ce qui t'arrive.",
+     1.2
+    ],
+    [
+     "On peut te casser une jambe. Personne ne peut casser ta *réponse*.",
+     0
+    ]
+   ]
+  }
+ ]
+}

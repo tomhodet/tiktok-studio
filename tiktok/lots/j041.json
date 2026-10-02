@@ -1,0 +1,376 @@
+{
+ "nom": "j041",
+ "graines": [
+  1
+ ],
+ "lots_par_episode": 2,
+ "episodes": [
+  {
+   "id": "j041_grandmere",
+   "perso": "grandmere",
+   "episode": 42,
+   "fin": "Envoie-la à quelqu'un qui a dû pardonner.",
+   "lueurs": [
+    1,
+    9,
+    14
+   ],
+   "accroche": "Ton grand-père m'a trompée.",
+   "legende": "Pardonner, ce n'est pas oublier. #grandmere #couple #pardon #amour #emotion",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-dix-huit, ton grand-père m'a *trompée*.",
+     1.3
+    ],
+    [
+     "Je l'ai su par une lettre oubliée dans sa veste.",
+     1.2
+    ],
+    [
+     "J'avais trente-deux ans, trois enfants, et pas un sou à moi.",
+     1.4
+    ],
+    [
+     "J'ai remis la lettre dans la poche. Et j'ai fait la soupe.",
+     1.6
+    ],
+    [
+     "Pendant des semaines, je l'ai regardé. Il avait honte, ça se voyait.",
+     1.4
+    ],
+    [
+     "Un dimanche, il a rompu. Je l'ai su parce qu'il a pleuré dans le jardin.",
+     1.4
+    ],
+    [
+     "Après, il a été un autre mari. Plus doux. Comme s'il avait une dette.",
+     1.4
+    ],
+    [
+     "Trente ans plus tard, à l'hôpital, il m'a pris la main. Il a dit : je dois t'avouer quelque chose.",
+     1.6
+    ],
+    [
+     "Je lui ai dit : je *sais*. Depuis le premier jour.",
+     1.8
+    ],
+    [
+     "Il a pleuré comme un enfant. Il m'a demandé pourquoi j'étais restée.",
+     1.6
+    ],
+    [
+     "Je lui ai dit la vérité. Je suis restée pour l'homme qu'il essayait de devenir.",
+     1.8
+    ],
+    [
+     "Je ne te dirai jamais de tout pardonner. Certaines choses ne se pardonnent pas.",
+     1.4
+    ],
+    [
+     "Mais pardonner, ce n'est pas oublier. Je n'ai jamais oublié.",
+     1.4
+    ],
+    [
+     "Pardonner, c'est choisir chaque matin de ne pas s'en servir *contre* lui.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j041_grandpere",
+   "perso": "grandpere",
+   "episode": 43,
+   "fin": "Envoie-la à quelqu'un qui traverse une tempête.",
+   "lueurs": [
+    1,
+    10,
+    15
+   ],
+   "accroche": "Pour le jour où ça irait mal.",
+   "legende": "Garde toujours des mots de ceux que tu aimes pour les jours de tempête. #grandpere #amour #marin #emotion",
+   "phrases": [
+    [
+     "Chaque fois que je partais en mer, ta grand-mère glissait une *enveloppe* dans mon sac.",
+     1.3
+    ],
+    [
+     "J'étais pêcheur. On partait trois semaines, parfois plus.",
+     1.2
+    ],
+    [
+     "Les copains ouvraient leurs lettres le premier soir. Moi, je gardais la mienne.",
+     1.2
+    ],
+    [
+     "Je la gardais pour le jour où ça irait mal.",
+     1.4
+    ],
+    [
+     "Pendant des années, les enveloppes sont revenues fermées. Elle ne disait rien.",
+     1.4
+    ],
+    [
+     "Un hiver, on a pris une tempête comme je n'en avais jamais vu.",
+     1.4
+    ],
+    [
+     "Trois jours sans dormir. Des vagues plus hautes que le mât.",
+     1.6
+    ],
+    [
+     "La deuxième nuit, je me suis enfermé dans la cabine. J'ai ouvert l'enveloppe.",
+     1.6
+    ],
+    [
+     "Il y avait juste trois lignes.",
+     1.6
+    ],
+    [
+     "Je sais que tu as peur. Moi aussi, j'ai peur, tous les jours où tu es en mer. Alors *rentre*.",
+     1.8
+    ],
+    [
+     "Je suis remonté sur le pont. J'ai tenu la barre jusqu'au matin.",
+     1.6
+    ],
+    [
+     "On est rentrés. Elle m'attendait sur le quai, son fichu sur la tête.",
+     1.4
+    ],
+    [
+     "Je ne lui ai jamais dit. Elle le savait.",
+     1.4
+    ],
+    [
+     "Dans la vie, garde toujours des mots de ceux que tu aimes pour les jours de tempête.",
+     1.4
+    ],
+    [
+     "Et écris-en pour les autres. Quelqu'un, un jour, aura besoin des *tiens*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j041_pere",
+   "perso": "pere",
+   "episode": 42,
+   "fin": "Envoie-la à quelqu'un qui t'a fait rire au pire moment.",
+   "lueurs": [
+    1,
+    9,
+    15
+   ],
+   "accroche": "Je me suis rasé la tête.",
+   "legende": "L'amour, ce n'est pas toujours les grands discours. Parfois, c'est une bosse sur le crâne. #papa #pere #amour #couple #courage",
+   "phrases": [
+    [
+     "Le jour où ta mère a perdu ses cheveux, je me suis *rasé* la tête.",
+     1.3
+    ],
+    [
+     "Tu étais loin, à l'université. On ne t'a pas tout dit.",
+     1.2
+    ],
+    [
+     "Ta mère avait un cancer. Elle ne voulait pas que tu t'inquiètes.",
+     1.4
+    ],
+    [
+     "Un matin, dans la salle de bain, ses cheveux sont tombés par poignées.",
+     1.4
+    ],
+    [
+     "Elle s'est regardée dans le miroir. Elle n'a rien dit.",
+     1.6
+    ],
+    [
+     "J'ai pris la tondeuse et je me suis assis sur la baignoire.",
+     1.4
+    ],
+    [
+     "Et j'ai tout rasé. Devant elle. Sans un mot.",
+     1.4
+    ],
+    [
+     "Je ne savais pas que j'avais une bosse sur le crâne. Une énorme bosse.",
+     1.6
+    ],
+    [
+     "Ta mère m'a regardé. Et elle a éclaté de *rire*. Le premier rire depuis des mois.",
+     1.8
+    ],
+    [
+     "Elle a dit : on dirait une pomme de terre.",
+     1.6
+    ],
+    [
+     "Pendant six mois, on a été deux pommes de terre.",
+     1.4
+    ],
+    [
+     "Elle est guérie aujourd'hui. Ses cheveux ont repoussé. Les miens, pas tous.",
+     1.4
+    ],
+    [
+     "Quand quelqu'un que tu aimes traverse l'enfer, tu ne peux pas porter sa douleur.",
+     1.4
+    ],
+    [
+     "Mais tu peux t'asseoir à côté. Et lui ressembler un peu.",
+     1.4
+    ],
+    [
+     "L'amour, ce n'est pas toujours les grands discours. Parfois, c'est une *bosse* sur le crâne.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j041_mere",
+   "perso": "mere",
+   "episode": 42,
+   "fin": "Envoie-la à quelqu'un qui se dispute trop tard le soir.",
+   "lueurs": [
+    1,
+    7,
+    14
+   ],
+   "accroche": "Jamais de dispute après dix heures.",
+   "legende": "La nuit, tout paraît plus grave. La fatigue transforme une chaussette en drame. #maman #mere #couple #humour #conseildevie",
+   "phrases": [
+    [
+     "Ton père et moi, on a une *règle* : jamais de dispute après dix heures du soir.",
+     1.3
+    ],
+    [
+     "On l'a inventée la première année, après une nuit entière à se disputer pour des chaussettes.",
+     1.2
+    ],
+    [
+     "À trois heures du matin, on ne savait même plus de quoi on parlait.",
+     1.4
+    ],
+    [
+     "Depuis, quand ça monte le soir, l'un de nous dit juste : samedi.",
+     1.4
+    ],
+    [
+     "On écrit le sujet sur un papier, et on le colle sur le frigo.",
+     1.2
+    ],
+    [
+     "Le samedi matin, on s'assoit avec le café. On lit la liste.",
+     1.4
+    ],
+    [
+     "Et tu sais quoi ? La *moitié* des disputes ne survivent pas jusqu'au samedi.",
+     1.6
+    ],
+    [
+     "On lit : il a encore oublié le pain. Et on rit tous les deux.",
+     1.4
+    ],
+    [
+     "Le reste, on en parle calmement. Sans toi, l'oreille collée à la porte.",
+     1.4
+    ],
+    [
+     "Oui, on savait.",
+     1.6
+    ],
+    [
+     "Trente ans de mariage. Des centaines de samedis matin.",
+     1.4
+    ],
+    [
+     "La nuit, tout paraît plus grave. La fatigue transforme une chaussette en drame.",
+     1.4
+    ],
+    [
+     "Le samedi, la chaussette redevient une chaussette.",
+     1.6
+    ],
+    [
+     "Alors le jour où ça monte avec quelqu'un que tu aimes, dis juste : *samedi*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "j041_fou",
+   "perso": "fou",
+   "episode": 41,
+   "fin": "Envoie-la à quelqu'un dont les rêves font rire.",
+   "lueurs": [
+    1,
+    13,
+    15
+   ],
+   "accroche": "Des excuses à un homme mort.",
+   "legende": "Toi aussi, on se moquera de tes rêves. Ne réponds pas. Construis ta fusée. #motivation #science #espace #perseverance",
+   "phrases": [
+    [
+     "En mille neuf cent soixante-neuf, un grand journal présente ses *excuses* à un homme mort depuis près de vingt-quatre ans.",
+     1.3
+    ],
+    [
+     "Quarante-neuf ans plus tôt, ce journal s'était moqué de lui.",
+     1.2
+    ],
+    [
+     "Il s'appelait Robert Goddard, professeur de physique.",
+     1.2
+    ],
+    [
+     "Il avait écrit qu'une fusée pourrait un jour atteindre la Lune.",
+     1.2
+    ],
+    [
+     "Le journal avait répondu : impossible. Dans le vide, une fusée n'a rien pour s'appuyer.",
+     1.4
+    ],
+    [
+     "Et il ajoutait que ce professeur ignorait ce qu'on apprend au lycée.",
+     1.6
+    ],
+    [
+     "Il est blessé. Il travaille désormais en silence, loin des journalistes.",
+     1.4
+    ],
+    [
+     "En mille neuf cent vingt-six, dans un champ enneigé, il lance une fusée de sa fabrication.",
+     1.4
+    ],
+    [
+     "Elle vole deux secondes et demie. Elle retombe quelques dizaines de mètres plus loin.",
+     1.6
+    ],
+    [
+     "Deux secondes et demie. Pour lui, c'est un début.",
+     1.6
+    ],
+    [
+     "Il meurt en mille neuf cent quarante-cinq, sans voir un homme dans l'espace.",
+     1.4
+    ],
+    [
+     "Le seize juillet mille neuf cent soixante-neuf, une fusée part vers la *Lune*.",
+     1.8
+    ],
+    [
+     "Le lendemain, le journal publie une correction. Il reconnaît son erreur.",
+     1.8
+    ],
+    [
+     "Toi aussi, on se moquera de tes rêves. Dans les journaux, ou à table.",
+     1.4
+    ],
+    [
+     "Ne réponds pas. Construis ta *fusée*.",
+     0
+    ]
+   ]
+  }
+ ]
+}
