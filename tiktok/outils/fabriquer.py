@@ -18,7 +18,7 @@ PY = "/tmp/tts/bin/python"
 LOT, ID, OUT = sys.argv[1], sys.argv[2], Path(sys.argv[3])
 EP = Path("tiktok") / ID
 VCB = EP / "voix_cb"
-TOURS = [[1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11, 12]]
+TOURS_MAX = 6          # tours de prises par exécution ; une reprise (cache) continue avec de nouvelles graines
 
 
 def run(*cmd, sortie: Path | None = None) -> int:
@@ -47,12 +47,13 @@ def trier(ref: str) -> list[int]:
     return choix.get("manquantes", [])
 
 
-def voix_complete(ref: str, configs, tour0: int) -> tuple[bool, int]:
-    """Prises jusqu'à ce que chaque phrase en ait une valable (au plus 4 tours de 2 graines)."""
+def voix_complete(ref: str, configs, tour0: int, n: int = TOURS_MAX) -> tuple[bool, int]:
+    """Prises jusqu'à ce que chaque phrase en ait une valable (au plus n tours de 2 graines, graines jamais
+    réutilisées : le tour t prend les graines 2t+1 et 2t+2)."""
     manquantes = trier(ref) if any(VCB.glob("*/*.json")) else "toutes"
     t = tour0
-    while manquantes and t < len(TOURS):
-        prises(f"{ID}_v{t + 1}", "toutes" if manquantes in ("toutes", [-1]) else manquantes, TOURS[t], configs)
+    while manquantes and t < tour0 + n:
+        prises(f"{ID}_v{t + 1}", "toutes" if manquantes in ("toutes", [-1]) else manquantes, [2 * t + 1, 2 * t + 2], configs)
         manquantes = trier(ref)
         print(f"tour {t + 1} : phrases sans prise valable {manquantes}", flush=True)
         t += 1
@@ -99,7 +100,7 @@ def main() -> None:
         anciennes = json.loads(fx.read_text(encoding="utf-8")) if fx.exists() else []
         fx.write_text(json.dumps(anciennes + exclues, ensure_ascii=False), encoding="utf-8")
         print(f"vérification : phrases {fautives} à reprendre, prises écartées {exclues}", flush=True)
-        ok, t = voix_complete(ref, configs, t)
+        ok, t = voix_complete(ref, configs, t, 3)
         if ok:
             rapport = monter_et_verifier()
     print((EP / "verif" / "journal.txt").read_text(encoding="utf-8"))

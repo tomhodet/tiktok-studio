@@ -3,6 +3,7 @@ name: production
 # commandés (5 épisodes par lot). Chaque épisode est fabriqué de bout en bout sur sa propre machine puis
 # déposé dans le brouillon de publication de son jour (visible seulement par le propriétaire du dépôt).
 # Les prises de voix sont gardées en cache, chiffrées : une panne en fin de chaîne ne les fait pas perdre.
+# Chaque exécution reprend d'abord les épisodes des jours précédents restés sans vidéo (releases.py).
 on:
   push:
     branches: [main]
@@ -80,7 +81,9 @@ jobs:
         with:
           path: prises.tar.enc
           key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-${{ github.run_id }}
-          restore-keys: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-
+          restore-keys: |
+            prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-
+            prises-${{ matrix.ep }}-
       - name: Références de voix, fond et prises déchiffrés
         env:
           COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
@@ -92,11 +95,13 @@ jobs:
             echo "prises reprises : $(ls tiktok/${{ matrix.ep }}/voix_cb/*/*.flac 2>/dev/null | wc -l)"
           fi
       - name: Fabrication
+        id: fab
         run: |
           set +e
           python3 tiktok/outils/fabriquer.py "${{ matrix.lot }}" "${{ matrix.ep }}" "$RUNNER_TEMP/livraison"
           code=$?
           echo "code de sortie $code"
+          echo "code=$code" >> "$GITHUB_OUTPUT"
           [ "$code" = 0 ] || [ "$code" = 4 ]
       - name: Prises chiffrées pour une reprise
         if: always()
@@ -112,6 +117,11 @@ jobs:
         with:
           path: prises.tar.enc
           key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Échec consigné (retenté seulement quand le texte ou les règles de voix changent)
+        if: failure() && (steps.fab.outputs.code == '2' || steps.fab.outputs.code == '3')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tiktok/outils/releases.py echec "${{ matrix.release }}" "${{ matrix.lot }}" "${{ matrix.ep }}"
       - name: Dépôt dans le brouillon du jour
         env:
           GH_TOKEN: ${{ github.token }}
