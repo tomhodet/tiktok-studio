@@ -20,6 +20,9 @@ def nombres_en_lettres(t: str) -> str:
         from num2words import num2words
     except ImportError:
         return t
+    t = re.sub(r"(\d{1,2})\s*h\s*(\d{2})\b", r"\1 heures \2", t)      # « 6h12 » = six heures douze
+    t = re.sub(r"(\d{1,2})\s*h\b", r"\1 heures", t)
+    t = re.sub(r"(?<=\d)[\s\u202f\u00a0.](?=\d{3}\b)", "", t)          # « 10 000 » = dix mille
     return re.sub(r"\d+", lambda m: " " + num2words(int(m.group()), lang="fr") + " ", t)
 
 
@@ -30,7 +33,8 @@ HOMOPHONES = [{"ses", "ces", "c'est", "s'est", "sait"}, {"a", "à", "as"}, {"et"
               {"pere", "père", "paire"}, {"par", "pars", "part"}, {"mère", "mer", "maire"}, {"cœur", "choeur", "chœur"},
               {"ceux", "ce"}, {"traitera", "traîtra", "traitra"}, {"prends", "prend"},
               {"pousse", "pouce", "pousses", "pouces"}, {"cou", "coup", "coût", "coups"}, {"verre", "vers", "vert", "ver"},
-              {"sans", "sang", "cent", "s'en"}, {"tant", "temps", "t'en"}, {"voix", "voie", "vois", "voit"}]
+              {"sans", "sang", "cent", "s'en"}, {"tant", "temps", "t'en"}, {"voix", "voie", "vois", "voit"},
+              {"courrait", "courait"}, {"mourrait", "mourait"}, {"mile", "mille", "miles"}]
 
 
 def canon(m: str) -> str:
