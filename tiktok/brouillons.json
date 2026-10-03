@@ -1,6 +1,6 @@
 {
  "actif": true,
- "premier_lot": "j002",
+ "premier_lot": "j001",
  "debut": "2026-10-04",
  "ordre": [
   "fou",
@@ -17,6 +17,8 @@
   "fou": "Une histoire qui va te faire réfléchir. Tu en retiens quoi, toi ? #motivation #discipline #reussite #mindset #pourtoi"
  },
  "envoyes": [
+  "j001_fou",
+  "j001_mere",
   "j002_fou"
  ]
 }
