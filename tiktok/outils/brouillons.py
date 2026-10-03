@@ -128,7 +128,8 @@ def avec_couverture(video: Path, image: Path) -> Path:
 
 def envoyer_jour(jour: str, conf: dict, seul: bool = False) -> None:
     videos = videos_du_jour(jour)
-    ordre = [p for p in conf["ordre"] if p in videos][:1 if seul else 5]
+    deja = set(conf.get("envoyes", []))         # une vidéo déjà envoyée (essai compris) ne repart pas
+    ordre = [p for p in conf["ordre"] if p in videos and f"{jour}_{p}" not in deja][:1 if seul else 5]
     if not ordre:
         print(f"jour {jour} pas encore fabriqué", flush=True)
         return
@@ -161,7 +162,7 @@ def main() -> None:
         aujourdhui = dt.datetime.now(ZoneInfo("Europe/Paris")).date()
         k = int(conf["premier_lot"][1:]) + (aujourdhui - dt.date.fromisoformat(conf["debut"])).days
         jour = f"j{k:03d}"
-        if 1 <= k <= 180 and not any(e.startswith(jour) for e in conf.get("envoyes", [])):
+        if 1 <= k <= 180:
             envoyer_jour(jour, conf)
     else:
         print("brouillons automatiques désactivés (\"actif\": false)")
