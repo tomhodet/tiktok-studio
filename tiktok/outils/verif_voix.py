@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from texte_oral import canon, norm  # noqa: E402
+from texte_oral import canon, noms_propres, norm  # noqa: E402
 
 EP = Path(sys.argv[1])
 
@@ -37,10 +37,12 @@ def main() -> None:
         entendu = [canon(m) for m in norm(" ".join(m["mot"] for m in dans))]
         import difflib
         sm = difflib.SequenceMatcher(None, attendu, entendu, autojunk=False)
-        manquants = [attendu[i] for op, i1, i2, _, _ in sm.get_opcodes() if op in ("delete", "replace")
-                     for i in range(i1, i2)]
-        en_trop = [entendu[j] for op, _, _, j1, j2 in sm.get_opcodes() if op in ("insert", "replace")
-                   for j in range(j1, j2)]
+        # nom propre remplacé un pour un (Karikó entendu Carrico) : toléré
+        noms = {canon(m) for m in noms_propres(c["texte"])}
+        ops = [o for o in sm.get_opcodes() if not (o[0] == "replace" and o[2] - o[1] == o[4] - o[3]
+                                                   and all(attendu[i] in noms for i in range(o[1], o[2])))]
+        manquants = [attendu[i] for op, i1, i2, _, _ in ops if op in ("delete", "replace") for i in range(i1, i2)]
+        en_trop = [entendu[j] for op, _, _, j1, j2 in ops if op in ("insert", "replace") for j in range(j1, j2)]
         faibles = [m["mot"] for m in dans if m["proba"] < 0.3 and re.search(r"\w", m["mot"])]
         bon = not manquants and not en_trop
         ok &= bon

@@ -23,7 +23,7 @@ from pathlib import Path
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).parent))
-from texte_oral import mots_proches, norm  # noqa: E402
+from texte_oral import mots_proches, noms_propres, norm  # noqa: E402
 
 EP = Path(sys.argv[1])
 ASSEMBLER = "--assembler" in sys.argv
@@ -35,6 +35,7 @@ EXPRESSIF = "--expressif" in sys.argv        # note qui favorise les prises les 
 def ecart_texte(ref: str, hyp: str) -> tuple[int, int]:
     """(mots manquants ou en trop, mots différents) après tolérance."""
     r, h = norm(ref), norm(hyp)
+    noms = noms_propres(ref)
     n, m = len(r), len(h)
     d = [[0] * (m + 1) for _ in range(n + 1)]
     for i in range(n + 1):
@@ -43,12 +44,12 @@ def ecart_texte(ref: str, hyp: str) -> tuple[int, int]:
         d[0][j] = j
     for i in range(1, n + 1):
         for j in range(1, m + 1):
-            d[i][j] = min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (0 if mots_proches(r[i - 1], h[j - 1]) else 1))
+            d[i][j] = min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (0 if mots_proches(r[i - 1], h[j - 1], noms) else 1))
     # remonte pour séparer insertions/suppressions et substitutions
     i, j, indel, sub = n, m, 0, 0
     while i > 0 or j > 0:
-        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if mots_proches(r[i - 1], h[j - 1]) else 1):
-            sub += 0 if mots_proches(r[i - 1], h[j - 1]) else 1
+        if i > 0 and j > 0 and d[i][j] == d[i - 1][j - 1] + (0 if mots_proches(r[i - 1], h[j - 1], noms) else 1):
+            sub += 0 if mots_proches(r[i - 1], h[j - 1], noms) else 1
             i, j = i - 1, j - 1
         elif i > 0 and d[i][j] == d[i - 1][j] + 1:
             indel, i = indel + 1, i - 1
@@ -93,9 +94,10 @@ def controle(r: dict) -> list[str]:
     if sub:
         defauts.append(f"{sub} mot(s) mal dit(s)")
     t, e = norm(r["texte"]), norm(r["entendu"])
-    if not (t and e and mots_proches(t[0], e[0])):
+    noms = noms_propres(r["texte"])
+    if not (t and e and mots_proches(t[0], e[0], noms)):
         defauts.append("premier mot")
-    if not (t and e and mots_proches(t[-1], e[-1])):
+    if not (t and e and mots_proches(t[-1], e[-1], noms)):
         defauts.append("dernier mot")
     if r["fin_brusque"] and r["fin_marge"] < 0.3:     # arrêt brutal juste après le dernier mot (sinon : souffle de fin, coupé à l'assemblage)
         defauts.append("fin brusque")
@@ -113,7 +115,7 @@ def controle(r: dict) -> list[str]:
     pm = min((w["proba"] for w in r["mots"] if re.search(r"\w", w["mot"])), default=r["proba_min"])
     if pm < 0.25:
         defauts.append(f"mot douteux (proba {pm})")
-    if m and m[0]["debut"] > 0.6:
+    if m and m[0]["debut"] > 0.9:
         defauts.append("attaque tardive")
     if not defauts:
         fin, d = fin_reelle(r)

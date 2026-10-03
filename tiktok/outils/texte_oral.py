@@ -15,9 +15,21 @@ HOMOPHONES = [{"ses", "ces", "c'est", "s'est", "sait"}, {"a", "à", "as"}, {"et"
               {"sans", "sang", "cent", "s'en"}, {"tant", "temps", "t'en", "tend", "tends"}, {"voix", "voie", "vois", "voit"},
               {"courrait", "courait"}, {"mourrait", "mourait"}, {"mile", "mille", "miles"},
               {"les", "l'ai", "lait", "laie"}, {"il", "ils"}, {"elle", "elles"}, {"des", "dès"}, {"du", "dû"},
-              {"sur", "sûr"}, {"si", "s'y", "scie"}, {"ni", "n'y", "nid"}, {"qu'il", "qu'ils"}]
+              {"sur", "sûr"}, {"j'ai", "j'aie", "j'aies"}, {"si", "s'y", "scie"}, {"ni", "n'y", "nid"}, {"qu'il", "qu'ils"}]
 GROUPE = {m: sorted(g)[0] for g in HOMOPHONES for m in g}
 ELISIONS = ("n'", "l'", "d'")       # « on n'apprend », « toute l'usine » : avalées à l'oral ou oubliées par Whisper
+
+
+ROMAINS = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
+
+
+def romain(s: str) -> int:
+    """« XIV » = 14."""
+    total = 0
+    for k, c in enumerate(s):
+        v = ROMAINS[c]
+        total += -v if k + 1 < len(s) and ROMAINS[s[k + 1]] > v else v
+    return total
 
 
 def nombres_en_lettres(t: str) -> str:
@@ -30,6 +42,8 @@ def nombres_en_lettres(t: str) -> str:
     t = re.sub(r"(\d{1,2})\s*h\b", r"\1 heures", t)
     t = re.sub(r"(\d)\s*m\s*(\d{2})\b", r"\1 mètre \2", t)             # « 1m80 » = un mètre quatre-vingts
     t = re.sub(r"(?<=\d)[\s  .](?=\d{3}\b)", "", t)          # « 10 000 » = dix mille
+    t = re.sub(r"(\d+)\s*%", r"\1 pour cent", t)
+    t = re.sub(r"\b[IVXLC]{2,}\b", lambda m: str(romain(m.group())), t)          # Louis XIV
     t = re.sub(r"\b(\d+)\s*(?:ères?|ers?|èmes?|emes?|es?)\b",
                lambda m: " " + num2words(int(m.group(1)), lang="fr", to="ordinal") + " ", t)
     return re.sub(r"\d+", lambda m: " " + num2words(int(m.group()), lang="fr") + " ", t)
@@ -41,22 +55,54 @@ def norm(t: str) -> list[str]:
     return re.sub(r"[^\w' ]+", " ", t).split()
 
 
-def canon(m: str) -> str:
-    """Forme de comparaison : même forme pour deux mots qui se prononcent pareil."""
+def ecrit(m: str) -> str:
+    """Forme écrite normalisée : homophones, élisions, accents, finales muettes."""
     m = GROUPE.get(m, m)
     for e in ELISIONS:
         if m.startswith(e) and len(m) > 3:
             m = GROUPE.get(m[2:], m[2:])
     m = "".join(c for c in unicodedata.normalize("NFD", m) if not unicodedata.combining(c))
+    m = re.sub(r"[sx]$", "", m) if len(m) > 3 else m
     if len(m) > 3:
         # finales en [e] : plané = planait = planer = planez, piqué = piquet
-        m = re.sub(r"(aient|ais|ait|ai|ez|er|et)$", "e", m)
+        m = re.sub(r"(aien|aient|ais|ait|ai|ez|er|et)$", "e", m)
         # ils demandent = il demande
-        if m.endswith("ent") and len(m) > 4:
+        if m.endswith("ent") and not m.endswith("ient") and len(m) > 4:      # devient = deviens
             m = m[:-2]
-    # lettres finales muettes : serais = serai, questions = question, grandit = grandi, aimée = aimé
-    return m.rstrip("stex") if len(m.rstrip("stex")) >= 2 else m
+    # lettres finales muettes : dettes = dette, grandit = grandi, aimée = aimé, mord = mort
+    for motif in (r"[sx]$", r"e+$" if re.search(r"e+$", re.sub(r"[sx]$", "", m)) else r"[tdp]$"):
+        court = re.sub(motif, "", m)
+        if len(court) >= 2:
+            m = court
+    return m
 
 
-def mots_proches(a: str, b: str) -> bool:
-    return a == b or canon(a) == canon(b)
+def canon(m: str) -> str:
+    """Forme de comparaison : même forme pour deux mots qui se prononcent pareil (orthographe des noms propres
+    comprise : Dahl = Dall, Lauda = Loda, Johnny = Jonny, Goddard = Godard)."""
+    m = ecrit(m)
+    for a, b in (("x", "ks"), ("ph", "f"), ("sch", "ʃ"), ("ch", "ʃ"), ("sh", "ʃ"), ("ck", "k"), ("qu", "k"),
+                 ("q", "k"), ("w", "v"), ("y", "i"), ("z", "s"), ("h", ""), ("eau", "o"), ("au", "o"),
+                 ("ai", "e"), ("ei", "e"), ("oe", "e")):
+        m = m.replace(a, b)
+    m = re.sub(r"c(?=[eiy])", "s", m)
+    m = re.sub(r"g(?=[eiy])", "j", m)
+    m = m.replace("gu", "g").replace("c", "k")
+    m = re.sub(r"(.)\1+", r"\1", m)
+    m = re.sub(r"v$", "f", m)
+    m = re.sub(r"m$", "n", m)
+    return m or "?"
+
+
+def noms_propres(texte: str) -> set[str]:
+    """Mots du texte écrits avec une majuscule hors début de phrase (Karikó, Semmelweis, Lille, un J) :
+    Whisper les orthographie souvent autrement, la voix les dit pourtant bien. Leur substitution un pour un
+    est tolérée."""
+    noms = set()
+    for m in re.finditer(r"(?<![.!?:]\s)(?<!^)\b([A-ZÀ-Ý][\w'-]*)", texte.replace("*", "").strip()):
+        noms.update(norm(m.group(1)))
+    return noms
+
+
+def mots_proches(a: str, b: str, noms: set[str] = frozenset()) -> bool:
+    return a == b or canon(a) == canon(b) or a in noms
