@@ -1,7 +1,7 @@
 {
- "actif": false,
+ "actif": true,
  "premier_lot": "j002",
- "debut": "2026-10-03",
+ "debut": "2026-10-04",
  "ordre": [
   "fou",
   "grandmere",
@@ -16,5 +16,6 @@
   "mere": "Ce que ta mère ne te dira jamais. Tu l'as appelée quand, la dernière fois ? #maman #mere #famille #emotion #pourtoi",
   "fou": "Une histoire qui va te faire réfléchir. Tu en retiens quoi, toi ? #motivation #discipline #reussite #mindset #pourtoi"
  },
- "envoyes": []
+ "envoyes": [],
+ "demande": "essai"
 }
