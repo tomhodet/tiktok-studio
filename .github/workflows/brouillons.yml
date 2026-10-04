@@ -4,7 +4,13 @@ name: brouillons
 # Réglages : tiktok/brouillons.json. Secrets : TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, COFFRE_CLE.
 on:
   schedule:
+    # GitHub retarde ou saute parfois les tâches programmées : plusieurs passages, le script n'envoie
+    # jamais deux fois la même vidéo (suivi dans tiktok/brouillons.json)
     - cron: "23 5 * * *"
+    - cron: "47 6 * * *"
+    - cron: "17 8 * * *"
+    - cron: "37 10 * * *"
+    - cron: "7 14 * * *"
   push:
     branches: [main]
     paths: ["tiktok/tiktok_code.enc", "tiktok/brouillons.json"]
