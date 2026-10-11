@@ -1,0 +1,100 @@
+name: voix_test
+# Voix seules (sans montage) pour un lot d'essai : prises, tri, débit, fins ; archive chiffrée déposée
+# dans le brouillon de publication « essai-format ». Le montage se fait ensuite ailleurs.
+on:
+  workflow_dispatch:
+    inputs:
+      lot:
+        description: "Lot (ex. t001)"
+        required: true
+      episodes:
+        description: 'Épisodes en JSON (ex. ["t001_pere","t001_mere"])'
+        required: true
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      release: ${{ steps.p.outputs.release }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+          sparse-checkout-cone-mode: false
+      - id: p
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - >> "$GITHUB_OUTPUT" <<'PY'
+          import sys
+          sys.path.insert(0, "tiktok/outils")
+          from releases import DEPOT, appel, toutes_releases
+          rel = {r["tag_name"]: r for r in toutes_releases()}.get("essai-format") or appel(
+              "POST", f"/repos/{DEPOT}/releases",
+              {"tag_name": "essai-format", "name": "Essai nouveau format", "draft": True, "body": "Voix seules, chiffrées."})
+          print(f"release={rel['id']}")
+          PY
+  voix:
+    needs: plan
+    name: ${{ matrix.ep }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        ep: ${{ fromJSON(github.event.inputs.episodes) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/lots/
+            /tiktok/personnages.json
+            /tiktok/voix_ref/refs/
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Installation
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg > /dev/null
+          python -m venv /tmp/tts
+          /tmp/tts/bin/pip install -q --index-url https://download.pytorch.org/whl/cpu --extra-index-url https://pypi.org/simple chatterbox-tts 2>&1 | tail -3
+          /tmp/tts/bin/pip install -q faster-whisper soundfile num2words 2>&1 | tail -3
+          echo "/tmp/tts/bin" >> "$GITHUB_PATH"
+      - uses: actions/cache/restore@v4
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', github.event.inputs.lot)) }}-${{ github.run_id }}
+          restore-keys: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', github.event.inputs.lot)) }}-
+      - name: Références déchiffrées
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          bash tiktok/outils/coffre.sh dechiffrer tiktok/voix_ref
+          if [ -f prises.tar.enc ]; then openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in prises.tar.enc -pass env:COFFRE_CLE | tar -x; fi
+      - name: Voix
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: python3 tiktok/outils/voix_seules.py "${{ github.event.inputs.lot }}" "${{ matrix.ep }}" "$RUNNER_TEMP/livraison"
+      - name: Prises chiffrées pour une reprise
+        if: always()
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          rm -f prises.tar.enc
+          [ -d "tiktok/${{ matrix.ep }}/voix_cb" ] && tar -c "tiktok/${{ matrix.ep }}/voix_cb" | openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -out prises.tar.enc -pass env:COFFRE_CLE || true
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', github.event.inputs.lot)) }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Dépôt
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tiktok/outils/releases.py envoyer "${{ needs.plan.outputs.release }}" "$RUNNER_TEMP"/livraison/*

@@ -1,0 +1,193 @@
+{
+ "nom": "t001",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t001_pere",
+   "perso": "pere",
+   "episode": 1,
+   "accroche": "Mon fils m'a dit qu'il me détestait.",
+   "fin": "Envoie ça à ton père.",
+   "lueurs": [
+    1,
+    8,
+    12
+   ],
+   "legende": "Mon fils m'a dit qu'il me détestait. J'ai répondu : je sais. Et toi, tu lui as pardonné ? #papa #pere #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Mon fils m'a dit qu'il me *détestait*. Je lui ai répondu : je sais.",
+     0.4
+    ],
+    [
+     "Il avait quinze ans. Je venais de lui prendre son téléphone.",
+     0.3
+    ],
+    [
+     "Il a claqué la porte. J'ai entendu : je te parlerai plus jamais.",
+     0.4
+    ],
+    [
+     "Je suis resté dans le couloir. Dix minutes. Sans bouger.",
+     0.4
+    ],
+    [
+     "Parce que mon père, à moi, aurait défoncé la porte.",
+     0.4
+    ],
+    [
+     "Et moi, j'avais juré de ne jamais faire ça.",
+     0.4
+    ],
+    [
+     "Alors j'ai attendu. Puis j'ai glissé un mot sous sa porte.",
+     0.3
+    ],
+    [
+     "Tu as le droit de me détester. Moi, je n'ai pas le droit de te *lâcher*.",
+     0.5
+    ],
+    [
+     "Il a vingt-six ans aujourd'hui. Le mot est dans son portefeuille.",
+     0.4
+    ],
+    [
+     "Il ne m'en a jamais parlé. Moi non plus.",
+     0.4
+    ],
+    [
+     "Un père, ce n'est pas celui qui gagne la dispute.",
+     0.3
+    ],
+    [
+     "C'est celui qui reste derrière la *porte*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t001_mere",
+   "perso": "mere",
+   "episode": 1,
+   "accroche": "Je t'ai menti pendant dix ans.",
+   "fin": "Appelle ta mère.",
+   "lueurs": [
+    1,
+    7,
+    11
+   ],
+   "legende": "Je t'ai menti pendant dix ans. Sur une seule chose. Tu l'as appelée quand, la dernière fois ? #maman #mere #famille #emotion #pourtoi",
+   "phrases": [
+    [
+     "Je t'ai *menti* pendant dix ans. Sur une seule chose.",
+     0.4
+    ],
+    [
+     "Chaque soir, je te disais : j'ai déjà mangé, mon cœur.",
+     0.3
+    ],
+    [
+     "C'était faux. Il y avait une seule assiette. Elle était pour toi.",
+     0.4
+    ],
+    [
+     "Ton père était parti. Le frigo se vidait le vingt du mois.",
+     0.4
+    ],
+    [
+     "Tu finissais ton assiette. Tu me disais : c'était trop bon, maman.",
+     0.4
+    ],
+    [
+     "Et moi, j'allais boire un grand verre d'eau dans la cuisine.",
+     0.4
+    ],
+    [
+     "Tu ne t'en es jamais rendu compte. C'était le *but*.",
+     0.4
+    ],
+    [
+     "Aujourd'hui, tu m'invites au restaurant. Tu commandes pour deux.",
+     0.3
+    ],
+    [
+     "Et tu me demandes pourquoi je pleure devant une assiette.",
+     0.4
+    ],
+    [
+     "Une mère ne dit jamais qu'elle a faim.",
+     0.3
+    ],
+    [
+     "Elle dit : mange, mon cœur. Il en *reste*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t001_coach",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Personne ne viendra te sauver.",
+   "fin": "Bouge-toi.",
+   "lueurs": [
+    1,
+    6,
+    12
+   ],
+   "legende": "Personne ne viendra te sauver. Tu attends quoi ? #motivation #discipline #mindset #reussite #pourtoi",
+   "phrases": [
+    [
+     "Personne ne viendra te sauver. *Personne* !",
+     0.3
+    ],
+    [
+     "Tu attends quoi ? Un signe ? Un lundi ? Le bon moment ?",
+     0.3
+    ],
+    [
+     "Le bon moment, c'est une excuse de *lâche* !",
+     0.3
+    ],
+    [
+     "Pendant que tu scrolles, un mec moins doué que toi est en train de bosser !",
+     0.3
+    ],
+    [
+     "Il a pas ton talent. Il a juste pas de flemme !",
+     0.3
+    ],
+    [
+     "Et dans cinq ans, c'est lui que tu regarderas en disant : il a eu de la chance.",
+     0.4
+    ],
+    [
+     "La chance, c'est ce que les gens qui dorment appellent le travail des autres !",
+     0.4
+    ],
+    [
+     "T'es fatigué ? Tout le monde est fatigué !",
+     0.3
+    ],
+    [
+     "T'as peur ? Tant mieux ! Ça veut dire que c'est *important* !",
+     0.3
+    ],
+    [
+     "Alors lève-toi. Maintenant. Pas demain. *Maintenant* !",
+     0.3
+    ],
+    [
+     "Ferme cette vidéo, et va faire un truc dont tu seras fier ce soir !",
+     0.3
+    ],
+    [
+     "Bouge-toi le *cul* !",
+     0
+    ]
+   ]
+  }
+ ]
+}
