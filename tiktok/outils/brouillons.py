@@ -45,7 +45,8 @@ def requete(methode: str, url: str, donnees=None, entetes=None, forme=False) -> 
         with urllib.request.urlopen(req, timeout=120) as r:
             return json.loads(r.read() or b"{}")
     except urllib.error.HTTPError as e:
-        print("erreur", e.code, e.read()[:600].decode("utf-8", "replace"), flush=True)
+        e._corps = e.read()[:600].decode("utf-8", "replace")
+        print("erreur", e.code, e._corps, flush=True)
         raise
 
 
@@ -141,7 +142,14 @@ def envoyer_jour(jour: str, conf: dict, seul: bool = False) -> None:
             img = Path("/tmp") / couv["name"]
             img.write_bytes(lire_asset(couv["url"]))
             f = avec_couverture(f, img)
-        brouillon(f)
+        try:
+            brouillon(f)
+        except urllib.error.HTTPError as e:
+            if "too_many_pending" in getattr(e, "_corps", "") or e.code == 400:
+                print(f"BOÎTE PLEINE : TikTok refuse de nouveaux brouillons tant que les anciens ne sont pas publiés "
+                      f"ou supprimés (5 en attente au plus). {perso} du {jour} sera renvoyé au prochain passage.", flush=True)
+                return
+            raise
         if conf.get("ntfy"):
             legende = conf.get("legendes", {}).get(perso) or (lire_asset(leg["url"]).decode("utf-8").strip() if leg else "")
             titre = f"Jour {int(jour[1:])}, {k}/{len(ordre)} : {NOMS.get(perso, perso)}" + (" (à écouter avant)" if a_verifier else "")
