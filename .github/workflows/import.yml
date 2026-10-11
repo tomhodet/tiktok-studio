@@ -21,7 +21,7 @@ jobs:
           COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
         run: |
           shopt -s nullglob
-          for d in tiktok/livraison_locale/jour-*/; do
+          for d in tiktok/livraison_locale/*/; do
             tag=$(basename "$d")
             for f in "$d"*.enc; do
               openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in "$f" -out "${f%.enc}" -pass env:COFFRE_CLE
@@ -33,7 +33,8 @@ jobs:
           tag = sys.argv[1]
           rel = {r["tag_name"]: r for r in toutes_releases()}.get(tag) or appel(
               "POST", f"/repos/{DEPOT}/releases",
-              {"tag_name": tag, "name": f"Jour {int(tag[5:])}", "draft": True, "body": "Vidéos fabriquées en local."})
+              {"tag_name": tag, "name": f"Jour {int(tag[5:])}" if tag.startswith("jour-") else tag, "draft": True,
+               "body": "Vidéos fabriquées en local."})
           print(rel["id"])
           PY
             )

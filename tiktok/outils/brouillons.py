@@ -101,7 +101,7 @@ def prevenir(sujet: str, titre: str, texte: str) -> None:
 
 def videos_du_jour(jour: str) -> dict:
     for rel in toutes_releases():
-        if rel["tag_name"] == f"jour-{jour[1:]}":
+        if rel["tag_name"] == (f"jour-{jour[1:]}" if jour.startswith("j") else jour):
             noms = {a["name"]: a for a in rel.get("assets", [])}
             res = {}
             for nom, a in noms.items():
@@ -161,7 +161,7 @@ def main() -> None:
     elif conf.get("actif"):
         aujourdhui = dt.datetime.now(ZoneInfo("Europe/Paris")).date()
         k = int(conf["premier_lot"][1:]) + (aujourdhui - dt.date.fromisoformat(conf["debut"])).days
-        jour = f"j{k:03d}"
+        jour = f"{conf['premier_lot'][0]}{k:03d}"          # j008, ou t001 pour un lot d'essai
         if 1 <= k <= 180:
             envoyer_jour(jour, conf)
     else:
