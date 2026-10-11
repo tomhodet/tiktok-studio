@@ -1,0 +1,185 @@
+{
+ "nom": "t002",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t002_grandpere",
+   "perso": "grandpere",
+   "episode": 1,
+   "accroche": "Aucun de mes amis n'a regretté ça.",
+   "fin": "Envoie ça à quelqu'un qui attend.",
+   "lueurs": [
+    1,
+    5,
+    10
+   ],
+   "legende": "J'ai enterré presque tous mes amis. Aucun n'a regretté ce que tu crois. Et toi, tu attends quoi ? #sagesse #vie #regrets #motivation #pourtoi",
+   "phrases": [
+    [
+     "J'ai quatre-vingt-deux ans. J'ai enterré presque tous mes *amis*.",
+     0.35
+    ],
+    [
+     "Et je vais te dire ce qu'aucun d'eux n'a regretté.",
+     0.3
+    ],
+    [
+     "Aucun n'a regretté de ne pas avoir gagné plus d'argent.",
+     0.25
+    ],
+    [
+     "Aucun n'a regretté de ne pas avoir eu une plus grosse voiture.",
+     0.35
+    ],
+    [
+     "Jacques regrettait de ne jamais avoir dit à son fils qu'il était *fier* de lui.",
+     0.35
+    ],
+    [
+     "Marcel regrettait une fille, croisée à un bal. Il ne lui a jamais parlé.",
+     0.35
+    ],
+    [
+     "Et Paul ? Paul a attendu la retraite pour enfin vivre.",
+     0.3
+    ],
+    [
+     "Il est mort trois mois après l'avoir prise.",
+     0.45
+    ],
+    [
+     "Moi, je regrette une seule chose. D'avoir eu peur de ce que les gens penseraient.",
+     0.35
+    ],
+    [
+     "Ces gens-là sont morts aussi.",
+     0.4
+    ],
+    [
+     "Alors appelle. Dis-le. Pars. Fais-le *maintenant*.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t002_pere",
+   "perso": "pere",
+   "episode": 1,
+   "accroche": "J'ai raté l'enterrement de mon père.",
+   "fin": "Appelle-le ce soir.",
+   "lueurs": [
+    1,
+    7,
+    10
+   ],
+   "legende": "J'ai raté l'enterrement de mon père. Pour une réunion. Tu l'as appelé quand, le tien ? #papa #pere #famille #regret #pourtoi",
+   "phrases": [
+    [
+     "J'ai raté l'enterrement de mon *père*. Pour une réunion.",
+     0.35
+    ],
+    [
+     "Une réunion dont je ne me souviens même plus du sujet.",
+     0.35
+    ],
+    [
+     "Il m'avait appelé la semaine d'avant. J'ai laissé sonner.",
+     0.3
+    ],
+    [
+     "Je me suis dit : je le rappellerai ce week-end.",
+     0.3
+    ],
+    [
+     "Le week-end, j'avais un dossier à finir.",
+     0.35
+    ],
+    [
+     "Le lundi, ma sœur m'a appelé. Elle pleurait.",
+     0.45
+    ],
+    [
+     "Il m'avait laissé un message ce jour-là. Je ne l'ai jamais *écouté*.",
+     0.35
+    ],
+    [
+     "Il est toujours dans mon téléphone. Depuis six ans.",
+     0.4
+    ],
+    [
+     "Mon patron, lui, ne se souvient même plus de mon prénom.",
+     0.35
+    ],
+    [
+     "Ton travail te remplacera en une semaine. Ta famille, *jamais*.",
+     0.3
+    ],
+    [
+     "Alors ce soir, appelle ton père. Même pour rien.",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t002_coach",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Arrête d'expliquer ta vie.",
+   "fin": "Debout.",
+   "lueurs": [
+    1,
+    6,
+    11
+   ],
+   "legende": "Arrête d'expliquer ta vie à des gens qui ne la vivent pas. Qui doit entendre ça ? #motivation #mindset #discipline #reussite #pourtoi",
+   "phrases": [
+    [
+     "Arrête d'expliquer ta vie à des gens qui ne la *vivent* pas !",
+     0.3
+    ],
+    [
+     "Ils ne paient pas tes factures. Ils ne vivent pas tes nuits blanches !",
+     0.25
+    ],
+    [
+     "Ils voient juste le résultat, et ils ont un avis !",
+     0.3
+    ],
+    [
+     "Ton oncle qui te dit de trouver un vrai travail ? Il déteste le sien !",
+     0.25
+    ],
+    [
+     "Ton pote qui se moque de ta salle de sport ? Il n'a pas couru depuis le collège !",
+     0.3
+    ],
+    [
+     "Arrête de demander la permission de *rêver* !",
+     0.25
+    ],
+    [
+     "Les gens ne croient en toi qu'une fois que t'as réussi. Jamais avant !",
+     0.3
+    ],
+    [
+     "Alors arrête de te justifier, et bosse !",
+     0.3
+    ],
+    [
+     "Dans un an, ils te demanderont comment t'as fait.",
+     0.3
+    ],
+    [
+     "Et toi, tu souriras.",
+     0.3
+    ],
+    [
+     "Allez, *debout* !",
+     0
+    ]
+   ]
+  }
+ ]
+}
