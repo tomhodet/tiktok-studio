@@ -3,17 +3,17 @@
  "premier_lot": "t001",
  "debut": "2026-10-11",
  "ordre": [
+  "grandpere",
   "pere",
-  "mere",
   "coach"
  ],
  "legendes": {
   "grandmere": "Ce que ta grand-mère ne te dira jamais. Et toi, qu'est-ce que ta grand-mère t'a appris ? #grandmere #famille #conseildevie #emotion #pourtoi",
-  "grandpere": "Ce que ton grand-père ne te dira jamais. Quelle leçon ton grand-père t'a laissée, toi ? #grandpere #sagesse #famille #conseildevie #pourtoi",
-  "pere": "Ce que ton père ne te dira jamais. Tu lui as déjà dit merci, toi ? #papa #pere #famille #emotion #pourtoi",
+  "grandpere": "J'ai enterré presque tous mes amis. Aucun n'a regretté ce que tu crois. Et toi, tu attends quoi ? #sagesse #vie #regrets #motivation #pourtoi",
+  "pere": "J'ai raté l'enterrement de mon père. Pour une réunion. Tu l'as appelé quand, le tien ? #papa #pere #famille #regret #pourtoi",
   "mere": "Ce que ta mère ne te dira jamais. Tu l'as appelée quand, la dernière fois ? #maman #mere #famille #emotion #pourtoi",
   "fou": "Une histoire qui va te faire réfléchir. Tu en retiens quoi, toi ? #motivation #discipline #reussite #mindset #pourtoi",
-  "coach": "Personne ne viendra te sauver. Tu attends quoi ? #motivation #discipline #mindset #reussite #pourtoi"
+  "coach": "Arrête d'expliquer ta vie à des gens qui ne la vivent pas. Qui doit entendre ça ? #motivation #mindset #discipline #reussite #pourtoi"
  },
  "envoyes": [
   "j001_fou",
