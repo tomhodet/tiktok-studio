@@ -1,0 +1,161 @@
+{
+ "nom": "t022",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t022_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu travailles dur. Mais sur quoi ?",
+   "fin": "Réfléchis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu bosses dur ou tu bosses bien ? #travail #reussite #mindset #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu travailles comme un *fou*. Et tu n'avances pas !",
+     0.35
+    ],
+    [
+     "Dix heures par jour. Pour le même résultat depuis cinq ans !",
+     0.25
+    ],
+    [
+     "Travailler dur, c'est bien. Travailler sur la bonne chose, c'est mieux !",
+     0.3
+    ],
+    [
+     "Un hamster aussi travaille dur. Dans sa roue !",
+     0.25
+    ],
+    [
+     "Arrête-toi une heure. Pose-toi la vraie question !",
+     0.3
+    ],
+    [
+     "Ce que je fais aujourd'hui, ça me rapproche de quoi ?",
+     0.25
+    ],
+    [
+     "Si la réponse est rien, change de roue !",
+     0.3
+    ],
+    [
+     "Le courage, ce n'est pas de continuer.",
+     0.25
+    ],
+    [
+     "Parfois, c'est d'*arrêter* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t022_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tes parents s'aimaient comme ça ?",
+   "fin": "Fais mieux.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu reproduis le couple de tes parents ? #amour #famille #couple #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu reproduis le couple de tes *parents* !",
+     0.35
+    ],
+    [
+     "Les cris. Les silences. Les portes qui claquent !",
+     0.25
+    ],
+    [
+     "Tu t'étais juré de ne jamais vivre ça. Et tu le vis !",
+     0.3
+    ],
+    [
+     "Ce n'est pas ta faute. C'est ce que tu as appris !",
+     0.25
+    ],
+    [
+     "Mais maintenant que tu le sais, c'est ta responsabilité !",
+     0.3
+    ],
+    [
+     "Apprends à parler sans crier. À écouter sans couper !",
+     0.25
+    ],
+    [
+     "Va voir quelqu'un s'il le faut. Ce n'est pas une honte !",
+     0.3
+    ],
+    [
+     "Casse la chaîne.",
+     0.25
+    ],
+    [
+     "Pour tes enfants. Pour *toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t022_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton mental est faible. Entraîne-le.",
+   "fin": "Forge-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ton mental, tu l'entraînes comment ? #mental #discipline #sport #mindset #pourtoi",
+   "phrases": [
+    [
+     "Ton corps n'est pas faible. C'est ton *mental* !",
+     0.35
+    ],
+    [
+     "Tu lâches à la troisième minute parce que ta tête te le dit !",
+     0.25
+    ],
+    [
+     "Ton corps pourrait tenir dix minutes de plus. Dix !",
+     0.3
+    ],
+    [
+     "Le mental, ça s'entraîne. Comme un muscle !",
+     0.25
+    ],
+    [
+     "Chaque fois que tu continues alors que tu veux arrêter, il grossit !",
+     0.3
+    ],
+    [
+     "Chaque fois que tu lâches, il fond !",
+     0.25
+    ],
+    [
+     "Aujourd'hui, quand ta tête te dit stop, fais encore dix secondes !",
+     0.3
+    ],
+    [
+     "Demain, vingt.",
+     0.25
+    ],
+    [
+     "Et un jour, tu seras *incassable* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

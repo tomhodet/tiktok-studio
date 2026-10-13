@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Le premier pas est le plus dur.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "early morning alarm clock",
+   "q2": "man waking up early dark",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "man alone city night",
+   "q3": "person sitting alone bench"
+  }
+ ]
+}

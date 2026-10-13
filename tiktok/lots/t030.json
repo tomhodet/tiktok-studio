@@ -1,0 +1,161 @@
+{
+ "nom": "t030",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t030_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu es trop gentil pour réussir ?",
+   "fin": "Apprends à dire non.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu dis oui à tout le monde, sauf à toi ? #confiance #travail #limites #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu dis *oui* à tout le monde !",
+     0.35
+    ],
+    [
+     "Oui pour rester plus tard. Oui pour le dossier en plus. Oui pour aider !",
+     0.25
+    ],
+    [
+     "Et à toi, tu dis non. Tout le temps !",
+     0.3
+    ],
+    [
+     "Être gentil, c'est bien. Être un paillasson, c'est autre chose !",
+     0.25
+    ],
+    [
+     "Les gens prennent ce que tu leur laisses prendre !",
+     0.3
+    ],
+    [
+     "Apprends à dire non. Sans te justifier !",
+     0.25
+    ],
+    [
+     "Non, je ne peux pas. Point !",
+     0.3
+    ],
+    [
+     "Tu vas voir, le monde ne s'écroule pas.",
+     0.25
+    ],
+    [
+     "Et ta vie *commence* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t030_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ils ne changent pas. Tu le sais.",
+   "fin": "Arrête d'espérer.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà attendu que quelqu'un change ? Ça a marché ? #amour #relation #changement #verite #pourtoi",
+   "phrases": [
+    [
+     "Il ne *changera* pas !",
+     0.35
+    ],
+    [
+     "Tu le sais. Tu le sais depuis le début !",
+     0.25
+    ],
+    [
+     "Il t'a promis. Mille fois. Et rien n'a changé !",
+     0.3
+    ],
+    [
+     "Les gens changent quand ils le décident. Pas quand tu le supplies !",
+     0.25
+    ],
+    [
+     "Tu ne peux pas aimer quelqu'un jusqu'à ce qu'il devienne quelqu'un d'autre !",
+     0.3
+    ],
+    [
+     "Accepte-le tel qu'il est. Ou pars !",
+     0.25
+    ],
+    [
+     "Mais arrête de vivre avec une version qui n'existe que dans ta tête !",
+     0.3
+    ],
+    [
+     "Ouvre les yeux.",
+     0.25
+    ],
+    [
+     "Et *décide* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t030_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu es essoufflé en montant l'escalier.",
+   "fin": "Réagis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu montes combien d'étages sans t'arrêter ? #sante #sport #cardio #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu es essoufflé en montant *deux* étages !",
+     0.35
+    ],
+    [
+     "Tu t'arrêtes. Tu fais semblant de chercher tes clés !",
+     0.25
+    ],
+    [
+     "Tu as trente ans. Tu as le cœur d'un vieux !",
+     0.3
+    ],
+    [
+     "C'est pas une fatalité. C'est un signal d'alarme !",
+     0.25
+    ],
+    [
+     "Ton cœur est un muscle. Il se muscle !",
+     0.3
+    ],
+    [
+     "Commence par prendre les escaliers. Partout. Tout le temps !",
+     0.25
+    ],
+    [
+     "Puis marche vite. Puis cours doucement !",
+     0.3
+    ],
+    [
+     "Dans deux mois, tu monteras ces étages en parlant.",
+     0.25
+    ],
+    [
+     "*Réagis* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "nom": "t020",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t020_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Dans dix ans, tu feras quoi ?",
+   "fin": "Décide.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Dans dix ans, tu veux être où ? Écris-le ici. #motivation #avenir #objectif #reussite #pourtoi",
+   "phrases": [
+    [
+     "Dans dix ans, tu seras *exactement* là où tes habitudes t'emmènent !",
+     0.35
+    ],
+    [
+     "Regarde tes journées. Honnêtement !",
+     0.25
+    ],
+    [
+     "Tu bosses sur toi ? Tu apprends ? Tu économises ?",
+     0.3
+    ],
+    [
+     "Ou tu attends le week-end, puis les vacances, puis la retraite ?",
+     0.25
+    ],
+    [
+     "Ta vie de dans dix ans se construit ce soir. Pas plus tard !",
+     0.3
+    ],
+    [
+     "Écris où tu veux être. Précisément. Le chiffre. Le lieu. La personne !",
+     0.25
+    ],
+    [
+     "Puis écris ce que tu dois faire demain pour t'en rapprocher !",
+     0.3
+    ],
+    [
+     "Une seule chose. Et fais-la.",
+     0.25
+    ],
+    [
+     "*Tous les jours* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t020_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ta copine te demande de changer ?",
+   "fin": "Change pour toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Changer pour quelqu'un, bonne idée ou pas ? #amour #couple #confiance #mindset #pourtoi",
+   "phrases": [
+    [
+     "Arrête de changer pour *plaire* !",
+     0.35
+    ],
+    [
+     "Tu as changé de style pour elle. De potes pour lui. De rêves pour eux !",
+     0.25
+    ],
+    [
+     "Et maintenant, tu ne sais plus qui tu es !",
+     0.3
+    ],
+    [
+     "Celui qui t'aime vraiment aime le vrai toi !",
+     0.25
+    ],
+    [
+     "Pas une version modifiée pour lui convenir !",
+     0.3
+    ],
+    [
+     "Change. Oui. Mais pour toi !",
+     0.25
+    ],
+    [
+     "Parce que tu veux devenir meilleur. Pas pour qu'on reste !",
+     0.3
+    ],
+    [
+     "Si on t'aime seulement quand tu te déguises, ce n'est pas toi qu'on aime.",
+     0.25
+    ],
+    [
+     "Reste *toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t020_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Douche froide. Maintenant.",
+   "fin": "Gagne.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà tenu une douche froide de deux minutes ? #discipline #mindset #douchefroide #motivation #pourtoi",
+   "phrases": [
+    [
+     "Demain matin, douche *froide* !",
+     0.35
+    ],
+    [
+     "Tu vas crier. Tu vas avoir envie de sortir !",
+     0.25
+    ],
+    [
+     "Reste. Respire. Compte jusqu'à soixante !",
+     0.3
+    ],
+    [
+     "C'est pas pour la santé. C'est pour ta tête !",
+     0.25
+    ],
+    [
+     "Si tu peux faire ça, tu peux faire n'importe quoi !",
+     0.3
+    ],
+    [
+     "Chaque matin, tu prouves à ton cerveau que c'est toi le chef !",
+     0.25
+    ],
+    [
+     "Pas ton confort. Pas ta flemme. Toi !",
+     0.3
+    ],
+    [
+     "Ceux qui gagnent la journée commencent par un petit enfer.",
+     0.25
+    ],
+    [
+     "Tourne le *robinet* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

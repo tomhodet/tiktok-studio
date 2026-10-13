@@ -1,0 +1,161 @@
+{
+ "nom": "t028",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t028_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'es pas nul. Tu n'as pas commencé.",
+   "fin": "Commence.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu te sens nul ou tu n'as juste pas encore essayé ? #confiance #motivation #debut #mindset #pourtoi",
+   "phrases": [
+    [
+     "Tu n'es pas *nul*. Tu n'as juste jamais commencé !",
+     0.35
+    ],
+    [
+     "Tu te compares à des gens qui ont dix ans d'avance !",
+     0.25
+    ],
+    [
+     "Normal que tu te sentes petit !",
+     0.3
+    ],
+    [
+     "Tout le monde est mauvais au début. Tout le monde !",
+     0.25
+    ],
+    [
+     "Le premier gâteau est raté. La première vidéo est gênante !",
+     0.3
+    ],
+    [
+     "La première vente est un désastre !",
+     0.25
+    ],
+    [
+     "Mais la centième ? Elle est magnifique !",
+     0.3
+    ],
+    [
+     "Il faut juste passer par les quatre-vingt-dix-neuf premières.",
+     0.25
+    ],
+    [
+     "*Commence* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t028_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu te bats seul pour deux.",
+   "fin": "Pose les armes.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu es le seul à te battre pour ton couple ? #amour #couple #effort #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu te bats *seul* pour sauver ton couple !",
+     0.35
+    ],
+    [
+     "Tu proposes des sorties. Tu lances les discussions. Tu fais les efforts !",
+     0.25
+    ],
+    [
+     "Lui, il attend que ça passe !",
+     0.3
+    ],
+    [
+     "Un couple, ce n'est pas un sport individuel !",
+     0.25
+    ],
+    [
+     "Tu ne peux pas ramer seul dans un bateau à deux. Tu tournes en rond !",
+     0.3
+    ],
+    [
+     "Arrête de ramer. Juste une semaine !",
+     0.25
+    ],
+    [
+     "Regarde si le bateau avance encore !",
+     0.3
+    ],
+    [
+     "S'il s'arrête, tu as ta réponse.",
+     0.25
+    ],
+    [
+     "Et ce n'est *pas* ta faute !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t028_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu manges tes émotions.",
+   "fin": "Sors-les.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu manges quand tu es triste ? Ou tu bouges ? #sport #emotions #sante #mindset #pourtoi",
+   "phrases": [
+    [
+     "Tu es triste. Tu ouvres le *frigo* !",
+     0.35
+    ],
+    [
+     "Tu es stressé. Tu commandes une pizza !",
+     0.25
+    ],
+    [
+     "Tu es seul. Tu manges un paquet de gâteaux devant la télé !",
+     0.3
+    ],
+    [
+     "Ta bouche ne règle pas tes problèmes. Elle les cache !",
+     0.25
+    ],
+    [
+     "La prochaine fois, au lieu du frigo, mets tes baskets !",
+     0.3
+    ],
+    [
+     "Cours jusqu'à ce que ta colère sorte de ton corps !",
+     0.25
+    ],
+    [
+     "Frappe un sac. Fais cent pompes. Crie dans un oreiller !",
+     0.3
+    ],
+    [
+     "Sors ce qu'il y a dedans.",
+     0.25
+    ],
+    [
+     "Ne l'*enterre* pas !",
+     0
+    ]
+   ]
+  }
+ ]
+}

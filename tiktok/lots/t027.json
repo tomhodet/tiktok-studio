@@ -1,0 +1,161 @@
+{
+ "nom": "t027",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t027_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton patron ne t'aime pas.",
+   "fin": "Sois lucide.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu crois que ta boîte te serait fidèle ? #travail #lucidite #carriere #motivation #pourtoi",
+   "phrases": [
+    [
+     "Ta boîte ne t'aime *pas* !",
+     0.35
+    ],
+    [
+     "Tu crois que tu fais partie de la famille ? Tu fais partie du budget !",
+     0.25
+    ],
+    [
+     "Le jour où tu coûtes trop cher, tu dégages. En dix minutes !",
+     0.3
+    ],
+    [
+     "Ils remplaceront ta photo sur le badge la semaine suivante !",
+     0.25
+    ],
+    [
+     "Alors arrête de donner ta santé pour eux !",
+     0.3
+    ],
+    [
+     "Fais ton travail. Bien. Puis rentre chez toi !",
+     0.25
+    ],
+    [
+     "Et garde ton énergie pour ce qui t'appartient !",
+     0.3
+    ],
+    [
+     "Ton corps. Ta famille. Ton projet.",
+     0.25
+    ],
+    [
+     "Ça, c'est *à toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t027_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu dis je t'aime par peur.",
+   "fin": "Sois vrai.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà dit je t'aime sans le penser ? #amour #verite #couple #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu lui dis je t'aime. Mais tu ne le *penses* plus !",
+     0.35
+    ],
+    [
+     "Tu le dis par habitude. Par peur. Pour éviter la dispute !",
+     0.25
+    ],
+    [
+     "Et elle le sent. Elle le sent toujours !",
+     0.3
+    ],
+    [
+     "Ces mots-là, quand ils sont vides, ils font plus de mal que le silence !",
+     0.25
+    ],
+    [
+     "Sois honnête avec toi. Qu'est-ce que tu ressens vraiment ?",
+     0.3
+    ],
+    [
+     "Si c'est encore de l'amour, montre-le. Avec des actes !",
+     0.25
+    ],
+    [
+     "Si c'est fini, aie le courage de le dire !",
+     0.3
+    ],
+    [
+     "Elle mérite la vérité.",
+     0.25
+    ],
+    [
+     "Et toi *aussi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t027_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton héros s'entraîne pendant que tu dors.",
+   "fin": "Rattrape-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ton modèle, il fait quoi en ce moment ? #sport #discipline #modele #motivation #pourtoi",
+   "phrases": [
+    [
+     "Pense au sportif que tu *admires* !",
+     0.35
+    ],
+    [
+     "En ce moment, pendant que tu regardes cette vidéo, il s'entraîne !",
+     0.25
+    ],
+    [
+     "Il a déjà plus d'argent et plus de talent que toi !",
+     0.3
+    ],
+    [
+     "Et il bosse encore plus dur que toi !",
+     0.25
+    ],
+    [
+     "Toi, tu as quoi comme excuse ?",
+     0.3
+    ],
+    [
+     "Tu n'as pas besoin de devenir champion !",
+     0.25
+    ],
+    [
+     "Tu as juste besoin d'être meilleur qu'hier !",
+     0.3
+    ],
+    [
+     "Mets la vidéo de côté. Prends ta corde. Tes haltères. Ton short.",
+     0.25
+    ],
+    [
+     "Et rattrape-*le* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

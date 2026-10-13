@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Ton héros s'entraîne pendant que tu dors.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man doing pushups dark",
+   "q2": "jump rope workout",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "running at dawn",
+   "q2": "man lifting heavy weights",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "jump rope workout",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "jump rope workout",
+   "q2": "boxer jump rope gym",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  }
+ ]
+}

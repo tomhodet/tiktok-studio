@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu es essoufflé en montant l'escalier.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man climbing stairs out of breath",
+   "q2": "running up stairs city",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "old man walking alone",
+   "q2": "hourglass sand",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "man climbing stairs out of breath",
+   "q2": "running up stairs city",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "running in the rain",
+   "q2": "man running city night",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "man climbing stairs out of breath",
+   "q2": "running up stairs city",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "man lifting heavy weights",
+   "q3": "sweat close up athlete"
+  }
+ ]
+}

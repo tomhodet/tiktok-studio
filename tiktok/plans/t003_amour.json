@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Pourquoi tu restes avec elle ?",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "couple arguing kitchen",
+   "q2": "woman alone rain window",
+   "q3": "couple breakup street"
+  },
+  {
+   "q": "woman crying bed",
+   "q2": "woman crying in car",
+   "q3": "friends laughing at man"
+  },
+  {
+   "q": "man sitting alone kitchen table night",
+   "q2": "woman crying in car",
+   "q3": "couple silent dinner table"
+  },
+  {
+   "q": "man alone city night",
+   "q2": "person sitting alone bench",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "couple silent dinner table",
+   "q2": "rain drops window night",
+   "q3": "woman walking away street"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "couple arguing kitchen"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "woman alone rain window",
+   "q3": "couple breakup street"
+  }
+ ]
+}

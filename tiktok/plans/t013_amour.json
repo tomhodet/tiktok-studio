@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Elle te rabaisse devant les autres.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "friends laughing at man",
+   "q2": "people whispering judging",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "woman walking away street"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "woman alone rain window",
+   "q3": "couple breakup street"
+  },
+  {
+   "q": "man sitting alone kitchen table night",
+   "q2": "woman crying in car",
+   "q3": "couple silent dinner table"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "early morning alarm clock",
+   "q2": "man waking up early dark",
+   "q3": "woman packing suitcase leaving"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  }
+ ]
+}

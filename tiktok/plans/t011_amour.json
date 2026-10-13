@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu te mens à toi-même.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "couple arguing kitchen",
+   "q2": "woman alone rain window",
+   "q3": "couple breakup street"
+  },
+  {
+   "q": "man sitting alone kitchen table night",
+   "q2": "woman crying in car",
+   "q3": "couple silent dinner table"
+  },
+  {
+   "q": "lazy man couch tv",
+   "q2": "man eating junk food couch",
+   "q3": "couple back to back bed"
+  },
+  {
+   "q": "couple back to back bed",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "couple silent dinner table",
+   "q2": "rain drops window night",
+   "q3": "woman walking away street"
+  },
+  {
+   "q": "couple back to back bed",
+   "q2": "couple silent dinner table",
+   "q3": "couple arguing kitchen"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "woman alone rain window",
+   "q3": "couple breakup street"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu as raison d'avoir peur. Vas-y quand même.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man sitting alone dark",
+   "q2": "man walking away crowd",
+   "q3": "city skyline night rooftop"
+  },
+  {
+   "q": "man bored office job",
+   "q2": "man working late office night",
+   "q3": "empty office desk night"
+  },
+  {
+   "q": "man standing up determined",
+   "q2": "writing in notebook night",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "man bored office job",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  },
+  {
+   "q": "man walking away crowd",
+   "q2": "city skyline night rooftop",
+   "q3": "man standing up determined"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "businessman celebrating success",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "man working late office night",
+   "q2": "man sitting alone dark",
+   "q3": "man walking away crowd"
+  },
+  {
+   "q": "city skyline night rooftop",
+   "q2": "man standing up determined",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "man standing on mountain top sunrise",
+   "q2": "businessman celebrating success",
+   "q3": "man bored office job"
+  }
+ ]
+}

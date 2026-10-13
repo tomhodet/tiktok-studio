@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Fais-le pour ton toi de soixante ans.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "child alone in room",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "man climbing stairs out of breath",
+   "q2": "running up stairs city",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  },
+  {
+   "q": "old man walking alone",
+   "q2": "hourglass sand",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "jump rope workout",
+   "q2": "boxing training dark gym",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "man lifting heavy weights",
+   "q3": "sweat close up athlete"
+  }
+ ]
+}

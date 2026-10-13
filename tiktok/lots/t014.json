@@ -1,0 +1,161 @@
+{
+ "nom": "t014",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t014_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu as trente ans et tu n'as rien.",
+   "fin": "Commence.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "À trente ans, il est trop tard ? Certainement pas. #motivation #trente #reussite #argent #pourtoi",
+   "phrases": [
+    [
+     "Tu as trente ans. Pas d'économies. Pas de projet. *Rien* !",
+     0.35
+    ],
+    [
+     "Et tu te dis que c'est trop tard. C'est faux !",
+     0.25
+    ],
+    [
+     "Des gens ont lancé leur boîte à cinquante ans passés !",
+     0.3
+    ],
+    [
+     "Toi, tu as encore quarante ans de travail devant toi !",
+     0.25
+    ],
+    [
+     "Quarante ans ! Tu peux construire un empire en dix !",
+     0.3
+    ],
+    [
+     "Le seul vrai trop tard, c'est le jour de ta mort !",
+     0.25
+    ],
+    [
+     "Arrête de comparer ta vie à celle des autres sur les réseaux !",
+     0.3
+    ],
+    [
+     "Compare-toi à toi d'hier.",
+     0.25
+    ],
+    [
+     "Et bats-*le* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t014_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu restes pour les enfants ?",
+   "fin": "Réfléchis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Rester pour les enfants, bonne ou mauvaise idée ? #couple #famille #relation #parents #pourtoi",
+   "phrases": [
+    [
+     "Tu restes pour les *enfants* ?",
+     0.35
+    ],
+    [
+     "Tes enfants entendent les cris. Tous les soirs !",
+     0.25
+    ],
+    [
+     "Ils voient les portes qui claquent. Les silences au dîner !",
+     0.3
+    ],
+    [
+     "Tu crois les protéger. Tu leur apprends que l'amour, c'est ça !",
+     0.25
+    ],
+    [
+     "Ils vont reproduire exactement ce qu'ils voient !",
+     0.3
+    ],
+    [
+     "Des parents séparés et heureux valent mieux qu'un couple qui se déchire !",
+     0.25
+    ],
+    [
+     "Je ne te dis pas de partir. Je te dis de choisir !",
+     0.3
+    ],
+    [
+     "Réparez vraiment. Ou séparez-vous dignement.",
+     0.25
+    ],
+    [
+     "Mais arrêtez de les faire *payer* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t014_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ils rigolent de toi à la salle ?",
+   "fin": "Continue.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà eu honte d'aller à la salle ? #sport #musculation #confiance #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu as peur qu'ils *rigolent* de toi à la salle ?",
+     0.35
+    ],
+    [
+     "Personne ne te regarde. Tout le monde se regarde dans le miroir !",
+     0.25
+    ],
+    [
+     "Et ceux qui rigolent ? Ils ont été débutants aussi !",
+     0.3
+    ],
+    [
+     "Le gars le plus fort de la salle a commencé avec la barre vide !",
+     0.25
+    ],
+    [
+     "Toi, tu restes chez toi par honte !",
+     0.3
+    ],
+    [
+     "Et tu grossis par honte !",
+     0.25
+    ],
+    [
+     "La honte, ça ne brûle pas de calories !",
+     0.3
+    ],
+    [
+     "Va à la salle demain. Mets tes écouteurs. Fais ta séance.",
+     0.25
+    ],
+    [
+     "Et *reviens* le lendemain !",
+     0
+    ]
+   ]
+  }
+ ]
+}

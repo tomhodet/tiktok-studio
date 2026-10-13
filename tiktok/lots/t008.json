@@ -1,0 +1,161 @@
+{
+ "nom": "t008",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t008_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'es pas fatigué. Tu t'ennuies.",
+   "fin": "Allume-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Fatigué ou juste éteint ? Réponds franchement. #motivation #travail #passion #mindset #pourtoi",
+   "phrases": [
+    [
+     "Tu n'es pas *fatigué*. Tu t'ennuies !",
+     0.35
+    ],
+    [
+     "Tu dors neuf heures et tu te réveilles crevé !",
+     0.25
+    ],
+    [
+     "Parce que rien ne t'attend. Rien ne t'excite !",
+     0.3
+    ],
+    [
+     "Ta vie est une photocopie de la semaine dernière !",
+     0.25
+    ],
+    [
+     "Les gens passionnés dorment cinq heures et brûlent d'énergie !",
+     0.3
+    ],
+    [
+     "Trouve ce qui te fait vibrer. Et si tu ne sais pas, cherche !",
+     0.25
+    ],
+    [
+     "Teste dix trucs. Neuf seront nuls. Le dixième va tout changer !",
+     0.3
+    ],
+    [
+     "Mais tu ne le trouveras pas sur ton canapé.",
+     0.25
+    ],
+    [
+     "*Cherche* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t008_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'es pas son psy.",
+   "fin": "Pense à toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu répares tout le monde et personne ne te répare ? #amour #relation #toxique #confiance #pourtoi",
+   "phrases": [
+    [
+     "Tu n'es pas son *psy* !",
+     0.35
+    ],
+    [
+     "Tu passes tes soirées à le réparer. À le rassurer. À le porter !",
+     0.25
+    ],
+    [
+     "Et toi ? Qui te porte ?",
+     0.3
+    ],
+    [
+     "Tu crois que si tu l'aimes assez fort, il va guérir !",
+     0.25
+    ],
+    [
+     "Ce n'est pas ton travail ! Tu n'es pas un centre de soins !",
+     0.3
+    ],
+    [
+     "Un couple, c'est deux personnes qui avancent. Pas une qui traîne l'autre !",
+     0.25
+    ],
+    [
+     "Tu t'épuises. Et il ne s'en rend même pas compte !",
+     0.3
+    ],
+    [
+     "Pose ce sac. Il est trop lourd.",
+     0.25
+    ],
+    [
+     "Pense à *toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t008_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu veux des résultats sans souffrir ?",
+   "fin": "Souffre.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "La douleur d'aujourd'hui, c'est la force de demain. D'accord ? #sport #discipline #motivation #musculation #pourtoi",
+   "phrases": [
+    [
+     "Tu veux un corps de champion sans *souffrir* ?",
+     0.35
+    ],
+    [
+     "Ça n'existe pas. Ça n'a jamais existé !",
+     0.25
+    ],
+    [
+     "Chaque muscle que tu vois sur les autres, c'est des heures de douleur !",
+     0.3
+    ],
+    [
+     "Des réveils à cinq heures. Des repas sans plaisir. Des séances sous la pluie !",
+     0.25
+    ],
+    [
+     "Toi, tu abandonnes à la deuxième séance parce que t'as des courbatures !",
+     0.3
+    ],
+    [
+     "Les courbatures, c'est ton corps qui dit qu'il travaille !",
+     0.25
+    ],
+    [
+     "Arrête de fuir l'effort. Cours vers lui !",
+     0.3
+    ],
+    [
+     "Une rep de plus. Une minute de plus.",
+     0.25
+    ],
+    [
+     "Encore *une* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

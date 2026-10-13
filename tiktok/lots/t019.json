@@ -1,0 +1,161 @@
+{
+ "nom": "t019",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t019_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'as pas de temps ? Menteur.",
+   "fin": "Trouve-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Où passe ton temps, vraiment ? #motivation #temps #productivite #discipline #pourtoi",
+   "phrases": [
+    [
+     "Tu n'as pas le temps ? *Menteur* !",
+     0.35
+    ],
+    [
+     "Tu as vu trois saisons d'une série ce mois-ci !",
+     0.25
+    ],
+    [
+     "Tu connais la vie de gens que tu n'as jamais rencontrés !",
+     0.3
+    ],
+    [
+     "Tu as le temps. Tu n'as pas les priorités !",
+     0.25
+    ],
+    [
+     "Ce qui compte vraiment pour toi, tu le fais. Toujours !",
+     0.3
+    ],
+    [
+     "Le reste, tu dis que tu n'as pas le temps !",
+     0.25
+    ],
+    [
+     "Alors sois honnête. Dis que ça ne t'intéresse pas !",
+     0.3
+    ],
+    [
+     "Ou trouve une heure. Ce soir.",
+     0.25
+    ],
+    [
+     "Et prouve-*moi* le contraire !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t019_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu l'as laissé partir pour ta fierté.",
+   "fin": "Appelle.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà perdu quelqu'un par fierté ? #amour #fierte #regret #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu l'as laissée partir. Pour ta *fierté* !",
+     0.35
+    ],
+    [
+     "Tu savais que tu avais tort. Tu n'as rien dit !",
+     0.25
+    ],
+    [
+     "Tu attendais qu'elle revienne. Elle n'est pas revenue !",
+     0.3
+    ],
+    [
+     "Ta fierté, elle te tient chaud le soir ? Non !",
+     0.25
+    ],
+    [
+     "Dire pardon, ça ne fait pas de toi un faible !",
+     0.3
+    ],
+    [
+     "Ça fait de toi un homme !",
+     0.25
+    ],
+    [
+     "Si c'est encore possible, appelle. Ce soir !",
+     0.3
+    ],
+    [
+     "Si c'est trop tard, retiens la leçon.",
+     0.25
+    ],
+    [
+     "Pour la *prochaine* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t019_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Fais-le fatigué.",
+   "fin": "Fais-le quand même.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu t'entraînes même quand tu es crevé ? #discipline #sport #mindset #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu es *crevé* ? Fais-le quand même !",
+     0.35
+    ],
+    [
+     "Tu as mal dormi ? Fais-le quand même !",
+     0.25
+    ],
+    [
+     "Il pleut ? Tu as eu une sale journée ? Fais-le quand même !",
+     0.3
+    ],
+    [
+     "Les champions ne s'entraînent pas quand ils ont envie !",
+     0.25
+    ],
+    [
+     "Ils s'entraînent quand c'est prévu. Point !",
+     0.3
+    ],
+    [
+     "La séance la plus importante, c'est celle que tu ne voulais pas faire !",
+     0.25
+    ],
+    [
+     "C'est celle-là qui forge ton mental !",
+     0.3
+    ],
+    [
+     "Vingt minutes. Même à moitié. Même mal.",
+     0.25
+    ],
+    [
+     "Mais *fais-le* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

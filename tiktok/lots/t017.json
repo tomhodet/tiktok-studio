@@ -1,0 +1,161 @@
+{
+ "nom": "t017",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t017_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton patron gagne grâce à toi.",
+   "fin": "Prends ta part.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà demandé une augmentation ? Ça s'est passé comment ? #travail #argent #salaire #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu fais gagner des milliers d'euros à ta boîte. Et tu n'oses pas *demander* !",
+     0.35
+    ],
+    [
+     "Tu fais des heures sup gratuites. Tu restes tard !",
+     0.25
+    ],
+    [
+     "Tu crois qu'on va te remarquer. On ne te remarque pas !",
+     0.3
+    ],
+    [
+     "Ceux qui demandent obtiennent. Ceux qui attendent restent !",
+     0.25
+    ],
+    [
+     "Prépare tes chiffres. Ce que tu as apporté. Combien ça a rapporté !",
+     0.3
+    ],
+    [
+     "Demande un rendez-vous. Regarde-le dans les yeux. Annonce ton chiffre !",
+     0.25
+    ],
+    [
+     "Le pire qu'il puisse dire, c'est non !",
+     0.3
+    ],
+    [
+     "Et s'il dit non, tu sais qu'il est temps de partir.",
+     0.25
+    ],
+    [
+     "*Demande* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t017_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu donnes tout, tu reçois rien.",
+   "fin": "Arrête.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu donnes plus que tu ne reçois dans ton couple ? #amour #couple #respect #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu donnes *tout*. Et tu reçois quoi ? Rien !",
+     0.35
+    ],
+    [
+     "Tu prépares les surprises. Tu te souviens des dates. Tu écoutes !",
+     0.25
+    ],
+    [
+     "Lui, il oublie ton anniversaire. Il regarde son téléphone quand tu parles !",
+     0.3
+    ],
+    [
+     "Et tu te dis que c'est sa façon d'aimer !",
+     0.25
+    ],
+    [
+     "Non. C'est sa façon de ne pas aimer !",
+     0.3
+    ],
+    [
+     "Une relation, c'est un échange. Pas une œuvre de charité !",
+     0.25
+    ],
+    [
+     "Arrête de donner pendant une semaine. Juste une !",
+     0.3
+    ],
+    [
+     "Regarde ce qui se passe. Regarde s'il remarque.",
+     0.25
+    ],
+    [
+     "Tu auras ta *réponse* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t017_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Fais-le pour ton toi de soixante ans.",
+   "fin": "Pense à lui.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "À soixante ans, tu veux être comment ? #sante #sport #discipline #avenir #pourtoi",
+   "phrases": [
+    [
+     "Pense à toi, à *soixante* ans !",
+     0.35
+    ],
+    [
+     "Tu veux être celui qui joue au foot avec ses petits-enfants ?",
+     0.25
+    ],
+    [
+     "Ou celui qui les regarde depuis le banc, essoufflé ?",
+     0.3
+    ],
+    [
+     "Ça se décide aujourd'hui. Pas dans trente ans !",
+     0.25
+    ],
+    [
+     "Chaque séance d'aujourd'hui, c'est une année de plus là-bas !",
+     0.3
+    ],
+    [
+     "Chaque cigarette, chaque nuit blanche, c'est une année de moins !",
+     0.25
+    ],
+    [
+     "Ton toi de soixante ans te regarde en ce moment !",
+     0.3
+    ],
+    [
+     "Il te supplie. Bouge !",
+     0.25
+    ],
+    [
+     "Fais-le pour *lui* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

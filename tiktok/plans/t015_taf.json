@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Ton salaire tombe, ton salaire part.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "city skyline night rooftop"
+  },
+  {
+   "q": "man standing up determined",
+   "q2": "writing in notebook night",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "man working late office night"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "man sitting alone dark",
+   "q2": "man walking away crowd",
+   "q3": "city skyline night rooftop"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "man standing up determined"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "businessman celebrating success",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "man standing on mountain top sunrise",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  }
+ ]
+}

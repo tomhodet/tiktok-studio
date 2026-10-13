@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu restes pour les enfants ?",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "couple arguing kitchen",
+   "q2": "child alone in room",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "couple fighting at home",
+   "q3": "child alone in room"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "couple fighting at home",
+   "q3": "woman packing suitcase leaving"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "studying late night desk lamp",
+   "q3": "couple breakup street"
+  },
+  {
+   "q": "man sitting alone kitchen table night",
+   "q2": "woman crying in car",
+   "q3": "couple silent dinner table"
+  },
+  {
+   "q": "rain drops window night",
+   "q2": "woman walking away street",
+   "q3": "couple arguing kitchen"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "nom": "t003",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t003_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Pourquoi tu restes dans ce taf ?",
+   "fin": "Démissionne de ta peur.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Pourquoi tu restes dans un taf que tu détestes ? Dis-moi la vraie raison. #motivation #travail #mindset #discipline #pourtoi",
+   "phrases": [
+    [
+     "Pourquoi tu restes dans une boîte que tu *détestes* ?",
+     0.35
+    ],
+    [
+     "Tous les dimanches soir, t'as la boule au ventre. Tous !",
+     0.25
+    ],
+    [
+     "Tu comptes les heures. Tu comptes les jours. Tu comptes les années !",
+     0.3
+    ],
+    [
+     "Et tu appelles ça une vie ? Arrête !",
+     0.25
+    ],
+    [
+     "Ton patron, il ne pense pas à toi le week-end. Toi, tu penses à lui !",
+     0.3
+    ],
+    [
+     "Tu te dis que c'est pas le moment. Ce sera jamais le moment !",
+     0.25
+    ],
+    [
+     "Commence ce soir. Une heure sur ton projet. Juste une !",
+     0.3
+    ],
+    [
+     "Dans un an, tu seras soit dehors, soit encore là à te plaindre.",
+     0.25
+    ],
+    [
+     "Choisis. Mais choisis *maintenant* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t003_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Pourquoi tu restes avec elle ?",
+   "fin": "Pars.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Pourquoi tu restes dans une relation où tu n'es pas bien ? Sois honnête. #amour #couple #relation #mindset #pourtoi",
+   "phrases": [
+    [
+     "Pourquoi tu restes dans une relation où tu n'es *pas* bien ?",
+     0.35
+    ],
+    [
+     "Tu pleures plus que tu ne ris. Et tu restes !",
+     0.25
+    ],
+    [
+     "Tu te dis qu'elle va changer. Elle ne changera pas !",
+     0.3
+    ],
+    [
+     "Tu as peur d'être seul ? Tu es déjà seul. À deux !",
+     0.25
+    ],
+    [
+     "Tes potes te le disent. Ta mère te le dit. Ton corps te le dit !",
+     0.3
+    ],
+    [
+     "Le confort d'une mauvaise histoire, c'est une prison avec du chauffage.",
+     0.25
+    ],
+    [
+     "Tu mérites quelqu'un qui te choisit tous les jours. Pas par habitude !",
+     0.3
+    ],
+    [
+     "Alors fais ta valise. Même si ça fait mal.",
+     0.25
+    ],
+    [
+     "Ça fera moins mal que dix ans de *plus* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t003_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Lève ton cul du canapé.",
+   "fin": "Debout.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Lève-toi et bouge. Combien de pompes tu fais ce soir ? #sport #discipline #motivation #fitness #pourtoi",
+   "phrases": [
+    [
+     "Lève ton cul de ce *canapé* !",
+     0.35
+    ],
+    [
+     "Ça fait combien de temps que tu dis que tu vas t'y mettre ? Combien ?",
+     0.25
+    ],
+    [
+     "Lundi. Après les fêtes. Après les vacances. Toujours après !",
+     0.3
+    ],
+    [
+     "Ton corps, c'est le seul endroit où tu vas vivre toute ta vie !",
+     0.25
+    ],
+    [
+     "Et tu le traites comme une poubelle !",
+     0.3
+    ],
+    [
+     "Personne ne viendra faire tes pompes à ta place. Personne !",
+     0.25
+    ],
+    [
+     "Pas de salle ? Pas grave. Le sol, il est gratuit !",
+     0.3
+    ],
+    [
+     "Vingt pompes. Maintenant. Pendant que tu regardes cette vidéo !",
+     0.25
+    ],
+    [
+     "Allez, *descends* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

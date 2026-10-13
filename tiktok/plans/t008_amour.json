@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu n'es pas son psy.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "couple breakup street"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "man sitting alone kitchen table night"
+  },
+  {
+   "q": "woman crying in car",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "couple silent dinner table"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "man punching bag",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+name: nuit
+# Fabrication complète sur GitHub (voix + montage + dépôt dans le brouillon de publication du lot), sans poste local.
+# Chaque soir, fabrique les vidéos des trois prochains jours qui manquent encore. Relancer est sans risque :
+# une vidéo déjà déposée n'est jamais refaite.
+on:
+  schedule:
+    - cron: "11 18 * * *"
+  workflow_dispatch:
+    inputs:
+      lots:
+        description: 'Lots en JSON (ex. ["t003","t004"]). Vide : les trois prochains jours.'
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency: nuit
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrice: ${{ steps.p.outputs.matrice }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/lots/
+            /tiktok/plans/
+            /tiktok/brouillons.json
+          sparse-checkout-cone-mode: false
+      - id: p
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LOTS: ${{ github.event.inputs.lots }}
+        run: |
+          python3 - >> "$GITHUB_OUTPUT" <<'PY'
+          import datetime as dt, json, os, sys
+          from pathlib import Path
+          sys.path.insert(0, "tiktok/outils")
+          from releases import DEPOT, appel, toutes_releases
+          if os.environ.get("LOTS", "").strip():
+              lots = json.loads(os.environ["LOTS"])
+          else:
+              conf = json.loads(Path("tiktok/brouillons.json").read_text(encoding="utf-8"))
+              k0 = int(conf["premier_lot"][1:]) + (dt.date.today() - dt.date.fromisoformat(conf["debut"])).days
+              lots = [f"t{k:03d}" for k in range(k0, k0 + 4)]
+          rels = {r["tag_name"]: r for r in toutes_releases()}
+          matrice = []
+          for lot in lots:
+              f = Path(f"tiktok/lots/{lot}.json")
+              if not f.exists():
+                  continue
+              eps = [e["id"] for e in json.loads(f.read_text(encoding="utf-8"))["episodes"]
+                     if Path(f"tiktok/plans/{e['id']}.json").exists()]
+              if not eps:
+                  continue
+              rel = rels.get(lot) or appel("POST", f"/repos/{DEPOT}/releases",
+                                           {"tag_name": lot, "name": lot, "draft": True,
+                                            "body": "Vidéos fabriquées sur GitHub (workflow nuit)."})
+              faits = {a["name"] for a in rel.get("assets", [])}
+              matrice += [{"lot": lot, "ep": ep, "rid": rel["id"]} for ep in eps if f"{ep}.mp4" not in faits]
+          print("à fabriquer :", [m["ep"] for m in matrice], file=sys.stderr)
+          print("matrice=" + json.dumps(matrice))
+          PY
+  fabriquer:
+    needs: plan
+    if: needs.plan.outputs.matrice != '[]'
+    name: ${{ matrix.ep }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        include: ${{ fromJSON(needs.plan.outputs.matrice) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            /tiktok/outils/
+            /tiktok/lots/
+            /tiktok/plans/
+            /tiktok/banque/index.json
+            /tiktok/personnages.json
+            /tiktok/voix_ref/refs/
+            /templates/fonts/
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Installation
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fluidsynth fluid-soundfont-gm > /dev/null
+          python -m venv /tmp/tts
+          /tmp/tts/bin/pip install -q --index-url https://download.pytorch.org/whl/cpu --extra-index-url https://pypi.org/simple chatterbox-tts 2>&1 | tail -3
+          /tmp/tts/bin/pip install -q faster-whisper soundfile num2words mido numpy 2>&1 | tail -3
+          echo "/tmp/tts/bin" >> "$GITHUB_PATH"
+      - uses: actions/cache/restore@v4
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-${{ github.run_id }}
+          restore-keys: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-
+      - name: Références déchiffrées
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          bash tiktok/outils/coffre.sh dechiffrer tiktok/voix_ref
+          if [ -f prises.tar.enc ]; then openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in prises.tar.enc -pass env:COFFRE_CLE | tar -x; fi
+      - name: Voix
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: python3 tiktok/outils/voix_seules.py "${{ matrix.lot }}" "${{ matrix.ep }}" "$RUNNER_TEMP/voix"
+      - name: Prises chiffrées pour une reprise
+        if: always()
+        env:
+          COFFRE_CLE: ${{ secrets.COFFRE_CLE }}
+        run: |
+          rm -f prises.tar.enc
+          [ -d "tiktok/${{ matrix.ep }}/voix_cb" ] && tar -c "tiktok/${{ matrix.ep }}/voix_cb" | openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -out prises.tar.enc -pass env:COFFRE_CLE || true
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: prises.tar.enc
+          key: prises-${{ matrix.ep }}-${{ hashFiles(format('tiktok/lots/{0}.json', matrix.lot)) }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Montage
+        run: |
+          mkdir -p "$RUNNER_TEMP/out"
+          python3 tiktok/outils/montage2.py "tiktok/${{ matrix.ep }}" "tiktok/plans/${{ matrix.ep }}.json" "$RUNNER_TEMP/out/${{ matrix.ep }}.mp4"
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          lot, ep = "${{ matrix.lot }}", "${{ matrix.ep }}"
+          e = next(x for x in json.loads(Path(f"tiktok/lots/{lot}.json").read_text(encoding="utf-8"))["episodes"] if x["id"] == ep)
+          Path(os.environ["RUNNER_TEMP"], "out", f"{ep}_legende.txt").write_text(e["legende"], encoding="utf-8")
+          PY
+          ls -la "$RUNNER_TEMP/out"
+      - name: Dépôt dans le brouillon de publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd "$RUNNER_TEMP/out"
+          # la vidéo en dernier : sa présence signifie « fabriquée »
+          python3 "$GITHUB_WORKSPACE/tiktok/outils/releases.py" envoyer "${{ matrix.rid }}" "${{ matrix.ep }}_legende.txt" "${{ matrix.ep }}_couverture.jpg"
+          python3 "$GITHUB_WORKSPACE/tiktok/outils/releases.py" envoyer "${{ matrix.rid }}" "${{ matrix.ep }}.mp4"

@@ -1,0 +1,161 @@
+{
+ "nom": "t005",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t005_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "T'es pauvre parce que t'attends.",
+   "fin": "Arrête d'attendre.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Qu'est-ce que tu attends pour te lancer ? #argent #business #motivation #reussite #pourtoi",
+   "phrases": [
+    [
+     "T'es fauché parce que tu *attends* !",
+     0.35
+    ],
+    [
+     "Tu attends le bon moment. Le bon plan. La bonne idée !",
+     0.25
+    ],
+    [
+     "Pendant ce temps-là, d'autres se lancent avec une idée moyenne !",
+     0.3
+    ],
+    [
+     "Et ils gagnent ce que toi tu rêves de gagner !",
+     0.25
+    ],
+    [
+     "L'argent ne tombe pas du ciel. Il va vers ceux qui bougent !",
+     0.3
+    ],
+    [
+     "Tu regardes des vidéos sur la richesse au lieu de la construire !",
+     0.25
+    ],
+    [
+     "Celle-ci comprise !",
+     0.3
+    ],
+    [
+     "Ferme cette appli. Ouvre un carnet. Écris ta première idée.",
+     0.25
+    ],
+    [
+     "Et demain, tu la *testes* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t005_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Arrête de supplier pour de l'amour.",
+   "fin": "Respecte-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as déjà supplié quelqu'un de rester ? #amour #relation #confiance #mindset #pourtoi",
+   "phrases": [
+    [
+     "Arrête de *supplier* quelqu'un de t'aimer !",
+     0.35
+    ],
+    [
+     "Tu lui écris. Il répond trois heures après. Un mot !",
+     0.25
+    ],
+    [
+     "Et toi, tu relis le message dix fois pour trouver du sens !",
+     0.3
+    ],
+    [
+     "Il n'y a pas de sens. Il n'est pas intéressé !",
+     0.25
+    ],
+    [
+     "Quelqu'un qui veut te parler trouve le temps. Toujours !",
+     0.3
+    ],
+    [
+     "Tu n'es pas une option. Tu n'es pas un plan de secours !",
+     0.25
+    ],
+    [
+     "Bloque. Supprime. Respire.",
+     0.3
+    ],
+    [
+     "Et va dépenser cette énergie sur toi !",
+     0.25
+    ],
+    [
+     "Toi, tu vaux le *coup* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t005_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton miroir ne ment pas.",
+   "fin": "Regarde-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Qu'est-ce que tu vois dans ton miroir ce matin ? #sport #discipline #transformation #motivation #pourtoi",
+   "phrases": [
+    [
+     "Regarde-toi dans le miroir. Vraiment. Qu'est-ce que tu *vois* ?",
+     0.35
+    ],
+    [
+     "Le gars que tu voulais être à quinze ans ? Non !",
+     0.25
+    ],
+    [
+     "Tu as laissé filer. Un burger. Une bière. Une soirée. Puis une année !",
+     0.3
+    ],
+    [
+     "Ce n'est pas ta génétique. C'est tes choix !",
+     0.25
+    ],
+    [
+     "La bonne nouvelle ? Tes choix, tu peux les changer ce soir !",
+     0.3
+    ],
+    [
+     "Pas de régime magique. Pas de pilule !",
+     0.25
+    ],
+    [
+     "De l'eau. Du sommeil. Des pompes. Tous les jours !",
+     0.3
+    ],
+    [
+     "Dans quatre-vingt-dix jours, ton miroir te dira merci.",
+     0.25
+    ],
+    [
+     "Commence *aujourd'hui* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

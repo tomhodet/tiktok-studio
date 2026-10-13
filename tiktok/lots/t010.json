@@ -1,0 +1,161 @@
+{
+ "nom": "t010",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t010_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tes potes te tirent vers le bas.",
+   "fin": "Change d'entourage.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tes amis te poussent ou te retiennent ? #mindset #reussite #amitie #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tes potes te tirent vers le *bas* !",
+     0.35
+    ],
+    [
+     "Tu parles de ton projet. Ils rigolent !",
+     0.25
+    ],
+    [
+     "Tu veux arrêter de sortir le vendredi. Ils te traitent de vieux !",
+     0.3
+    ],
+    [
+     "Tu veux économiser. Ils te traitent de radin !",
+     0.25
+    ],
+    [
+     "Ce ne sont pas des amis. Ce sont des ancres !",
+     0.3
+    ],
+    [
+     "Tu es la moyenne des cinq personnes que tu vois le plus !",
+     0.25
+    ],
+    [
+     "Regarde ces cinq-là. Tu veux leur vie ?",
+     0.3
+    ],
+    [
+     "Si la réponse est non, change de table.",
+     0.25
+    ],
+    [
+     "Même si ça fait *mal* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t010_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Elle t'a trompé. Tu restes ?",
+   "fin": "Ne reste pas.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu pardonnerais une trahison ? Dis-le franchement. #amour #trahison #couple #respect #pourtoi",
+   "phrases": [
+    [
+     "Elle t'a trompé. Et tu es *encore* là !",
+     0.35
+    ],
+    [
+     "Tu fouilles son téléphone tous les soirs !",
+     0.25
+    ],
+    [
+     "Tu ne dors plus. Tu imagines. Tu compares !",
+     0.3
+    ],
+    [
+     "Tu appelles ça pardonner. Moi, j'appelle ça survivre !",
+     0.25
+    ],
+    [
+     "La confiance, c'est un vase. Tu peux le recoller. Il fuira toujours !",
+     0.3
+    ],
+    [
+     "Tu mérites de dormir tranquille !",
+     0.25
+    ],
+    [
+     "Tu mérites quelqu'un qui ne te fait pas douter !",
+     0.3
+    ],
+    [
+     "Pars. Pas par vengeance.",
+     0.25
+    ],
+    [
+     "Par *respect* pour toi !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t010_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Cinq heures du matin. Debout.",
+   "fin": "Lève-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu te lèves à quelle heure demain ? Engage-toi en commentaire. #discipline #morning #motivation #sport #pourtoi",
+   "phrases": [
+    [
+     "Cinq heures du matin. Le réveil sonne. Et tu le *repousses* !",
+     0.35
+    ],
+    [
+     "Une fois. Deux fois. Trois fois !",
+     0.25
+    ],
+    [
+     "Ta journée commence par une défaite !",
+     0.3
+    ],
+    [
+     "Le premier combat de la journée, c'est ton lit. Et tu le perds !",
+     0.25
+    ],
+    [
+     "Demain, pose ton réveil à l'autre bout de la chambre !",
+     0.3
+    ],
+    [
+     "Il sonne, tu te lèves, tu bois un verre d'eau, tu enfiles ton short !",
+     0.25
+    ],
+    [
+     "Pendant que les autres dorment, toi, tu cours !",
+     0.3
+    ],
+    [
+     "Gagne le premier combat.",
+     0.25
+    ],
+    [
+     "Et la journée est à *toi* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

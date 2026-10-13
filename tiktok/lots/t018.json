@@ -1,0 +1,161 @@
+{
+ "nom": "t018",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t018_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu scrolles pendant qu'ils construisent.",
+   "fin": "Construis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Combien de temps tu as scrollé aujourd'hui ? #motivation #discipline #business #mindset #pourtoi",
+   "phrases": [
+    [
+     "Pendant que tu scrolles, quelqu'un construit ce que tu *rêves* d'avoir !",
+     0.35
+    ],
+    [
+     "Il a ton âge. Il avait tes problèmes !",
+     0.25
+    ],
+    [
+     "Mais il a fait un choix ! Créer au lieu de consommer !",
+     0.3
+    ],
+    [
+     "Toi, tu regardes la vie des autres. Lui, il construit la sienne !",
+     0.25
+    ],
+    [
+     "Tu es le public. Il est sur scène !",
+     0.3
+    ],
+    [
+     "Combien de temps tu vas rester dans le public ?",
+     0.25
+    ],
+    [
+     "Ce soir, crée quelque chose. Une vidéo. Un texte. Un plan !",
+     0.3
+    ],
+    [
+     "Peu importe si c'est nul.",
+     0.25
+    ],
+    [
+     "Monte sur *scène* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t018_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu mérites mieux. Tu le sais.",
+   "fin": "Lève-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu le sais au fond de toi, que tu mérites mieux ? #amour #confiance #respect #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu le sais. Au fond de toi, tu le *sais* !",
+     0.35
+    ],
+    [
+     "Tu mérites mieux que des miettes !",
+     0.25
+    ],
+    [
+     "Mieux que des excuses. Mieux que des promesses vides !",
+     0.3
+    ],
+    [
+     "Tu mérites quelqu'un qui te regarde comme si tu étais une évidence !",
+     0.25
+    ],
+    [
+     "Quelqu'un qui ne te fait pas pleurer dans la salle de bains !",
+     0.3
+    ],
+    [
+     "Tu restes parce que tu as oublié qui tu étais avant !",
+     0.25
+    ],
+    [
+     "Rappelle-toi. Tu riais. Tu sortais. Tu rêvais !",
+     0.3
+    ],
+    [
+     "Cette personne-là existe encore.",
+     0.25
+    ],
+    [
+     "Va la *chercher* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t018_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "La corde à sauter ne ment pas.",
+   "fin": "Saute.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Combien de sauts sans t'arrêter ? Dis ton chiffre. #sport #cardio #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Prends une corde à sauter. Et regarde la *vérité* en face !",
+     0.35
+    ],
+    [
+     "Une minute. Tu es mort !",
+     0.25
+    ],
+    [
+     "Le cœur qui tape. Les jambes en plomb. Les poumons en feu !",
+     0.3
+    ],
+    [
+     "C'est ça, ta forme réelle. Pas celle que tu imagines !",
+     0.25
+    ],
+    [
+     "Les boxeurs sautent quinze minutes. Sans s'arrêter !",
+     0.3
+    ],
+    [
+     "Une corde coûte cinq euros. Pas d'excuse !",
+     0.25
+    ],
+    [
+     "Commence par une minute. Puis deux. Puis cinq !",
+     0.3
+    ],
+    [
+     "Dans un mois, tu ne seras plus le même.",
+     0.25
+    ],
+    [
+     "*Saute* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Trente jours. Pas un de moins.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "man looking at himself mirror",
+   "q2": "boxing training dark gym",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "sweat close up athlete",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "man doing push ups floor",
+   "q3": "early morning alarm clock"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "jump rope workout",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  }
+ ]
+}

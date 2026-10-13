@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Lève ton cul du canapé.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "lazy man couch tv",
+   "q2": "man eating junk food couch",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "jump rope workout",
+   "q2": "boxing training dark gym",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "commuters subway morning",
+   "q2": "man in traffic commute",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "man alone city night",
+   "q2": "person sitting alone bench",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "man doing push ups floor",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "man doing push ups floor",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "man doing pushups dark",
+   "q3": "man doing push ups floor"
+  }
+ ]
+}

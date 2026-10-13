@@ -1,0 +1,161 @@
+{
+ "nom": "t031",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t031_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Le talent ne suffit pas.",
+   "fin": "Bosse.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Talent ou travail, qu'est-ce qui compte le plus ? #travail #talent #reussite #discipline #pourtoi",
+   "phrases": [
+    [
+     "Tu as du *talent*. Et alors ?",
+     0.35
+    ],
+    [
+     "Le monde est plein de gens talentueux qui n'ont rien fait !",
+     0.25
+    ],
+    [
+     "Ils attendaient qu'on les découvre. Personne n'est venu !",
+     0.3
+    ],
+    [
+     "Le talent sans travail, c'est une voiture de course sans essence !",
+     0.25
+    ],
+    [
+     "Celui qui a moins de talent que toi mais qui bosse tous les jours ?",
+     0.3
+    ],
+    [
+     "Il va te dépasser. C'est mathématique !",
+     0.25
+    ],
+    [
+     "Arrête de compter sur ton don. Travaille-le !",
+     0.3
+    ],
+    [
+     "Chaque jour. Même quand c'est ennuyeux.",
+     0.25
+    ],
+    [
+     "Surtout quand c'est *ennuyeux* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t031_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'es pas une deuxième chance.",
+   "fin": "Respecte-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu donnerais une deuxième chance ? Une troisième ? #amour #respect #limites #relation #pourtoi",
+   "phrases": [
+    [
+     "Une deuxième chance, d'accord. Mais tu en es à la *dixième* !",
+     0.35
+    ],
+    [
+     "Chaque fois, il revient avec des fleurs et des promesses !",
+     0.25
+    ],
+    [
+     "Chaque fois, tu y crois !",
+     0.3
+    ],
+    [
+     "Chaque fois, ça recommence. Un peu pire !",
+     0.25
+    ],
+    [
+     "Tu ne donnes pas des chances. Tu donnes des permissions !",
+     0.3
+    ],
+    [
+     "Il a compris qu'il pouvait tout faire. Tu reviens toujours !",
+     0.25
+    ],
+    [
+     "Cette fois, ne reviens pas. Même s'il pleure. Même s'il supplie !",
+     0.3
+    ],
+    [
+     "Ta paix vaut plus que ses larmes.",
+     0.25
+    ],
+    [
+     "*Tiens bon* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t031_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Soixante secondes de gainage. Maintenant.",
+   "fin": "Tiens.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Combien de temps tu tiens en gainage ? Ton record ? #gainage #sport #discipline #defi #pourtoi",
+   "phrases": [
+    [
+     "Mets-toi au sol. Gainage. Soixante *secondes* !",
+     0.35
+    ],
+    [
+     "Les coudes sous les épaules. Le corps bien droit !",
+     0.25
+    ],
+    [
+     "Dix secondes. Facile. Vingt. Ça commence à trembler !",
+     0.3
+    ],
+    [
+     "Trente. Ton ventre brûle. Ta tête te dit d'arrêter !",
+     0.25
+    ],
+    [
+     "N'écoute pas. Tiens !",
+     0.3
+    ],
+    [
+     "Quarante. Cinquante. Respire !",
+     0.25
+    ],
+    [
+     "Voilà. C'est ça, la discipline. Tenir quand ça brûle !",
+     0.3
+    ],
+    [
+     "Fais ça tous les jours. Et ajoute dix secondes chaque semaine.",
+     0.25
+    ],
+    [
+     "*Tiens* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

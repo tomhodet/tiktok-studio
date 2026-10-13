@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Ton ex ne reviendra pas.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "woman alone rain window",
+   "q2": "couple breakup street",
+   "q3": "man sitting alone kitchen table night"
+  },
+  {
+   "q": "man scrolling phone bed night",
+   "q2": "phone screen night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "man scrolling phone bed night",
+   "q2": "phone screen night",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "man alone city night",
+   "q2": "person sitting alone bench",
+   "q3": "couple silent dinner table"
+  },
+  {
+   "q": "woman crying bed",
+   "q2": "woman crying in car",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "running in the rain",
+   "q2": "man running city night",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "nom": "t012",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t012_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu vends ton temps trop pas cher.",
+   "fin": "Augmente-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ton heure vaut combien, vraiment ? #argent #travail #business #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu vends ton temps pour *trop pas cher* !",
+     0.35
+    ],
+    [
+     "Douze euros de l'heure. Pour ta seule vie !",
+     0.25
+    ],
+    [
+     "Ton temps, c'est la seule chose que tu ne pourras jamais racheter !",
+     0.3
+    ],
+    [
+     "Et tu le brades à quelqu'un qui ne te dit même pas merci !",
+     0.25
+    ],
+    [
+     "Apprends une compétence qui se paie cher !",
+     0.3
+    ],
+    [
+     "Le code. La vente. Le montage. Un vrai métier manuel !",
+     0.25
+    ],
+    [
+     "Les plombiers gagnent plus que la moitié des cadres !",
+     0.3
+    ],
+    [
+     "Arrête de te plaindre de ton prix.",
+     0.25
+    ],
+    [
+     "Augmente ta *valeur* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t012_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Personne ne t'aimera si tu te détestes.",
+   "fin": "Aime-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Comment tu te parles à toi-même ? #amour #confiance #estimedesoi #mindset #pourtoi",
+   "phrases": [
+    [
+     "Personne ne pourra t'aimer si tu te *détestes* !",
+     0.35
+    ],
+    [
+     "Tu te trouves moche. Nul. Pas assez !",
+     0.25
+    ],
+    [
+     "Et tu cherches quelqu'un pour te prouver le contraire !",
+     0.3
+    ],
+    [
+     "Ça ne marchera jamais. Jamais !",
+     0.25
+    ],
+    [
+     "Tu vas attirer des gens qui confirment ce que tu penses de toi !",
+     0.3
+    ],
+    [
+     "Commence par toi. Ton corps. Ta tête. Tes projets !",
+     0.25
+    ],
+    [
+     "Deviens quelqu'un que tu admires !",
+     0.3
+    ],
+    [
+     "Les bonnes personnes viendront toutes seules.",
+     0.25
+    ],
+    [
+     "Promis. *Commence* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t012_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton corps te parle. Tu l'écoutes ?",
+   "fin": "Écoute-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ton corps te dit quoi en ce moment ? #sante #sport #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Ton corps te *hurle* dessus. Et tu ne l'écoutes pas !",
+     0.35
+    ],
+    [
+     "Le ventre qui gonfle. Le sommeil pourri. Le dos bloqué !",
+     0.25
+    ],
+    [
+     "Tu prends des cachets au lieu de changer !",
+     0.3
+    ],
+    [
+     "Tu manges devant un écran à vingt-trois heures !",
+     0.25
+    ],
+    [
+     "Tu bois trois cafés pour tenir la journée !",
+     0.3
+    ],
+    [
+     "Ton corps n'est pas une machine qu'on répare au garage !",
+     0.25
+    ],
+    [
+     "Il se construit chaque jour. Avec ce que tu lui donnes !",
+     0.3
+    ],
+    [
+     "Ce soir, mange des vrais aliments. Couche-toi tôt.",
+     0.25
+    ],
+    [
+     "Demain, *bouge* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

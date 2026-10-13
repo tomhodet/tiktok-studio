@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Arrête de supplier pour de l'amour.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "rain drops window night",
+   "q2": "woman walking away street",
+   "q3": "couple arguing kitchen"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "couple fighting at home",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "man scrolling phone bed night",
+   "q2": "phone screen night",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "woman alone rain window",
+   "q2": "couple breakup street",
+   "q3": "man sitting alone kitchen table night"
+  },
+  {
+   "q": "woman crying in car",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  },
+  {
+   "q": "running in the rain",
+   "q2": "man running city night",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple arguing kitchen",
+   "q3": "woman alone rain window"
+  },
+  {
+   "q": "couple breakup street",
+   "q2": "man sitting alone kitchen table night",
+   "q3": "woman crying in car"
+  },
+  {
+   "q": "woman walking away street",
+   "q2": "couple silent dinner table",
+   "q3": "rain drops window night"
+  }
+ ]
+}

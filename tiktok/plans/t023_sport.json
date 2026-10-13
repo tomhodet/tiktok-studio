@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu as raté une séance ? Pas deux.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man lifting heavy weights",
+   "q2": "sweat close up athlete",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "jump rope workout",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "running at dawn",
+   "q2": "man lifting heavy weights",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "jump rope workout",
+   "q2": "boxing training dark gym",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "man lifting heavy weights",
+   "q3": "sweat close up athlete"
+  }
+ ]
+}

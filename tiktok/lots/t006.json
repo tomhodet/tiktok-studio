@@ -1,0 +1,161 @@
+{
+ "nom": "t006",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t006_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu travailles pour payer tes crédits.",
+   "fin": "Libère-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu bosses pour vivre ou pour rembourser ? #argent #travail #liberte #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu bosses pour payer des trucs que tu n'avais pas *besoin* d'acheter !",
+     0.35
+    ],
+    [
+     "La voiture neuve. Le téléphone à mille balles. Les chaussures !",
+     0.25
+    ],
+    [
+     "Pour impressionner des gens que tu n'aimes même pas !",
+     0.3
+    ],
+    [
+     "Et maintenant, tu ne peux plus quitter ton taf !",
+     0.25
+    ],
+    [
+     "Tu as acheté ta propre cage. À crédit !",
+     0.3
+    ],
+    [
+     "Arrête de jouer au riche. Deviens libre !",
+     0.25
+    ],
+    [
+     "Vends ce qui dort dans ton placard. Mets de côté. Chaque mois !",
+     0.3
+    ],
+    [
+     "La liberté, ça commence par dire non à toi-même.",
+     0.25
+    ],
+    [
+     "Dis *non* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t006_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton ex ne reviendra pas.",
+   "fin": "Avance.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu regardes encore les stories de ton ex ? Avoue. #amour #rupture #ex #mindset #pourtoi",
+   "phrases": [
+    [
+     "Ton ex ne reviendra *pas* !",
+     0.35
+    ],
+    [
+     "Et tu regardes encore ses stories à deux heures du matin !",
+     0.25
+    ],
+    [
+     "Tu relis vos vieux messages. Tu écoutes vos chansons !",
+     0.3
+    ],
+    [
+     "Tu te fais du mal tout seul, et tu appelles ça de l'amour !",
+     0.25
+    ],
+    [
+     "Pendant que tu pleures, cette personne vit sa vie !",
+     0.3
+    ],
+    [
+     "Elle ne pense pas à toi. Elle a tourné la page !",
+     0.25
+    ],
+    [
+     "Alors tourne-la aussi. Et arrache-la s'il le faut !",
+     0.3
+    ],
+    [
+     "Va courir. Va voir tes potes. Va dormir !",
+     0.25
+    ],
+    [
+     "Le chapitre suivant est *meilleur* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t006_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton téléphone te rend faible.",
+   "fin": "Lâche-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Combien d'heures sur ton téléphone aujourd'hui ? Vérifie. #discipline #sport #motivation #mindset #pourtoi",
+   "phrases": [
+    [
+     "Combien d'heures sur ton téléphone aujourd'hui ? Va *vérifier* !",
+     0.35
+    ],
+    [
+     "Cinq ? Six ? Sept heures ?",
+     0.25
+    ],
+    [
+     "Et tu me dis que tu n'as pas le temps de faire du sport !",
+     0.3
+    ],
+    [
+     "Tu as le temps. Tu le gaspilles !",
+     0.25
+    ],
+    [
+     "Ton pouce fait plus de kilomètres que tes jambes !",
+     0.3
+    ],
+    [
+     "Pose ce téléphone. Mets-toi au sol !",
+     0.25
+    ],
+    [
+     "Trente pompes. Trente squats. Trente secondes de gainage !",
+     0.3
+    ],
+    [
+     "C'est dix minutes. Dix minutes que tu volais déjà à ta vie.",
+     0.25
+    ],
+    [
+     "Reprends-les. *Maintenant* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

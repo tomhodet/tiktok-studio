@@ -1,0 +1,161 @@
+{
+ "nom": "t021",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t021_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Le confort te tue.",
+   "fin": "Sors.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ton confort te rend heureux, ou juste tranquille ? #motivation #confort #mindset #reussite #pourtoi",
+   "phrases": [
+    [
+     "Ton confort est en train de te *tuer* !",
+     0.35
+    ],
+    [
+     "Un salaire correct. Un appart correct. Une vie correcte !",
+     0.25
+    ],
+    [
+     "Correct, c'est le mot le plus triste de la langue française !",
+     0.3
+    ],
+    [
+     "Rien ne grandit dans le confort. Rien !",
+     0.25
+    ],
+    [
+     "Les muscles grandissent dans la douleur. Les gens grandissent dans l'inconfort !",
+     0.3
+    ],
+    [
+     "Fais une chose qui te fait peur cette semaine !",
+     0.25
+    ],
+    [
+     "Parle en public. Demande ce que tu veux. Pars en voyage seul !",
+     0.3
+    ],
+    [
+     "Tu vas trembler. C'est le signe que tu vis.",
+     0.25
+    ],
+    [
+     "*Sors* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t021_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu l'aimes, mais tu n'es pas heureux.",
+   "fin": "Écoute-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Peut-on aimer quelqu'un et partir quand même ? #amour #rupture #couple #verite #pourtoi",
+   "phrases": [
+    [
+     "Tu l'aimes. Mais tu n'es pas *heureux* !",
+     0.35
+    ],
+    [
+     "Les deux peuvent être vrais en même temps !",
+     0.25
+    ],
+    [
+     "L'amour ne suffit pas. Il n'a jamais suffi !",
+     0.3
+    ],
+    [
+     "Il faut du respect. Des projets communs. De la paix !",
+     0.25
+    ],
+    [
+     "Si tu te sens plus seul avec elle que sans elle, c'est fini !",
+     0.3
+    ],
+    [
+     "Partir ne veut pas dire que tu ne l'aimes plus !",
+     0.25
+    ],
+    [
+     "Ça veut dire que tu t'aimes aussi !",
+     0.3
+    ],
+    [
+     "C'est la décision la plus dure du monde.",
+     0.25
+    ],
+    [
+     "Et peut-être la plus *juste* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t021_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Le premier pas est le plus dur.",
+   "fin": "Fais-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "C'est quoi ton premier pas, demain ? #sport #debut #motivation #discipline #pourtoi",
+   "phrases": [
+    [
+     "Le plus dur, ce n'est pas la séance. C'est de *sortir* de chez toi !",
+     0.35
+    ],
+    [
+     "Mettre tes chaussures. Ouvrir la porte !",
+     0.25
+    ],
+    [
+     "Une fois dehors, le corps suit. Toujours !",
+     0.3
+    ],
+    [
+     "Alors ne pense pas à la séance. Pense juste à la porte !",
+     0.25
+    ],
+    [
+     "Ce soir, prépare tes affaires à côté du lit !",
+     0.3
+    ],
+    [
+     "Demain, tu te lèves, tu les mets. Sans réfléchir !",
+     0.25
+    ],
+    [
+     "Ne négocie pas avec toi-même. Tu perds à chaque fois !",
+     0.3
+    ],
+    [
+     "Le premier pas. Juste le premier.",
+     0.25
+    ],
+    [
+     "Le reste viendra *tout seul* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

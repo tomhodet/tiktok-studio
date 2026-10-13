@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu veux des résultats sans souffrir ?",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "boxing training dark gym",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "early morning alarm clock",
+   "q2": "man waking up early dark",
+   "q3": "running in the rain"
+  },
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "jump rope workout",
+   "q2": "boxing training dark gym",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "running in the rain",
+   "q2": "man running city night",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  }
+ ]
+}

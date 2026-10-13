@@ -1,0 +1,161 @@
+{
+ "nom": "t011",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t011_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu as peur d'échouer ? Tu as déjà échoué.",
+   "fin": "Essaie.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Qu'est-ce que tu ferais si tu ne pouvais pas échouer ? #motivation #peur #reussite #business #pourtoi",
+   "phrases": [
+    [
+     "Tu as peur d'échouer ? Tu as *déjà* échoué !",
+     0.35
+    ],
+    [
+     "Rester où tu es, c'est déjà un échec. Un échec lent !",
+     0.25
+    ],
+    [
+     "Ceux qui réussissent ont raté plus de fois que toi !",
+     0.3
+    ],
+    [
+     "Ils ont perdu de l'argent. Ils ont eu honte. Ils ont recommencé !",
+     0.25
+    ],
+    [
+     "Toi, tu n'as jamais essayé. Donc tu n'as jamais raté !",
+     0.3
+    ],
+    [
+     "Et tu es fier de ça ?",
+     0.25
+    ],
+    [
+     "Un échec, ça te donne une leçon. Ne rien faire, ça te donne des regrets !",
+     0.3
+    ],
+    [
+     "Lance-toi cette semaine. Petit. Moche. Imparfait.",
+     0.25
+    ],
+    [
+     "Mais *lance-toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t011_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu te mens à toi-même.",
+   "fin": "Ouvre les yeux.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu restes par amour ou par peur ? Sois honnête avec toi. #amour #couple #verite #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu te mens à toi-*même* !",
+     0.35
+    ],
+    [
+     "Tu dis que tout va bien. Tu ne lui as pas parlé depuis trois jours !",
+     0.25
+    ],
+    [
+     "Vous dormez dos à dos. Vous mangez devant la télé !",
+     0.3
+    ],
+    [
+     "Vous ne vous touchez plus. Vous ne vous regardez plus !",
+     0.25
+    ],
+    [
+     "Ce n'est pas une mauvaise passe. C'est la fin qui traîne !",
+     0.3
+    ],
+    [
+     "Soit vous vous battez pour ça. Vraiment. Ce soir !",
+     0.25
+    ],
+    [
+     "Soit vous vous libérez !",
+     0.3
+    ],
+    [
+     "Mais ce silence-là vous tue tous les deux.",
+     0.25
+    ],
+    [
+     "*Parle-lui* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t011_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu bois tous les week-ends. Pourquoi ?",
+   "fin": "Reprends le contrôle.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Combien de week-ends perdus cette année ? #discipline #sante #sport #mindset #pourtoi",
+   "phrases": [
+    [
+     "Tu bois tous les *week-ends*. Pourquoi ?",
+     0.35
+    ],
+    [
+     "Pour oublier ta semaine ? Change ta semaine !",
+     0.25
+    ],
+    [
+     "Le samedi, tu bois. Le dimanche, tu comates. Le lundi, tu recommences !",
+     0.3
+    ],
+    [
+     "Ça fait cinquante-deux week-ends par an. Jetés !",
+     0.25
+    ],
+    [
+     "Tu crois t'amuser. Tu fuis !",
+     0.3
+    ],
+    [
+     "Essaie un seul mois sans alcool. Un seul !",
+     0.25
+    ],
+    [
+     "Tu vas dormir comme un bébé. Tu vas perdre du ventre !",
+     0.3
+    ],
+    [
+     "Et tu vas enfin te souvenir de tes samedis.",
+     0.25
+    ],
+    [
+     "*Essaie* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

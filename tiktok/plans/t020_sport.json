@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Douche froide. Maintenant.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "cold shower man",
+   "q2": "running at dawn",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "couple fighting at home",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "athlete training night",
+   "q2": "man doing pushups dark",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "woman packing suitcase leaving",
+   "q2": "packing suitcase",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "running at dawn",
+   "q2": "man lifting heavy weights",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "man standing up determined",
+   "q2": "sunrise man arms raised",
+   "q3": "jump rope workout"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "cold shower man",
+   "q3": "boxing training dark gym"
+  }
+ ]
+}

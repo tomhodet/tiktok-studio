@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Ils rigolent de toi à la salle ?",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "friends laughing at man"
+  },
+  {
+   "q": "man looking at himself mirror",
+   "q2": "jump rope workout",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "friends laughing at man",
+   "q2": "people whispering judging",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "sweat close up athlete"
+  },
+  {
+   "q": "man shadow boxing",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "jump rope workout",
+   "q2": "boxing training dark gym",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man lifting heavy weights",
+   "q3": "man shadow boxing"
+  },
+  {
+   "q": "man lifting heavy weights",
+   "q2": "man working out alone gym",
+   "q3": "woman packing suitcase leaving"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "athlete training night",
+   "q3": "man doing pushups dark"
+  }
+ ]
+}

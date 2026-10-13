@@ -1,0 +1,161 @@
+{
+ "nom": "t009",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t009_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton diplôme ne vaut rien.",
+   "fin": "Prouve-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ton diplôme t'a ouvert quelle porte, franchement ? #motivation #argent #carriere #mindset #pourtoi",
+   "phrases": [
+    [
+     "Ton diplôme, tout le monde *s'en fout* !",
+     0.35
+    ],
+    [
+     "Tu as passé cinq ans à l'école. Et tu ne sais toujours pas vendre !",
+     0.25
+    ],
+    [
+     "Tu ne sais pas négocier. Tu ne sais pas gérer ton argent !",
+     0.3
+    ],
+    [
+     "Personne ne t'a appris ça. Alors apprends-le toi-même !",
+     0.25
+    ],
+    [
+     "Les livres coûtent quinze euros. Les vidéos sont gratuites !",
+     0.3
+    ],
+    [
+     "Ce qui compte, ce n'est pas ce que tu as appris. C'est ce que tu sais faire !",
+     0.25
+    ],
+    [
+     "Montre-le. Construis quelque chose de tes mains !",
+     0.3
+    ],
+    [
+     "Le monde paie les résultats.",
+     0.25
+    ],
+    [
+     "Pas les *papiers* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t009_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Il ne t'a jamais choisie.",
+   "fin": "Choisis-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Être une option pour quelqu'un, c'est non. Tu es d'accord ? #amour #respect #relation #confiance #pourtoi",
+   "phrases": [
+    [
+     "Il ne t'a jamais *choisie* !",
+     0.35
+    ],
+    [
+     "Il te garde sous le coude. Pour les soirs où il s'ennuie !",
+     0.25
+    ],
+    [
+     "Il te dit qu'il n'est pas prêt. Depuis deux ans !",
+     0.3
+    ],
+    [
+     "Pas prêt pour toi. Prêt pour les autres, apparemment !",
+     0.25
+    ],
+    [
+     "Tu attends qu'il se décide. Tu as déjà ta réponse !",
+     0.3
+    ],
+    [
+     "Quelqu'un qui t'aime ne te laisse pas dans le doute. Jamais !",
+     0.25
+    ],
+    [
+     "Tu n'es pas un lot de consolation !",
+     0.3
+    ],
+    [
+     "Ferme cette porte. Fort.",
+     0.25
+    ],
+    [
+     "Et choisis-*toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t009_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ta flemme te coûte ta vie.",
+   "fin": "Paie maintenant.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "La discipline ou le regret. Tu choisis quoi ? #discipline #sport #motivation #sante #pourtoi",
+   "phrases": [
+    [
+     "Ta flemme te coûte plus cher que tu ne *crois* !",
+     0.35
+    ],
+    [
+     "Elle te coûte ta santé. Ton énergie. Ta confiance !",
+     0.25
+    ],
+    [
+     "Tu as deux douleurs possibles dans la vie !",
+     0.3
+    ],
+    [
+     "La douleur de la discipline. Ou la douleur du regret !",
+     0.25
+    ],
+    [
+     "La première pèse quelques grammes. La deuxième pèse une tonne !",
+     0.3
+    ],
+    [
+     "À cinquante ans, tu payeras. Le dos. Le cœur. Les genoux !",
+     0.25
+    ],
+    [
+     "Ou tu paies maintenant, avec de la sueur !",
+     0.3
+    ],
+    [
+     "Choisis ta douleur.",
+     0.25
+    ],
+    [
+     "Et *choisis bien* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

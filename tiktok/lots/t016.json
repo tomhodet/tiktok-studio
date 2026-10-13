@@ -1,0 +1,161 @@
+{
+ "nom": "t016",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t016_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ils ont rigolé. Tu as continué ?",
+   "fin": "Continue.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "On a déjà ri de ton projet ? Raconte. #motivation #reussite #entrepreneur #mindset #pourtoi",
+   "phrases": [
+    [
+     "Ils vont *rigoler* de ton projet. C'est sûr !",
+     0.35
+    ],
+    [
+     "Ta famille. Tes potes. Tes collègues !",
+     0.25
+    ],
+    [
+     "Ils vont te dire que c'est une phase. Que tu vas te planter !",
+     0.3
+    ],
+    [
+     "Laisse-les rire. Note leurs noms si tu veux !",
+     0.25
+    ],
+    [
+     "Chaque personne qui a réussi a entendu exactement ça !",
+     0.3
+    ],
+    [
+     "Les rires s'arrêtent quand les résultats arrivent !",
+     0.25
+    ],
+    [
+     "Et après, ils te demandent un coup de main !",
+     0.3
+    ],
+    [
+     "Ne parle pas. Bosse en silence.",
+     0.25
+    ],
+    [
+     "Et laisse le résultat *parler* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t016_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu as peur d'être seul.",
+   "fin": "N'aie pas peur.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "La solitude te fait peur ? Pourquoi ? #solitude #amour #confiance #mindset #pourtoi",
+   "phrases": [
+    [
+     "Tu as tellement peur d'être *seul* que tu acceptes n'importe qui !",
+     0.35
+    ],
+    [
+     "N'importe qui, plutôt que personne. C'est ça ton choix ?",
+     0.25
+    ],
+    [
+     "La solitude, c'est pas une punition. C'est une école !",
+     0.3
+    ],
+    [
+     "Seul, tu apprends qui tu es. Ce que tu veux. Ce que tu refuses !",
+     0.25
+    ],
+    [
+     "Ceux qui ne supportent pas d'être seuls finissent mal accompagnés !",
+     0.3
+    ],
+    [
+     "Apprends à manger seul au restaurant. À voyager seul !",
+     0.25
+    ],
+    [
+     "Construis une vie qui te plaît. Même sans personne dedans !",
+     0.3
+    ],
+    [
+     "Et le jour où quelqu'un arrive, il sera un bonus.",
+     0.25
+    ],
+    [
+     "Pas une *béquille* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t016_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu abandonnes toujours au même moment.",
+   "fin": "Pas cette fois.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu abandonnes au bout de combien de jours, d'habitude ? #discipline #sport #objectif #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu abandonnes *toujours* au même moment !",
+     0.35
+    ],
+    [
+     "Trois semaines après le début. Pile quand ça devient dur !",
+     0.25
+    ],
+    [
+     "Les premiers jours, c'est l'excitation. Tout est facile !",
+     0.3
+    ],
+    [
+     "Puis ça devient chiant. Les résultats ne viennent pas assez vite !",
+     0.25
+    ],
+    [
+     "Et tu lâches. Encore. Comme la dernière fois !",
+     0.3
+    ],
+    [
+     "Le succès se cache juste après le moment où tu abandonnes !",
+     0.25
+    ],
+    [
+     "Cette fois, quand tu auras envie de lâcher, souviens-toi de cette vidéo !",
+     0.3
+    ],
+    [
+     "Fais une séance de plus. Juste une.",
+     0.25
+    ],
+    [
+     "Et ne *lâche* pas !",
+     0
+    ]
+   ]
+  }
+ ]
+}

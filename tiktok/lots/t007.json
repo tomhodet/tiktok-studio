@@ -1,0 +1,161 @@
+{
+ "nom": "t007",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t007_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Personne ne viendra te sauver.",
+   "fin": "Sauve-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Qui t'a dit que quelqu'un viendrait te sauver ? #motivation #mindset #reussite #discipline #pourtoi",
+   "phrases": [
+    [
+     "Personne ne viendra te *sauver* !",
+     0.35
+    ],
+    [
+     "Pas ton patron. Pas l'État. Pas ta famille. Personne !",
+     0.25
+    ],
+    [
+     "Tu attends une augmentation qui ne viendra pas !",
+     0.3
+    ],
+    [
+     "Tu attends une chance qui ne viendra pas !",
+     0.25
+    ],
+    [
+     "La seule personne qui peut changer ta vie te regarde dans l'écran noir de ton téléphone !",
+     0.3
+    ],
+    [
+     "Arrête de te plaindre. Plaindre, ça ne paie pas le loyer !",
+     0.25
+    ],
+    [
+     "Apprends. Bosse. Rate. Recommence !",
+     0.3
+    ],
+    [
+     "Dans cinq ans, tu seras fier de ce que tu fais ce soir.",
+     0.25
+    ],
+    [
+     "Ou tu auras *honte* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t007_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Elle t'a quitté. Et alors ?",
+   "fin": "Relève-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Le pire chagrin d'amour, c'est celui dont on ne se relève pas. Tu te relèves ? #rupture #amour #mindset #motivation #pourtoi",
+   "phrases": [
+    [
+     "Elle t'a quitté. Et *alors* ?",
+     0.35
+    ],
+    [
+     "Tu vas rester au lit combien de temps ? Une semaine ? Un mois ?",
+     0.25
+    ],
+    [
+     "Tu vas noyer ça dans l'alcool tous les week-ends ?",
+     0.3
+    ],
+    [
+     "Elle est partie. Ton avenir, lui, il est encore là !",
+     0.25
+    ],
+    [
+     "Utilise cette douleur. Transforme-la en essence !",
+     0.3
+    ],
+    [
+     "Va à la salle et frappe dans ce sac jusqu'à ne plus pouvoir lever les bras !",
+     0.25
+    ],
+    [
+     "Construis l'homme qu'elle regrettera d'avoir laissé partir !",
+     0.3
+    ],
+    [
+     "Pas pour elle. Pour toi !",
+     0.25
+    ],
+    [
+     "*Relève-toi* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t007_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Le canapé t'a tué.",
+   "fin": "Bouge.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as bougé combien de pas aujourd'hui ? #sport #sante #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Le canapé te tue *lentement* !",
+     0.35
+    ],
+    [
+     "Le dos qui craque. Le souffle court dans l'escalier. À trente ans !",
+     0.25
+    ],
+    [
+     "Tu te dis que c'est l'âge. Non. C'est la flemme !",
+     0.3
+    ],
+    [
+     "Le corps humain est fait pour bouger. Courir. Porter. Grimper !",
+     0.25
+    ],
+    [
+     "Et toi, tu passes de la chaise du bureau au canapé, puis au lit !",
+     0.3
+    ],
+    [
+     "Tu ne vis pas. Tu attends !",
+     0.25
+    ],
+    [
+     "Ce soir, marche une heure. Demain, cours dix minutes !",
+     0.3
+    ],
+    [
+     "Dans un mois, ton corps sera différent.",
+     0.25
+    ],
+    [
+     "Ta tête aussi. *Va* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

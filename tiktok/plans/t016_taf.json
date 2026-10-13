@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Ils ont rigolé. Tu as continué ?",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "friends laughing at man",
+   "q2": "people whispering judging",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "man bored office job",
+   "q2": "man working late office night",
+   "q3": "empty office desk night"
+  },
+  {
+   "q": "man bored office job",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  },
+  {
+   "q": "friends laughing at man",
+   "q2": "people whispering judging",
+   "q3": "man walking away crowd"
+  },
+  {
+   "q": "city skyline night rooftop",
+   "q2": "man standing up determined",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "friends laughing at man",
+   "q2": "people whispering judging",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "man bored office job",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  },
+  {
+   "q": "couple back to back bed",
+   "q2": "couple silent dinner table",
+   "q3": "man walking away crowd"
+  },
+  {
+   "q": "man standing on mountain top sunrise",
+   "q2": "city skyline night rooftop",
+   "q3": "man standing up determined"
+  }
+ ]
+}

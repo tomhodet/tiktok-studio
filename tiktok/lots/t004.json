@@ -1,0 +1,161 @@
+{
+ "nom": "t004",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t004_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton réveil, c'est ta prison.",
+   "fin": "Réveille-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu te lèves pour ton rêve ou pour celui de quelqu'un d'autre ? #motivation #argent #travail #reussite #pourtoi",
+   "phrases": [
+    [
+     "Tu te lèves tous les matins pour construire le rêve de quelqu'un d'*autre* !",
+     0.35
+    ],
+    [
+     "Lui, il a pris le risque. Toi, tu as pris le salaire !",
+     0.25
+    ],
+    [
+     "Et tu te plains de ton salaire !",
+     0.3
+    ],
+    [
+     "Tu passes huit heures par jour à faire ce que tu n'aimes pas.",
+     0.25
+    ],
+    [
+     "Et deux heures le soir sur ton téléphone. Deux heures !",
+     0.3
+    ],
+    [
+     "Ces deux heures-là, c'est ta porte de sortie !",
+     0.25
+    ],
+    [
+     "Apprends un métier. Lance un truc. Écris. Vends. Construis !",
+     0.3
+    ],
+    [
+     "Le pire qui puisse arriver, c'est de rester exactement où tu es.",
+     0.25
+    ],
+    [
+     "Alors pose ce téléphone, et *bosse* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t004_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Il te parle comme à un chien.",
+   "fin": "Tu vaux mieux.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Si quelqu'un te parle mal, tu restes ou tu pars ? #amour #respect #relation #couple #pourtoi",
+   "phrases": [
+    [
+     "Il te parle comme à un *chien*. Et tu restes !",
+     0.35
+    ],
+    [
+     "Il te crie dessus devant tes amis. Et tu souris !",
+     0.25
+    ],
+    [
+     "Il te fait passer pour la folle. Et tu t'excuses !",
+     0.3
+    ],
+    [
+     "Ouvre les yeux. Ce n'est pas de l'amour. C'est de l'usure !",
+     0.25
+    ],
+    [
+     "L'amour, ça ne te fait pas trembler quand la clé tourne dans la porte.",
+     0.3
+    ],
+    [
+     "Tu n'es pas trop sensible. Tu es fatiguée !",
+     0.25
+    ],
+    [
+     "Personne ne mérite de s'éteindre pour garder quelqu'un !",
+     0.3
+    ],
+    [
+     "Appelle quelqu'un. Parle. Sors de là.",
+     0.25
+    ],
+    [
+     "Ta vie t'attend *dehors* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t004_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu as encore trouvé une excuse.",
+   "fin": "Pas d'excuses.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Quelle est ton excuse aujourd'hui ? Écris-la en commentaire. #sport #discipline #motivation #musculation #pourtoi",
+   "phrases": [
+    [
+     "Tu as encore trouvé une *excuse* aujourd'hui !",
+     0.35
+    ],
+    [
+     "Trop fatigué. Trop de boulot. Trop froid. Trop tard !",
+     0.25
+    ],
+    [
+     "Tu sais qui n'a pas d'excuse ? Ceux qui ont réussi !",
+     0.3
+    ],
+    [
+     "Ils étaient fatigués aussi. Ils y sont allés quand même !",
+     0.25
+    ],
+    [
+     "La motivation, c'est pour les débutants !",
+     0.3
+    ],
+    [
+     "La discipline, c'est faire ce que tu dois, même quand t'as la flemme.",
+     0.25
+    ],
+    [
+     "Surtout quand t'as la flemme !",
+     0.3
+    ],
+    [
+     "Chausse tes baskets. Sors. Cours dix minutes. Dix !",
+     0.25
+    ],
+    [
+     "Demain, tu me remercieras. *Bouge* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

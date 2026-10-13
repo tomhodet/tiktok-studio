@@ -1,0 +1,161 @@
+{
+ "nom": "t024",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t024_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ils dorment, tu bosses.",
+   "fin": "Avance.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu bosses sur ton projet à quelle heure ? #motivation #nuit #entrepreneur #discipline #pourtoi",
+   "phrases": [
+    [
+     "Pendant qu'ils *dorment*, tu avances !",
+     0.35
+    ],
+    [
+     "Vingt-deux heures. Les enfants sont couchés. La maison est calme !",
+     0.25
+    ],
+    [
+     "C'est ton heure. Celle que personne ne te prendra !",
+     0.3
+    ],
+    [
+     "Tu es crevé ? Tout le monde l'est !",
+     0.25
+    ],
+    [
+     "Ceux qui changent de vie le font sur ces heures volées !",
+     0.3
+    ],
+    [
+     "Le soir. Le matin. Le week-end !",
+     0.25
+    ],
+    [
+     "Une heure par jour, c'est trois cent soixante-cinq heures par an !",
+     0.3
+    ],
+    [
+     "C'est un business. Un diplôme. Un livre.",
+     0.25
+    ],
+    [
+     "Prends ton *heure* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t024_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu attends le prince charmant ?",
+   "fin": "Construis-toi.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "On attend l'amour ou on le prépare ? #amour #celibat #mindset #confiance #pourtoi",
+   "phrases": [
+    [
+     "Tu attends l'amour de ta vie. Assis sur ton *canapé* !",
+     0.35
+    ],
+    [
+     "Tu crois qu'il va sonner à ta porte ?",
+     0.25
+    ],
+    [
+     "Tu ne sors pas. Tu ne rencontres personne. Tu ne changes rien !",
+     0.3
+    ],
+    [
+     "Et tu te plains d'être seul !",
+     0.25
+    ],
+    [
+     "Avant de trouver quelqu'un, deviens quelqu'un !",
+     0.3
+    ],
+    [
+     "Quelqu'un qui a une vie. Des passions. Une énergie !",
+     0.25
+    ],
+    [
+     "Les gens sont attirés par ceux qui avancent !",
+     0.3
+    ],
+    [
+     "Alors avance. Fais du sport. Inscris-toi quelque part.",
+     0.25
+    ],
+    [
+     "L'amour te trouvera *en route* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t024_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tes excuses ne brûlent pas de graisse.",
+   "fin": "Transpire.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Qu'est-ce qui t'empêche de t'entraîner, vraiment ? #sport #discipline #fitness #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tes excuses ne brûlent *pas* de graisse !",
+     0.35
+    ],
+    [
+     "Je n'ai pas le temps ! Je n'ai pas l'argent ! Je n'ai pas le matériel !",
+     0.25
+    ],
+    [
+     "Le gars en fauteuil roulant fait ses tractions. Et toi ?",
+     0.3
+    ],
+    [
+     "La mère de trois enfants court à six heures. Et toi ?",
+     0.25
+    ],
+    [
+     "Tu as tout ce qu'il faut. Un corps. Un sol. De l'air !",
+     0.3
+    ],
+    [
+     "Arrête de chercher le programme parfait !",
+     0.25
+    ],
+    [
+     "Le meilleur programme, c'est celui que tu fais !",
+     0.3
+    ],
+    [
+     "Pompes. Squats. Gainage. Répète.",
+     0.25
+    ],
+    [
+     "Et *transpire* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

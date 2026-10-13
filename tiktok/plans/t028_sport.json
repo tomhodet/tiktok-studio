@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Tu manges tes émotions.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "lazy man couch tv",
+   "q2": "man eating junk food couch",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "lazy man couch tv",
+   "q2": "man eating junk food couch",
+   "q3": "man lifting heavy weights"
+  },
+  {
+   "q": "lazy man couch tv",
+   "q2": "man eating junk food couch",
+   "q3": "man alone city night"
+  },
+  {
+   "q": "sweat close up athlete",
+   "q2": "man shadow boxing",
+   "q3": "athlete training night"
+  },
+  {
+   "q": "lazy man couch tv",
+   "q2": "man eating junk food couch",
+   "q3": "running in the rain"
+  },
+  {
+   "q": "running in the rain",
+   "q2": "man running city night",
+   "q3": "running at dawn"
+  },
+  {
+   "q": "man doing pushups dark",
+   "q2": "man doing push ups floor",
+   "q3": "boxing training dark gym"
+  },
+  {
+   "q": "man standing up determined",
+   "q2": "sunrise man arms raised",
+   "q3": "man doing pushups dark"
+  },
+  {
+   "q": "sunrise man arms raised",
+   "q2": "jump rope workout",
+   "q3": "boxing training dark gym"
+  }
+ ]
+}

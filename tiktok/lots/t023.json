@@ -1,0 +1,161 @@
+{
+ "nom": "t023",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t023_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "L'argent ne fait pas le bonheur ?",
+   "fin": "Essaie la pauvreté.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "L'argent fait-il le bonheur ? Débat. #argent #motivation #reussite #liberte #pourtoi",
+   "phrases": [
+    [
+     "L'argent ne fait pas le bonheur ? Dis ça à celui qui ne peut pas *payer* son loyer !",
+     0.35
+    ],
+    [
+     "L'argent ne t'achète pas l'amour. D'accord !",
+     0.25
+    ],
+    [
+     "Mais il t'achète du temps. De la liberté. Du choix !",
+     0.3
+    ],
+    [
+     "Il te permet de dire non à un patron toxique !",
+     0.25
+    ],
+    [
+     "Il te permet d'aider tes parents quand ils vieillissent !",
+     0.3
+    ],
+    [
+     "Arrête d'avoir honte de vouloir gagner de l'argent !",
+     0.25
+    ],
+    [
+     "Ceux qui disent ça en ont souvent déjà !",
+     0.3
+    ],
+    [
+     "Gagne-le honnêtement. Gagne-le beaucoup.",
+     0.25
+    ],
+    [
+     "Et fais-en quelque chose de *bien* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t023_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'es pas trop. Il est trop peu.",
+   "fin": "Reste entière.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "On t'a déjà dit que tu étais trop ? #amour #confiance #estimedesoi #relation #pourtoi",
+   "phrases": [
+    [
+     "On t'a dit que tu étais trop. Trop *intense*. Trop sensible. Trop !",
+     0.35
+    ],
+    [
+     "Et tu t'es faite petite. Pour rentrer dans sa vie !",
+     0.25
+    ],
+    [
+     "Tu parlais moins. Tu demandais moins. Tu existais moins !",
+     0.3
+    ],
+    [
+     "Tu n'étais pas trop. Il était trop peu !",
+     0.25
+    ],
+    [
+     "La bonne personne ne te demandera jamais de rétrécir !",
+     0.3
+    ],
+    [
+     "Elle aimera ton bruit. Tes larmes. Ton feu !",
+     0.25
+    ],
+    [
+     "Arrête de te couper en morceaux pour plaire !",
+     0.3
+    ],
+    [
+     "Reprends toute ta place.",
+     0.25
+    ],
+    [
+     "Toute ta *place* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t023_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu as raté une séance ? Pas deux.",
+   "fin": "Reviens.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu as raté une séance cette semaine ? Tu reviens quand ? #discipline #sport #routine #motivation #pourtoi",
+   "phrases": [
+    [
+     "Tu as raté une séance ? Pas grave. Mais *jamais* deux de suite !",
+     0.35
+    ],
+    [
+     "Une fois, c'est un accident !",
+     0.25
+    ],
+    [
+     "Deux fois, c'est le début d'une nouvelle habitude. La mauvaise !",
+     0.3
+    ],
+    [
+     "Tout le monde rate. Les champions aussi !",
+     0.25
+    ],
+    [
+     "La différence, c'est qu'ils reviennent le lendemain. Sans drame !",
+     0.3
+    ],
+    [
+     "Ne te punis pas. Ne te dis pas que c'est foutu !",
+     0.25
+    ],
+    [
+     "Remets juste tes chaussures. Ce soir !",
+     0.3
+    ],
+    [
+     "Le progrès, ce n'est pas une ligne droite.",
+     0.25
+    ],
+    [
+     "C'est de *revenir*. Toujours !",
+     0
+    ]
+   ]
+  }
+ ]
+}

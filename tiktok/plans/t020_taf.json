@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Dans dix ans, tu feras quoi ?",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "man walking away crowd",
+   "q2": "city skyline night rooftop",
+   "q3": "man standing up determined"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "businessman celebrating success",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "man working late office night",
+   "q2": "man sitting alone dark",
+   "q3": "man walking away crowd"
+  },
+  {
+   "q": "city skyline night rooftop",
+   "q2": "man standing up determined",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "couple fighting at home",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "couple fighting at home",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "man alone city night",
+   "q2": "person sitting alone bench",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "man standing on mountain top sunrise",
+   "q2": "man bored office job",
+   "q3": "man working late office night"
+  }
+ ]
+}

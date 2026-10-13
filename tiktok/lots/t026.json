@@ -1,0 +1,161 @@
+{
+ "nom": "t026",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t026_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu demandes la permission à qui ?",
+   "fin": "Arrête de demander.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu attends l'accord de qui pour changer de vie ? #motivation #liberte #mindset #reussite #pourtoi",
+   "phrases": [
+    [
+     "Tu attends la *permission* de qui ?",
+     0.35
+    ],
+    [
+     "De tes parents ? De ta copine ? De tes collègues ?",
+     0.25
+    ],
+    [
+     "Personne ne va te signer une autorisation pour changer de vie !",
+     0.3
+    ],
+    [
+     "Tu es adulte. Ta vie t'appartient. Entièrement !",
+     0.25
+    ],
+    [
+     "Chaque fois que tu demandes un avis, tu cherches une excuse pour ne pas le faire !",
+     0.3
+    ],
+    [
+     "Les gens te conseillent avec leurs peurs. Pas avec tes rêves !",
+     0.25
+    ],
+    [
+     "Écoute-les poliment. Puis fais ce que tu as décidé !",
+     0.3
+    ],
+    [
+     "Tu n'as besoin de l'accord de personne.",
+     0.25
+    ],
+    [
+     "Juste du *tien* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t026_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu l'excuses encore ?",
+   "fin": "Plus d'excuses.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Combien de fois tu as excusé l'inexcusable ? #amour #respect #toxique #relation #pourtoi",
+   "phrases": [
+    [
+     "Tu l'excuses *encore* !",
+     0.35
+    ],
+    [
+     "Il était stressé. Il avait bu. Il a eu une enfance difficile !",
+     0.25
+    ],
+    [
+     "Tu as une excuse pour chaque blessure qu'il te fait !",
+     0.3
+    ],
+    [
+     "Tu es devenue son avocate. Contre toi-même !",
+     0.25
+    ],
+    [
+     "Tout le monde a eu des problèmes. Tout le monde ne fait pas de mal !",
+     0.3
+    ],
+    [
+     "Ses blessures ne lui donnent pas le droit de te blesser !",
+     0.25
+    ],
+    [
+     "Arrête de plaider sa cause. Il ne plaide jamais la tienne !",
+     0.3
+    ],
+    [
+     "Le verdict, tu le connais déjà.",
+     0.25
+    ],
+    [
+     "*Pars* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t026_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton corps peut. C'est ta tête qui dit non.",
+   "fin": "Pousse.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu t'es déjà surpris toi-même à l'entraînement ? #sport #mental #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Ton corps peut faire *dix fois* plus que ce que tu crois !",
+     0.35
+    ],
+    [
+     "Les soldats marchent quarante kilomètres avec trente kilos sur le dos !",
+     0.25
+    ],
+    [
+     "Les mères portent leurs enfants toute la nuit sans dormir !",
+     0.3
+    ],
+    [
+     "Toi, tu t'arrêtes au troisième étage de l'escalier !",
+     0.25
+    ],
+    [
+     "Ce n'est pas ton corps qui lâche. C'est ta tête qui négocie !",
+     0.3
+    ],
+    [
+     "La prochaine fois que tu veux t'arrêter, pousse encore un peu !",
+     0.25
+    ],
+    [
+     "Juste un peu. Pour voir !",
+     0.3
+    ],
+    [
+     "Tu vas découvrir quelqu'un que tu ne connaissais pas.",
+     0.25
+    ],
+    [
+     "*Toi* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

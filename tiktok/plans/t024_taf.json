@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "Ils dorment, tu bosses.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "businessman celebrating success",
+   "q2": "man bored office job",
+   "q3": "man working late office night"
+  },
+  {
+   "q": "couple arguing kitchen",
+   "q2": "child alone in room",
+   "q3": "man sitting alone dark"
+  },
+  {
+   "q": "man walking away crowd",
+   "q2": "city skyline night rooftop",
+   "q3": "man standing up determined"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "businessman celebrating success",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "man working late office night",
+   "q2": "man sitting alone dark",
+   "q3": "man walking away crowd"
+  },
+  {
+   "q": "city skyline night rooftop",
+   "q2": "man standing up determined",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "early morning alarm clock",
+   "q2": "man waking up early dark",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "studying late night desk lamp",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "man standing on mountain top sunrise",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  }
+ ]
+}

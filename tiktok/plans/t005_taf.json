@@ -1,0 +1,54 @@
+{
+ "style": "coach",
+ "titre": "T'es pauvre parce que t'attends.",
+ "exclure": [
+  8557558
+ ],
+ "plans": [
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "writing in notebook night"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "studying late night desk lamp",
+   "q3": "businessman celebrating success"
+  },
+  {
+   "q": "man bored office job",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  },
+  {
+   "q": "man standing up determined",
+   "q2": "sunrise man arms raised",
+   "q3": "man walking away crowd"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "city skyline night rooftop"
+  },
+  {
+   "q": "counting money hands close up",
+   "q2": "man paying bills stress",
+   "q3": "man standing up determined"
+  },
+  {
+   "q": "writing in notebook night",
+   "q2": "businessman celebrating success",
+   "q3": "man bored office job"
+  },
+  {
+   "q": "man scrolling phone bed night",
+   "q2": "phone screen night",
+   "q3": "couple arguing kitchen"
+  },
+  {
+   "q": "man standing on mountain top sunrise",
+   "q2": "man working late office night",
+   "q3": "man sitting alone dark"
+  }
+ ]
+}

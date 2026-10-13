@@ -1,0 +1,161 @@
+{
+ "nom": "t032",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t032_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu te plains, mais tu ne fais rien.",
+   "fin": "Agis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu te plains de quoi aujourd'hui ? Et tu fais quoi pour changer ? #motivation #action #mindset #discipline #pourtoi",
+   "phrases": [
+    [
+     "Tu te *plains* tous les jours. Et tu ne fais rien !",
+     0.35
+    ],
+    [
+     "Ton patron. Ton salaire. Tes collègues. La météo !",
+     0.25
+    ],
+    [
+     "Tu sais combien de problèmes ça a réglé de se plaindre ? Zéro !",
+     0.3
+    ],
+    [
+     "Chaque plainte, c'est de l'énergie qui part en fumée !",
+     0.25
+    ],
+    [
+     "Prends cette énergie. Mets-la dans un plan !",
+     0.3
+    ],
+    [
+     "Si ça te dérange, change-le !",
+     0.25
+    ],
+    [
+     "Si tu ne peux pas le changer, change ta façon de le voir !",
+     0.3
+    ],
+    [
+     "Mais arrête de pleurer sur ce que tu acceptes.",
+     0.25
+    ],
+    [
+     "*Agis* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t032_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Personne ne te doit rien.",
+   "fin": "Prends tes responsabilités.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Qui est responsable de ton bonheur ? #amour #responsabilite #mindset #couple #pourtoi",
+   "phrases": [
+    [
+     "Ton bonheur n'est *pas* le travail de ton couple !",
+     0.35
+    ],
+    [
+     "Tu attends qu'elle te rende heureux. Qu'il te complète !",
+     0.25
+    ],
+    [
+     "Personne ne peut remplir un trou que tu refuses de regarder !",
+     0.3
+    ],
+    [
+     "Si tu es malheureux seul, tu seras malheureux à deux !",
+     0.25
+    ],
+    [
+     "Juste avec quelqu'un à accuser !",
+     0.3
+    ],
+    [
+     "Prends ta vie en main. Tes passions. Tes amis. Ta santé !",
+     0.25
+    ],
+    [
+     "Deviens entier. Tout seul !",
+     0.3
+    ],
+    [
+     "Et là, tu pourras aimer pour de vrai.",
+     0.25
+    ],
+    [
+     "Sans *dépendre* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t032_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Trente jours. Pas un de moins.",
+   "fin": "Commence.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Défi trente jours, tu le relèves ? Écris je suis dedans. #defi #sport #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Dernier jour du mois. Et toi, tu as *tenu* ?",
+     0.35
+    ],
+    [
+     "Si oui, regarde-toi. Tu n'es plus le même !",
+     0.25
+    ],
+    [
+     "Si non, ce n'est pas grave. Mais recommence ce soir !",
+     0.3
+    ],
+    [
+     "Trente jours, c'est le temps qu'il faut pour qu'une habitude prenne racine !",
+     0.25
+    ],
+    [
+     "Trente jours de pompes. Trente jours de réveil à l'heure !",
+     0.3
+    ],
+    [
+     "Trente jours sans excuse !",
+     0.25
+    ],
+    [
+     "Après, ce n'est plus un effort. C'est qui tu es !",
+     0.3
+    ],
+    [
+     "Alors on repart. Trente jours. Pas un de moins.",
+     0.25
+    ],
+    [
+     "Tu es *dedans* ?",
+     0
+    ]
+   ]
+  }
+ ]
+}

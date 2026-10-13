@@ -1,0 +1,161 @@
+{
+ "nom": "t015",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t015_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton salaire tombe, ton salaire part.",
+   "fin": "Garde-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Il te reste combien le vingt du mois ? #argent #epargne #finance #motivation #pourtoi",
+   "phrases": [
+    [
+     "Ton salaire tombe le premier. Le dix, il n'y a *plus rien* !",
+     0.35
+    ],
+    [
+     "Les livraisons. Les abonnements. Les petits plaisirs !",
+     0.25
+    ],
+    [
+     "Tu ne sais même pas où passe ton argent !",
+     0.3
+    ],
+    [
+     "Les riches savent où va chaque euro. Chaque euro !",
+     0.25
+    ],
+    [
+     "Ce soir, ouvre ton compte. Relis chaque ligne du mois !",
+     0.3
+    ],
+    [
+     "Tu vas avoir honte. Tant mieux !",
+     0.25
+    ],
+    [
+     "Coupe trois abonnements. Mets cent euros de côté. Tous les mois !",
+     0.3
+    ],
+    [
+     "C'est pas grand-chose. C'est un début.",
+     0.25
+    ],
+    [
+     "Paie-toi *en premier* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t015_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Il est jaloux. Ce n'est pas de l'amour.",
+   "fin": "Sors de là.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Jalousie, preuve d'amour ou alerte ? Dis-moi. #amour #jalousie #toxique #relation #pourtoi",
+   "phrases": [
+    [
+     "Il est jaloux. Et tu crois que c'est de l'*amour* !",
+     0.35
+    ],
+    [
+     "Il lit tes messages. Il veut savoir où tu es. Tout le temps !",
+     0.25
+    ],
+    [
+     "Il n'aime pas tes amies. Il n'aime pas ta robe !",
+     0.3
+    ],
+    [
+     "Petit à petit, tu ne sors plus. Tu ne vois plus personne !",
+     0.25
+    ],
+    [
+     "Ce n'est pas de l'amour. C'est une cage !",
+     0.3
+    ],
+    [
+     "Ça commence par la jalousie. Tu sais comment ça finit ?",
+     0.25
+    ],
+    [
+     "Parles-en à quelqu'un. Une amie. Ta mère. N'importe qui !",
+     0.3
+    ],
+    [
+     "Tu n'es pas sa propriété.",
+     0.25
+    ],
+    [
+     "Tu es *libre* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t015_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Une heure par jour. C'est tout.",
+   "fin": "Prends-la.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Une heure par jour pour toi, c'est trop demander ? #sport #discipline #routine #motivation #pourtoi",
+   "phrases": [
+    [
+     "Une heure. Sur vingt-quatre. C'est *tout* ce que je te demande !",
+     0.35
+    ],
+    [
+     "Une heure pour ton corps. Pour ta tête. Pour toi !",
+     0.25
+    ],
+    [
+     "Tu passes plus de temps à choisir une série le soir !",
+     0.3
+    ],
+    [
+     "Une heure de sport, c'est quatre pour cent de ta journée !",
+     0.25
+    ],
+    [
+     "Quatre pour cent qui changent les quatre-vingt-seize autres !",
+     0.3
+    ],
+    [
+     "Meilleur sommeil. Meilleure humeur. Plus d'énergie !",
+     0.25
+    ],
+    [
+     "Pompes. Corde à sauter. Course. Peu importe !",
+     0.3
+    ],
+    [
+     "Bloque ton heure dans ton agenda comme un rendez-vous.",
+     0.25
+    ],
+    [
+     "Et ne la *rate* jamais !",
+     0
+    ]
+   ]
+  }
+ ]
+}

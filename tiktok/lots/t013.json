@@ -1,0 +1,161 @@
+{
+ "nom": "t013",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t013_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Lundi, tu recommences la même vie.",
+   "fin": "Change quelque chose.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ce lundi, tu changes quoi ? Une seule chose. #motivation #lundi #discipline #mindset #pourtoi",
+   "phrases": [
+    [
+     "Lundi, tu vas recommencer *exactement* la même vie !",
+     0.35
+    ],
+    [
+     "Même réveil. Même métro. Même café. Même chaise !",
+     0.25
+    ],
+    [
+     "Et tu te demandes pourquoi rien ne change ?",
+     0.3
+    ],
+    [
+     "Si tu fais les mêmes choses, tu auras les mêmes résultats !",
+     0.25
+    ],
+    [
+     "Change une seule chose. Juste une !",
+     0.3
+    ],
+    [
+     "Lève-toi trente minutes plus tôt. Lis dix pages. Coupe les réseaux !",
+     0.25
+    ],
+    [
+     "Une petite chose par semaine, c'est cinquante-deux changements par an !",
+     0.3
+    ],
+    [
+     "Dans un an, tu ne te reconnaîtras plus.",
+     0.25
+    ],
+    [
+     "*Commence* lundi !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t013_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Elle te rabaisse devant les autres.",
+   "fin": "Plus jamais.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Quelqu'un qui t'aime te rabaisse en public ? Non. #amour #respect #couple #toxique #pourtoi",
+   "phrases": [
+    [
+     "Elle se moque de toi devant *tout le monde* !",
+     0.35
+    ],
+    [
+     "Ton salaire. Ton corps. Tes rêves !",
+     0.25
+    ],
+    [
+     "Et tout le monde rit. Même toi !",
+     0.3
+    ],
+    [
+     "Mais en rentrant, tu as honte. Tu te sens petit !",
+     0.25
+    ],
+    [
+     "L'amour, ça te défend en public. Ça règle ses comptes en privé !",
+     0.3
+    ],
+    [
+     "Mais jamais, jamais, ça ne t'humilie !",
+     0.25
+    ],
+    [
+     "Tu n'es pas son clown !",
+     0.3
+    ],
+    [
+     "La prochaine fois, ne ris pas. Lève-toi. Pars.",
+     0.25
+    ],
+    [
+     "Et ne *reviens* pas !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t013_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu n'as pas besoin de motivation.",
+   "fin": "Discipline.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Motivation ou discipline ? Laquelle te manque ? #discipline #sport #motivation #mindset #pourtoi",
+   "phrases": [
+    [
+     "Arrête d'attendre la *motivation* !",
+     0.35
+    ],
+    [
+     "Elle vient. Elle part. Comme la pluie !",
+     0.25
+    ],
+    [
+     "Tu ne te brosses pas les dents parce que t'es motivé !",
+     0.3
+    ],
+    [
+     "Tu le fais parce que c'est ce que tu fais !",
+     0.25
+    ],
+    [
+     "Fais pareil avec le sport. Pas de débat !",
+     0.3
+    ],
+    [
+     "Tu ne te demandes pas si tu as envie. Tu y vas !",
+     0.25
+    ],
+    [
+     "Même heure. Même endroit. Tous les jours !",
+     0.3
+    ],
+    [
+     "Au bout de trois semaines, ton cerveau arrête de négocier.",
+     0.25
+    ],
+    [
+     "Et là, tu deviens *inarrêtable* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

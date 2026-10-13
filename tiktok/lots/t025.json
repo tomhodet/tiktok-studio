@@ -1,0 +1,161 @@
+{
+ "nom": "t025",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t025_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu as raison d'avoir peur. Vas-y quand même.",
+   "fin": "Vas-y.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Ta plus grande peur pour te lancer, c'est quoi ? #peur #courage #motivation #reussite #pourtoi",
+   "phrases": [
+    [
+     "Tu as peur. Et tu as *raison* d'avoir peur !",
+     0.35
+    ],
+    [
+     "Quitter ton taf, c'est risqué. Te lancer, c'est risqué !",
+     0.25
+    ],
+    [
+     "Mais rester toute ta vie dans ce que tu détestes ?",
+     0.3
+    ],
+    [
+     "C'est encore plus risqué !",
+     0.25
+    ],
+    [
+     "Le courage, ce n'est pas l'absence de peur !",
+     0.3
+    ],
+    [
+     "C'est avoir peur, et y aller quand même !",
+     0.25
+    ],
+    [
+     "Tous ceux que tu admires avaient peur. Tous !",
+     0.3
+    ],
+    [
+     "Ils ont avancé les jambes tremblantes.",
+     0.25
+    ],
+    [
+     "Fais *pareil* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t025_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Arrête de vérifier s'il est en ligne.",
+   "fin": "Vis ta vie.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu vérifies quand il était en ligne ? Avoue. #amour #obsession #relation #confiance #pourtoi",
+   "phrases": [
+    [
+     "Arrête de vérifier s'il est *en ligne* !",
+     0.35
+    ],
+    [
+     "Vu à vingt-trois heures. Pas de réponse !",
+     0.25
+    ],
+    [
+     "Et tu passes la nuit à imaginer le pire !",
+     0.3
+    ],
+    [
+     "Tu as donné les clés de ton humeur à quelqu'un d'autre !",
+     0.25
+    ],
+    [
+     "Ton bonheur dépend d'une petite pastille verte. Tu te rends compte ?",
+     0.3
+    ],
+    [
+     "Coupe les notifications. Coupe le statut en ligne !",
+     0.25
+    ],
+    [
+     "Va vivre quelque chose de vrai. Dehors !",
+     0.3
+    ],
+    [
+     "Celui qui tient à toi te répondra.",
+     0.25
+    ],
+    [
+     "Les autres, *laisse-les* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t025_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Plus personne ne court dans ta rue ?",
+   "fin": "Sois celui-là.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu es le seul à courir dans ton quartier ? #course #sport #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Sois le gars bizarre qui court sous la *pluie* !",
+     0.35
+    ],
+    [
+     "Les voisins te regardent par la fenêtre. Au chaud !",
+     0.25
+    ],
+    [
+     "Ils pensent que tu es fou. Laisse-les penser !",
+     0.3
+    ],
+    [
+     "Dans un an, ils auront le même corps. Toi, non !",
+     0.25
+    ],
+    [
+     "Être différent, ça fait peur. Être pareil, ça fait mal. Plus tard !",
+     0.3
+    ],
+    [
+     "Le monde est plein de gens normaux et fatigués !",
+     0.25
+    ],
+    [
+     "Sois l'exception. Celui qu'on ne comprend pas !",
+     0.3
+    ],
+    [
+     "Celui qu'on finira par admirer.",
+     0.25
+    ],
+    [
+     "*Cours* !",
+     0
+    ]
+   ]
+  }
+ ]
+}

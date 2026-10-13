@@ -1,0 +1,161 @@
+{
+ "nom": "t029",
+ "graines": [
+  1
+ ],
+ "episodes": [
+  {
+   "id": "t029_taf",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Tu vas mourir. Tu le sais ?",
+   "fin": "Vis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Si tu savais qu'il te reste un an, tu changerais quoi ? #vie #motivation #mort #mindset #pourtoi",
+   "phrases": [
+    [
+     "Tu vas *mourir*. Un jour. Peut-être plus tôt que prévu !",
+     0.35
+    ],
+    [
+     "Et tu passes ta vie à faire des trucs qui ne comptent pas !",
+     0.25
+    ],
+    [
+     "Les réunions inutiles. Les disputes stupides. Les heures sur ton téléphone !",
+     0.3
+    ],
+    [
+     "Si tu savais qu'il te restait un an, tu ferais quoi ?",
+     0.25
+    ],
+    [
+     "Tu appellerais qui ? Tu partirais où ?",
+     0.3
+    ],
+    [
+     "Pourquoi tu ne le fais pas maintenant ?",
+     0.25
+    ],
+    [
+     "Tu crois que tu as le temps. Tout le monde le croit !",
+     0.3
+    ],
+    [
+     "Personne ne l'a.",
+     0.25
+    ],
+    [
+     "Alors *vis* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t029_amour",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton couple est mort. Tu le portes.",
+   "fin": "Enterre-le.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu sens quand une histoire est finie ? #amour #rupture #couple #courage #pourtoi",
+   "phrases": [
+    [
+     "Ton couple est mort *depuis* longtemps !",
+     0.35
+    ],
+    [
+     "Et tu le portes sur ton dos comme un cadavre !",
+     0.25
+    ],
+    [
+     "Vous ne riez plus ensemble. Vous ne faites plus de projets !",
+     0.3
+    ],
+    [
+     "Vous êtes deux colocataires qui se supportent !",
+     0.25
+    ],
+    [
+     "Tu attends quoi ? Un miracle ? Un signe ?",
+     0.3
+    ],
+    [
+     "Le signe, c'est que tu regardes cette vidéo !",
+     0.25
+    ],
+    [
+     "Tu as le droit de recommencer ta vie !",
+     0.3
+    ],
+    [
+     "Pas demain. Pas après Noël.",
+     0.25
+    ],
+    [
+     "*Maintenant* !",
+     0
+    ]
+   ]
+  },
+  {
+   "id": "t029_sport",
+   "perso": "coach",
+   "episode": 1,
+   "accroche": "Ton reflet de demain se construit aujourd'hui.",
+   "fin": "Construis.",
+   "lueurs": [
+    1,
+    5,
+    9
+   ],
+   "legende": "Tu t'entraînes pour qui ? Pour toi ou pour les autres ? #sport #transformation #discipline #motivation #pourtoi",
+   "phrases": [
+    [
+     "Chaque goutte de sueur d'aujourd'hui, c'est ton *reflet* de demain !",
+     0.35
+    ],
+    [
+     "Personne ne voit les séances. Tout le monde voit le résultat !",
+     0.25
+    ],
+    [
+     "Les gens diront que tu as de la chance. Que c'est la génétique !",
+     0.3
+    ],
+    [
+     "Laisse-les dire !",
+     0.25
+    ],
+    [
+     "Eux, ils n'étaient pas là à six heures du matin !",
+     0.3
+    ],
+    [
+     "Ils n'étaient pas là quand tu avais envie de vomir !",
+     0.25
+    ],
+    [
+     "Ce corps, tu l'as gagné. Rep après rep !",
+     0.3
+    ],
+    [
+     "Personne ne pourra te le prendre.",
+     0.25
+    ],
+    [
+     "*Construis* !",
+     0
+    ]
+   ]
+  }
+ ]
+}
